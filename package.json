@@ -1,0 +1,10 @@
+{
+  "name": "cryptoinsight",
+  "version": "2.0.0",
+  "description": "Crypto Insight AI – Blog phân tích tiền điện tử tự động từ CoinMarketCap",
+  "private": true,
+  "scripts": {
+    "generate": "node scripts/generate.js",
+    "start": "npx serve docs"
+  }
+}
