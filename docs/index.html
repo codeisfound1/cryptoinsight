@@ -526,12 +526,9 @@
   <div class="footer-inner">
     <nav class="footer-links">
       <a href="#" onclick="openAdmin(); return false;">Đăng bài mới</a>
-      <a href="https://coinmarketcap.com/currencies/bitcoin/#News" target="_blank" rel="noopener">Nguồn: CoinMarketCap</a>
       <a href="sitemap.xml">Sitemap</a>
     </nav>
-    <p>Nội dung phân tích tự động từ <a href="https://coinmarketcap.com/currencies/bitcoin/#News" target="_blank" rel="noopener">CoinMarketCap Bitcoin News</a>
-      &nbsp;·&nbsp; AI bởi Groq &nbsp;·&nbsp; Deploy trên GitHub Pages
-    </p>
+    <p>Nội dung phân tích tự động &nbsp;·&nbsp; AI bởi Groq &nbsp;·&nbsp; Deploy trên GitHub Pages</p>
     <p class="footer-source">⚠️ Nội dung chỉ mang tính tham khảo, không phải lời khuyên đầu tư.</p>
   </div>
 </footer>
@@ -879,7 +876,7 @@ function openPost(id) {
     '<div class="modal-content">'+(post.content||'<p>Đang tải...</p>')+'</div>' +
     '</div>' +
     '<div class="modal-footer">' +
-    '<a class="source-link" href="'+escAttr(post.sourceUrl||'https://coinmarketcap.com/currencies/bitcoin/#News')+'" target="_blank" rel="noopener">🔗 '+esc(post.sourceTitle||'CoinMarketCap')+'</a>' +
+    '<span class="source-link">📰 '+esc(post.sourceTitle||'Tổng hợp tin tức')+'</span>' +
     '<div class="modal-footer-actions">' +
     '<button class="btn-share" onclick="sharePost(\''+escAttr(post.id)+'\')">🔗 Chia sẻ</button>' +
     '<button class="btn-close" onclick="closePostModal()">✕ Đóng</button>' +
