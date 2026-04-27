@@ -397,19 +397,6 @@
     }
   ],
   "publishedUrls": [
-    "https://ccaf.io/cbeci/mining_map",
-    "https://www.binance.com/en/buy-Bitcoin",
-    "https://blockchain.coinmarketcap.com/chain/bitcoin",
-    "https://s2.coinmarketcap.com/static/cloud/fonts/inter/Inter-Regular-new.woff2",
-    "https://s2.coinmarketcap.com/static/cloud/styles/ui_v073_pro.css",
-    "https://s2.coinmarketcap.com/static/cloud/fonts/inter/Inter-Medium-new.woff2",
-    "https://s2.coinmarketcap.com/static/cloud/fonts/inter/Inter-SemiBold-new.woff2",
-    "https://s2.coinmarketcap.com/static/cloud/fonts/inter/Inter-Bold-new.woff2",
-    "https://s2.coinmarketcap.com/static/cloud/fonts/cmc-v2/CMC-V2.woff",
-    "https://s2.coinmarketcap.com/v1/cmc/_next/static/css/dfc29bf51f03d6fd.css",
-    "https://s2.coinmarketcap.com/v1/cmc/_next/static/css/6d3c6fa676cd65ee.css",
-    "https://s2.coinmarketcap.com/v1/cmc/_next/static/css/d9574214023a9403.css",
-    "https://dex.coinmarketcap.com/token/all/",
     "https://www.theblock.co/post/398902/skilled-polymarket-traders-are-a-3-minority-and-everyone-else-funds-their-gains-study?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/bitcoin-bottom-57k-level-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/398899/22-year-old-sentenced-to-70-months-for-money-laundering-tied-to-263-million-crypto-syndicate?utm_source=rss&amp;utm_medium=rss",
@@ -433,13 +420,5 @@
     "https://www.theblock.co/post/398933/luxor-microbt-100-million-rig-deal?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/88-people-charged-over-12-crypto-wrench-attacks-in-france?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
-  "publishedBatchKeys": [
-    "https://s2.coinmarketcap.com/static/cloud/fonts/inter/Inter-Regular-new.woff2|https://s2.coinmarketcap.com/static/cloud/styles/ui_v073_pro.css|https://s2.coinmarketcap.com/static/cloud/fonts/inter/Inter-Medium-new.woff2",
-    "https://www.theblock.co/post/398902/skilled-polymarket-traders-are-a-3-minority-and-everyone-else-funds-their-gains-study?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bitcoin-bottom-57k-level-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/398899/22-year-old-sentenced-to-70-months-for-money-laundering-tied-to-263-million-crypto-syndicate?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/news/arbitrum-dao-asked-to-unfreeze-30k-eth-tied-to-kelp-hacker-direct-them-to-defi-united?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/398905/western-union-stablecoin-next-month?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/398908/bitcoin-climbs-above-79000?utm_source=rss&amp;utm_medium=rss",
-    "https://www.coindesk.com/markets/2026/04/27/bitcoin-pulls-back-from-12-week-high-as-iran-rally-hits-seller-wall-at-usd79-400|https://cointelegraph.com/news/western-union-usdpt-stablecoin-may-launch-dan-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/arbitrum-dao-asked-to-unfreeze-30k-eth-tied-to-kelp-hacker-direct-them-to-defi-united?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/prediction-markets-reflect-wisdom-of-an-informed-minority-not-crowd-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/398927/kbank-ripple-partnership?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/tech/2026/04/27/a-long-time-developer-wants-to-fork-bitcoin-and-reassign-satoshi-coins-the-community-is-calling-it-a-theft",
-    "https://www.coindesk.com/markets/2026/04/27/global-interest-rates-robinhood-galaxy-earnings-crypto-week-ahead|https://cointelegraph.com/news/prediction-markets-reflect-wisdom-of-an-informed-minority-not-crowd-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/398927/kbank-ripple-partnership?utm_source=rss&amp;utm_medium=rss",
-    "https://www.theblock.co/post/398933/luxor-microbt-100-million-rig-deal?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/04/27/global-interest-rates-robinhood-galaxy-earnings-crypto-week-ahead|https://cointelegraph.com/news/88-people-charged-over-12-crypto-wrench-attacks-in-france?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  ]
+  "publishedBatchKeys": []
 }
