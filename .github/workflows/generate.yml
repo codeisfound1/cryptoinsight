@@ -28,7 +28,7 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     # ✅ Bỏ qua nếu commit từ github-actions bot (tránh vòng lặp vô hạn)
-    if: github.actor != 'github-actions[bot]'
+    if: github.actor != 'github-actions[bot]' || github.actor != 'cloudflare-workers-and-pages'
     #if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
     permissions:
       contents: write
