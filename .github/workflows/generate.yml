@@ -11,8 +11,9 @@ on:
     branches:
       - main
     paths:
-      - 'docs/**'
+      #- 'docs/**'
       - 'scripts/**'
+      - 'functions/**'
       - '.github/workflows/**'
 
   # Chạy thủ công từ GitHub Actions tab
