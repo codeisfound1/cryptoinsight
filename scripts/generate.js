@@ -526,11 +526,11 @@ async function main() {
     imageObj = cloudResult || { url: representativeArticle.imageUrl, rawUrl: representativeArticle.imageUrl, alt: altText };
   }
 
-  // Thêm danh sách nguồn vào cuối bài
+  // Thêm danh sách nguồn vào cuối bài (không dùng link để tối ưu SEO)
   const sourcesList      = enriched.map((a, i) =>
-    '<li><a href="' + a.url + '" target="_blank" rel="noopener">[' + (i + 1) + '] ' +
-    (a.title || a.url).replace(/</g, "&lt;").replace(/>/g, "&gt;") +
-    ' — <em>' + (a.sourceName || "RSS") + '</em></a></li>'
+    '<li>[' + (i + 1) + '] ' +
+    (a.title || a.sourceName || "RSS").replace(/</g, "&lt;").replace(/>/g, "&gt;") +
+    ' — <em>' + (a.sourceName || "RSS") + '</em></li>'
   ).join("\n");
   const contentWithSources = (generated.content || "") +
     "\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n" + sourcesList + "\n</ol>";
