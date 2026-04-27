@@ -358,7 +358,10 @@ function saveRobots() {
 async function generateRoundupWithGroq(articles) {
   console.log("🤖  Groq AI tổng hợp " + articles.length + " tin từ RSS...");
 
-  const today        = new Date().toLocaleDateString("vi-VN", { day: "2-digit", month: "2-digit", year: "numeric" });
+  const now = new Date();
+  const today = now.toLocaleDateString("vi-VN", { day: "2-digit", month: "2-digit", year: "numeric" });
+  const timeStr = now.toLocaleTimeString("vi-VN", { hour: "2-digit", minute: "2-digit", hour12: false, timeZone: "Asia/Ho_Chi_Minh" });
+  const todayWithTime = today + " lúc " + timeStr;
   const sourceNames  = [...new Set(articles.map(a => a.sourceName))].join(", ");
 
   const newsListText = articles.map((a, i) =>
@@ -375,7 +378,7 @@ async function generateRoundupWithGroq(articles) {
     "Không có text nào khác, không markdown, không code block, không giải thích.";
 
   const userPrompt =
-    "Dưới đây là TOP " + articles.length + " tin tức crypto mới nhất ngày " + today +
+    "Dưới đây là TOP " + articles.length + " tin tức crypto mới nhất ngày " + todayWithTime +
     " tổng hợp từ: " + sourceNames + ".\n" +
     "Tổng hợp thành bài phân tích điểm tin thị trường toàn diện bằng tiếng Việt có dấu đầy đủ.\n\n" +
     "=== DANH SÁCH TIN TỨC ===\n" + newsListText + "\n" +
@@ -389,7 +392,7 @@ async function generateRoundupWithGroq(articles) {
     "- Độ dài 800-1200 từ, dùng HTML cho content\n" +
     "- Tags bằng tiếng Việt hoặc tên coin (tối đa 6 tags)\n\n" +
     "CHỈ trả về JSON object, KHÔNG có gì khác:\n" +
-    "{\"title\":\"Điểm tin crypto " + today + ": [tóm tắt nổi bật]\"," +
+    "{\"title\":\"Điểm tin crypto " + todayWithTime + ": [tóm tắt nổi bật]\"," +
     "\"summary\":\"Tóm tắt 2-3 câu điểm qua các sự kiện nổi bật nhất\"," +
     "\"tags\":[\"bitcoin\",\"ethereum\",\"thị trường\",\"điểm tin\"]," +
     "\"content\":\"<p>Dẫn nhập...</p><h2>1. [Sự kiện nổi bật nhất]</h2><p>Phân tích...</p><h2>2. [...]</h2><p>...</p><h2>Nhận định thị trường</h2><p>...</p><h2>Khuyến nghị nhà đầu tư</h2><p>...</p>\"," +
