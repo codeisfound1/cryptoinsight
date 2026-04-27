@@ -7,6 +7,17 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://codeisfound1.github.io/cryptoinsight/#diem-tin-crypto-27042026-luc-1615-thi-truong-tien-dien-tu-bien-dong-manh</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777281330/cryptoinsight/posts/diem-tin-crypto-27042026-luc-1615-thi-truong-tien-dien-tu-bien-dong-manh.jpg</image:loc>
+      <image:title>Điểm tin crypto 27/04/2026 lúc 16:15: Thị trường tiền điện tử biến động mạnh</image:title>
+      <image:caption>Điểm tin crypto 27/04/2026 lúc 16:15: Thị trường tiền điện tử biến động mạnh</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://codeisfound1.github.io/cryptoinsight/#diem-tin-crypto-27042026-luc-1519-tom-tat-thi-truong-va-xu-huong</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
@@ -48,67 +59,6 @@
       <image:loc>https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGNjMTYtNzJlMy03MTVkLTg5M2QtMjFmZDNjMjE2MWQzLmpwZw==.jpg</image:loc>
       <image:title>Điểm tin crypto 27/04/2026: Thị trường crypto biến động mạnh</image:title>
       <image:caption>Điểm tin crypto 27/04/2026: Thị trường crypto biến động mạnh</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://codeisfound1.github.io/cryptoinsight/#diem-tin-crypto-27042026-thi-truong-tien-dien-tu-bien-dong-manh</loc>
-    <lastmod>2026-04-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777257537/cryptoinsight/posts/diem-tin-crypto-27042026-thi-truong-tien-dien-tu-bien-dong-manh.jpg</image:loc>
-      <image:title>Điểm tin crypto 27/04/2026: Thị trường tiền điện tử biến động mạnh</image:title>
-      <image:caption>Điểm tin crypto 27/04/2026: Thị trường tiền điện tử biến động mạnh</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://codeisfound1.github.io/cryptoinsight/#phan-tich-thi-truong-tien-dien-tu-xu-huong-va-co-hoi-cho-nha-dau-tu-viet-nam</loc>
-    <lastmod>2026-04-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777254545/cryptoinsight/posts/phan-tich-thi-truong-tien-dien-tu-xu-huong-va-co-hoi-cho-nha-dau-tu-viet-nam.png</image:loc>
-      <image:title>Phân tích thị trường tiền điện tử: Xu hướng và cơ hội cho nhà đầu tư Việt Nam</image:title>
-      <image:caption>Phân tích thị trường tiền điện tử: Xu hướng và cơ hội cho nhà đầu tư Việt Nam</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://codeisfound1.github.io/cryptoinsight/#tac-dong-cua-viec-vo-hieu-hoa-javascript-doi-voi-thi-truong-tien-dien-tu</loc>
-    <lastmod>2026-04-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://codeisfound1.github.io/cryptoinsight/#bitcoin-pha-vo-moc-79000</loc>
-    <lastmod>2026-04-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=800&amp;q=75</image:loc>
-      <image:title>Bitcoin Phá Vỡ Mốc $79,000: Tín Hiệu Tích Cực Cho Thị Trường Crypto</image:title>
-      <image:caption>Bitcoin phá vỡ mốc 79000 đô</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://codeisfound1.github.io/cryptoinsight/#ethereum-pectra-mainnet</loc>
-    <lastmod>2026-04-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=800&amp;q=75</image:loc>
-      <image:title>Ethereum Upgrade Pectra Chính Thức Lên Mainnet: Điều Gì Thay Đổi?</image:title>
-      <image:caption>Ethereum Pectra upgrade mainnet</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://codeisfound1.github.io/cryptoinsight/#defi-tvl-vuot-120-ty</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://images.unsplash.com/photo-1559526324-593bc073d938?w=800&amp;q=75</image:loc>
-      <image:title>DeFi Tổng Vốn Hoá Vượt $120 Tỷ: Xu Hướng Nào Đang Dẫn Dắt?</image:title>
-      <image:caption>DeFi TVL vượt 120 tỷ đô năm 2026</image:caption>
     </image:image>
   </url>
 </urlset>
