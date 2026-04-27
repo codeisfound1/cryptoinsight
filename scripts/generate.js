@@ -37,6 +37,10 @@ const CLOUDINARY_CLOUD_NAME = process.env.CLOUDINARY_CLOUD_NAME;
 const CLOUDINARY_API_KEY    = process.env.CLOUDINARY_API_KEY;
 const CLOUDINARY_API_SECRET = process.env.CLOUDINARY_API_SECRET;
 
+// Telegram (tuỳ chọn) — dùng bot token của admin để gửi vào nhóm
+const TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
+const TELEGRAM_CHAT_ID   = process.env.TELEGRAM_CHAT_ID;
+
 if (!GROQ_KEY) {
   console.error("❌ Thiếu GROQ_API_KEY");
   process.exit(1);
@@ -570,7 +574,95 @@ async function main() {
   if (post.image) console.log("🖼️   Thumbnail:", post.image.url);
   console.log("🏷️   Tags:", post.tags.join(", "));
   console.log("=".repeat(60));
+
+  // ─ Bước 7: Chia sẻ lên Telegram ─
+  const postUrl = SITE_URL.replace(/\/$/, "") + "/#" + post.slug;
+  const tgMessage = buildTelegramMessage(post, postUrl);
+  await sendTelegramMessage(tgMessage);
 }
+
+// ─── TELEGRAM SHARING ──────────────────────────────────────────────────────
+
+/**
+ * Gửi tin nhắn lên nhóm Telegram qua Bot API.
+ * Bot phải là admin (hoặc thành viên) của nhóm và có quyền gửi tin nhắn.
+ */
+function sendTelegramMessage(text) {
+  if (!TELEGRAM_BOT_TOKEN || !TELEGRAM_CHAT_ID) {
+    console.log("ℹ️   Bỏ qua Telegram: thiếu TELEGRAM_BOT_TOKEN hoặc TELEGRAM_CHAT_ID.");
+    return Promise.resolve();
+  }
+
+  const payload = JSON.stringify({
+    chat_id:    TELEGRAM_CHAT_ID,
+    text:       text,
+    parse_mode: "MarkdownV2",
+    link_preview_options: { is_disabled: false },
+  });
+
+  return new Promise((resolve, reject) => {
+    const options = {
+      hostname: "api.telegram.org",
+      path:     "/bot" + TELEGRAM_BOT_TOKEN + "/sendMessage",
+      method:   "POST",
+      headers:  {
+        "Content-Type":   "application/json",
+        "Content-Length": Buffer.byteLength(payload),
+      },
+    };
+
+    const req = https.request(options, res => {
+      let body = "";
+      res.on("data", chunk => { body += chunk; });
+      res.on("end", () => {
+        try {
+          const json = JSON.parse(body);
+          if (json.ok) {
+            console.log("📨  Đã chia sẻ lên Telegram (message_id:", json.result.message_id + ")");
+            resolve();
+          } else {
+            console.warn("⚠️   Telegram API lỗi:", json.description);
+            resolve();
+          }
+        } catch (e) {
+          console.warn("⚠️   Không parse được phản hồi Telegram:", e.message);
+          resolve();
+        }
+      });
+    });
+
+    req.on("error", err => {
+      console.warn("⚠️   Không gửi được Telegram:", err.message);
+      resolve();
+    });
+
+    req.write(payload);
+    req.end();
+  });
+}
+
+/** Escape ký tự đặc biệt theo MarkdownV2 của Telegram. */
+function escapeMdV2(str) {
+  return str.replace(/[_*[\]()~`>#+\-=|{}.!\\]/g, "\\$&");
+}
+
+/** Tạo nội dung tin nhắn Telegram từ thông tin bài viết. */
+function buildTelegramMessage(post, postUrl) {
+  const title   = escapeMdV2(post.title);
+  const summary = escapeMdV2((post.summary || "").slice(0, 280));
+  const tags    = post.tags.slice(0, 5).map(t => "#" + escapeMdV2(t.replace(/\s+/g, "_"))).join(" ");
+  const url     = escapeMdV2(postUrl);
+  const count   = post.articleCount || 0;
+
+  return (
+    "🔥 *" + title + "*\n\n" +
+    (summary ? summary + "\n\n" : "") +
+    "📰 Tổng hợp từ *" + count + "* bài viết mới nhất\\.\n\n" +
+    "👉 [Đọc bài đầy đủ](" + url + ")\n\n" +
+    tags
+  );
+}
+
 
 main().catch(err => {
   console.error("❌  Lỗi nghiêm trọng:", err.message);
