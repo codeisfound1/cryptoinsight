@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://codeisfound1.github.io/cryptoinsight/sitemap.xml
+Sitemap: https://cryptoinsight.c-odeisfound.workers.dev/sitemap.xml
