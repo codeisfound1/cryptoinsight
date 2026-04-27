@@ -1,6 +1,85 @@
 {
   "posts": [
     {
+      "id": "1777256129997",
+      "title": "Điểm tin crypto: Top 10 sự kiện nổi bật",
+      "summary": "Tổng hợp 10 tin crypto mới nhất từ CoinMarketCap AI Top News.",
+      "content": "<p><b>https://s2.coinmarketcap.com/static/cloud/fonts/inter/Inter-Regular-new.woff2</b></p><p><b>https://s2.coinmarketcap.com/static/cloud/styles/ui_v073_pro.css</b></p><p><b>https://s2.coinmarketcap.com/static/cloud/fonts/inter/Inter-Medium-new.woff2</b></p><p><b>https://s2.coinmarketcap.com/static/cloud/fonts/inter/Inter-SemiBold-new.woff2</b></p><p><b>https://s2.coinmarketcap.com/static/cloud/fonts/inter/Inter-Bold-new.woff2</b></p><p><b>https://s2.coinmarketcap.com/static/cloud/fonts/cmc-v2/CMC-V2.woff</b></p><p><b>https://s2.coinmarketcap.com/v1/cmc/_next/static/css/dfc29bf51f03d6fd.css</b></p><p><b>https://s2.coinmarketcap.com/v1/cmc/_next/static/css/6d3c6fa676cd65ee.css</b></p><p><b>https://s2.coinmarketcap.com/v1/cmc/_next/static/css/d9574214023a9403.css</b></p><p><b>Today's Trending DEX Tokens</b></p>\n<h2>Nguồn tin tham khảo (CoinMarketCap AI Top News)</h2>\n<ol>\n<li><a href=\"https://s2.coinmarketcap.com/static/cloud/fonts/inter/Inter-Regular-new.woff2\" target=\"_blank\" rel=\"noopener\">[1] https://s2.coinmarketcap.com/static/cloud/fonts/inter/Inter-Regular-new.woff2 (s2.coinmarketcap.com)</a></li>\n<li><a href=\"https://s2.coinmarketcap.com/static/cloud/styles/ui_v073_pro.css\" target=\"_blank\" rel=\"noopener\">[2] https://s2.coinmarketcap.com/static/cloud/styles/ui_v073_pro.css (s2.coinmarketcap.com)</a></li>\n<li><a href=\"https://s2.coinmarketcap.com/static/cloud/fonts/inter/Inter-Medium-new.woff2\" target=\"_blank\" rel=\"noopener\">[3] https://s2.coinmarketcap.com/static/cloud/fonts/inter/Inter-Medium-new.woff2 (s2.coinmarketcap.com)</a></li>\n<li><a href=\"https://s2.coinmarketcap.com/static/cloud/fonts/inter/Inter-SemiBold-new.woff2\" target=\"_blank\" rel=\"noopener\">[4] https://s2.coinmarketcap.com/static/cloud/fonts/inter/Inter-SemiBold-new.woff2 (s2.coinmarketcap.com)</a></li>\n<li><a href=\"https://s2.coinmarketcap.com/static/cloud/fonts/inter/Inter-Bold-new.woff2\" target=\"_blank\" rel=\"noopener\">[5] https://s2.coinmarketcap.com/static/cloud/fonts/inter/Inter-Bold-new.woff2 (s2.coinmarketcap.com)</a></li>\n<li><a href=\"https://s2.coinmarketcap.com/static/cloud/fonts/cmc-v2/CMC-V2.woff\" target=\"_blank\" rel=\"noopener\">[6] https://s2.coinmarketcap.com/static/cloud/fonts/cmc-v2/CMC-V2.woff (s2.coinmarketcap.com)</a></li>\n<li><a href=\"https://s2.coinmarketcap.com/v1/cmc/_next/static/css/dfc29bf51f03d6fd.css\" target=\"_blank\" rel=\"noopener\">[7] https://s2.coinmarketcap.com/v1/cmc/_next/static/css/dfc29bf51f03d6fd.css (s2.coinmarketcap.com)</a></li>\n<li><a href=\"https://s2.coinmarketcap.com/v1/cmc/_next/static/css/6d3c6fa676cd65ee.css\" target=\"_blank\" rel=\"noopener\">[8] https://s2.coinmarketcap.com/v1/cmc/_next/static/css/6d3c6fa676cd65ee.css (s2.coinmarketcap.com)</a></li>\n<li><a href=\"https://s2.coinmarketcap.com/v1/cmc/_next/static/css/d9574214023a9403.css\" target=\"_blank\" rel=\"noopener\">[9] https://s2.coinmarketcap.com/v1/cmc/_next/static/css/d9574214023a9403.css (s2.coinmarketcap.com)</a></li>\n<li><a href=\"https://dex.coinmarketcap.com/token/all/\" target=\"_blank\" rel=\"noopener\">[10] Today's Trending DEX Tokens (dex.coinmarketcap.com)</a></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "điểm tin",
+        "crypto",
+        "thị trường"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777256128/cryptoinsight/posts/diem-tin-crypto-top-10-su-kien-noi-bat.svg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1777256128/cryptoinsight/posts/diem-tin-crypto-top-10-su-kien-noi-bat.svg",
+        "publicId": "cryptoinsight/posts/diem-tin-crypto-top-10-su-kien-noi-bat",
+        "width": 24,
+        "height": 24,
+        "format": "svg",
+        "alt": "Điểm tin crypto: Top 10 sự kiện nổi bật"
+      },
+      "sourceUrl": "https://coinmarketcap.com/cmc-ai/top-news/",
+      "sourceTitle": "CoinMarketCap AI Top News",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "",
+          "url": "https://s2.coinmarketcap.com/static/cloud/fonts/inter/Inter-Regular-new.woff2",
+          "source": "s2.coinmarketcap.com"
+        },
+        {
+          "title": "",
+          "url": "https://s2.coinmarketcap.com/static/cloud/styles/ui_v073_pro.css",
+          "source": "s2.coinmarketcap.com"
+        },
+        {
+          "title": "",
+          "url": "https://s2.coinmarketcap.com/static/cloud/fonts/inter/Inter-Medium-new.woff2",
+          "source": "s2.coinmarketcap.com"
+        },
+        {
+          "title": "",
+          "url": "https://s2.coinmarketcap.com/static/cloud/fonts/inter/Inter-SemiBold-new.woff2",
+          "source": "s2.coinmarketcap.com"
+        },
+        {
+          "title": "",
+          "url": "https://s2.coinmarketcap.com/static/cloud/fonts/inter/Inter-Bold-new.woff2",
+          "source": "s2.coinmarketcap.com"
+        },
+        {
+          "title": "",
+          "url": "https://s2.coinmarketcap.com/static/cloud/fonts/cmc-v2/CMC-V2.woff",
+          "source": "s2.coinmarketcap.com"
+        },
+        {
+          "title": "",
+          "url": "https://s2.coinmarketcap.com/v1/cmc/_next/static/css/dfc29bf51f03d6fd.css",
+          "source": "s2.coinmarketcap.com"
+        },
+        {
+          "title": "",
+          "url": "https://s2.coinmarketcap.com/v1/cmc/_next/static/css/6d3c6fa676cd65ee.css",
+          "source": "s2.coinmarketcap.com"
+        },
+        {
+          "title": "",
+          "url": "https://s2.coinmarketcap.com/v1/cmc/_next/static/css/d9574214023a9403.css",
+          "source": "s2.coinmarketcap.com"
+        },
+        {
+          "title": "Today's Trending DEX Tokens",
+          "url": "https://dex.coinmarketcap.com/token/all/",
+          "source": "dex.coinmarketcap.com"
+        }
+      ],
+      "publishedAt": "2026-04-27T02:15:29.997Z",
+      "slug": "diem-tin-crypto-top-10-su-kien-noi-bat"
+    },
+    {
       "id": "1777254546294",
       "title": "Phân tích thị trường tiền điện tử: Xu hướng và cơ hội cho nhà đầu tư Việt Nam",
       "summary": "Thị trường tiền điện tử đang trải qua một giai đoạn biến động mạnh mẽ, với sự tăng trưởng của các đồng tiền như Bitcoin và Ethereum. Nhà đầu tư Việt Nam cần phải hiểu rõ về thị trường và các yếu tố ảnh hưởng để đưa ra quyết định đầu tư thông minh.",
@@ -107,6 +186,19 @@
   "publishedUrls": [
     "https://ccaf.io/cbeci/mining_map",
     "https://www.binance.com/en/buy-Bitcoin",
-    "https://blockchain.coinmarketcap.com/chain/bitcoin"
+    "https://blockchain.coinmarketcap.com/chain/bitcoin",
+    "https://s2.coinmarketcap.com/static/cloud/fonts/inter/Inter-Regular-new.woff2",
+    "https://s2.coinmarketcap.com/static/cloud/styles/ui_v073_pro.css",
+    "https://s2.coinmarketcap.com/static/cloud/fonts/inter/Inter-Medium-new.woff2",
+    "https://s2.coinmarketcap.com/static/cloud/fonts/inter/Inter-SemiBold-new.woff2",
+    "https://s2.coinmarketcap.com/static/cloud/fonts/inter/Inter-Bold-new.woff2",
+    "https://s2.coinmarketcap.com/static/cloud/fonts/cmc-v2/CMC-V2.woff",
+    "https://s2.coinmarketcap.com/v1/cmc/_next/static/css/dfc29bf51f03d6fd.css",
+    "https://s2.coinmarketcap.com/v1/cmc/_next/static/css/6d3c6fa676cd65ee.css",
+    "https://s2.coinmarketcap.com/v1/cmc/_next/static/css/d9574214023a9403.css",
+    "https://dex.coinmarketcap.com/token/all/"
+  ],
+  "publishedBatchKeys": [
+    "https://s2.coinmarketcap.com/static/cloud/fonts/inter/Inter-Regular-new.woff2|https://s2.coinmarketcap.com/static/cloud/styles/ui_v073_pro.css|https://s2.coinmarketcap.com/static/cloud/fonts/inter/Inter-Medium-new.woff2"
   ]
 }

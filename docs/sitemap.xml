@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://codeisfound1.github.io/cryptoinsight/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://codeisfound1.github.io/cryptoinsight/#diem-tin-crypto-top-10-su-kien-noi-bat</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777256128/cryptoinsight/posts/diem-tin-crypto-top-10-su-kien-noi-bat.svg</image:loc>
+      <image:title>Điểm tin crypto: Top 10 sự kiện nổi bật</image:title>
+      <image:caption>Điểm tin crypto: Top 10 sự kiện nổi bật</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://codeisfound1.github.io/cryptoinsight/#phan-tich-thi-truong-tien-dien-tu-xu-huong-va-co-hoi-cho-nha-dau-tu-viet-nam</loc>
