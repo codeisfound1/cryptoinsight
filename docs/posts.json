@@ -1,6 +1,85 @@
 {
   "posts": [
     {
+      "id": "1777300242987",
+      "title": "Điểm tin crypto 27/04/2026 lúc 21:30: Thị trường tiền điện tử biến động mạnh",
+      "summary": "Thị trường tiền điện tử đang trải qua một giai đoạn biến động mạnh với các sự kiện nổi bật như BitMine mua 5 triệu ETH, Strategy mua 3.273 bitcoin và Stellar (XLM) giảm 3,4%",
+      "content": "<p>Thị trường tiền điện tử đang trở nên nóng hơn bao giờ hết với các sự kiện lớn diễn ra trong tuần này. Từ việc BitMine mua 5 triệu ETH đến Strategy mua 3.273 bitcoin, thị trường đang chứng kiến sự biến động mạnh.</p><h2>1. BitMine mua 5 triệu ETH</h2><p>BitMine Immersion Technologies đã mua 5 triệu ETH, trở thành một trong những công ty nắm giữ nhiều ETH nhất trên thị trường. Điều này cho thấy sự quan tâm của các công ty lớn đến Ethereum và tiềm năng của nó trong tương lai.</p><h2>2. Strategy mua 3.273 bitcoin</h2><p>Strategy, công ty nắm giữ nhiều bitcoin nhất trên thế giới, đã mua thêm 3.273 bitcoin. Điều này cho thấy sự tự tin của công ty vào tương lai của bitcoin và tiềm năng của nó trong việc trở thành một tài sản lưu trữ giá trị.</p><h2>3. Stellar (XLM) giảm 3,4%</h2><p>Stellar (XLM) đã giảm 3,4% trong tuần này, trở thành một trong những đồng tiền điện tử giảm nhiều nhất. Điều này cho thấy sự biến động của thị trường và sự cần thiết của việc đầu tư một cách thông minh.</p><h2>Nhận định thị trường</h2><p>Thị trường tiền điện tử đang trở nên phức tạp hơn bao giờ hết. Với sự xuất hiện của các công ty lớn và sự quan tâm của các nhà đầu tư, thị trường đang trở nên nóng hơn bao giờ hết. Tuy nhiên, sự biến động của thị trường cũng cho thấy sự cần thiết của việc đầu tư một cách thông minh và cẩn thận.</p><h2>Khuyến nghị nhà đầu tư</h2><p>Nhà đầu tư nên cẩn thận khi đầu tư vào thị trường tiền điện tử. Việc đầu tư vào các đồng tiền điện tử lớn như bitcoin và ethereum có thể là một lựa chọn tốt, nhưng cũng cần phải xem xét các yếu tố khác như sự biến động của thị trường và sự quan tâm của các công ty lớn.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] Tom Lee's BitMine Makes Biggest Ethereum Buy So Far in 2026, Hitting 5 Million ETH Milestone — <em>Decrypt</em></li>\n<li>[2] Bitcoin Giant Strategy's Buying Pace Falls 91% Amid STRC Cooldown — <em>Decrypt</em></li>\n<li>[3] Signal in the age of infinite noise — <em>CoinDesk</em></li>\n<li>[4] Michael Saylor’s Strategy buys 3,273 bitcoin as it inches closer to its 1 million target — <em>CoinDesk</em></li>\n<li>[5] Strive acquires 789 BTC, bumping ninth-largest corporate bitcoin treasury over 14,000 BTC — <em>The Block</em></li>\n<li>[6] BitMine’s ether holdings top 5.078 million after largest purchase since December — <em>The Block</em></li>\n<li>[7] Bitmine buys $236 million in ether as Tom Lee touts ETH as 'wartime store of value' — <em>CoinDesk</em></li>\n<li>[8] CoinDesk 20 performance update: Stellar (XLM) drops 3.4%, leading index lower — <em>CoinDesk</em></li>\n<li>[9] Money Launderer Sentenced to 70 Months Over $263M Crypto Social-Engineering Scheme — <em>Decrypt</em></li>\n<li>[10] TD Cowen reiterates buy rating on Smarter Web Company, says it remains UK’s only scaled bitcoin treasury vehicle — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "thị trường",
+        "điểm tin"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777300242/cryptoinsight/posts/diem-tin-crypto-27042026-luc-2130-thi-truong-tien-dien-tu-bien-dong-manh.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1777300242/cryptoinsight/posts/diem-tin-crypto-27042026-luc-2130-thi-truong-tien-dien-tu-bien-dong-manh.jpg",
+        "publicId": "cryptoinsight/posts/diem-tin-crypto-27042026-luc-2130-thi-truong-tien-dien-tu-bien-dong-manh",
+        "width": 1279,
+        "height": 720,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 27/04/2026 lúc 21:30: Thị trường tiền điện tử biến động mạnh"
+      },
+      "sourceUrl": "https://decrypt.co/365619/tom-lees-bitmine-biggest-ethereum-buy-december-eth-milestone",
+      "sourceTitle": "Decrypt / CoinDesk / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Tom Lee's BitMine Makes Biggest Ethereum Buy So Far in 2026, Hitting 5 Million ETH Milestone",
+          "url": "https://decrypt.co/365619/tom-lees-bitmine-biggest-ethereum-buy-december-eth-milestone",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitcoin Giant Strategy's Buying Pace Falls 91% Amid STRC Cooldown",
+          "url": "https://decrypt.co/365620/bitcoin-giant-strategy-buying-pace-falls-strc-cooldown",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Signal in the age of infinite noise",
+          "url": "https://www.coindesk.com/opinion/2026/04/27/signal-in-the-age-of-infinite-noise",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Michael Saylor’s Strategy buys 3,273 bitcoin as it inches closer to its 1 million target",
+          "url": "https://www.coindesk.com/markets/2026/04/27/michael-saylor-s-strategy-buys-3-273-bitcoin-as-it-inches-closer-to-its-1-million-target",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Strive acquires 789 BTC, bumping ninth-largest corporate bitcoin treasury over 14,000 BTC",
+          "url": "https://www.theblock.co/post/398986/strive-acquires-789-btc-bumping-ninth-largest-corporate-bitcoin-treasury-over-14000-btc?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "BitMine’s ether holdings top 5.078 million after largest purchase since December",
+          "url": "https://www.theblock.co/post/398982/bitmines-ether-holdings-top-5-078-million-after-largest-purchase-since-december?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitmine buys $236 million in ether as Tom Lee touts ETH as 'wartime store of value'",
+          "url": "https://www.coindesk.com/business/2026/04/27/bitmine-buys-usd236-million-in-ether-as-tom-lee-touts-eth-as-wartime-store-of-value",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "CoinDesk 20 performance update: Stellar (XLM) drops 3.4%, leading index lower",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/04/27/coindesk-20-performance-update-stellar-xlm-drops-3-4-leading-index-lower",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Money Launderer Sentenced to 70 Months Over $263M Crypto Social-Engineering Scheme",
+          "url": "https://decrypt.co/365606/money-launderer-sentenced-to-70-months-over-263m-crypto-social-engineering-scheme",
+          "source": "Decrypt"
+        },
+        {
+          "title": "TD Cowen reiterates buy rating on Smarter Web Company, says it remains UK’s only scaled bitcoin treasury vehicle",
+          "url": "https://www.theblock.co/post/398978/td-cowen-reiterates-buy-rating-on-smarter-web-company-says-it-remains-uks-only-scaled-bitcoin-treasury-vehicle?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-04-27T14:30:42.987Z",
+      "slug": "diem-tin-crypto-27042026-luc-2130-thi-truong-tien-dien-tu-bien-dong-manh"
+    },
+    {
       "id": "1777298332046",
       "title": "Điểm tin crypto 27/04/2026 lúc 20:58: Bitcoin và Ethereum dẫn đầu",
       "summary": "Bitcoin và Ethereum dẫn đầu với các giao dịch lớn, trong khi các altcoin khác cũng có sự biến động. Thị trường crypto đang chứng kiến sự tăng trưởng mạnh mẽ với các sự kiện quan trọng",
@@ -1411,7 +1490,8 @@
     "https://www.coindesk.com/coindesk-indices/2026/04/27/coindesk-20-performance-update-stellar-xlm-drops-3-4-leading-index-lower",
     "https://decrypt.co/365620/bitcoin-giant-strategy-buying-pace-falls-strc-cooldown",
     "https://www.coindesk.com/opinion/2026/04/27/signal-in-the-age-of-infinite-noise",
-    "https://www.coindesk.com/markets/2026/04/27/michael-saylor-s-strategy-buys-3-273-bitcoin-as-it-inches-closer-to-its-1-million-target"
+    "https://www.coindesk.com/markets/2026/04/27/michael-saylor-s-strategy-buys-3-273-bitcoin-as-it-inches-closer-to-its-1-million-target",
+    "https://decrypt.co/365619/tom-lees-bitmine-biggest-ethereum-buy-december-eth-milestone"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/398938/bitcoin-leads-1-2b-weekly-haul-for-global-crypto-funds-as-institutional-demand-builds-coinshares?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/398933/luxor-microbt-100-million-rig-deal?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/04/27/global-interest-rates-robinhood-galaxy-earnings-crypto-week-ahead",
@@ -1425,6 +1505,7 @@
     "https://decrypt.co/365604/bitcoin-etfs-extend-longest-win-streak-since-september-but-spot-demand-lags|https://www.theblock.co/post/398948/the-block-appoints-steve-chung-ceo?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/markets/first-21-week-trend-line-reclaim-since-october-2025-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/365606/money-launderer-sentenced-to-70-months-over-263m-crypto-social-engineering-scheme|https://www.theblock.co/post/398978/td-cowen-reiterates-buy-rating-on-smarter-web-company-says-it-remains-uks-only-scaled-bitcoin-treasury-vehicle?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/365604/bitcoin-etfs-extend-longest-win-streak-since-september-but-spot-demand-lags",
     "https://www.theblock.co/post/398986/strive-acquires-789-btc-bumping-ninth-largest-corporate-bitcoin-treasury-over-14000-btc?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/398982/bitmines-ether-holdings-top-5-078-million-after-largest-purchase-since-december?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/business/2026/04/27/bitmine-buys-usd236-million-in-ether-as-tom-lee-touts-eth-as-wartime-store-of-value",
-    "https://decrypt.co/365620/bitcoin-giant-strategy-buying-pace-falls-strc-cooldown|https://www.coindesk.com/opinion/2026/04/27/signal-in-the-age-of-infinite-noise|https://www.coindesk.com/markets/2026/04/27/michael-saylor-s-strategy-buys-3-273-bitcoin-as-it-inches-closer-to-its-1-million-target"
+    "https://decrypt.co/365620/bitcoin-giant-strategy-buying-pace-falls-strc-cooldown|https://www.coindesk.com/opinion/2026/04/27/signal-in-the-age-of-infinite-noise|https://www.coindesk.com/markets/2026/04/27/michael-saylor-s-strategy-buys-3-273-bitcoin-as-it-inches-closer-to-its-1-million-target",
+    "https://decrypt.co/365619/tom-lees-bitmine-biggest-ethereum-buy-december-eth-milestone|https://decrypt.co/365620/bitcoin-giant-strategy-buying-pace-falls-strc-cooldown|https://www.coindesk.com/opinion/2026/04/27/signal-in-the-age-of-infinite-noise"
   ]
 }
