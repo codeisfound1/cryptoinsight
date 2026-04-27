@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1777277984232",
+      "title": "Điểm tin crypto 27/04/2026 lúc 15:19: Tóm tắt thị trường và xu hướng",
+      "summary": "Thị trường tiền điện tử đang chứng kiến sự biến động với nhiều sự kiện quan trọng như việc Western Union ra mắt stablecoin, Bitcoin đạt mức cao mới và sự phát triển của DeFi. Các nhà đầu tư cần theo dõi chặt chẽ các tin tức và phân tích kỹ lưỡng trước khi đưa ra quyết định đầu tư.",
+      "content": "<p>Thị trường tiền điện tử đang chứng kiến sự biến động với nhiều sự kiện quan trọng. Trong tuần này, chúng ta đã thấy sự ra mắt của stablecoin Western Union, sự phát triển của DeFi và sự tăng trưởng của Bitcoin.</p><h2>1. Western Union ra mắt stablecoin</h2><p>Western Union đã công bố kế hoạch ra mắt stablecoin của mình vào tháng 5. Đây là một bước tiến quan trọng trong việc áp dụng công nghệ blockchain vào lĩnh vực tài chính truyền thống.</p><h2>2. Bitcoin đạt mức cao mới</h2><p>Bitcoin đã đạt mức cao mới với giá hơn 79.000 USD. Đây là một tín hiệu tích cực cho thị trường tiền điện tử và cho thấy sự quan tâm ngày càng tăng của các nhà đầu tư.</p><h2>3. Sự phát triển của DeFi</h2><p>DeFi đang trở thành một trong những lĩnh vực quan trọng nhất của thị trường tiền điện tử. Với sự phát triển của các dự án như Aave và Arbitrum, DeFi đang trở thành một lựa chọn hấp dẫn cho các nhà đầu tư.</p><h2>4. NFT và thị trường kỹ thuật số</h2><p>NFT đang trở thành một trong những lĩnh vực quan trọng nhất của thị trường tiền điện tử. Với sự phát triển của các dự án như Pudgy Penguins và BAYC, NFT đang trở thành một lựa chọn hấp dẫn cho các nhà đầu tư.</p><h2>Nhận định thị trường</h2><p>Thị trường tiền điện tử đang chứng kiến sự biến động với nhiều sự kiện quan trọng. Các nhà đầu tư cần theo dõi chặt chẽ các tin tức và phân tích kỹ lưỡng trước khi đưa ra quyết định đầu tư.</p><h2>Khuyến nghị nhà đầu tư</h2><p>Các nhà đầu tư cần theo dõi chặt chẽ các tin tức và phân tích kỹ lưỡng trước khi đưa ra quyết định đầu tư. Ngoài ra, các nhà đầu tư cũng cần đa dạng hóa danh mục đầu tư của mình để giảm thiểu rủi ro.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] Global interest rates, Robinhood, Galaxy earnings: Crypto Week Ahead — <em>CoinDesk</em></li>\n<li>[2] Prediction markets reflect 'wisdom of an informed minority,’ not crowd: Study — <em>Cointelegraph</em></li>\n<li>[3] Upbit partner KBank to test onchain cross-border remittances with Ripple — <em>The Block</em></li>\n<li>[4] A long-time developer wants to split Bitcoin blockchain and reassign Satoshi coins. The community is calling it a theft — <em>CoinDesk</em></li>\n<li>[5] Pudgy Penguins, BAYC rally masks a shrinking NFT market as volumes and users fall — <em>CoinDesk</em></li>\n<li>[6] Bitcoin pulls back from 12-week high as Iran rally hits seller wall at $79,400 — <em>CoinDesk</em></li>\n<li>[7] Western Union eyes May for its stablecoin USDPT rollout — <em>Cointelegraph</em></li>\n<li>[8] Aave asks Arbitrum to send 30K ETH from Kelp exploiter to ‘DeFi United’ — <em>Cointelegraph</em></li>\n<li>[9] Western Union to launch stablecoin next month, with ‘Stable Card’ planned for global consumers — <em>The Block</em></li>\n<li>[10] Bitcoin climbs above $79,000, Asian equities rise amid ‘subdued’ geopolitical tensions — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "thị trường",
+        "điểm tin",
+        "defi",
+        "nft"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777277983/cryptoinsight/posts/diem-tin-crypto-27042026-luc-1519-tom-tat-thi-truong-va-xu-huong.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1777277983/cryptoinsight/posts/diem-tin-crypto-27042026-luc-1519-tom-tat-thi-truong-va-xu-huong.jpg",
+        "publicId": "cryptoinsight/posts/diem-tin-crypto-27042026-luc-1519-tom-tat-thi-truong-va-xu-huong",
+        "width": 1915,
+        "height": 1080,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 27/04/2026 lúc 15:19: Tóm tắt thị trường và xu hướng"
+      },
+      "sourceUrl": "https://www.coindesk.com/markets/2026/04/27/global-interest-rates-robinhood-galaxy-earnings-crypto-week-ahead",
+      "sourceTitle": "CoinDesk / Cointelegraph / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Global interest rates, Robinhood, Galaxy earnings: Crypto Week Ahead",
+          "url": "https://www.coindesk.com/markets/2026/04/27/global-interest-rates-robinhood-galaxy-earnings-crypto-week-ahead",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Prediction markets reflect 'wisdom of an informed minority,’ not crowd: Study",
+          "url": "https://cointelegraph.com/news/prediction-markets-reflect-wisdom-of-an-informed-minority-not-crowd-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Upbit partner KBank to test onchain cross-border remittances with Ripple",
+          "url": "https://www.theblock.co/post/398927/kbank-ripple-partnership?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "A long-time developer wants to split Bitcoin blockchain and reassign Satoshi coins. The community is calling it a theft",
+          "url": "https://www.coindesk.com/tech/2026/04/27/a-long-time-developer-wants-to-fork-bitcoin-and-reassign-satoshi-coins-the-community-is-calling-it-a-theft",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Pudgy Penguins, BAYC rally masks a shrinking NFT market as volumes and users fall",
+          "url": "https://www.coindesk.com/markets/2026/04/27/pudgy-penguins-bayc-rally-masks-a-shrinking-nft-market-as-volumes-and-users-fall",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin pulls back from 12-week high as Iran rally hits seller wall at $79,400",
+          "url": "https://www.coindesk.com/markets/2026/04/27/bitcoin-pulls-back-from-12-week-high-as-iran-rally-hits-seller-wall-at-usd79-400",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Western Union eyes May for its stablecoin USDPT rollout",
+          "url": "https://cointelegraph.com/news/western-union-usdpt-stablecoin-may-launch-dan-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Aave asks Arbitrum to send 30K ETH from Kelp exploiter to ‘DeFi United’",
+          "url": "https://cointelegraph.com/news/arbitrum-dao-asked-to-unfreeze-30k-eth-tied-to-kelp-hacker-direct-them-to-defi-united?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Western Union to launch stablecoin next month, with ‘Stable Card’ planned for global consumers",
+          "url": "https://www.theblock.co/post/398905/western-union-stablecoin-next-month?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin climbs above $79,000, Asian equities rise amid ‘subdued’ geopolitical tensions",
+          "url": "https://www.theblock.co/post/398908/bitcoin-climbs-above-79000?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-04-27T08:19:44.232Z",
+      "slug": "diem-tin-crypto-27042026-luc-1519-tom-tat-thi-truong-va-xu-huong"
+    },
+    {
       "id": "1777275912624",
       "title": "Điểm tin crypto 27/04/2026 lúc 14:45: Thị trường tiền điện tử biến động mạnh",
       "summary": "Thị trường tiền điện tử đang trải qua những biến động mạnh với sự kiện một nhà phát triển muốn chia tách blockchain Bitcoin và tái phân bổ coin của Satoshi. Ngoài ra, Western Union dự kiến ra mắt stablecoin vào tháng tới và thị trường NFT tiếp tục suy giảm.",
@@ -448,13 +529,15 @@
     "https://cointelegraph.com/news/prediction-markets-reflect-wisdom-of-an-informed-minority-not-crowd-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/398927/kbank-ripple-partnership?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/tech/2026/04/27/a-long-time-developer-wants-to-fork-bitcoin-and-reassign-satoshi-coins-the-community-is-calling-it-a-theft",
-    "https://www.coindesk.com/markets/2026/04/27/pudgy-penguins-bayc-rally-masks-a-shrinking-nft-market-as-volumes-and-users-fall"
+    "https://www.coindesk.com/markets/2026/04/27/pudgy-penguins-bayc-rally-masks-a-shrinking-nft-market-as-volumes-and-users-fall",
+    "https://www.coindesk.com/markets/2026/04/27/global-interest-rates-robinhood-galaxy-earnings-crypto-week-ahead"
   ],
   "publishedBatchKeys": [
     "https://s2.coinmarketcap.com/static/cloud/fonts/inter/Inter-Regular-new.woff2|https://s2.coinmarketcap.com/static/cloud/styles/ui_v073_pro.css|https://s2.coinmarketcap.com/static/cloud/fonts/inter/Inter-Medium-new.woff2",
     "https://www.theblock.co/post/398902/skilled-polymarket-traders-are-a-3-minority-and-everyone-else-funds-their-gains-study?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bitcoin-bottom-57k-level-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/398899/22-year-old-sentenced-to-70-months-for-money-laundering-tied-to-263-million-crypto-syndicate?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/arbitrum-dao-asked-to-unfreeze-30k-eth-tied-to-kelp-hacker-direct-them-to-defi-united?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/398905/western-union-stablecoin-next-month?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/398908/bitcoin-climbs-above-79000?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/markets/2026/04/27/bitcoin-pulls-back-from-12-week-high-as-iran-rally-hits-seller-wall-at-usd79-400|https://cointelegraph.com/news/western-union-usdpt-stablecoin-may-launch-dan-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/arbitrum-dao-asked-to-unfreeze-30k-eth-tied-to-kelp-hacker-direct-them-to-defi-united?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/prediction-markets-reflect-wisdom-of-an-informed-minority-not-crowd-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/398927/kbank-ripple-partnership?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/tech/2026/04/27/a-long-time-developer-wants-to-fork-bitcoin-and-reassign-satoshi-coins-the-community-is-calling-it-a-theft"
+    "https://cointelegraph.com/news/prediction-markets-reflect-wisdom-of-an-informed-minority-not-crowd-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/398927/kbank-ripple-partnership?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/tech/2026/04/27/a-long-time-developer-wants-to-fork-bitcoin-and-reassign-satoshi-coins-the-community-is-calling-it-a-theft",
+    "https://www.coindesk.com/markets/2026/04/27/global-interest-rates-robinhood-galaxy-earnings-crypto-week-ahead|https://cointelegraph.com/news/prediction-markets-reflect-wisdom-of-an-informed-minority-not-crowd-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/398927/kbank-ripple-partnership?utm_source=rss&amp;utm_medium=rss"
   ]
 }
