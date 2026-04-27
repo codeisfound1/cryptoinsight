@@ -340,7 +340,7 @@ function saveSitemap(posts) {
   const xml  = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">',
     ...pages.map((u, i) => {
       const post   = posts[i - 1];
-      const imgTag = post && post.image && post.image.url ? "\n    <image:image>\n      <image:loc>" + post.image.url + "</image:loc>\n      <image:title>" + esc(post.title) + "</image:title>\n      <image:caption>" + esc(post.image.alt || post.title) + "</image:caption>\n    </image:image>" : "";
+      const imgTag = post && post.image && post.image.url ? "\n    <image:image>\n      <image:loc>" + esc(post.image.url) + "</image:loc>\n      <image:title>" + esc(post.title) + "</image:title>\n      <image:caption>" + esc(post.image.alt || post.title) + "</image:caption>\n    </image:image>" : "";
       return "  <url>\n    <loc>" + u.loc + "</loc>\n    <lastmod>" + u.lastmod + "</lastmod>\n    <changefreq>" + u.changefreq + "</changefreq>\n    <priority>" + u.priority + "</priority>" + imgTag + "\n  </url>";
     }), "</urlset>"].join("\n");
   fs.writeFileSync(SITEMAP_FILE, xml, "utf8");
