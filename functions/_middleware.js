@@ -14,8 +14,8 @@ export async function onRequest(context) {
     return next();
   }
 
-  const ADMIN_USER = env.ADMIN_USER || 'admin';
-  const ADMIN_PASS = env.ADMIN_PASS || 'changeme123';
+  const ADMIN_USER = env.ADMIN_USER;
+  const ADMIN_PASS = env.ADMIN_PASS;
 
   const authHeader = request.headers.get('Authorization');
 
