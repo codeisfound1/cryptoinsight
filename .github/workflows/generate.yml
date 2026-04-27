@@ -6,6 +6,15 @@ on:
     - cron: '0 0 * * *'   # 7:00 sáng UTC+7
     - cron: '0 12 * * *'  # 19:00 tối UTC+7
 
+  # ✅ Trigger khi bạn push/commit lên nhánh main
+  push:
+    branches:
+      - main
+    paths:
+      - 'docs/**'
+      - 'scripts/**'
+      - '.github/workflows/**'
+
   # Chạy thủ công từ GitHub Actions tab
   workflow_dispatch:
     inputs:
@@ -17,6 +26,8 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    # ✅ Bỏ qua nếu commit từ github-actions bot (tránh vòng lặp vô hạn)
+    if: github.actor != 'github-actions[bot]'
     permissions:
       contents: write
       pages: write
