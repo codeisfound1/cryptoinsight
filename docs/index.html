@@ -353,7 +353,7 @@
     <nav aria-label="Điều hướng chính" style="display:flex;align-items:center;gap:8px;">
       <button class="btn-lang" id="btn-lang" onclick="toggleLang()" title="Switch language">EN</button>
       <button class="btn-icon" id="btn-theme" onclick="toggleTheme()" title="Toggle theme">🌙</button>
-      <button class="btn-ghost" onclick="openAdmin()" aria-label="Đăng bài mới" id="nav-post-btn">⚡ <span data-i18n="nav_post">Đăng bài mới</span></button>
+     <!-- <button class="btn-ghost" onclick="openAdmin()" aria-label="Đăng bài mới" id="nav-post-btn">⚡ <span data-i18n="nav_post">Đăng bài mới</span></button>-->
       <button class="btn-amber" onclick="loadPosts()" aria-label="Tải lại" id="nav-reload-btn">↺ <span data-i18n="nav_reload">Tải lại</span></button>
     </nav>
   </div>
@@ -425,7 +425,7 @@
 </div>
 
 <!-- ADMIN PANEL -->
-<div class="admin-overlay" id="admin-overlay" onclick="closeAdminOutside(event)" role="dialog" aria-modal="true">
+<!--<div class="admin-overlay" id="admin-overlay" onclick="closeAdminOutside(event)" role="dialog" aria-modal="true">
   <div class="admin-wrap">
     <div class="admin-box" id="admin-box">
       <h3>⚡ Đăng bài thủ công</h3>
@@ -451,21 +451,21 @@
       <div class="admin-progress" id="admin-progress"></div>
     </div>
   </div>
-</div>
+</div>-->
 
 <!-- SHARE TOAST -->
 <div class="toast" id="share-toast" role="status" aria-live="polite">✅ Đã sao chép liên kết!</div>
 
 <!-- ADMIN MODE BAR -->
-<div class="admin-mode-bar" id="admin-mode-bar">
+<!--<div class="admin-mode-bar" id="admin-mode-bar">
   <span>✏️ Chế độ quản trị</span>
   <span id="batch-badge" style="display:none">0 thay đổi</span>
   <button class="btn-exit-admin" id="btn-batch-publish" onclick="openBatchPublish()" style="display:none">🚀 Publish thay đổi</button>
   <button class="btn-exit-admin" onclick="exitAdminMode()">Thoát</button>
-</div>
+</div>-->
 
 <!-- BATCH PUBLISH MODAL -->
-<div class="admin-overlay" id="batch-overlay" onclick="closeBatchOutside(event)" role="dialog" aria-modal="true">
+<!--<div class="admin-overlay" id="batch-overlay" onclick="closeBatchOutside(event)" role="dialog" aria-modal="true">
   <div class="admin-wrap">
     <div class="admin-box" id="batch-box" style="max-width:500px">
       <h3>🚀 Publish thay đổi</h3>
@@ -493,10 +493,10 @@
       </div>
     </div>
   </div>
-</div>
+</div>-->
 
 <!-- EDIT POST MODAL -->
-<div class="edit-overlay" id="edit-overlay" onclick="closeEditOutside(event)" role="dialog" aria-modal="true">
+<!--<div class="edit-overlay" id="edit-overlay" onclick="closeEditOutside(event)" role="dialog" aria-modal="true">
   <div class="edit-wrap">
     <div class="edit-box">
       <h3>✏️ Chỉnh sửa bài viết</h3>
@@ -530,10 +530,10 @@
       </div>
     </div>
   </div>
-</div>
+</div>-->
 
 <!-- DELETE CONFIRM MODAL -->
-<div class="delete-overlay" id="delete-overlay" role="dialog" aria-modal="true">
+<!--<div class="delete-overlay" id="delete-overlay" role="dialog" aria-modal="true">
   <div class="delete-box">
     <div class="delete-icon">🗑️</div>
     <h3>Xoá bài viết?</h3>
@@ -545,13 +545,13 @@
       <button class="btn-delete-cancel" onclick="closeDelete()">Hủy</button>
     </div>
   </div>
-</div>
+</div>-->
 
 <!-- FOOTER -->
 <footer>
   <div class="footer-inner">
     <nav class="footer-links">
-      <a href="#" onclick="openAdmin(); return false;" data-i18n="nav_post">Đăng bài mới</a>
+      <!--<a href="#" onclick="openAdmin(); return false;" data-i18n="nav_post">Đăng bài mới</a>-->
       <a href="sitemap.xml">Sitemap</a>
     </nav>
     <p data-i18n="footer_desc">Nội dung phân tích tự động · AI bởi Groq · Deploy trên GitHub Pages</p>
