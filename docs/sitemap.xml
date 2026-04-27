@@ -2,19 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://your-username.github.io/cryptoinsight/</loc>
+    <loc>https://codeisfound1.github.io/cryptoinsight/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://your-username.github.io/cryptoinsight/#tac-dong-cua-viec-vo-hieu-hoa-javascript-doi-voi-thi-truong-tien-dien-tu</loc>
+    <loc>https://codeisfound1.github.io/cryptoinsight/#phan-tich-thi-truong-tien-dien-tu-xu-huong-va-co-hoi-cho-nha-dau-tu-viet-nam</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777254545/cryptoinsight/posts/phan-tich-thi-truong-tien-dien-tu-xu-huong-va-co-hoi-cho-nha-dau-tu-viet-nam.png</image:loc>
+      <image:title>Phân tích thị trường tiền điện tử: Xu hướng và cơ hội cho nhà đầu tư Việt Nam</image:title>
+      <image:caption>Phân tích thị trường tiền điện tử: Xu hướng và cơ hội cho nhà đầu tư Việt Nam</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://codeisfound1.github.io/cryptoinsight/#tac-dong-cua-viec-vo-hieu-hoa-javascript-doi-voi-thi-truong-tien-dien-tu</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://your-username.github.io/cryptoinsight/#bitcoin-pha-vo-moc-79000</loc>
+    <loc>https://codeisfound1.github.io/cryptoinsight/#bitcoin-pha-vo-moc-79000</loc>
     <lastmod>2026-04-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -25,7 +36,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://your-username.github.io/cryptoinsight/#ethereum-pectra-mainnet</loc>
+    <loc>https://codeisfound1.github.io/cryptoinsight/#ethereum-pectra-mainnet</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -36,7 +47,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://your-username.github.io/cryptoinsight/#defi-tvl-vuot-120-ty</loc>
+    <loc>https://codeisfound1.github.io/cryptoinsight/#defi-tvl-vuot-120-ty</loc>
     <lastmod>2026-04-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
