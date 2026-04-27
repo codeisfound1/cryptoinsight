@@ -60,6 +60,27 @@
       --display:  'Barlow', sans-serif;
       --mono:     'IBM Plex Mono', monospace;
     }
+    /* ── LIGHT THEME ─────────────────────────── */
+    [data-theme="light"] {
+      --bg:       #f8f9fc;
+      --bg2:      #ffffff;
+      --bg3:      #f1f4f9;
+      --bg4:      #e8ecf4;
+      --bg5:      #dde3ef;
+      --border:   rgba(0,0,0,0.08);
+      --border2:  rgba(245,158,11,0.35);
+      --text:     #0f172a;
+      --text2:    #334155;
+      --text3:    #64748b;
+      --card:     #ffffff;
+      --green2:   #059669;
+      --red2:     #dc2626;
+    }
+    /* ── THEME & LANG TOGGLE BUTTONS ─────────── */
+    .btn-icon { background: transparent; border: 1px solid var(--border); color: var(--text2); width: 34px; height: 34px; border-radius: 8px; font-size: 15px; cursor: pointer; transition: all 0.18s; display:flex; align-items:center; justify-content:center; flex-shrink:0; }
+    .btn-icon:hover { border-color: var(--border2); color: var(--amber); }
+    .btn-lang { background: transparent; border: 1px solid var(--border); color: var(--text2); padding: 4px 10px; border-radius: 8px; font-family: var(--mono); font-size: 11px; font-weight: 600; cursor: pointer; transition: all 0.18s; letter-spacing:.05em; }
+    .btn-lang:hover { border-color: var(--border2); color: var(--amber); }
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     html { scroll-behavior: smooth; }
     body { font-family: var(--sans); background: var(--bg); color: var(--text); min-height: 100vh; font-size: 15px; line-height: 1.7; overflow-x: hidden; }
@@ -326,9 +347,11 @@
       <div class="logo-icon">₿</div>
       <span class="logo-text">Crypto <span>Insight</span></span>
     </a>
-    <nav aria-label="Điều hướng chính">
-      <button class="btn-ghost" onclick="openAdmin()" aria-label="Đăng bài mới">⚡ Đăng bài mới</button>
-      <button class="btn-amber" onclick="loadPosts()" aria-label="Tải lại">↺ Tải lại</button>
+    <nav aria-label="Điều hướng chính" style="display:flex;align-items:center;gap:8px;">
+      <button class="btn-lang" id="btn-lang" onclick="toggleLang()" title="Switch language">EN</button>
+      <button class="btn-icon" id="btn-theme" onclick="toggleTheme()" title="Toggle theme">🌙</button>
+      <button class="btn-ghost" onclick="openAdmin()" aria-label="Đăng bài mới" id="nav-post-btn">⚡ <span data-i18n="nav_post">Đăng bài mới</span></button>
+      <button class="btn-amber" onclick="loadPosts()" aria-label="Tải lại" id="nav-reload-btn">↺ <span data-i18n="nav_reload">Tải lại</span></button>
     </nav>
   </div>
 </header>
@@ -338,9 +361,9 @@
   <div class="hero-grid"></div>
   <div class="hero-glow"></div>
   <div class="hero-content">
-    <div class="hero-badge"><div class="hero-dot"></div>AI · Cập nhật mỗi ngày</div>
-    <h1>Phân tích <em>crypto</em><br>từ AI chuyên sâu</h1>
-    <p class="hero-sub">Tin tức Bitcoin, Ethereum, Altcoin và DeFi — nguồn tin cậy chính thống rõ ràng, phân tích và viết lại bởi trí tuệ nhân tạo.</p>
+    <div class="hero-badge"><div class="hero-dot"></div><span data-i18n="badge">AI · Cập nhật mỗi ngày</span></div>
+    <h1 data-i18n="hero_h1">Phân tích <em>crypto</em><br>từ AI chuyên sâu</h1>
+    <p class="hero-sub" data-i18n="hero_sub">Tin tức Bitcoin, Ethereum, Altcoin và DeFi — được crawl từ CoinMarketCap, phân tích và viết lại bởi trí tuệ nhân tạo.</p>
     <div class="hero-stats">
       <div class="hero-stat">
         <div class="hero-stat-val" id="stat-btc">$79,022</div>
@@ -352,7 +375,7 @@
       </div>
       <div class="hero-stat">
         <div class="hero-stat-val" id="stat-mcap">$2.8T</div>
-        <div class="hero-stat-lbl">Tổng vốn hoá</div>
+        <div class="hero-stat-lbl" data-i18n="total_mcap">Tổng vốn hoá</div>
       </div>
       <div class="hero-stat">
         <div class="hero-stat-val" id="stat-dom">55.2%</div>
@@ -366,8 +389,8 @@
 <section class="price-section" aria-label="Giá tiền điện tử">
   <div class="price-status-bar">
     <div class="price-status-dot" id="price-status-dot"></div>
-    <span class="price-status-text" id="price-status-text">Đang tải giá...</span>
-    <button class="price-refresh-btn" onclick="fetchLivePrices()" title="Cập nhật giá ngay">↺ Làm mới</button>
+    <span class="price-status-text" id="price-status-text" data-i18n="loading_price">Đang tải giá...</span>
+    <button class="price-refresh-btn" onclick="fetchLivePrices()" data-i18n-title="refresh_title" data-i18n="refresh_btn">↺ Làm mới</button>
   </div>
   <div class="price-inner" id="price-cards">
     <!-- populated by CoinGecko API -->
@@ -378,7 +401,7 @@
 <main class="container" id="main-content">
   <div class="toolbar" role="toolbar" aria-label="Lọc bài viết">
     <div class="toolbar-left" id="tag-filters">
-      <button class="tag-filter active" data-tag="all" onclick="filterByTag('all', this)">Tất cả</button>
+      <button class="tag-filter active" data-tag="all" onclick="filterByTag('all', this)" data-i18n="all_tags">Tất cả</button>
     </div>
     <div class="toolbar-right">
       <span class="post-count" id="post-count" aria-live="polite"></span>
@@ -525,27 +548,27 @@
 <footer>
   <div class="footer-inner">
     <nav class="footer-links">
-      <a href="#" onclick="openAdmin(); return false;">Đăng bài mới</a>
+      <a href="#" onclick="openAdmin(); return false;" data-i18n="nav_post">Đăng bài mới</a>
       <a href="sitemap.xml">Sitemap</a>
     </nav>
-    <p>Nội dung phân tích tự động &nbsp;·&nbsp; AI bởi Groq &nbsp;·&nbsp; Deploy trên GitHub Pages</p>
-    <p class="footer-source">⚠️ Nội dung chỉ mang tính tham khảo, không phải lời khuyên đầu tư.</p>
+    <p data-i18n="footer_desc">Nội dung phân tích tự động &nbsp;·&nbsp; AI bởi Groq &nbsp;·&nbsp; Deploy trên GitHub Pages</p>
+    <p class="footer-source" data-i18n="footer_disclaimer">⚠️ Nội dung chỉ mang tính tham khảo, không phải lời khuyên đầu tư.</p>
   </div>
 </footer>
 
 <script>
 // ── COINGECKO LIVE PRICE CONFIG ─────────────────────────────────────────────
 var COIN_LIST = [
-  { id:'bitcoin',       sym:'BTC', name:'Bitcoin'  },
-  { id:'ethereum',      sym:'ETH', name:'Ethereum' },
-  { id:'binancecoin',   sym:'BNB', name:'BNB'      },
-  { id:'solana',        sym:'SOL', name:'Solana'   },
-  { id:'ripple',        sym:'XRP', name:'XRP'      },
-  { id:'cardano',       sym:'ADA', name:'Cardano'  },
-  { id:'dogecoin',      sym:'DOGE',name:'Dogecoin' },
-  { id:'tron',          sym:'TRX', name:'TRON'     },
-  { id:'avalanche-2',   sym:'AVAX',name:'Avalanche'},
-  { id:'chainlink',     sym:'LINK',name:'Chainlink'},
+  { id:'bitcoin',       sym:'BTC', name:'Bitcoin',   binance:'BTCUSDT'  },
+  { id:'ethereum',      sym:'ETH', name:'Ethereum',  binance:'ETHUSDT'  },
+  { id:'binancecoin',   sym:'BNB', name:'BNB',       binance:'BNBUSDT'  },
+  { id:'solana',        sym:'SOL', name:'Solana',    binance:'SOLUSDT'  },
+  { id:'ripple',        sym:'XRP', name:'XRP',       binance:'XRPUSDT'  },
+  { id:'cardano',       sym:'ADA', name:'Cardano',   binance:'ADAUSDT'  },
+  { id:'dogecoin',      sym:'DOGE',name:'Dogecoin',  binance:'DOGEUSDT' },
+  { id:'tron',          sym:'TRX', name:'TRON',      binance:'TRXUSDT'  },
+  { id:'avalanche-2',   sym:'AVAX',name:'Avalanche', binance:'AVAXUSDT' },
+  { id:'chainlink',     sym:'LINK',name:'Chainlink', binance:'LINKUSDT' },
 ];
 
 // Fallback data nếu API lỗi
@@ -564,18 +587,15 @@ var CRYPTO_DATA = [
 
 var priceLastUpdated = null;
 var priceRefreshInterval = null;
+var currentFilter = 'all';
+var lastPriceStatus = 'ok';
 
-// ── COINGECKO API FETCH ────────────────────────────────────────────────────
+// ── BINANCE API FETCH (no key, 6000 weight/min public limit) ──────────────
 function fetchLivePrices() {
-  var ids = COIN_LIST.map(function(c){ return c.id; }).join(',');
-  var url = 'https://api.coingecko.com/api/v3/simple/price'
-          + '?ids=' + ids
-          + '&vs_currencies=usd'
-          + '&include_24hr_change=true'
-          + '&include_market_cap=true'
-          + '&include_24hr_vol=true';
+  // Batch fetch: 1 request, weight = 2 per symbol → 20 weight total (vs 6000 limit)
+  var symbols = JSON.stringify(COIN_LIST.map(function(c){ return c.binance; }));
+  var url = 'https://api.binance.com/api/v3/ticker/24hr?symbols=' + encodeURIComponent(symbols);
 
-  // Hiển thị trạng thái đang tải
   setPriceStatus('loading');
 
   fetch(url, { headers: { 'Accept': 'application/json' } })
@@ -584,19 +604,24 @@ function fetchLivePrices() {
       return res.json();
     })
     .then(function(data) {
-      // Map API response → CRYPTO_DATA format
+      // Build lookup map: BTCUSDT → ticker data
+      var map = {};
+      data.forEach(function(t) { map[t.symbol] = t; });
+
       CRYPTO_DATA = COIN_LIST.map(function(coin) {
-        var d = data[coin.id];
-        if (!d) return null;
-        var change = d.usd_24h_change || 0;
+        var t = map[coin.binance];
+        if (!t) return null;
+        var price  = parseFloat(t.lastPrice)  || 0;
+        var change = parseFloat(t.priceChangePercent) || 0;
+        var vol    = parseFloat(t.quoteVolume) || 0; // volume in USD (USDT)
         return {
           sym:    coin.sym,
           name:   coin.name,
-          price:  d.usd || 0,
+          price:  price,
           change: parseFloat(change.toFixed(2)),
           up:     change >= 0,
-          mcap:   d.usd_market_cap || 0,
-          vol:    d.usd_24h_vol    || 0,
+          mcap:   0,   // Binance không có market cap — dùng globalData từ CoinGecko
+          vol:    vol,
         };
       }).filter(Boolean);
 
@@ -605,15 +630,16 @@ function fetchLivePrices() {
       renderTicker();
       renderHeroStats();
       setPriceStatus('ok');
-      console.log('✅ CoinGecko live prices updated:', priceLastUpdated.toLocaleTimeString('vi-VN'));
+      console.log('✅ Binance live prices updated:', priceLastUpdated.toLocaleTimeString('vi-VN'));
     })
     .catch(function(err) {
-      console.warn('⚠️ CoinGecko API lỗi:', err.message, '— dùng dữ liệu cũ');
+      console.warn('⚠️ Binance API lỗi:', err.message, '— thử lại sau 30 giây');
       setPriceStatus('error');
-      // Vẫn render với data cũ / fallback
       renderPriceCards();
       renderTicker();
       renderHeroStats();
+      // Auto-retry sau 30 giây nếu lỗi
+      setTimeout(fetchLivePrices, 30000);
     });
 }
 
@@ -624,16 +650,18 @@ function setPriceStatus(state) {
   if (state === 'loading') {
     dot.style.background  = '#f59e0b';
     dot.style.animation   = 'pulse 1s ease-in-out infinite';
-    text.textContent      = 'Đang tải giá...';
+    lastPriceStatus = 'loading';
+    text.textContent      = t('loading_price');
   } else if (state === 'ok') {
     dot.style.background  = '#10b981';
     dot.style.animation   = 'pulse 2s ease-in-out infinite';
-    var t = priceLastUpdated ? priceLastUpdated.toLocaleTimeString('vi-VN', {hour:'2-digit', minute:'2-digit', second:'2-digit'}) : '';
-    text.textContent      = 'Live · cập nhật ' + t;
+    lastPriceStatus = 'ok';
+    text.textContent      = t('price_ok') + (priceLastUpdated ? priceLastUpdated.toLocaleTimeString(t('date_locale'), {hour:'2-digit', minute:'2-digit', second:'2-digit'}) : '');
   } else {
     dot.style.background  = '#ef4444';
     dot.style.animation   = 'none';
-    text.textContent      = 'Mất kết nối — dữ liệu có thể lỗi thời';
+    lastPriceStatus = 'error';
+    text.textContent      = t('price_error');
   }
 }
 
@@ -790,12 +818,13 @@ document.addEventListener('DOMContentLoaded', function() {
   renderTicker();
   renderHeroStats();
 
-  // Fetch giá thực từ CoinGecko
+  // Fetch giá thực từ Binance (không giới hạn, không cần API key)
   fetchLivePrices();
+  // Fetch global market cap + BTC dominance từ CoinGecko (5 phút/lần)
   fetchGlobalData();
 
-  // Auto-refresh mỗi 60 giây (giá) và 5 phút (global market)
-  priceRefreshInterval = setInterval(fetchLivePrices, 60000);
+  // Binance: refresh mỗi 30 giây | CoinGecko global: 5 phút
+  priceRefreshInterval = setInterval(fetchLivePrices, 30000);
   setInterval(fetchGlobalData, 300000);
 
   loadPosts();
@@ -820,7 +849,7 @@ function loadPosts() {
     .catch(function(e){
       console.error('Lỗi tải posts:', e);
       document.getElementById('posts-grid').innerHTML =
-        '<div class="empty-state"><div class="empty-icon">⚠️</div><h3>Không tải được bài viết</h3><p>Vui lòng thử lại sau.</p></div>';
+        '<div class="empty-state"><div class="empty-icon">⚠️</div><h3>'+t('load_error_title')+'</h3><p>'+t('load_error_desc')+'</p></div>';
     });
 }
 
@@ -831,18 +860,17 @@ function renderPosts(posts) {
   if (!posts.length) {
     grid.innerHTML =
       '<div class="empty-state"><div class="empty-icon">₿</div>' +
-      '<h3>Chưa có bài viết</h3>' +
-      '<p>Nhấn <strong>⚡ Đăng bài mới</strong> để crawl CoinMarketCap,<br>' +
-      'hoặc chờ GitHub Actions tự động chạy lúc 7:00 sáng.</p></div>';
+      '<h3>'+t('empty_title')+'</h3>' +
+      '<p>'+t('empty_desc')+'</p></div>';
     countEl.textContent = '';
     return;
   }
-  countEl.textContent = posts.length + ' bài';
+  countEl.textContent = posts.length + ' ' + t('post_count_unit');
   grid.innerHTML = posts.map(cardHTML).join('');
 }
 
 function cardHTML(post) {
-  var date = new Date(post.publishedAt).toLocaleDateString('vi-VN',{year:'numeric',month:'short',day:'numeric'});
+  var date = new Date(post.publishedAt).toLocaleDateString(t('date_locale'), t('card_date_opts'));
   var tags = (post.tags||[]).slice(0,2).map(function(t,i){
     return '<span class="card-tag'+(i>0?' secondary':'')+'">' + esc(t) + '</span>';
   }).join('');
@@ -861,7 +889,7 @@ function cardHTML(post) {
     '<div class="card-body">' +
     '<h2 class="card-title">'+esc(post.title)+'</h2>' +
     '<p class="card-summary">'+esc(post.summary||'')+'</p>' +
-    '<div class="card-footer"><span class="card-meta">'+date+'</span><span class="card-read">~'+(post.readTime||5)+' phút →</span></div>' +
+    '<div class="card-footer"><span class="card-meta">'+date+'</span><span class="card-read">~'+(post.readTime||5)+' '+t('min_read')+' →</span></div>' +
     '</div></article>';
 }
 
@@ -871,6 +899,8 @@ function renderTagFilters() {
   allPosts.forEach(function(p){ (p.tags||[]).forEach(function(t){tags.add(t);}); });
   var container = document.getElementById('tag-filters');
   container.querySelectorAll('[data-tag]:not([data-tag="all"])').forEach(function(b){b.remove();});
+  var allBtn = container.querySelector('[data-tag="all"]');
+  if (allBtn) allBtn.textContent = t('all_tags');
   tags.forEach(function(tag){
     var btn = document.createElement('button');
     btn.className = 'tag-filter'; btn.dataset.tag = tag; btn.textContent = tag;
@@ -880,6 +910,7 @@ function renderTagFilters() {
 }
 
 function filterByTag(tag, btn) {
+  currentFilter = tag;
   document.querySelectorAll('.tag-filter').forEach(function(b){b.classList.remove('active');});
   btn.classList.add('active');
   var filtered = tag==='all' ? allPosts : allPosts.filter(function(p){return(p.tags||[]).includes(tag);});
@@ -890,7 +921,7 @@ function filterByTag(tag, btn) {
 function openPost(id) {
   var post = allPosts.find(function(p){return p.id===id;});
   if (!post) return;
-  var date = new Date(post.publishedAt).toLocaleDateString('vi-VN',{year:'numeric',month:'long',day:'numeric',hour:'2-digit',minute:'2-digit'});
+  var date = new Date(post.publishedAt).toLocaleDateString(t('date_locale'), t('modal_date_opts'));
   var tags = (post.tags||[]).map(function(t,i){return '<span class="modal-tag'+(i>0?' sec':'')+'">'+esc(t)+'</span>';}).join('');
   var imgSrc = getImageForPost(post);
   var imgAlt = getAltForPost(post);
@@ -901,17 +932,17 @@ function openPost(id) {
     '<div class="modal-hero">' +
     '<div class="modal-tags">'+tags+'</div>' +
     '<h1 class="modal-title">'+esc(post.title)+'</h1>' +
-    '<p class="modal-meta">'+date+' &nbsp;·&nbsp; ~'+(post.readTime||5)+' phút đọc</p>' +
+    '<p class="modal-meta">'+date+' &nbsp;·&nbsp; ~'+(post.readTime||5)+' '+t('min_read_label')+'</p>' +
     '</div>' +
     '<div class="modal-body">' +
     '<p class="modal-summary">'+esc(post.summary||'')+'</p>' +
-    '<div class="modal-content">'+(post.content||'<p>Đang tải...</p>')+'</div>' +
+    '<div class="modal-content">'+(post.content||'<p>'+t('loading_content')+'</p>')+'</div>' +
     '</div>' +
     '<div class="modal-footer">' +
-    '<span class="source-link">📰 '+esc(post.sourceTitle||'Tổng hợp tin tức')+'</span>' +
+    '<span class="source-link">📰 '+esc(post.sourceTitle||t('source_fallback'))+'</span>' +
     '<div class="modal-footer-actions">' +
-    '<button class="btn-share" onclick="sharePost(\''+escAttr(post.id)+'\')">🔗 Chia sẻ</button>' +
-    '<button class="btn-close" onclick="closePostModal()">✕ Đóng</button>' +
+    '<button class="btn-share" onclick="sharePost(\''+escAttr(post.id)+'\')">'+t('share_btn')+'</button>' +
+    '<button class="btn-close" onclick="closePostModal()">'+t('close_btn')+'</button>' +
     '</div></div>';
 
   document.getElementById('post-modal').classList.add('open');
@@ -938,7 +969,7 @@ function sharePost(id) {
 }
 
 function showToast(msg) {
-  var t = document.getElementById('share-toast');
+  var toastEl = document.getElementById('share-toast');
   t.textContent = msg; t.classList.add('show');
   setTimeout(function(){ t.classList.remove('show'); }, 2500);
 }
@@ -1213,5 +1244,127 @@ function runBatchPublish(){
     });
 }
 </script>
+
+<script>
+// ═══════════════════════════════════════════════════════
+// THEME & LANGUAGE SYSTEM
+// ═══════════════════════════════════════════════════════
+
+var TRANSLATIONS = {
+  vi: {
+    badge:            'AI · Cập nhật mỗi ngày',
+    hero_h1:          'Phân tích <em>crypto</em><br>từ AI chuyên sâu',
+    hero_sub:         'Tin tức Bitcoin, Ethereum, Altcoin và DeFi — được crawl từ CoinMarketCap, phân tích và viết lại bởi trí tuệ nhân tạo.',
+    total_mcap:       'Tổng vốn hoá',
+    loading_price:    'Đang tải giá...',
+    refresh_btn:      '↺ Làm mới',
+    refresh_title:    'Cập nhật giá ngay',
+    all_tags:         'Tất cả',
+    nav_post:         'Đăng bài mới',
+    nav_reload:       'Tải lại',
+    footer_desc:      'Nội dung phân tích tự động &nbsp;·&nbsp; AI bởi Groq &nbsp;·&nbsp; Deploy trên GitHub Pages',
+    footer_disclaimer:'⚠️ Nội dung chỉ mang tính tham khảo, không phải lời khuyên đầu tư.',
+    post_count_unit:  'bài',
+    min_read:         'phút',
+    min_read_label:   'phút đọc',
+    share_btn:        '🔗 Chia sẻ',
+    close_btn:        '✕ Đóng',
+    source_fallback:  'Tổng hợp tin tức',
+    empty_title:      'Chưa có bài viết',
+    empty_desc:       'Nhấn <strong>⚡ Đăng bài mới</strong> để crawl CoinMarketCap,<br>hoặc chờ GitHub Actions tự động chạy lúc 7:00 sáng.',
+    load_error_title: 'Không tải được bài viết',
+    load_error_desc:  'Vui lòng thử lại sau.',
+    price_ok:         'Live · cập nhật ',
+    price_error:      'Mất kết nối — dữ liệu có thể lỗi thời',
+    loading_content:  'Đang tải...',
+    date_locale:      'vi-VN',
+    card_date_opts:   {year:'numeric',month:'short',day:'numeric'},
+    modal_date_opts:  {year:'numeric',month:'long',day:'numeric',hour:'2-digit',minute:'2-digit'},
+  },
+  en: {
+    badge:            'AI · Updated daily',
+    hero_h1:          'Deep <em>crypto</em><br>analysis by AI',
+    hero_sub:         'Bitcoin, Ethereum, Altcoin and DeFi news — crawled from CoinMarketCap, analyzed and rewritten by artificial intelligence.',
+    total_mcap:       'Total Market Cap',
+    loading_price:    'Loading prices...',
+    refresh_btn:      '↺ Refresh',
+    refresh_title:    'Update prices now',
+    all_tags:         'All',
+    nav_post:         'New Post',
+    nav_reload:       'Reload',
+    footer_desc:      'Auto-analyzed content &nbsp;·&nbsp; AI by Groq &nbsp;·&nbsp; Deployed on GitHub Pages',
+    footer_disclaimer:'⚠️ Content is for reference only, not investment advice.',
+    post_count_unit:  'posts',
+    min_read:         'min',
+    min_read_label:   'min read',
+    share_btn:        '🔗 Share',
+    close_btn:        '✕ Close',
+    source_fallback:  'News aggregation',
+    empty_title:      'No posts yet',
+    empty_desc:       'Click <strong>⚡ New Post</strong> to crawl CoinMarketCap,<br>or wait for GitHub Actions to run at 7:00 AM.',
+    load_error_title: 'Failed to load posts',
+    load_error_desc:  'Please try again later.',
+    price_ok:         'Live · updated ',
+    price_error:      'Connection lost — data may be outdated',
+    loading_content:  'Loading...',
+    date_locale:      'en-US',
+    card_date_opts:   {year:'numeric',month:'short',day:'numeric'},
+    modal_date_opts:  {year:'numeric',month:'long',day:'numeric',hour:'2-digit',minute:'2-digit'},
+  }
+};
+
+var currentLang  = localStorage.getItem('ci_lang')  || 'vi';
+var currentTheme = localStorage.getItem('ci_theme') || 'dark';
+
+function t(key) { return (TRANSLATIONS[currentLang] || TRANSLATIONS['vi'])[key] || key; }
+
+function applyTheme(theme) {
+  currentTheme = theme;
+  document.documentElement.setAttribute('data-theme', theme === 'light' ? 'light' : '');
+  var btn = document.getElementById('btn-theme');
+  if (btn) btn.textContent = theme === 'light' ? '🌙' : '☀️';
+  localStorage.setItem('ci_theme', theme);
+}
+
+function toggleTheme() {
+  applyTheme(currentTheme === 'dark' ? 'light' : 'dark');
+}
+
+function applyLang(lang) {
+  currentLang = lang;
+  document.documentElement.setAttribute('lang', lang === 'vi' ? 'vi' : 'en');
+  var btn = document.getElementById('btn-lang');
+  if (btn) btn.textContent = lang === 'vi' ? 'EN' : 'VI';
+  localStorage.setItem('ci_lang', lang);
+  // Update all static data-i18n elements (non-innerHTML ones)
+  document.querySelectorAll('[data-i18n]').forEach(function(el) {
+    var key = el.getAttribute('data-i18n');
+    var val = t(key);
+    // Use innerHTML for keys that contain HTML tags
+    if (val.indexOf('<') !== -1) { el.innerHTML = val; } else { el.textContent = val; }
+  });
+  document.querySelectorAll('[data-i18n-title]').forEach(function(el) {
+    el.title = t(el.getAttribute('data-i18n-title'));
+  });
+  // Re-render dynamic content
+  if (typeof renderPosts === 'function' && typeof allPosts !== 'undefined') renderPosts(currentFilter === 'all' ? allPosts : allPosts.filter(function(p){return(p.tags||[]).includes(currentFilter);}));
+  if (typeof setPriceStatus === 'function') setPriceStatus(lastPriceStatus || 'ok');
+}
+
+function toggleLang() {
+  applyLang(currentLang === 'vi' ? 'en' : 'vi');
+}
+
+// Apply on load (before DOMContentLoaded so no flash)
+(function() {
+  applyTheme(currentTheme);
+})();
+
+document.addEventListener('DOMContentLoaded', function() {
+  applyTheme(currentTheme);
+  applyLang(currentLang);
+});
+</script>
+
 </body>
 </html>
