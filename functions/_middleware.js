@@ -10,7 +10,7 @@ export async function onRequest(context) {
   const url = new URL(request.url);
 
   // Chỉ bảo vệ đường dẫn /admin (và /admin.html, /admin/*)
-  if (!url.pathname.startsWith('/admin')) {
+  if (!url.pathname.startsWith('/docs/admin')) {
     return next();
   }
 
