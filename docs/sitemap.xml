@@ -7,6 +7,17 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://cryptoinsight.c-odeisfound.workers.dev/#diem-tin-crypto-27042026-luc-2213-thi-truong-tien-dien-tu-tiep-tuc-bien-dong</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777302835/cryptoinsight/posts/diem-tin-crypto-27042026-luc-2213-thi-truong-tien-dien-tu-tiep-tuc-bien-dong.jpg</image:loc>
+      <image:title>Điểm tin crypto 27/04/2026 lúc 22:13: Thị trường tiền điện tử tiếp tục biến động</image:title>
+      <image:caption>Điểm tin crypto 27/04/2026 lúc 22:13: Thị trường tiền điện tử tiếp tục biến động</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://cryptoinsight.c-odeisfound.workers.dev/#diem-tin-crypto-27042026-luc-2130-thi-truong-tien-dien-tu-bien-dong-manh</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
@@ -191,17 +202,6 @@
       <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777269611/cryptoinsight/posts/diem-tin-crypto-27042026-luc-1300-bitcoin-va-xu-huong-thi-truong.jpg</image:loc>
       <image:title>Điểm tin crypto 27/04/2026 lúc 13:00: Bitcoin và xu hướng thị trường</image:title>
       <image:caption>Điểm tin crypto 27/04/2026 lúc 13:00: Bitcoin và xu hướng thị trường</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://cryptoinsight.c-odeisfound.workers.dev/#diem-tin-crypto-27042026-thi-truong-crypto-bien-dong-manh</loc>
-    <lastmod>2026-04-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGNjMTYtNzJlMy03MTVkLTg5M2QtMjFmZDNjMjE2MWQzLmpwZw==.jpg</image:loc>
-      <image:title>Điểm tin crypto 27/04/2026: Thị trường crypto biến động mạnh</image:title>
-      <image:caption>Điểm tin crypto 27/04/2026: Thị trường crypto biến động mạnh</image:caption>
     </image:image>
   </url>
 </urlset>
