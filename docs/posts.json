@@ -1,6 +1,85 @@
 {
   "posts": [
     {
+      "id": "1777289349220",
+      "title": "Điểm tin crypto 27/04/2026 lúc 18:29: Thị trường biến động với Bitcoin và DeFi",
+      "summary": "Thị trường crypto đang trải qua những biến động lớn với Bitcoin chạm mức $80,000 và DeFi đối mặt với thách thức về nợ xấu. Pháp charging 88 người liên quan đến các vụ tấn công 'wrench' liên quan đến crypto.",
+      "content": "<p>Thị trường crypto đang trải qua những biến động lớn trong thời gian gần đây. Với sự kiện Bitcoin chạm mức $80,000 và DeFi đối mặt với thách thức về nợ xấu, nhà đầu tư cần phải cẩn thận và theo dõi sát sao thị trường.</p><h2>1. Pháp charging 88 người liên quan đến các vụ tấn công 'wrench' liên quan đến crypto</h2><p>Pháp đã charging 88 người liên quan đến các vụ tấn công 'wrench' liên quan đến crypto. Điều này cho thấy sự quan tâm của chính phủ đối với vấn đề an ninh trong lĩnh vực crypto.</p><h2>2. Bitcoin chạm mức $80,000 và DeFi đối mặt với thách thức về nợ xấu</h2><p>Bitcoin đã chạm mức $80,000, nhưng sau đó đã giảm xuống do sự điều chỉnh của thị trường. DeFi cũng đang đối mặt với thách thức về nợ xấu, với việc Curve founder đề xuất một mô hình mới để giải quyết vấn đề này.</p><h2>3. Western Union ra mắt stablecoin trên Solana</h2><p>Western Union đã ra mắt stablecoin trên Solana, với mục đích cung cấp một giải pháp thay thế cho hệ thống thanh toán truyền thống.</p><h2>4. Luxor và MicroBT ký kết thỏa thuận mua bán thiết bị khai thác</h2><p>Luxor và MicroBT đã ký kết thỏa thuận mua bán thiết bị khai thác trị giá $100 triệu.</p><h2>Nhận định thị trường</h2><p>Thị trường crypto đang trải qua những biến động lớn, nhưng vẫn có những cơ hội đầu tư hấp dẫn. Nhà đầu tư cần phải cẩn thận và theo dõi sát sao thị trường để đưa ra quyết định đầu tư thông minh.</p><h2>Khuyến nghị nhà đầu tư</h2><p>Nhà đầu tư nên theo dõi sát sao thị trường và đưa ra quyết định đầu tư dựa trên phân tích kỹ lưỡng. Ngoài ra, việc đa dạng hóa danh mục đầu tư cũng là một chiến lược quan trọng để giảm thiểu rủi ro.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] France Charges 88, Including Minors, in Crypto ‘Wrench Attack’ Crackdown — <em>Decrypt</em></li>\n<li>[2] Bitcoin hits wall at $80,000, one analyst says the pullback is temporary — <em>CoinDesk</em></li>\n<li>[3] ‘Better than bailouts?’: Curve founder proposes market-based bad debt recovery model for DeFi lending amid KelpDAO fallout — <em>The Block</em></li>\n<li>[4] EU’s largest measures against Russia yet include escalation of crypto sanctions evasion — <em>CoinDesk</em></li>\n<li>[5] Bitcoin reverses from $79,500 as oil surge triggers broader crypto selloff — <em>CoinDesk</em></li>\n<li>[6] Western Union to Launch Solana-Based Stablecoin Plus ‘Stable Card’ Next Month — <em>Decrypt</em></li>\n<li>[7] French prosecutors charge 88 individuals linked to crypto wrench attacks — <em>The Block</em></li>\n<li>[8] Bitcoin leads $1.2B weekly haul for global crypto funds as institutional demand builds: CoinShares — <em>The Block</em></li>\n<li>[9] Luxor, MicroBT deepen ties with $100 million mining rig deal and planned investment — <em>The Block</em></li>\n<li>[10] Global interest rates, Robinhood, Galaxy earnings: Crypto Week Ahead — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "defi",
+        "thị trường",
+        "điểm tin"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777289348/cryptoinsight/posts/diem-tin-crypto-27042026-luc-1829-thi-truong-bien-dong-voi-bitcoin-va-defi.png",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1777289348/cryptoinsight/posts/diem-tin-crypto-27042026-luc-1829-thi-truong-bien-dong-voi-bitcoin-va-defi.png",
+        "publicId": "cryptoinsight/posts/diem-tin-crypto-27042026-luc-1829-thi-truong-bien-dong-voi-bitcoin-va-defi",
+        "width": 3556,
+        "height": 2000,
+        "format": "png",
+        "alt": "Điểm tin crypto 27/04/2026 lúc 18:29: Thị trường biến động với Bitcoin và DeFi"
+      },
+      "sourceUrl": "https://decrypt.co/365596/france-charges-88-including-minors-in-crypto-wrench-attack-crackdown",
+      "sourceTitle": "Decrypt / CoinDesk / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "France Charges 88, Including Minors, in Crypto ‘Wrench Attack’ Crackdown",
+          "url": "https://decrypt.co/365596/france-charges-88-including-minors-in-crypto-wrench-attack-crackdown",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitcoin hits wall at $80,000, one analyst says the pullback is temporary",
+          "url": "https://www.coindesk.com/daybook-us/2026/04/27/bitcoin-hits-wall-at-usd80-000-one-analyst-says-the-pullback-is-temporary",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "‘Better than bailouts?’: Curve founder proposes market-based bad debt recovery model for DeFi lending amid KelpDAO fallout",
+          "url": "https://www.theblock.co/post/398958/better-than-bailouts-curve-founder-proposes-market-based-bad-debt-recovery-model-for-defi-lending-amid-kelpdao-fallout?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "EU’s largest measures against Russia yet include escalation of crypto sanctions evasion",
+          "url": "https://www.coindesk.com/policy/2026/04/27/eu-s-largest-measures-against-russia-yet-include-escalation-of-crypto-sanctions-evasion",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin reverses from $79,500 as oil surge triggers broader crypto selloff",
+          "url": "https://www.coindesk.com/markets/2026/04/27/bitcoin-reverses-from-usd79-500-as-oil-surge-triggers-broader-crypto-selloff",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Western Union to Launch Solana-Based Stablecoin Plus ‘Stable Card’ Next Month",
+          "url": "https://decrypt.co/365593/western-union-to-launch-solana-based-stablecoin-plus-stable-card-next-month",
+          "source": "Decrypt"
+        },
+        {
+          "title": "French prosecutors charge 88 individuals linked to crypto wrench attacks",
+          "url": "https://www.theblock.co/post/398939/french-charge-88-crypto-wrench-attacks?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin leads $1.2B weekly haul for global crypto funds as institutional demand builds: CoinShares",
+          "url": "https://www.theblock.co/post/398938/bitcoin-leads-1-2b-weekly-haul-for-global-crypto-funds-as-institutional-demand-builds-coinshares?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Luxor, MicroBT deepen ties with $100 million mining rig deal and planned investment",
+          "url": "https://www.theblock.co/post/398933/luxor-microbt-100-million-rig-deal?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Global interest rates, Robinhood, Galaxy earnings: Crypto Week Ahead",
+          "url": "https://www.coindesk.com/markets/2026/04/27/global-interest-rates-robinhood-galaxy-earnings-crypto-week-ahead",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-04-27T11:29:09.220Z",
+      "slug": "diem-tin-crypto-27042026-luc-1829-thi-truong-bien-dong-voi-bitcoin-va-defi"
+    },
+    {
       "id": "1777288418865",
       "title": "Điểm tin crypto 27/04/2026 lúc 18:13: Thị trường biến động với sự kiện KelpDAO và biện pháp trừng phạt Nga",
       "summary": "Thị trường crypto biến động với sự kiện KelpDAO, biện pháp trừng phạt Nga và sự quan tâm của các tổ chức tài chính. Bitcoin giảm sau khi đạt mức cao $79,500 và các altcoin cũng chịu ảnh hưởng. Các sự kiện này cho thấy sự phức tạp và rủi ro của thị trường crypto.",
@@ -662,11 +741,14 @@
     "https://www.coindesk.com/markets/2026/04/27/bitcoin-reverses-from-usd79-500-as-oil-surge-triggers-broader-crypto-selloff",
     "https://decrypt.co/365593/western-union-to-launch-solana-based-stablecoin-plus-stable-card-next-month",
     "https://www.theblock.co/post/398939/french-charge-88-crypto-wrench-attacks?utm_source=rss&amp;utm_medium=rss",
-    "https://www.theblock.co/post/398958/better-than-bailouts-curve-founder-proposes-market-based-bad-debt-recovery-model-for-defi-lending-amid-kelpdao-fallout?utm_source=rss&amp;utm_medium=rss"
+    "https://www.theblock.co/post/398958/better-than-bailouts-curve-founder-proposes-market-based-bad-debt-recovery-model-for-defi-lending-amid-kelpdao-fallout?utm_source=rss&amp;utm_medium=rss",
+    "https://decrypt.co/365596/france-charges-88-including-minors-in-crypto-wrench-attack-crackdown",
+    "https://www.coindesk.com/daybook-us/2026/04/27/bitcoin-hits-wall-at-usd80-000-one-analyst-says-the-pullback-is-temporary"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/398938/bitcoin-leads-1-2b-weekly-haul-for-global-crypto-funds-as-institutional-demand-builds-coinshares?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/398933/luxor-microbt-100-million-rig-deal?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/04/27/global-interest-rates-robinhood-galaxy-earnings-crypto-week-ahead",
     "https://www.coindesk.com/policy/2026/04/27/eu-s-largest-measures-against-russia-yet-include-escalation-of-crypto-sanctions-evasion|https://www.coindesk.com/markets/2026/04/27/bitcoin-reverses-from-usd79-500-as-oil-surge-triggers-broader-crypto-selloff|https://decrypt.co/365593/western-union-to-launch-solana-based-stablecoin-plus-stable-card-next-month",
-    "https://www.theblock.co/post/398958/better-than-bailouts-curve-founder-proposes-market-based-bad-debt-recovery-model-for-defi-lending-amid-kelpdao-fallout?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/policy/2026/04/27/eu-s-largest-measures-against-russia-yet-include-escalation-of-crypto-sanctions-evasion|https://www.coindesk.com/markets/2026/04/27/bitcoin-reverses-from-usd79-500-as-oil-surge-triggers-broader-crypto-selloff"
+    "https://www.theblock.co/post/398958/better-than-bailouts-curve-founder-proposes-market-based-bad-debt-recovery-model-for-defi-lending-amid-kelpdao-fallout?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/policy/2026/04/27/eu-s-largest-measures-against-russia-yet-include-escalation-of-crypto-sanctions-evasion|https://www.coindesk.com/markets/2026/04/27/bitcoin-reverses-from-usd79-500-as-oil-surge-triggers-broader-crypto-selloff",
+    "https://decrypt.co/365596/france-charges-88-including-minors-in-crypto-wrench-attack-crackdown|https://www.coindesk.com/daybook-us/2026/04/27/bitcoin-hits-wall-at-usd80-000-one-analyst-says-the-pullback-is-temporary|https://www.theblock.co/post/398958/better-than-bailouts-curve-founder-proposes-market-based-bad-debt-recovery-model-for-defi-lending-amid-kelpdao-fallout?utm_source=rss&amp;utm_medium=rss"
   ]
 }
