@@ -108,16 +108,25 @@
     .hero-stat-lbl { font-size: 11px; color: var(--text3); text-transform: uppercase; letter-spacing: .08em; margin-top: 4px; }
 
     /* ── PRICE CARDS ──────────────────────────── */
-    .price-section { background: var(--bg3); border-bottom: 1px solid var(--border); padding: 20px 0; }
-    .price-inner { max-width: 1200px; margin: 0 auto; padding: 0 24px; display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 12px; }
-    .price-card { background: var(--bg4); border: 1px solid var(--border); border-radius: 10px; padding: 14px 16px; transition: border-color 0.2s; cursor: default; }
-    .price-card:hover { border-color: var(--border2); }
-    .pc-sym { font-family: var(--mono); font-size: 11px; font-weight: 500; color: var(--text3); text-transform: uppercase; letter-spacing: .08em; margin-bottom: 6px; }
-    .pc-name { font-size: 13px; color: var(--text2); margin-bottom: 8px; }
-    .pc-price { font-family: var(--mono); font-size: 17px; font-weight: 500; color: var(--text); }
-    .pc-change { font-family: var(--mono); font-size: 12px; font-weight: 500; margin-top: 4px; }
-    .pc-change.up { color: var(--green); }
-    .pc-change.dn { color: var(--red); }
+    .price-section { background: var(--bg3); border-bottom: 1px solid var(--border); padding: 10px 0 20px; }
+    .price-inner { max-width: 1200px; margin: 0 auto; padding: 12px 24px 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 10px; }
+    .price-card { background: var(--bg4); border: 1px solid var(--border); border-radius: 10px; padding: 14px 16px; transition: border-color 0.2s, box-shadow 0.2s; cursor: default; }
+    .price-card:hover { border-color: var(--border2); box-shadow: 0 4px 20px rgba(245,158,11,0.08); }
+    .pc-header { display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 8px; }
+    .pc-sym { font-family: var(--mono); font-size: 11px; font-weight: 600; color: var(--amber); text-transform: uppercase; letter-spacing: .1em; margin-bottom: 2px; }
+    .pc-name { font-size: 12px; color: var(--text3); }
+    .pc-price { font-family: var(--mono); font-size: 18px; font-weight: 500; color: var(--text); margin-bottom: 4px; }
+    .pc-mcap { font-family: var(--mono); font-size: 10px; color: var(--text3); }
+    .pc-change { font-family: var(--mono); font-size: 12px; font-weight: 600; padding: 3px 7px; border-radius: 5px; white-space: nowrap; }
+    .pc-change.up { color: var(--green); background: rgba(16,185,129,0.1); }
+    .pc-change.dn { color: var(--red);   background: rgba(239,68,68,0.1);  }
+
+    /* ── PRICE STATUS BAR ─────────────────────────── */
+    .price-status-bar { max-width: 1200px; margin: 0 auto; padding: 8px 24px 0; display: flex; align-items: center; gap: 8px; }
+    .price-status-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--green); flex-shrink: 0; animation: pulse 2s ease-in-out infinite; }
+    .price-status-text { font-family: var(--mono); font-size: 11px; color: var(--text3); }
+    .price-refresh-btn { background: transparent; border: 1px solid var(--border); color: var(--text3); padding: 2px 10px; border-radius: 5px; font-size: 10px; cursor: pointer; font-family: var(--mono); margin-left: auto; transition: all 0.18s; }
+    .price-refresh-btn:hover { border-color: var(--border2); color: var(--amber); }
 
     /* ── LAYOUT ───────────────────────────────── */
     .container { max-width: 1200px; margin: 0 auto; padding: 0 24px; }
@@ -355,8 +364,13 @@
 
 <!-- PRICE CARDS -->
 <section class="price-section" aria-label="Giá tiền điện tử">
+  <div class="price-status-bar">
+    <div class="price-status-dot" id="price-status-dot"></div>
+    <span class="price-status-text" id="price-status-text">Đang tải giá...</span>
+    <button class="price-refresh-btn" onclick="fetchLivePrices()" title="Cập nhật giá ngay">↺ Làm mới</button>
+  </div>
   <div class="price-inner" id="price-cards">
-    <!-- populated by JS -->
+    <!-- populated by CoinGecko API -->
   </div>
 </section>
 
@@ -523,39 +537,148 @@
 </footer>
 
 <script>
-// ── CRYPTO PRICES (static fallback, updated at build time) ─────────────────
-var CRYPTO_DATA = [
-  { sym:'BTC', name:'Bitcoin',  price:79022,  change:4.26,  up:true  },
-  { sym:'ETH', name:'Ethereum', price:1520,   change:-1.2,  up:false },
-  { sym:'BNB', name:'BNB',      price:605,    change:2.1,   up:true  },
-  { sym:'SOL', name:'Solana',   price:142,    change:3.5,   up:true  },
-  { sym:'XRP', name:'XRP',      price:2.18,   change:-0.8,  up:false },
-  { sym:'ADA', name:'Cardano',  price:0.72,   change:1.4,   up:true  },
+// ── COINGECKO LIVE PRICE CONFIG ─────────────────────────────────────────────
+var COIN_LIST = [
+  { id:'bitcoin',       sym:'BTC', name:'Bitcoin'  },
+  { id:'ethereum',      sym:'ETH', name:'Ethereum' },
+  { id:'binancecoin',   sym:'BNB', name:'BNB'      },
+  { id:'solana',        sym:'SOL', name:'Solana'   },
+  { id:'ripple',        sym:'XRP', name:'XRP'      },
+  { id:'cardano',       sym:'ADA', name:'Cardano'  },
+  { id:'dogecoin',      sym:'DOGE',name:'Dogecoin' },
+  { id:'tron',          sym:'TRX', name:'TRON'     },
+  { id:'avalanche-2',   sym:'AVAX',name:'Avalanche'},
+  { id:'chainlink',     sym:'LINK',name:'Chainlink'},
 ];
 
+// Fallback data nếu API lỗi
+var CRYPTO_DATA = [
+  { sym:'BTC', name:'Bitcoin',   price:79022, change:0, up:true  },
+  { sym:'ETH', name:'Ethereum',  price:1520,  change:0, up:true  },
+  { sym:'BNB', name:'BNB',       price:605,   change:0, up:true  },
+  { sym:'SOL', name:'Solana',    price:142,   change:0, up:true  },
+  { sym:'XRP', name:'XRP',       price:2.18,  change:0, up:true  },
+  { sym:'ADA', name:'Cardano',   price:0.72,  change:0, up:true  },
+  { sym:'DOGE',name:'Dogecoin',  price:0.18,  change:0, up:true  },
+  { sym:'TRX', name:'TRON',      price:0.23,  change:0, up:true  },
+  { sym:'AVAX',name:'Avalanche', price:22.5,  change:0, up:true  },
+  { sym:'LINK',name:'Chainlink', price:13.4,  change:0, up:true  },
+];
+
+var priceLastUpdated = null;
+var priceRefreshInterval = null;
+
+// ── COINGECKO API FETCH ────────────────────────────────────────────────────
+function fetchLivePrices() {
+  var ids = COIN_LIST.map(function(c){ return c.id; }).join(',');
+  var url = 'https://api.coingecko.com/api/v3/simple/price'
+          + '?ids=' + ids
+          + '&vs_currencies=usd'
+          + '&include_24hr_change=true'
+          + '&include_market_cap=true'
+          + '&include_24hr_vol=true';
+
+  // Hiển thị trạng thái đang tải
+  setPriceStatus('loading');
+
+  fetch(url, { headers: { 'Accept': 'application/json' } })
+    .then(function(res) {
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      return res.json();
+    })
+    .then(function(data) {
+      // Map API response → CRYPTO_DATA format
+      CRYPTO_DATA = COIN_LIST.map(function(coin) {
+        var d = data[coin.id];
+        if (!d) return null;
+        var change = d.usd_24h_change || 0;
+        return {
+          sym:    coin.sym,
+          name:   coin.name,
+          price:  d.usd || 0,
+          change: parseFloat(change.toFixed(2)),
+          up:     change >= 0,
+          mcap:   d.usd_market_cap || 0,
+          vol:    d.usd_24h_vol    || 0,
+        };
+      }).filter(Boolean);
+
+      priceLastUpdated = new Date();
+      renderPriceCards();
+      renderTicker();
+      renderHeroStats();
+      setPriceStatus('ok');
+      console.log('✅ CoinGecko live prices updated:', priceLastUpdated.toLocaleTimeString('vi-VN'));
+    })
+    .catch(function(err) {
+      console.warn('⚠️ CoinGecko API lỗi:', err.message, '— dùng dữ liệu cũ');
+      setPriceStatus('error');
+      // Vẫn render với data cũ / fallback
+      renderPriceCards();
+      renderTicker();
+      renderHeroStats();
+    });
+}
+
+function setPriceStatus(state) {
+  var dot  = document.getElementById('price-status-dot');
+  var text = document.getElementById('price-status-text');
+  if (!dot || !text) return;
+  if (state === 'loading') {
+    dot.style.background  = '#f59e0b';
+    dot.style.animation   = 'pulse 1s ease-in-out infinite';
+    text.textContent      = 'Đang tải giá...';
+  } else if (state === 'ok') {
+    dot.style.background  = '#10b981';
+    dot.style.animation   = 'pulse 2s ease-in-out infinite';
+    var t = priceLastUpdated ? priceLastUpdated.toLocaleTimeString('vi-VN', {hour:'2-digit', minute:'2-digit', second:'2-digit'}) : '';
+    text.textContent      = 'Live · cập nhật ' + t;
+  } else {
+    dot.style.background  = '#ef4444';
+    dot.style.animation   = 'none';
+    text.textContent      = 'Mất kết nối — dữ liệu có thể lỗi thời';
+  }
+}
+
+// ── FORMAT GIÁ ────────────────────────────────────────────────────────────
 function fmt(n) {
   if (n >= 1000) return '$' + n.toLocaleString('en-US', {maximumFractionDigits:0});
   if (n >= 1)    return '$' + n.toFixed(2);
   return '$' + n.toFixed(4);
 }
 
+function fmtMcap(n) {
+  if (n >= 1e12) return '$' + (n / 1e12).toFixed(2) + 'T';
+  if (n >= 1e9)  return '$' + (n / 1e9).toFixed(1) + 'B';
+  if (n >= 1e6)  return '$' + (n / 1e6).toFixed(1) + 'M';
+  return '$' + n.toLocaleString('en-US', {maximumFractionDigits:0});
+}
+
+// ── RENDER PRICE CARDS ────────────────────────────────────────────────────
 function renderPriceCards() {
   var html = CRYPTO_DATA.map(function(c) {
-    var cls = c.up ? 'up' : 'dn';
+    var cls   = c.up ? 'up' : 'dn';
     var arrow = c.up ? '▲' : '▼';
-    return '<div class="price-card">' +
-      '<div class="pc-sym">' + c.sym + '</div>' +
-      '<div class="pc-name">' + c.name + '</div>' +
+    var mcapStr = c.mcap ? '<div class="pc-mcap">MCap ' + fmtMcap(c.mcap) + '</div>' : '';
+    return '<div class="price-card" title="Vốn hoá: ' + (c.mcap ? fmtMcap(c.mcap) : 'N/A') + '">' +
+      '<div class="pc-header">' +
+        '<div>' +
+          '<div class="pc-sym">' + c.sym + '</div>' +
+          '<div class="pc-name">' + c.name + '</div>' +
+        '</div>' +
+        '<div class="pc-change ' + cls + '">' + arrow + ' ' + Math.abs(c.change).toFixed(2) + '%</div>' +
+      '</div>' +
       '<div class="pc-price">' + fmt(c.price) + '</div>' +
-      '<div class="pc-change ' + cls + '">' + arrow + ' ' + Math.abs(c.change).toFixed(2) + '%</div>' +
+      mcapStr +
       '</div>';
   }).join('');
   document.getElementById('price-cards').innerHTML = html;
 }
 
+// ── RENDER TICKER ─────────────────────────────────────────────────────────
 function renderTicker() {
   var items = CRYPTO_DATA.map(function(c) {
-    var cls = c.up ? 't-up' : 't-dn';
+    var cls   = c.up ? 't-up' : 't-dn';
     var arrow = c.up ? '▲' : '▼';
     return '<div class="ticker-item">' +
       '<span class="t-sym">' + c.sym + '</span>' +
@@ -563,16 +686,38 @@ function renderTicker() {
       '<span class="' + cls + '">' + arrow + ' ' + Math.abs(c.change).toFixed(2) + '%</span>' +
       '</div>';
   }).join('');
-  // duplicate for infinite loop
   var track = document.getElementById('ticker-track');
-  track.innerHTML = items + items;
+  track.innerHTML = items + items; // duplicate for infinite loop
 }
 
+// ── RENDER HERO STATS ─────────────────────────────────────────────────────
 function renderHeroStats() {
-  var btc = CRYPTO_DATA.find(function(c){return c.sym==='BTC';});
-  var eth = CRYPTO_DATA.find(function(c){return c.sym==='ETH';});
-  if (btc) document.getElementById('stat-btc').textContent = fmt(btc.price);
-  if (eth) document.getElementById('stat-eth').textContent = fmt(eth.price);
+  var btc = CRYPTO_DATA.find(function(c){ return c.sym === 'BTC'; });
+  var eth = CRYPTO_DATA.find(function(c){ return c.sym === 'ETH'; });
+  if (btc) {
+    var btcEl = document.getElementById('stat-btc');
+    if (btcEl) {
+      btcEl.textContent = fmt(btc.price);
+      btcEl.style.color = btc.up ? 'var(--green2)' : 'var(--red2)';
+    }
+  }
+  if (eth) {
+    var ethEl = document.getElementById('stat-eth');
+    if (ethEl) {
+      ethEl.textContent = fmt(eth.price);
+      ethEl.style.color = eth.up ? 'var(--green2)' : 'var(--red2)';
+    }
+  }
+  // Tính tổng vốn hoá
+  var totalMcap = CRYPTO_DATA.reduce(function(sum, c){ return sum + (c.mcap || 0); }, 0);
+  var mcapEl = document.getElementById('stat-mcap');
+  if (mcapEl && totalMcap > 0) mcapEl.textContent = fmtMcap(totalMcap);
+  // BTC dominance
+  if (btc && btc.mcap && totalMcap > 0) {
+    var dom = ((btc.mcap / totalMcap) * 100).toFixed(1);
+    var domEl = document.getElementById('stat-dom');
+    if (domEl) domEl.textContent = dom + '%';
+  }
 }
 
 // ── FALLBACK IMAGES per tag ────────────────────────────────────────────────
@@ -613,9 +758,17 @@ var allPosts = [];
 
 // ── INIT ───────────────────────────────────────────────────────────────────
 document.addEventListener('DOMContentLoaded', function() {
+  // Render fallback ngay lập tức rồi fetch live
   renderPriceCards();
   renderTicker();
   renderHeroStats();
+
+  // Fetch giá thực từ CoinGecko
+  fetchLivePrices();
+
+  // Auto-refresh mỗi 60 giây
+  priceRefreshInterval = setInterval(fetchLivePrices, 60000);
+
   loadPosts();
   var hash = window.location.hash.replace('#', '');
   if (hash && hash.indexOf('/') !== -1) {
