@@ -990,45 +990,84 @@ function toggleTranslate(id) {
   // Show loading
   if (btn) { btn.textContent = '⏳'; btn.disabled = true; }
 
-  // Build plain text to translate: title + summary + stripped content
+  // Google Translate unofficial API - dịch từng đoạn riêng lẻ
+  function gtrans(text) {
+    var url = 'https://translate.googleapis.com/translate_a/single?client=gtx&sl=vi&tl=en&dt=t&q=' + encodeURIComponent(text);
+    return fetch(url)
+      .then(function(r){ return r.json(); })
+      .then(function(data){
+        // Ghép các đoạn dịch lại
+        var result = '';
+        if (data && data[0]) {
+          data[0].forEach(function(seg){ if (seg && seg[0]) result += seg[0]; });
+        }
+        return result;
+      });
+  }
+
+  // Tách HTML content thành các đoạn theo thẻ block
+  function extractBlocks(html) {
+    var div = document.createElement('div');
+    div.innerHTML = html || '';
+    var blocks = [];
+    div.childNodes.forEach(function(node){
+      if (node.nodeType === 1) { // Element node
+        blocks.push({ tag: node.tagName.toLowerCase(), text: node.innerText || node.textContent || '' });
+      } else if (node.nodeType === 3 && node.textContent.trim()) {
+        blocks.push({ tag: 'p', text: node.textContent.trim() });
+      }
+    });
+    return blocks;
+  }
+
   var strip = function(html){ return (html||'').replace(/<[^>]+>/g,' ').replace(/\s+/g,' ').trim(); };
   var titleText   = post.title || '';
   var summaryText = post.summary || '';
-  var contentText = strip(post.content || '');
+  var blocks = extractBlocks(post.content || '');
 
-  // Use MyMemory free API (no key needed, 5000 chars/day per IP)
-  var fullText = '[[TITLE]]' + titleText + '[[SUMMARY]]' + summaryText + '[[CONTENT]]' + contentText.slice(0, 3000);
+  // Dịch title, summary và từng block content song song
+  var blockTexts = blocks.map(function(b){ return b.text; });
+  var allTexts = [titleText, summaryText].concat(blockTexts);
 
-  fetch('https://api.mymemory.translated.net/get?q=' + encodeURIComponent(fullText) + '&langpair=vi|en')
-    .then(function(r){ return r.json(); })
-    .then(function(data){
-      var translated = (data.responseData && data.responseData.translatedText) || '';
-      // Parse back sections
-      var tTitle   = translated.match(/\[\[TITLE\]\]([\s\S]*?)(?:\[\[SUMMARY\]\]|$)/);
-      var tSummary = translated.match(/\[\[SUMMARY\]\]([\s\S]*?)(?:\[\[CONTENT\]\]|$)/);
-      var tContent = translated.match(/\[\[CONTENT\]\]([\s\S]*?)$/);
+  // Dịch tuần tự để tránh rate limit, delay nhỏ giữa các request
+  var results = [];
+  function translateNext(i) {
+    if (i >= allTexts.length) {
+      // Xong — cập nhật UI
+      var tTitle   = results[0] || titleText;
+      var tSummary = results[1] || summaryText;
+      var tBlocks  = results.slice(2);
 
-      if (titleEl   && tTitle)   titleEl.textContent   = tTitle[1].trim();
-      if (summaryEl && tSummary) summaryEl.textContent  = tSummary[1].trim();
-      if (contentEl && tContent) {
-        // Wrap translated plain text in readable paragraphs
-        var paras = tContent[1].trim().split(/\n+/).filter(Boolean);
-        contentEl.innerHTML = paras.length > 1
-          ? paras.map(function(p){ return '<p>' + esc(p) + '</p>'; }).join('')
-          : '<p>' + esc(tContent[1].trim()) + '</p>';
+      if (titleEl)   titleEl.textContent  = tTitle;
+      if (summaryEl) summaryEl.textContent = tSummary;
+      if (contentEl) {
+        var html = '';
+        blocks.forEach(function(b, idx){
+          var translated = tBlocks[idx] || b.text;
+          var tag = /^h[1-6]$/.test(b.tag) ? b.tag : 'p';
+          html += '<' + tag + '>' + esc(translated) + '</' + tag + '>';
+        });
+        contentEl.innerHTML = html || '<p>' + esc(tSummary) + '</p>';
       }
 
       if (btn) { btn.textContent = '🇻🇳 VI'; btn.classList.add('active'); btn.disabled = false; }
       _translateActive = true;
       _translatePostId = id;
-    })
-    .catch(function(err){
-      console.warn('Translate error:', err);
-      // Fallback: open Google Translate in new tab
-      var pageUrl = window.location.href.split('#')[0] + '#' + (post.slug || post.id);
-      window.open('https://translate.google.com/translate?sl=vi&tl=en&u=' + encodeURIComponent(pageUrl), '_blank');
-      if (btn) { btn.textContent = '🌐 EN'; btn.disabled = false; }
-    });
+      return;
+    }
+
+    gtrans(allTexts[i].slice(0, 1000))
+      .then(function(res){
+        results.push(res);
+        setTimeout(function(){ translateNext(i + 1); }, 80);
+      })
+      .catch(function(){
+        results.push(allTexts[i]); // giữ nguyên nếu lỗi
+        setTimeout(function(){ translateNext(i + 1); }, 80);
+      });
+  }
+
+  translateNext(0);
 }
 
 function sharePost(id) {
