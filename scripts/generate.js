@@ -646,12 +646,17 @@ function escapeMdV2(str) {
   return str.replace(/[_*[\]()~`>#+\-=|{}.!\\]/g, "\\$&");
 }
 
+/** Escape URL dùng trong phần href của Markdown link — chỉ escape ) và \ */
+function escapeUrl(url) {
+  return url.replace(/\\/g, "\\\\").replace(/\)/g, "\\)");
+}
+
 /** Tạo nội dung tin nhắn Telegram từ thông tin bài viết. */
 function buildTelegramMessage(post, postUrl) {
   const title   = escapeMdV2(post.title);
   const summary = escapeMdV2((post.summary || "").slice(0, 280));
-  const tags    = post.tags.slice(0, 5).map(t => "#" + escapeMdV2(t.replace(/\s+/g, "_"))).join(" ");
-  const url     = escapeMdV2(postUrl);
+  const tags    = post.tags.slice(0, 5).map(t => "\\#" + escapeMdV2(t.replace(/\s+/g, "_"))).join(" ");
+  const url     = escapeUrl(postUrl);  // URL trong link Markdown không dùng escapeMdV2
   const count   = post.articleCount || 0;
 
   return (
