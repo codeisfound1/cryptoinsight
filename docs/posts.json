@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1777294116727",
+      "title": "Điểm tin crypto 27/04/2026 lúc 19:48: Thị trường Bitcoin và Ethereum tiếp tục tăng trưởng",
+      "summary": "Thị trường crypto đang trải qua một giai đoạn tăng trưởng với Bitcoin và Ethereum dẫn đầu. Các quỹ đầu tư và ETFs đang thu hút sự quan tâm của nhà đầu tư, trong khi các sự kiện như việc Kbank hợp tác với Ripple và Ethereum Foundation bán ETH cũng gây chú ý.",
+      "content": "<p>Thị trường crypto đang trải qua một giai đoạn tăng trưởng với nhiều sự kiện quan trọng diễn ra trong tuần này. Từ việc Bitcoin ETFs đạt mức tăng trưởng cao nhất kể từ tháng 9 đến việc Kbank hợp tác với Ripple để thử nghiệm chuyển tiền quốc tế dựa trên blockchain.</p><h2>1. Bitcoin ETFs đạt mức tăng trưởng cao nhất kể từ tháng 9</h2><p>Với việc Bitcoin ETFs đạt mức tăng trưởng cao nhất kể từ tháng 9, các nhà đầu tư đang quan tâm đến việc đầu tư vào thị trường crypto. Tuy nhiên, các chuyên gia cũng cảnh báo về việc nhu cầu trên chuỗi (on-chain demand) đang giảm.</p><h2>2. Kbank hợp tác với Ripple để thử nghiệm chuyển tiền quốc tế</h2><p>Kbank, một ngân hàng lớn tại Hàn Quốc, đã hợp tác với Ripple để thử nghiệm chuyển tiền quốc tế dựa trên blockchain. Đây là một bước tiến quan trọng trong việc áp dụng công nghệ blockchain vào lĩnh vực tài chính.</p><h2>3. Ethereum Foundation bán ETH</h2><p>Ethereum Foundation, tổ chức đứng sau mạng lưới Ethereum, đã bán một lượng ETH đáng kể. Điều này đã gây ra sự quan tâm và lo lắng trong cộng đồng crypto về việc giá ETH có thể giảm trong tương lai.</p><h2>4. NFTs đang trở lại</h2><p>Thị trường NFTs đang trở lại với sự quan tâm của các nhà đầu tư. Các bộ sưu tập NFTs như Bored Apes đang trở thành tâm điểm của sự quan tâm.</p><h2>Nhận định thị trường</h2><p>Thị trường crypto đang trải qua một giai đoạn tăng trưởng với nhiều sự kiện quan trọng diễn ra. Tuy nhiên, các nhà đầu tư cần phải cẩn thận và quan tâm đến các yếu tố như nhu cầu trên chuỗi và sự biến động của giá.</p><h2>Khuyến nghị nhà đầu tư</h2><p>Các nhà đầu tư nên quan tâm đến việc đầu tư vào các quỹ đầu tư và ETFs để giảm thiểu rủi ro. Đồng thời, nên theo dõi các sự kiện quan trọng và phân tích kỹ lưỡng trước khi đưa ra quyết định đầu tư.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] Bitcoin ETFs Extend Longest Win Streak Since September, But Spot Demand Lags — <em>Decrypt</em></li>\n<li>[2] The Block appoints veteran media operator Steve Chung as CEO — <em>The Block</em></li>\n<li>[3] First 21-week trend line reclaim since October 2025: Five things to know in Bitcoin this week — <em>Cointelegraph</em></li>\n<li>[4] Pudgy Penguins rally coincides with token unlock as analyst flags exit liquidity risk — <em>CoinDesk</em></li>\n<li>[5] Bitcoin funds take in $933 million as crypto ETFs hit highest AUM since February — <em>CoinDesk</em></li>\n<li>[6] ‘The beat goes on’: Michael Saylor’s Strategy adds 3,273 bitcoin for $255 million as holdings reach 818,334 BTC — <em>The Block</em></li>\n<li>[7] ETH price up 10% in April, so why is Ethereum Foundation selling? — <em>Cointelegraph</em></li>\n<li>[8] Morning Minute: NFTs Storm Back, Led by Bored Apes — <em>Decrypt</em></li>\n<li>[9] Kbank teams with Ripple on overseas blockchain remittance trial — <em>Cointelegraph</em></li>\n<li>[10] South Korea's KBank and Ripple are teaming up to fix international money transfers — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "thị trường",
+        "điểm tin",
+        "nft",
+        "ripple"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777294116/cryptoinsight/posts/diem-tin-crypto-27042026-luc-1948-thi-truong-bitcoin-va-ethereum-tiep-tuc-tang-t.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1777294116/cryptoinsight/posts/diem-tin-crypto-27042026-luc-1948-thi-truong-bitcoin-va-ethereum-tiep-tuc-tang-t.jpg",
+        "publicId": "cryptoinsight/posts/diem-tin-crypto-27042026-luc-1948-thi-truong-bitcoin-va-ethereum-tiep-tuc-tang-t",
+        "width": 1280,
+        "height": 720,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 27/04/2026 lúc 19:48: Thị trường Bitcoin và Ethereum tiếp tục tăng trưởng"
+      },
+      "sourceUrl": "https://decrypt.co/365604/bitcoin-etfs-extend-longest-win-streak-since-september-but-spot-demand-lags",
+      "sourceTitle": "Decrypt / The Block / Cointelegraph / CoinDesk",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Bitcoin ETFs Extend Longest Win Streak Since September, But Spot Demand Lags",
+          "url": "https://decrypt.co/365604/bitcoin-etfs-extend-longest-win-streak-since-september-but-spot-demand-lags",
+          "source": "Decrypt"
+        },
+        {
+          "title": "The Block appoints veteran media operator Steve Chung as CEO",
+          "url": "https://www.theblock.co/post/398948/the-block-appoints-steve-chung-ceo?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "First 21-week trend line reclaim since October 2025: Five things to know in Bitcoin this week",
+          "url": "https://cointelegraph.com/markets/first-21-week-trend-line-reclaim-since-october-2025-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Pudgy Penguins rally coincides with token unlock as analyst flags exit liquidity risk",
+          "url": "https://www.coindesk.com/markets/2026/04/27/pudgy-penguins-rally-coincides-with-token-unlock-as-analyst-flags-exit-liquidity-risk",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin funds take in $933 million as crypto ETFs hit highest AUM since February",
+          "url": "https://www.coindesk.com/markets/2026/04/27/bitcoin-funds-take-in-usd933-million-as-crypto-etfs-hit-highest-aum-since-february",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "‘The beat goes on’: Michael Saylor’s Strategy adds 3,273 bitcoin for $255 million as holdings reach 818,334 BTC",
+          "url": "https://www.theblock.co/post/398968/the-beat-goes-on-michael-saylor-strategy-bitcoin-buys?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "ETH price up 10% in April, so why is Ethereum Foundation selling?",
+          "url": "https://cointelegraph.com/markets/eth-price-up-10-in-april-so-why-is-ethereum-foundation-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Morning Minute: NFTs Storm Back, Led by Bored Apes",
+          "url": "https://decrypt.co/365600/morning-minute-nfts-storm-back-led-by-bored-apes",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Kbank teams with Ripple on overseas blockchain remittance trial",
+          "url": "https://cointelegraph.com/news/kbank-tests-ripple-wallet-for-remittances-as-south-korea-weighs-stablecoin-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "South Korea's KBank and Ripple are teaming up to fix international money transfers",
+          "url": "https://www.coindesk.com/markets/2026/04/27/south-korea-s-kbank-tests-international-blockchain-transfers-with-ripple",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-04-27T12:48:36.727Z",
+      "slug": "diem-tin-crypto-27042026-luc-1948-thi-truong-bitcoin-va-ethereum-tiep-tuc-tang-t"
+    },
+    {
       "id": "1777293212649",
       "title": "Điểm tin crypto 27/04/2026 lúc 19:33: Thị trường tiền điện tử tiếp tục biến động",
       "summary": "Thị trường tiền điện tử tiếp tục biến động với sự kiện The Block bổ nhiệm CEO mới, Pudgy Penguins tăng giá, Bitcoin funds thu hút 933 triệu đô la và nhiều sự kiện khác",
@@ -1075,7 +1156,10 @@
     "https://www.coindesk.com/markets/2026/04/27/pudgy-penguins-rally-coincides-with-token-unlock-as-analyst-flags-exit-liquidity-risk",
     "https://www.coindesk.com/markets/2026/04/27/bitcoin-funds-take-in-usd933-million-as-crypto-etfs-hit-highest-aum-since-february",
     "https://www.coindesk.com/markets/2026/04/27/south-korea-s-kbank-tests-international-blockchain-transfers-with-ripple",
-    "https://www.theblock.co/post/398948/the-block-appoints-steve-chung-ceo?utm_source=rss&amp;utm_medium=rss"
+    "https://www.theblock.co/post/398948/the-block-appoints-steve-chung-ceo?utm_source=rss&amp;utm_medium=rss",
+    "https://decrypt.co/365604/bitcoin-etfs-extend-longest-win-streak-since-september-but-spot-demand-lags",
+    "https://cointelegraph.com/markets/first-21-week-trend-line-reclaim-since-october-2025-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/markets/eth-price-up-10-in-april-so-why-is-ethereum-foundation-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/398938/bitcoin-leads-1-2b-weekly-haul-for-global-crypto-funds-as-institutional-demand-builds-coinshares?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/398933/luxor-microbt-100-million-rig-deal?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/04/27/global-interest-rates-robinhood-galaxy-earnings-crypto-week-ahead",
@@ -1085,6 +1169,7 @@
     "https://decrypt.co/365600/morning-minute-nfts-storm-back-led-by-bored-apes|https://cointelegraph.com/news/kbank-tests-ripple-wallet-for-remittances-as-south-korea-weighs-stablecoin-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/365596/france-charges-88-including-minors-in-crypto-wrench-attack-crackdown",
     "https://www.theblock.co/post/398968/the-beat-goes-on-michael-saylor-strategy-bitcoin-buys?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/365600/morning-minute-nfts-storm-back-led-by-bored-apes|https://cointelegraph.com/news/kbank-tests-ripple-wallet-for-remittances-as-south-korea-weighs-stablecoin-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/04/27/pudgy-penguins-rally-coincides-with-token-unlock-as-analyst-flags-exit-liquidity-risk|https://www.coindesk.com/markets/2026/04/27/bitcoin-funds-take-in-usd933-million-as-crypto-etfs-hit-highest-aum-since-february|https://www.theblock.co/post/398968/the-beat-goes-on-michael-saylor-strategy-bitcoin-buys?utm_source=rss&amp;utm_medium=rss",
-    "https://www.theblock.co/post/398948/the-block-appoints-steve-chung-ceo?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/04/27/pudgy-penguins-rally-coincides-with-token-unlock-as-analyst-flags-exit-liquidity-risk|https://www.coindesk.com/markets/2026/04/27/bitcoin-funds-take-in-usd933-million-as-crypto-etfs-hit-highest-aum-since-february"
+    "https://www.theblock.co/post/398948/the-block-appoints-steve-chung-ceo?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/04/27/pudgy-penguins-rally-coincides-with-token-unlock-as-analyst-flags-exit-liquidity-risk|https://www.coindesk.com/markets/2026/04/27/bitcoin-funds-take-in-usd933-million-as-crypto-etfs-hit-highest-aum-since-february",
+    "https://decrypt.co/365604/bitcoin-etfs-extend-longest-win-streak-since-september-but-spot-demand-lags|https://www.theblock.co/post/398948/the-block-appoints-steve-chung-ceo?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/markets/first-21-week-trend-line-reclaim-since-october-2025-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
