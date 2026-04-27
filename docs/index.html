@@ -232,6 +232,9 @@
     .modal-footer-actions { display: flex; gap: 8px; }
     .btn-share { background: transparent; border: 1px solid var(--border); color: var(--text2); padding: 8px 14px; border-radius: 8px; cursor: pointer; font-family: var(--sans); font-size: 13px; transition: all 0.18s; }
     .btn-share:hover { border-color: var(--border2); color: var(--amber); }
+    .btn-translate { background: transparent; border: 1px solid var(--border); color: var(--text2); padding: 8px 14px; border-radius: 8px; cursor: pointer; font-family: var(--sans); font-size: 13px; transition: all 0.18s; }
+    .btn-translate:hover { border-color: var(--border2); color: var(--amber); }
+    .btn-translate.active { background: rgba(245,158,11,0.12); border-color: var(--border2); color: var(--amber); }
     .btn-close { background: var(--bg4); color: var(--text2); border: 1px solid var(--border); padding: 8px 16px; border-radius: 8px; cursor: pointer; font-family: var(--sans); font-size: 13px; transition: all 0.18s; }
     .btn-close:hover { color: var(--text); border-color: var(--border2); }
 
@@ -363,7 +366,7 @@
   <div class="hero-content">
     <div class="hero-badge"><div class="hero-dot"></div><span data-i18n="badge">AI · Cập nhật mỗi ngày</span></div>
     <h1 data-i18n="hero_h1">Phân tích <em>crypto</em><br>từ AI chuyên sâu</h1>
-    <p class="hero-sub" data-i18n="hero_sub">Tin tức Bitcoin, Ethereum, Altcoin và DeFi — được crawl từ CoinMarketCap, phân tích và viết lại bởi trí tuệ nhân tạo.</p>
+    <p class="hero-sub" data-i18n="hero_sub">Tin tức Bitcoin, Ethereum, Altcoin và DeFi — tổng hợp từ nhiều nguồn uy tín, phân tích và viết lại bởi trí tuệ nhân tạo.</p>
     <div class="hero-stats">
       <div class="hero-stat">
         <div class="hero-stat-val" id="stat-btc">$79,022</div>
@@ -426,7 +429,7 @@
   <div class="admin-wrap">
     <div class="admin-box" id="admin-box">
       <h3>⚡ Đăng bài thủ công</h3>
-      <p>Trigger GitHub Actions để crawl CoinMarketCap và tạo bài phân tích mới ngay lập tức.</p>
+      <p>Trigger GitHub Actions để tổng hợp tin tức crypto mới nhất và tạo bài phân tích ngay lập tức.</p>
       <div class="admin-field">
         <label class="admin-label" for="gh-owner">GitHub Username / Org</label>
         <input class="admin-input" id="gh-owner" type="text" placeholder="vd: username" autocomplete="off"/>
@@ -551,7 +554,7 @@
       <a href="#" onclick="openAdmin(); return false;" data-i18n="nav_post">Đăng bài mới</a>
       <a href="sitemap.xml">Sitemap</a>
     </nav>
-    <p data-i18n="footer_desc">Nội dung phân tích tự động &nbsp;·&nbsp; AI bởi Groq &nbsp;·&nbsp; Deploy trên GitHub Pages</p>
+    <p data-i18n="footer_desc">Nội dung phân tích tự động · AI bởi Groq · Deploy trên GitHub Pages</p>
     <p class="footer-source" data-i18n="footer_disclaimer">⚠️ Nội dung chỉ mang tính tham khảo, không phải lời khuyên đầu tư.</p>
   </div>
 </footer>
@@ -932,7 +935,7 @@ function openPost(id) {
     '<div class="modal-hero">' +
     '<div class="modal-tags">'+tags+'</div>' +
     '<h1 class="modal-title">'+esc(post.title)+'</h1>' +
-    '<p class="modal-meta">'+date+' &nbsp;·&nbsp; ~'+(post.readTime||5)+' '+t('min_read_label')+'</p>' +
+    '<p class="modal-meta">'+date+' · ~'+(post.readTime||5)+' '+t('min_read_label')+'</p>' +
     '</div>' +
     '<div class="modal-body">' +
     '<p class="modal-summary">'+esc(post.summary||'')+'</p>' +
@@ -941,6 +944,7 @@ function openPost(id) {
     '<div class="modal-footer">' +
     '<span class="source-link">📰 '+esc(post.sourceTitle||t('source_fallback'))+'</span>' +
     '<div class="modal-footer-actions">' +
+    '<button class="btn-translate" id="btn-translate" onclick="toggleTranslate(\''+escAttr(post.id)+'\')">🌐 EN</button>' +
     '<button class="btn-share" onclick="sharePost(\''+escAttr(post.id)+'\')">'+t('share_btn')+'</button>' +
     '<button class="btn-close" onclick="closePostModal()">'+t('close_btn')+'</button>' +
     '</div></div>';
@@ -954,7 +958,77 @@ function closePostModal(e) {
     document.getElementById('post-modal').classList.remove('open');
     document.body.style.overflow = '';
     document.title = 'Crypto Insight AI – Phân Tích Tiền Điện Tử Chuyên Sâu';
+    // Reset translate state
+    _translateActive = false;
+    _translatePostId = null;
   }
+}
+
+// ── GOOGLE TRANSLATE (inline) ──────────────────────────────────────────────
+var _translateActive = false;
+var _translatePostId = null;
+
+function toggleTranslate(id) {
+  var post = allPosts.find(function(p){return p.id===id;});
+  if (!post) return;
+  var btn = document.getElementById('btn-translate');
+  var contentEl = document.querySelector('#modal-content .modal-content');
+  var summaryEl = document.querySelector('#modal-content .modal-summary');
+  var titleEl   = document.querySelector('#modal-content .modal-title');
+
+  if (_translateActive && _translatePostId === id) {
+    // Restore original Vietnamese content
+    if (titleEl)   titleEl.textContent = post.title;
+    if (summaryEl) summaryEl.textContent = post.summary || '';
+    if (contentEl) contentEl.innerHTML  = post.content || '';
+    if (btn) { btn.textContent = '🌐 EN'; btn.classList.remove('active'); }
+    _translateActive = false;
+    _translatePostId = null;
+    return;
+  }
+
+  // Show loading
+  if (btn) { btn.textContent = '⏳'; btn.disabled = true; }
+
+  // Build plain text to translate: title + summary + stripped content
+  var strip = function(html){ return (html||'').replace(/<[^>]+>/g,' ').replace(/\s+/g,' ').trim(); };
+  var titleText   = post.title || '';
+  var summaryText = post.summary || '';
+  var contentText = strip(post.content || '');
+
+  // Use MyMemory free API (no key needed, 5000 chars/day per IP)
+  var fullText = '[[TITLE]]' + titleText + '[[SUMMARY]]' + summaryText + '[[CONTENT]]' + contentText.slice(0, 3000);
+
+  fetch('https://api.mymemory.translated.net/get?q=' + encodeURIComponent(fullText) + '&langpair=vi|en')
+    .then(function(r){ return r.json(); })
+    .then(function(data){
+      var translated = (data.responseData && data.responseData.translatedText) || '';
+      // Parse back sections
+      var tTitle   = translated.match(/\[\[TITLE\]\]([\s\S]*?)(?:\[\[SUMMARY\]\]|$)/);
+      var tSummary = translated.match(/\[\[SUMMARY\]\]([\s\S]*?)(?:\[\[CONTENT\]\]|$)/);
+      var tContent = translated.match(/\[\[CONTENT\]\]([\s\S]*?)$/);
+
+      if (titleEl   && tTitle)   titleEl.textContent   = tTitle[1].trim();
+      if (summaryEl && tSummary) summaryEl.textContent  = tSummary[1].trim();
+      if (contentEl && tContent) {
+        // Wrap translated plain text in readable paragraphs
+        var paras = tContent[1].trim().split(/\n+/).filter(Boolean);
+        contentEl.innerHTML = paras.length > 1
+          ? paras.map(function(p){ return '<p>' + esc(p) + '</p>'; }).join('')
+          : '<p>' + esc(tContent[1].trim()) + '</p>';
+      }
+
+      if (btn) { btn.textContent = '🇻🇳 VI'; btn.classList.add('active'); btn.disabled = false; }
+      _translateActive = true;
+      _translatePostId = id;
+    })
+    .catch(function(err){
+      console.warn('Translate error:', err);
+      // Fallback: open Google Translate in new tab
+      var pageUrl = window.location.href.split('#')[0] + '#' + (post.slug || post.id);
+      window.open('https://translate.google.com/translate?sl=vi&tl=en&u=' + encodeURIComponent(pageUrl), '_blank');
+      if (btn) { btn.textContent = '🌐 EN'; btn.disabled = false; }
+    });
 }
 
 function sharePost(id) {
@@ -1254,7 +1328,7 @@ var TRANSLATIONS = {
   vi: {
     badge:            'AI · Cập nhật mỗi ngày',
     hero_h1:          'Phân tích <em>crypto</em><br>từ AI chuyên sâu',
-    hero_sub:         'Tin tức Bitcoin, Ethereum, Altcoin và DeFi — được crawl từ CoinMarketCap, phân tích và viết lại bởi trí tuệ nhân tạo.',
+    hero_sub:         'Tin tức Bitcoin, Ethereum, Altcoin và DeFi — tổng hợp từ nhiều nguồn uy tín, phân tích và viết lại bởi trí tuệ nhân tạo.',
     total_mcap:       'Tổng vốn hoá',
     loading_price:    'Đang tải giá...',
     refresh_btn:      '↺ Làm mới',
@@ -1262,7 +1336,7 @@ var TRANSLATIONS = {
     all_tags:         'Tất cả',
     nav_post:         'Đăng bài mới',
     nav_reload:       'Tải lại',
-    footer_desc:      'Nội dung phân tích tự động &nbsp;·&nbsp; AI bởi Groq &nbsp;·&nbsp; Deploy trên GitHub Pages',
+    footer_desc:      'Nội dung phân tích tự động · AI bởi Groq · Deploy trên GitHub Pages',
     footer_disclaimer:'⚠️ Nội dung chỉ mang tính tham khảo, không phải lời khuyên đầu tư.',
     post_count_unit:  'bài',
     min_read:         'phút',
@@ -1271,7 +1345,7 @@ var TRANSLATIONS = {
     close_btn:        '✕ Đóng',
     source_fallback:  'Tổng hợp tin tức',
     empty_title:      'Chưa có bài viết',
-    empty_desc:       'Nhấn <strong>⚡ Đăng bài mới</strong> để crawl CoinMarketCap,<br>hoặc chờ GitHub Actions tự động chạy lúc 7:00 sáng.',
+    empty_desc:       'Nhấn <strong>⚡ Đăng bài mới</strong> để tổng hợp tin tức mới nhất,<br>hoặc chờ GitHub Actions tự động chạy lúc 7:00 sáng.',
     load_error_title: 'Không tải được bài viết',
     load_error_desc:  'Vui lòng thử lại sau.',
     price_ok:         'Live · cập nhật ',
@@ -1284,7 +1358,7 @@ var TRANSLATIONS = {
   en: {
     badge:            'AI · Updated daily',
     hero_h1:          'Deep <em>crypto</em><br>analysis by AI',
-    hero_sub:         'Bitcoin, Ethereum, Altcoin and DeFi news — crawled from CoinMarketCap, analyzed and rewritten by artificial intelligence.',
+    hero_sub:         'Bitcoin, Ethereum, Altcoin and DeFi news — aggregated from top sources, analyzed and rewritten by artificial intelligence.',
     total_mcap:       'Total Market Cap',
     loading_price:    'Loading prices...',
     refresh_btn:      '↺ Refresh',
@@ -1292,7 +1366,7 @@ var TRANSLATIONS = {
     all_tags:         'All',
     nav_post:         'New Post',
     nav_reload:       'Reload',
-    footer_desc:      'Auto-analyzed content &nbsp;·&nbsp; AI by Groq &nbsp;·&nbsp; Deployed on GitHub Pages',
+    footer_desc:      'Auto-analyzed content · AI by Groq · Deployed on GitHub Pages',
     footer_disclaimer:'⚠️ Content is for reference only, not investment advice.',
     post_count_unit:  'posts',
     min_read:         'min',
@@ -1301,7 +1375,7 @@ var TRANSLATIONS = {
     close_btn:        '✕ Close',
     source_fallback:  'News aggregation',
     empty_title:      'No posts yet',
-    empty_desc:       'Click <strong>⚡ New Post</strong> to crawl CoinMarketCap,<br>or wait for GitHub Actions to run at 7:00 AM.',
+    empty_desc:       'Click <strong>⚡ New Post</strong> to aggregate the latest crypto news,<br>or wait for GitHub Actions to run at 7:00 AM.',
     load_error_title: 'Failed to load posts',
     load_error_desc:  'Please try again later.',
     price_ok:         'Live · updated ',
