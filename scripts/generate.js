@@ -585,7 +585,7 @@ async function main() {
 
 /**
  * Gửi tin nhắn lên nhóm Telegram qua Bot API.
- * Bot phải là admin (hoặc thành viên) của nhóm và có quyền gửi tin nhắn.
+ * Dùng plain text để tránh lỗi parse MarkdownV2 với nội dung động từ AI.
  */
 function sendTelegramMessage(text) {
   if (!TELEGRAM_BOT_TOKEN || !TELEGRAM_CHAT_ID) {
@@ -594,13 +594,13 @@ function sendTelegramMessage(text) {
   }
 
   const payload = JSON.stringify({
-    chat_id:    TELEGRAM_CHAT_ID,
-    text:       text,
-    parse_mode: "MarkdownV2",
+    chat_id: TELEGRAM_CHAT_ID,
+    text:    text,
+    // Không dùng parse_mode để tránh lỗi ký tự đặc biệt từ nội dung AI
     link_preview_options: { is_disabled: false },
   });
 
-  return new Promise((resolve, reject) => {
+  return new Promise((resolve) => {
     const options = {
       hostname: "api.telegram.org",
       path:     "/bot" + TELEGRAM_BOT_TOKEN + "/sendMessage",
@@ -619,15 +619,13 @@ function sendTelegramMessage(text) {
           const json = JSON.parse(body);
           if (json.ok) {
             console.log("📨  Đã chia sẻ lên Telegram (message_id:", json.result.message_id + ")");
-            resolve();
           } else {
             console.warn("⚠️   Telegram API lỗi:", json.description);
-            resolve();
           }
         } catch (e) {
           console.warn("⚠️   Không parse được phản hồi Telegram:", e.message);
-          resolve();
         }
+        resolve();
       });
     });
 
@@ -641,29 +639,18 @@ function sendTelegramMessage(text) {
   });
 }
 
-/** Escape ký tự đặc biệt theo MarkdownV2 của Telegram. */
-function escapeMdV2(str) {
-  return str.replace(/[_*[\]()~`>#+\-=|{}.!\\]/g, "\\$&");
-}
-
-/** Escape URL dùng trong phần href của Markdown link — chỉ escape ) và \ */
-function escapeUrl(url) {
-  return url.replace(/\\/g, "\\\\").replace(/\)/g, "\\)");
-}
-
-/** Tạo nội dung tin nhắn Telegram từ thông tin bài viết. */
+/** Tạo nội dung tin nhắn Telegram plain text. */
 function buildTelegramMessage(post, postUrl) {
-  const title   = escapeMdV2(post.title);
-  const summary = escapeMdV2((post.summary || "").slice(0, 280));
-  const tags    = post.tags.slice(0, 5).map(t => "\\#" + escapeMdV2(t.replace(/\s+/g, "_"))).join(" ");
-  const url     = escapeUrl(postUrl);  // URL trong link Markdown không dùng escapeMdV2
+  const title   = post.title || "";
+  const summary = (post.summary || "").slice(0, 280);
+  const tags    = post.tags.slice(0, 5).map(t => "#" + t.replace(/\s+/g, "_")).join(" ");
   const count   = post.articleCount || 0;
 
   return (
-    "🔥 *" + title + "*\n\n" +
+    "🔥 " + title + "\n\n" +
     (summary ? summary + "\n\n" : "") +
-    "📰 Tổng hợp từ *" + count + "* bài viết mới nhất\\.\n\n" +
-    "👉 [Đọc bài đầy đủ](" + url + ")\n\n" +
+    "📰 Tổng hợp từ " + count + " bài viết mới nhất.\n\n" +
+    "👉 " + postUrl + "\n\n" +
     tags
   );
 }
