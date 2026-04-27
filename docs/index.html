@@ -687,6 +687,26 @@ function renderTicker() {
   track.innerHTML = items + items; // duplicate for infinite loop
 }
 
+// ── GLOBAL MARKET DATA (market cap + BTC dominance thực) ─────────────────
+var globalMarketData = null;
+
+function fetchGlobalData() {
+  fetch('https://api.coingecko.com/api/v3/global', { headers: { 'Accept': 'application/json' } })
+    .then(function(res) { if (!res.ok) throw new Error('HTTP ' + res.status); return res.json(); })
+    .then(function(json) {
+      var d = json.data;
+      globalMarketData = {
+        totalMcap: d.total_market_cap && d.total_market_cap.usd ? d.total_market_cap.usd : 0,
+        btcDom:    d.market_cap_percentage && d.market_cap_percentage.btc ? d.market_cap_percentage.btc : 0,
+      };
+      renderHeroStats();
+      console.log('✅ Global market data updated — MCap:', fmtMcap(globalMarketData.totalMcap), '| BTC Dom:', globalMarketData.btcDom.toFixed(1) + '%');
+    })
+    .catch(function(err) {
+      console.warn('⚠️ Global API lỗi:', err.message);
+    });
+}
+
 // ── RENDER HERO STATS ─────────────────────────────────────────────────────
 function renderHeroStats() {
   var btc = CRYPTO_DATA.find(function(c){ return c.sym === 'BTC'; });
@@ -705,15 +725,25 @@ function renderHeroStats() {
       ethEl.style.color = eth.up ? 'var(--green2)' : 'var(--red2)';
     }
   }
-  // Tính tổng vốn hoá
-  var totalMcap = CRYPTO_DATA.reduce(function(sum, c){ return sum + (c.mcap || 0); }, 0);
+  // Tổng vốn hoá — dùng global API nếu có, fallback tính local
   var mcapEl = document.getElementById('stat-mcap');
-  if (mcapEl && totalMcap > 0) mcapEl.textContent = fmtMcap(totalMcap);
-  // BTC dominance
-  if (btc && btc.mcap && totalMcap > 0) {
-    var dom = ((btc.mcap / totalMcap) * 100).toFixed(1);
-    var domEl = document.getElementById('stat-dom');
-    if (domEl) domEl.textContent = dom + '%';
+  if (mcapEl) {
+    if (globalMarketData && globalMarketData.totalMcap > 0) {
+      mcapEl.textContent = fmtMcap(globalMarketData.totalMcap);
+    } else {
+      var localMcap = CRYPTO_DATA.reduce(function(sum, c){ return sum + (c.mcap || 0); }, 0);
+      if (localMcap > 0) mcapEl.textContent = fmtMcap(localMcap);
+    }
+  }
+  // BTC Dominance — dùng global API nếu có, fallback tính local
+  var domEl = document.getElementById('stat-dom');
+  if (domEl) {
+    if (globalMarketData && globalMarketData.btcDom > 0) {
+      domEl.textContent = globalMarketData.btcDom.toFixed(1) + '%';
+    } else if (btc && btc.mcap) {
+      var localMcap2 = CRYPTO_DATA.reduce(function(sum, c){ return sum + (c.mcap || 0); }, 0);
+      if (localMcap2 > 0) domEl.textContent = ((btc.mcap / localMcap2) * 100).toFixed(1) + '%';
+    }
   }
 }
 
@@ -762,9 +792,11 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // Fetch giá thực từ CoinGecko
   fetchLivePrices();
+  fetchGlobalData();
 
-  // Auto-refresh mỗi 60 giây
+  // Auto-refresh mỗi 60 giây (giá) và 5 phút (global market)
   priceRefreshInterval = setInterval(fetchLivePrices, 60000);
+  setInterval(fetchGlobalData, 300000);
 
   loadPosts();
   var hash = window.location.hash.replace('#', '');
