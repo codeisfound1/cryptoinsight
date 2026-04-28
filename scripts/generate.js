@@ -48,9 +48,84 @@ if (!GROQ_KEY) {
 
 // ─── HTTP HELPERS ──────────────────────────────────────────────────────────
 
+/**
+ * Blocks URLs that could be used for Server-Side Request Forgery (SSRF):
+ *  - Non-HTTP/HTTPS schemes (file://, ftp://, gopher://, etc.)
+ *  - Private IPv4 ranges: loopback, link-local, RFC-1918, CGNAT
+ *  - IPv6 loopback / unspecified
+ *  - Common cloud-metadata endpoints (169.254.169.254 AWS/GCP/Azure,
+ *    100.100.100.200 Alibaba, fd00:ec2::254 AWS IPv6)
+ *
+ * Throws a plain Error so callers can surface it without crashing the process.
+ */
+function assertSafeUrl(raw) {
+  let parsed;
+  try {
+    parsed = new URL(raw);
+  } catch (_) {
+    throw new Error("SSRF block: invalid URL — " + raw);
+  }
+
+  // Scheme must be http or https
+  if (parsed.protocol !== "http:" && parsed.protocol !== "https:") {
+    throw new Error("SSRF block: disallowed scheme '" + parsed.protocol + "' in " + raw);
+  }
+
+  const host = parsed.hostname.toLowerCase();
+
+  // Strip IPv6 brackets: [::1] → ::1
+  const bare = host.startsWith("[") ? host.slice(1, -1) : host;
+
+  // Blocked hostnames / exact addresses
+  const BLOCKED_HOSTS = new Set([
+    "localhost",
+    "metadata.google.internal",   // GCP metadata
+    "169.254.169.254",            // AWS / Azure / GCP link-local metadata
+    "100.100.100.200",            // Alibaba Cloud metadata
+  ]);
+  if (BLOCKED_HOSTS.has(bare)) {
+    throw new Error("SSRF block: blocked host '" + bare + "' in " + raw);
+  }
+
+  // Blocked IPv6 addresses
+  const BLOCKED_IPV6 = new Set(["::1", "::", "0:0:0:0:0:0:0:1", "fd00:ec2::254"]);
+  if (BLOCKED_IPV6.has(bare)) {
+    throw new Error("SSRF block: blocked IPv6 '" + bare + "' in " + raw);
+  }
+
+  // Private / reserved IPv4 CIDR ranges checked via numeric comparison.
+  // Covers: 127.x, 10.x, 172.16–31.x, 192.168.x, 169.254.x (link-local),
+  //         100.64–127.x (CGNAT), 0.x (this-network), 192.0.2/198.51.100/203.0.113 (documentation).
+  const ipv4Re = /^(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})$/;
+  const m = bare.match(ipv4Re);
+  if (m) {
+    const [, a, b, c] = m.map(Number);
+    const blocked =
+      a === 0                                   || // 0.0.0.0/8
+      a === 10                                  || // 10.0.0.0/8
+      a === 127                                 || // 127.0.0.0/8 loopback
+      (a === 100 && b >= 64 && b <= 127)        || // 100.64.0.0/10 CGNAT
+      (a === 169 && b === 254)                  || // 169.254.0.0/16 link-local
+      (a === 172 && b >= 16 && b <= 31)         || // 172.16.0.0/12 RFC-1918
+      (a === 192 && b === 0  && c === 2)        || // 192.0.2.0/24 documentation
+      (a === 192 && b === 168)                  || // 192.168.0.0/16 RFC-1918
+      (a === 198 && b === 18)                   || // 198.18.0.0/15 benchmarking
+      (a === 198 && b === 51  && c === 100)     || // 198.51.100.0/24 documentation
+      (a === 203 && b === 0   && c === 113)     || // 203.0.113.0/24 documentation
+      a >= 224;                                    // 224+ multicast / reserved
+    if (blocked) {
+      throw new Error("SSRF block: private/reserved IPv4 '" + bare + "' in " + raw);
+    }
+  }
+}
+
 function fetchUrl(url, redirectCount, extraHeaders) {
   redirectCount = redirectCount || 0;
   if (redirectCount > 5) return Promise.reject(new Error("Too many redirects"));
+
+  // Validate every URL — including each redirect destination — before connecting.
+  try { assertSafeUrl(url); }
+  catch (e) { return Promise.reject(e); }
 
   return new Promise((resolve, reject) => {
     const client = url.startsWith("https") ? https : http;
@@ -65,9 +140,16 @@ function fetchUrl(url, redirectCount, extraHeaders) {
       }, extraHeaders || {}),
     }, (res) => {
       if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
-        const next = res.headers.location.startsWith("http")
-          ? res.headers.location
-          : new URL(res.headers.location, url).href;
+        let next;
+        try {
+          // Resolve relative redirects against the current URL, then validate.
+          next = res.headers.location.startsWith("http")
+            ? res.headers.location
+            : new URL(res.headers.location, url).href;
+          assertSafeUrl(next);
+        } catch (e) {
+          return reject(e);
+        }
         return fetchUrl(next, redirectCount + 1, extraHeaders).then(resolve).catch(reject);
       }
       const chunks = [];
