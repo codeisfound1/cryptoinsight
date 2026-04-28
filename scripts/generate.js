@@ -108,6 +108,44 @@ function postJson(url, payload, headers) {
   });
 }
 
+// ─── RETRY HELPER ──────────────────────────────────────────────────────────
+
+/**
+ * Retries an async function up to `maxAttempts` times with exponential backoff.
+ * Retries on network errors and on HTTP-like status codes 429 / 5xx embedded in
+ * thrown Error messages (Groq and Cloudinary surface these as thrown errors).
+ *
+ * @param {() => Promise<any>} fn        - Async factory called each attempt
+ * @param {number}             maxAttempts
+ * @param {number}             baseDelayMs - Initial delay; doubles each retry
+ */
+async function retryWithBackoff(fn, maxAttempts = 3, baseDelayMs = 1500) {
+  let lastErr;
+  for (let attempt = 1; attempt <= maxAttempts; attempt++) {
+    try {
+      return await fn();
+    } catch (err) {
+      lastErr = err;
+      const msg = (err.message || "").toLowerCase();
+      const isRetryable =
+        msg.includes("429") ||
+        msg.includes("503") ||
+        msg.includes("502") ||
+        msg.includes("500") ||
+        msg.includes("timeout") ||
+        msg.includes("econnreset") ||
+        msg.includes("enotfound");
+
+      if (!isRetryable || attempt === maxAttempts) throw err;
+
+      const delay = baseDelayMs * Math.pow(2, attempt - 1);
+      console.warn(`  ⚠️  Attempt ${attempt}/${maxAttempts} failed (${err.message}). Retrying in ${delay}ms…`);
+      await new Promise(res => setTimeout(res, delay));
+    }
+  }
+  throw lastErr;
+}
+
 // ─── RSS READER ────────────────────────────────────────────────────────────
 
 /**
@@ -402,11 +440,11 @@ async function generateRoundupWithGroq(articles) {
     "\"content\":\"<p>Dẫn nhập...</p><h2>1. [Sự kiện nổi bật nhất]</h2><p>Phân tích...</p><h2>2. [...]</h2><p>...</p><h2>Nhận định thị trường</h2><p>...</p><h2>Khuyến nghị nhà đầu tư</h2><p>...</p>\"," +
     "\"readTime\":8}";
 
-  const res = await postJson(
+  const res = await retryWithBackoff(() => postJson(
     GROQ_URL,
     { model: GROQ_MODEL, messages: [{ role: "system", content: systemPrompt }, { role: "user", content: userPrompt }], temperature: 0.45, max_tokens: 3500 },
     { "Authorization": "Bearer " + GROQ_KEY }
-  );
+  ), 3, 2000);
 
   if (res.error) throw new Error("Groq error: " + JSON.stringify(res.error));
 
@@ -495,6 +533,11 @@ async function main() {
     process.exit(1);
   }
 
+  if (cmcArticles.length < 5) {
+    console.error(`❌  Chỉ lấy được ${cmcArticles.length} bài (cần tối thiểu 5). Kiểm tra lại RSS feeds.`);
+    process.exit(1);
+  }
+
   // ─ Bước 2: Kiểm tra đã đăng chưa (dùng URL của 3 tin đầu làm batch key) ─
   const batchKey        = cmcArticles.slice(0, 3).map(a => a.url).join("|");
   const alreadyPosted   = !FORCE && (data.publishedBatchKeys || []).includes(batchKey);
@@ -564,6 +607,7 @@ async function main() {
 
   data.posts.unshift(post);
   enriched.forEach(a => { if (a.url && !data.publishedUrls.includes(a.url)) data.publishedUrls.push(a.url); });
+  if (data.publishedUrls.length > 500) data.publishedUrls = data.publishedUrls.slice(-500);
   data.publishedBatchKeys.push(batchKey);
   if (data.publishedBatchKeys.length > 200) data.publishedBatchKeys = data.publishedBatchKeys.slice(-200);
 
