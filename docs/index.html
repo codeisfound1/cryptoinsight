@@ -193,6 +193,12 @@
     .card-meta { font-family: var(--mono); font-size: 11px; color: var(--text3); }
     .card-read { font-family: var(--mono); font-size: 11px; font-weight: 500; color: var(--amber); }
 
+    /* ── LOAD MORE ────────────────────────────────── */
+    #load-more-wrap { text-align: center; padding: 12px 0 40px; }
+    #btn-load-more { background: transparent; border: 1px solid var(--border); color: var(--text2); padding: 10px 28px; border-radius: 8px; font-family: var(--mono); font-size: 13px; font-weight: 500; cursor: pointer; transition: all 0.18s; }
+    #btn-load-more:hover { border-color: var(--border2); color: var(--amber); }
+    #btn-load-more:disabled { opacity: 0.4; cursor: default; }
+
     /* ── STATES ───────────────────────────────── */
     .empty-state { grid-column: 1/-1; text-align: center; padding: 80px 24px; }
     .empty-icon { font-size: 48px; margin-bottom: 16px; opacity: 0.3; }
@@ -414,6 +420,9 @@
 
   <div id="posts-grid" role="list" aria-label="Danh sách bài viết">
     <div class="loading-state" aria-live="polite">⏳ đang tải bài viết...</div>
+  </div>
+  <div id="load-more-wrap" style="display:none">
+    <button id="btn-load-more" onclick="loadMorePosts()">Xem thêm bài viết ↓</button>
   </div>
 </main>
 
@@ -813,6 +822,9 @@ function getAltForPost(post) {
 
 // ── STATE ──────────────────────────────────────────────────────────────────
 var allPosts = [];
+var POSTS_PER_PAGE = 12;
+var currentPage    = 1;       // how many pages worth have been rendered
+var visiblePosts   = [];      // the currently-filtered list (all tags or one tag)
 
 // ── INIT ───────────────────────────────────────────────────────────────────
 document.addEventListener('DOMContentLoaded', function() {
@@ -857,19 +869,56 @@ function loadPosts() {
 }
 
 // ── RENDER ─────────────────────────────────────────────────────────────────
+/**
+ * Sets visiblePosts and renders the first page.
+ * Always resets to page 1 so tag-filter changes and loadPosts() start fresh.
+ */
 function renderPosts(posts) {
-  var grid = document.getElementById('posts-grid');
-  var countEl = document.getElementById('post-count');
+  visiblePosts = posts;
+  currentPage  = 1;
+  var grid     = document.getElementById('posts-grid');
+  var countEl  = document.getElementById('post-count');
+
   if (!posts.length) {
     grid.innerHTML =
       '<div class="empty-state"><div class="empty-icon">₿</div>' +
       '<h3>'+t('empty_title')+'</h3>' +
       '<p>'+t('empty_desc')+'</p></div>';
     countEl.textContent = '';
+    document.getElementById('load-more-wrap').style.display = 'none';
     return;
   }
+
+  var page = posts.slice(0, POSTS_PER_PAGE);
   countEl.textContent = posts.length + ' ' + t('post_count_unit');
-  grid.innerHTML = posts.map(cardHTML).join('');
+  grid.innerHTML = page.map(cardHTML).join('');
+  _updateLoadMoreBtn();
+}
+
+/** Appends the next page of cards without touching existing ones. */
+function loadMorePosts() {
+  currentPage++;
+  var start = (currentPage - 1) * POSTS_PER_PAGE;
+  var page  = visiblePosts.slice(start, start + POSTS_PER_PAGE);
+  var grid  = document.getElementById('posts-grid');
+  var frag  = document.createElement('div');
+  frag.innerHTML = page.map(cardHTML).join('');
+  while (frag.firstChild) grid.appendChild(frag.firstChild);
+  _updateLoadMoreBtn();
+}
+
+function _updateLoadMoreBtn() {
+  var wrap = document.getElementById('load-more-wrap');
+  var btn  = document.getElementById('btn-load-more');
+  var rendered = currentPage * POSTS_PER_PAGE;
+  var remaining = visiblePosts.length - rendered;
+  if (remaining > 0) {
+    wrap.style.display = '';
+    btn.disabled = false;
+    btn.textContent = 'Xem thêm ' + Math.min(remaining, POSTS_PER_PAGE) + ' bài ↓';
+  } else {
+    wrap.style.display = 'none';
+  }
 }
 
 function cardHTML(post) {
