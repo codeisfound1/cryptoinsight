@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1777353232566",
+      "title": "Điểm tin crypto 28/04/2026 lúc 12:13: Xu hướng Bitcoin và Ethereum",
+      "summary": "Thị trường tiền điện tử đang trải qua nhiều sự kiện quan trọng, từ áp lực đối với Bitcoin đến sự phát triển của Ethereum. Các nhà đầu tư cần theo dõi chặt chẽ các xu hướng và sự kiện để đưa ra quyết định đầu tư thông minh.",
+      "content": "<p>Thị trường tiền điện tử đang trở nên ngày càng phức tạp và thú vị. Trong những ngày gần đây, chúng ta đã chứng kiến nhiều sự kiện quan trọng ảnh hưởng đến giá trị của các loại tiền điện tử hàng đầu như Bitcoin và Ethereum.</p><h2>1. Áp lực đối với Bitcoin</h2><p>Bitcoin đang đối mặt với áp lực từ nhiều phía, bao gồm sự không chắc chắn về chính sách của Cục Dự trữ Liên bang Mỹ (Fed), giá dầu và sự chậm lại của sự phát triển trí tuệ nhân tạo (AI). Điều này đã khiến giá Bitcoin giảm và tạo ra sự bất ổn trên thị trường.</p><h2>2. Sự phát triển của Ethereum</h2><p>Ethereum cũng đang trải qua nhiều sự kiện quan trọng, bao gồm sự hình thành của mô hình triple top và sự phê duyệt của stablecoin shekel-pegged ở Israel. Những sự kiện này có thể ảnh hưởng đến giá trị của Ethereum và tạo ra cơ hội cho các nhà đầu tư.</p><h2>3. Sự kiện quan trọng khác</h2><p>Các sự kiện quan trọng khác bao gồm việc MARA thành lập một quỹ để hỗ trợ sự phát triển của mạng lưới Bitcoin, việc Japan’s Bitbank ra mắt thẻ tín dụng liên kết với tiền điện tử và việc ZetaChain tạm dừng giao dịch chuỗi chéo do bị tấn công.</p><h2>Nhận định thị trường</h2><p>Thị trường tiền điện tử đang trở nên ngày càng phức tạp và khó dự đoán. Các nhà đầu tư cần theo dõi chặt chẽ các xu hướng và sự kiện để đưa ra quyết định đầu tư thông minh. Sự phát triển của Ethereum và sự áp lực đối với Bitcoin là những yếu tố quan trọng cần được xem xét.</p><h2>Khuyến nghị nhà đầu tư</h2><p>Đối với các nhà đầu tư, việc đa dạng hóa danh mục đầu tư và theo dõi chặt chẽ các xu hướng và sự kiện là rất quan trọng. Các nhà đầu tư cũng nên xem xét việc đầu tư vào các loại tiền điện tử khác nhau để giảm thiểu rủi ro và tăng cơ hội lợi nhuận.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] Bitcoin pressured by Fed uncertainty, oil, and AI slowdown — <em>CoinDesk</em></li>\n<li>[2] MARA forms foundation to support Bitcoin network health, adoption — <em>Cointelegraph</em></li>\n<li>[3] Bitcoin support resistance flip in play as longs to shorts delta highlights bullish bias — <em>Cointelegraph</em></li>\n<li>[4] Japan’s Bitbank rolls out crypto-linked credit card that pays bills in bitcoin — <em>The Block</em></li>\n<li>[5] Saipan woman gets 71 months in prison for bitcoin fraud targeting senior victims — <em>The Block</em></li>\n<li>[6] ZetaChain halts cross-chain transactions following attack on smart contract — <em>The Block</em></li>\n<li>[7] Bitcoin shorts create $1.4B liquidation risk: Is a price squeeze to $80K next? — <em>Cointelegraph</em></li>\n<li>[8] Ether triple top strikes at $2.4K as ETH analysts doubt bullish trend change — <em>Cointelegraph</em></li>\n<li>[9] Israeli regulators approve shekel-pegged stablecoin — <em>Cointelegraph</em></li>\n<li>[10] Elon Musk’s Fight With Colorado Over AI Law Hits Pause as State Considers Revisions — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "thị trường",
+        "điểm tin",
+        "nft",
+        "defi"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777353232/cryptoinsight/posts/diem-tin-crypto-28042026-luc-1213-xu-huong-bitcoin-va-ethereum.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1777353232/cryptoinsight/posts/diem-tin-crypto-28042026-luc-1213-xu-huong-bitcoin-va-ethereum.jpg",
+        "publicId": "cryptoinsight/posts/diem-tin-crypto-28042026-luc-1213-xu-huong-bitcoin-va-ethereum",
+        "width": 1920,
+        "height": 1080,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 28/04/2026 lúc 12:13: Xu hướng Bitcoin và Ethereum"
+      },
+      "sourceUrl": "https://www.coindesk.com/markets/2026/04/28/the-uncertainty-of-the-fed-oil-and-a-possible-ai-slowdown-are-all-weighing-heavy-on-btc",
+      "sourceTitle": "CoinDesk / Cointelegraph / The Block / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Bitcoin pressured by Fed uncertainty, oil, and AI slowdown",
+          "url": "https://www.coindesk.com/markets/2026/04/28/the-uncertainty-of-the-fed-oil-and-a-possible-ai-slowdown-are-all-weighing-heavy-on-btc",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "MARA forms foundation to support Bitcoin network health, adoption",
+          "url": "https://cointelegraph.com/news/mara-forms-foundation-to-harden-bitcoin-against-quantum-other-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin support resistance flip in play as longs to shorts delta highlights bullish bias",
+          "url": "https://cointelegraph.com/markets/bitcoin-support-resistance-flip-in-play-as-longs-to-shorts-delta-highlights-bullish-bias?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Japan’s Bitbank rolls out crypto-linked credit card that pays bills in bitcoin",
+          "url": "https://www.theblock.co/post/399102/japans-bitbank-crypto-credit-card?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Saipan woman gets 71 months in prison for bitcoin fraud targeting senior victims",
+          "url": "https://www.theblock.co/post/399107/saipan-woman-bitcoin-fraud?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "ZetaChain halts cross-chain transactions following attack on smart contract",
+          "url": "https://www.theblock.co/post/399092/zetachain-attack-smart-contract?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin shorts create $1.4B liquidation risk: Is a price squeeze to $80K next?",
+          "url": "https://cointelegraph.com/markets/bitcoin-shorts-create-14b-liquidation-risk-is-a-price-squeeze-to-80k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Ether triple top strikes at $2.4K as ETH analysts doubt bullish trend change",
+          "url": "https://cointelegraph.com/markets/ether-triple-top-pattern-rejects-24k-as-eth-analyst-questions-uptrend?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Israeli regulators approve shekel-pegged stablecoin",
+          "url": "https://cointelegraph.com/news/israel-shekel-pegged-stablecoin-bils?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Elon Musk’s Fight With Colorado Over AI Law Hits Pause as State Considers Revisions",
+          "url": "https://decrypt.co/365751/elon-musk-colorado-ai-law-pause-state-considers-revisions",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-04-28T05:13:52.566Z",
+      "slug": "diem-tin-crypto-28042026-luc-1213-xu-huong-bitcoin-va-ethereum"
+    },
+    {
       "id": "1777344994362",
       "title": "Điểm tin crypto 28/04/2026 lúc 09:56: Thị trường tiền điện tử biến động mạnh",
       "summary": "Thị trường tiền điện tử đang trải qua những biến động mạnh với việc ZetaChain ngừng giao dịch chuỗi chéo, Bitcoin đối mặt với rủi ro thanh lý và Ethereum gặp phải mô hình giá triple top. Ngoài ra, các sự kiện khác như việc Israel phê duyệt stablecoin pegged với Shekel và Canada tiến hành luật cấm quyên góp tiền điện tử cho chính trị cũng đang thu hút sự chú ý.",
@@ -2003,7 +2084,12 @@
     "https://www.theblock.co/post/399092/zetachain-attack-smart-contract?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/markets/bitcoin-shorts-create-14b-liquidation-risk-is-a-price-squeeze-to-80k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/markets/ether-triple-top-pattern-rejects-24k-as-eth-analyst-questions-uptrend?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/israel-shekel-pegged-stablecoin-bils?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/israel-shekel-pegged-stablecoin-bils?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/04/28/the-uncertainty-of-the-fed-oil-and-a-possible-ai-slowdown-are-all-weighing-heavy-on-btc",
+    "https://cointelegraph.com/news/mara-forms-foundation-to-harden-bitcoin-against-quantum-other-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/markets/bitcoin-support-resistance-flip-in-play-as-longs-to-shorts-delta-highlights-bullish-bias?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/post/399102/japans-bitbank-crypto-credit-card?utm_source=rss&amp;utm_medium=rss",
+    "https://www.theblock.co/post/399107/saipan-woman-bitcoin-fraud?utm_source=rss&amp;utm_medium=rss"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/398938/bitcoin-leads-1-2b-weekly-haul-for-global-crypto-funds-as-institutional-demand-builds-coinshares?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/398933/luxor-microbt-100-million-rig-deal?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/04/27/global-interest-rates-robinhood-galaxy-earnings-crypto-week-ahead",
@@ -2025,6 +2111,7 @@
     "https://decrypt.co/365645/openai-sam-altman-apologizes-not-alerting-police-tumbler-ridge-mass-shooting|https://www.coindesk.com/business/2026/04/27/cross-border-b2b-stablecoin-payments-to-rise-by-over-37-000-to-usd5t-by-2035|https://www.coindesk.com/markets/2026/04/27/fidelity-digital-assets-says-bitcoin-is-leading-crypto-market-stabilization",
     "https://www.theblock.co/post/399010/defi-united-push-hits-300m-as-consensys-and-joseph-lubin-contribute-30000-eth?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/365645/openai-sam-altman-apologizes-not-alerting-police-tumbler-ridge-mass-shooting|https://www.coindesk.com/business/2026/04/27/cross-border-b2b-stablecoin-payments-to-rise-by-over-37-000-to-usd5t-by-2035",
     "https://decrypt.co/365751/elon-musk-colorado-ai-law-pause-state-considers-revisions|https://cointelegraph.com/news/canada-advances-bill-ban-crypto-political-donations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/markets/bitcoin-whale-holdings-hit-five-month-high-is-btc-headed-to-80k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/post/399092/zetachain-attack-smart-contract?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/markets/bitcoin-shorts-create-14b-liquidation-risk-is-a-price-squeeze-to-80k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/markets/ether-triple-top-pattern-rejects-24k-as-eth-analyst-questions-uptrend?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://www.theblock.co/post/399092/zetachain-attack-smart-contract?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/markets/bitcoin-shorts-create-14b-liquidation-risk-is-a-price-squeeze-to-80k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/markets/ether-triple-top-pattern-rejects-24k-as-eth-analyst-questions-uptrend?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/04/28/the-uncertainty-of-the-fed-oil-and-a-possible-ai-slowdown-are-all-weighing-heavy-on-btc|https://cointelegraph.com/news/mara-forms-foundation-to-harden-bitcoin-against-quantum-other-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/markets/bitcoin-support-resistance-flip-in-play-as-longs-to-shorts-delta-highlights-bullish-bias?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
