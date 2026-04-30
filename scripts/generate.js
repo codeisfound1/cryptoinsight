@@ -329,8 +329,7 @@ async function fetchTelegramMessages() {
   }
 
   // Debug: log 300 ký tự đầu để kiểm tra format
-  console.log("   🔍 RSS response preview:", xml.slice(0, 300).replace(/
-/g, " "));
+  console.log("   🔍 RSS response preview:", xml.slice(0, 300).replace(/\n/g, " "));
 
   const articles = [];
 
