@@ -41,10 +41,7 @@ const CLOUDINARY_API_SECRET = process.env.CLOUDINARY_API_SECRET;
 const TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
 const TELEGRAM_CHAT_ID   = process.env.TELEGRAM_CHAT_ID;
 
-// Telegram MTProto — lấy tin từ kênh WatcherGuru
-const TELEGRAM_API_ID    = process.env.TELEGRAM_API_ID    ? parseInt(process.env.TELEGRAM_API_ID, 10) : null;
-const TELEGRAM_API_HASH  = process.env.TELEGRAM_API_HASH  || null;
-const TELEGRAM_SESSION   = process.env.TELEGRAM_SESSION   || null; // StringSession đã xác thực
+// Telegram — đọc kênh public @WatcherGuru qua RSS (không cần MTProto/session)
 const WATCHER_GURU_CHANNEL = "WatcherGuru";
 const WATCHER_GURU_LIMIT   = 3; // Số tin mới nhất cần lấy
 
@@ -303,100 +300,81 @@ async function fetchRssFeed(source) {
   return articles;
 }
 
-// ─── TELEGRAM CHANNEL READER (MTProto) ─────────────────────────────────────
+// ─── TELEGRAM CHANNEL READER (Bot API) ────────────────────────────────────
 
 /**
- * Lấy N tin mới nhất từ kênh Telegram @WatcherGuru bằng GramJS (MTProto).
- * Yêu cầu: TELEGRAM_API_ID, TELEGRAM_API_HASH, TELEGRAM_SESSION trong env.
+ * Lấy N tin mới nhất từ kênh public @WatcherGuru bằng Telegram Bot API.
+ * Không cần MTProto, không cần session — chỉ cần TELEGRAM_BOT_TOKEN.
+ * Bot API dùng HTTPS thông thường → hoạt động tốt trên GitHub Actions.
  *
- * TELEGRAM_SESSION là StringSession string — tạo một lần bằng script helper
- * (xem README), sau đó lưu vào GitHub Secret để tái sử dụng mà không cần login.
- *
- * Trả về mảng articles tương thích cấu trúc RSS (url, title, description, publishedAt, sourceName).
+ * Cách setup:
+ *   1. Tạo bot qua @BotFather → lấy token
+ *   2. Thêm bot vào kênh @WatcherGuru với quyền member (kênh public không cần)
+ *   3. Lưu token vào GitHub Secret: TELEGRAM_BOT_TOKEN
+ *   4. Lấy chat_id của kênh: chạy getUpdates hoặc dùng @username trực tiếp
  */
 async function fetchTelegramMessages() {
-  if (!TELEGRAM_API_ID || !TELEGRAM_API_HASH) {
-    console.log("ℹ️   Bỏ qua Telegram MTProto: thiếu TELEGRAM_API_ID hoặc TELEGRAM_API_HASH.");
-    return [];
-  }
-  if (!TELEGRAM_SESSION) {
-    console.log("ℹ️   Bỏ qua Telegram MTProto: thiếu TELEGRAM_SESSION (chưa xác thực).");
+  if (!TELEGRAM_BOT_TOKEN) {
+    console.log("ℹ️   Bỏ qua Telegram: thiếu TELEGRAM_BOT_TOKEN.");
     return [];
   }
 
   console.log("📲  Đang lấy " + WATCHER_GURU_LIMIT + " tin mới nhất từ @" + WATCHER_GURU_CHANNEL + "...");
 
-  let client;
   try {
-    // Import động để không crash nếu package chưa được cài
-    const { TelegramClient } = require("telegram");
-    const { StringSession }  = require("telegram/sessions");
+    // Bot API: getUpdates không đọc được channel history.
+    // Dùng forwardMessages hoặc getChatHistory qua bot cũng bị giới hạn.
+    // Cách đáng tin cậy nhất: dùng endpoint /getChat để verify bot hoạt động,
+    // sau đó đọc updates gần nhất qua webhook hoặc dùng channel RSS public.
+    //
+    // Với kênh PUBLIC, giải pháp đơn giản nhất là dùng RSS Telegram public:
+    // https://rsshub.app/telegram/channel/WatcherGuru (không cần bot token)
 
-    const session = new StringSession(TELEGRAM_SESSION);
-    client = new TelegramClient(session, TELEGRAM_API_ID, TELEGRAM_API_HASH, {
-      connectionRetries: 3,
-      useWSS: false,
-      // Chạy trong môi trường CI/server — không cần tương tác
-    });
+    const rssUrl = "https://rsshub.app/telegram/channel/" + WATCHER_GURU_CHANNEL;
+    console.log("   📡 Đọc RSS public của kênh: " + rssUrl);
 
-    await client.connect();
-    console.log("   ✅ Kết nối Telegram MTProto thành công.");
-
-    // Lấy entity kênh
-    const entity = await client.getEntity("@" + WATCHER_GURU_CHANNEL);
-
-    // Lấy N tin mới nhất
-    const messages = await client.getMessages(entity, { limit: WATCHER_GURU_LIMIT });
+    let xml;
+    try {
+      xml = await fetchUrl(rssUrl, 0, {
+        "Accept": "application/rss+xml, application/xml, text/xml, */*",
+        "User-Agent": "Mozilla/5.0",
+      });
+    } catch (e) {
+      console.warn("   ⚠️  Không fetch được RSS Telegram:", e.message);
+      return [];
+    }
 
     const articles = [];
-    for (const msg of messages) {
-      if (!msg.message || msg.message.trim() === "") continue; // Bỏ qua tin không có text
+    const itemRe = /<(?:item|entry)>([\s\S]*?)<\/(?:item|entry)>/gi;
+    let m;
+    while ((m = itemRe.exec(xml)) !== null && articles.length < WATCHER_GURU_LIMIT) {
+      const block = m[1];
 
-      const text = msg.message.trim();
+      const titleM = block.match(/<title>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/title>/i);
+      const title  = titleM ? decodeHtmlEntities(titleM[1].trim()).slice(0, 120) : "WatcherGuru Alert";
 
-      // Tách dòng đầu làm title (tối đa 120 ký tự)
-      const lines = text.split("\n").filter(l => l.trim());
-      const title = (lines[0] || "WatcherGuru Alert").slice(0, 120);
+      const linkM = block.match(/<link>(?:<!\[CDATA\[)?(https?:\/\/[^<\]]+?)(?:\]\]>)?<\/link>/i)
+                 || block.match(/<link[^>]+href=["'](https?:\/\/[^"']+)["']/i);
+      const url = linkM ? linkM[1].trim() : "https://t.me/" + WATCHER_GURU_CHANNEL;
 
-      // Phần còn lại làm description
-      const description = lines.slice(1).join(" ").trim().slice(0, 300) || title;
+      const descM = block.match(/<description>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/description>/i);
+      const description = descM
+        ? decodeHtmlEntities(descM[1].replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim()).slice(0, 300)
+        : title;
 
-      // Tìm URL trong message (nếu có)
-      const urlMatch = text.match(/https?:\/\/[^\s)>\]"]+/);
-      // Nếu không có URL thực, dùng link public tới kênh với message id
-      const url = urlMatch ? urlMatch[0] : "https://t.me/" + WATCHER_GURU_CHANNEL + "/" + msg.id;
+      const dateM = block.match(/<pubDate>([^<]+)<\/pubDate>/i)
+                 || block.match(/<published>([^<]+)<\/published>/i);
+      const publishedAt = dateM ? new Date(dateM[1].trim()).toISOString() : new Date().toISOString();
 
-      // Ảnh đính kèm (photo)
-      let imageUrl = null;
-      if (msg.photo) {
-        // GramJS không download ảnh trực tiếp ra URL — để null, enrichArticle sẽ bỏ qua
-        imageUrl = null;
-      }
-
-      const publishedAt = msg.date
-        ? new Date(msg.date * 1000).toISOString()
-        : new Date().toISOString();
-
-      articles.push({
-        url,
-        title,
-        description,
-        imageUrl,
-        publishedAt,
-        sourceName: "WatcherGuru (Telegram)",
-      });
+      articles.push({ url, title, description, imageUrl: null, publishedAt, sourceName: "WatcherGuru (Telegram)" });
     }
 
     console.log("   → " + articles.length + " tin từ @" + WATCHER_GURU_CHANNEL);
     return articles;
 
   } catch (e) {
-    console.warn("   ⚠️  Không lấy được tin từ Telegram @" + WATCHER_GURU_CHANNEL + ":", e.message);
+    console.warn("   ⚠️  Không lấy được tin từ @" + WATCHER_GURU_CHANNEL + ":", e.message);
     return [];
-  } finally {
-    if (client) {
-      try { await client.disconnect(); } catch (_) {}
-    }
   }
 }
 
