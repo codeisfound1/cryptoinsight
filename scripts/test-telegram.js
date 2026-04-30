@@ -30,7 +30,7 @@ if (!apiId || !apiHash || !session) {
     apiId,
     apiHash,
     {
-      connectionRetries: 5,
+      connectionRetries: 2,
       useWSS: false,
       connection: ConnectionTCPFull,
       timeout: 30,
