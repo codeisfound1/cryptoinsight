@@ -300,74 +300,56 @@ async function fetchRssFeed(source) {
   return articles;
 }
 
-// ─── TELEGRAM CHANNEL READER (Bot API) ────────────────────────────────────
+// ─── TELEGRAM CHANNEL READER ─────────────────────────────────────────────
 
 /**
- * Lấy N tin mới nhất từ kênh public @WatcherGuru bằng Telegram Bot API.
- * Không cần MTProto, không cần session — chỉ cần TELEGRAM_BOT_TOKEN.
- * Bot API dùng HTTPS thông thường → hoạt động tốt trên GitHub Actions.
- *
- * Cách setup:
- *   1. Tạo bot qua @BotFather → lấy token
- *   2. Thêm bot vào kênh @WatcherGuru với quyền member (kênh public không cần)
- *   3. Lưu token vào GitHub Secret: TELEGRAM_BOT_TOKEN
- *   4. Lấy chat_id của kênh: chạy getUpdates hoặc dùng @username trực tiếp
+ * Lấy N tin mới nhất từ kênh public @WatcherGuru.
+ * Scrape trực tiếp https://t.me/s/WatcherGuru — Telegram tự host, không cần
+ * xác thực, không bị Cloudflare chặn như các RSS proxy bên thứ ba.
  */
 async function fetchTelegramMessages() {
-  const rssUrl = "https://rsshub.app/telegram/channel/" + WATCHER_GURU_CHANNEL;
+  const pageUrl = "https://t.me/s/" + WATCHER_GURU_CHANNEL;
   console.log("📲  Đang lấy " + WATCHER_GURU_LIMIT + " tin mới nhất từ @" + WATCHER_GURU_CHANNEL + "...");
-  console.log("   📡 Đọc RSS: " + rssUrl);
+  console.log("   📡 Scrape: " + pageUrl);
 
-  let xml;
+  let html;
   try {
-    xml = await fetchUrl(rssUrl, 0, {
-      "Accept": "application/rss+xml, application/xml, application/atom+xml, text/xml, */*",
+    html = await fetchUrl(pageUrl, 0, {
+      "Accept":          "text/html,application/xhtml+xml,*/*",
+      "Accept-Language": "en-US,en;q=0.9",
     });
   } catch (e) {
-    console.warn("   ⚠️  Không fetch được RSS Telegram:", e.message);
+    console.warn("   ⚠️  Không fetch được trang Telegram:", e.message);
     return [];
   }
 
-  // Debug: log 300 ký tự đầu để kiểm tra format
-  console.log("   🔍 RSS response preview:", xml.slice(0, 300).replace(/\n/g, " "));
-
   const articles = [];
 
-  // RSSHub trả về Atom feed: <entry> thay vì <item>
-  // Title nằm trong <title>, link nằm trong <link rel="alternate" href="...">,
-  // nội dung trong <content type="html"> hoặc <summary>
-  const itemRe = /<(?:item|entry)([\s\S]*?)<\/(?:item|entry)>/gi;
-  let m;
+  // Tách từng message block dựa trên class tgme_widget_message_wrap
+  const blocks = html.split("tgme_widget_message_wrap").slice(1);
 
-  while ((m = itemRe.exec(xml)) !== null && articles.length < WATCHER_GURU_LIMIT) {
-    const block = m[1];
+  for (const block of blocks) {
+    if (articles.length >= WATCHER_GURU_LIMIT) break;
 
-    // Title
-    const titleM = block.match(/<title[^>]*>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/title>/i);
-    const title  = titleM ? decodeHtmlEntities(titleM[1].trim()).slice(0, 120) : "WatcherGuru Alert";
+    // Nội dung text
+    const textM = block.match(/class="tgme_widget_message_text[^"]*"[^>]*>([\s\S]*?)<\/div>/i);
+    if (!textM) continue;
+    const rawText = textM[1].replace(/<br\s*\/?>/gi, "\n").replace(/<[^>]+>/g, "").trim();
+    const text = decodeHtmlEntities(rawText);
+    if (!text) continue;
 
-    // URL — thử nhiều dạng
-    const urlM = block.match(/<link[^>]+rel=["']alternate["'][^>]+href=["'](https?:\/\/[^"']+)["']/i)
-              || block.match(/<link[^>]+href=["'](https?:\/\/[^"']+)["']/i)
-              || block.match(/<link>(https?:\/\/[^<]+)<\/link>/i)
-              || block.match(/<id>(https?:\/\/[^<]+)<\/id>/i);
-    const url = urlM ? urlM[1].trim() : "https://t.me/" + WATCHER_GURU_CHANNEL;
+    // Permalink tới từng message
+    const urlM = block.match(/href="(https:\/\/t\.me\/[^"]+\/\d+)"/i);
+    const url  = urlM ? urlM[1] : "https://t.me/" + WATCHER_GURU_CHANNEL;
 
-    // Description / content
-    const descM = block.match(/<content[^>]*>([\s\S]*?)<\/content>/i)
-               || block.match(/<summary[^>]*>([\s\S]*?)<\/summary>/i)
-               || block.match(/<description>([\s\S]*?)<\/description>/i);
-    const description = descM
-      ? decodeHtmlEntities(descM[1].replace(/<!\[CDATA\[|\]\]>/g, "").replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim()).slice(0, 300)
-      : title;
+    // Thời gian
+    const dateM = block.match(/<time[^>]+datetime="([^"]+)"/i);
+    const publishedAt = dateM ? new Date(dateM[1]).toISOString() : new Date().toISOString();
 
-    // Date
-    const dateM = block.match(/<published>([^<]+)<\/published>/i)
-               || block.match(/<updated>([^<]+)<\/updated>/i)
-               || block.match(/<pubDate>([^<]+)<\/pubDate>/i);
-    const publishedAt = dateM ? new Date(dateM[1].trim()).toISOString() : new Date().toISOString();
-
-    if (!url.startsWith("http")) continue;
+    // Dòng đầu làm title
+    const lines = text.split("\n").filter(l => l.trim());
+    const title       = (lines[0] || "WatcherGuru Alert").slice(0, 120);
+    const description = lines.slice(1).join(" ").trim().slice(0, 300) || title;
 
     articles.push({ url, title, description, imageUrl: null, publishedAt, sourceName: "WatcherGuru (Telegram)" });
   }
@@ -376,10 +358,6 @@ async function fetchTelegramMessages() {
   return articles;
 }
 
-/**
- * Lấy top N tin mới nhất từ tất cả RSS sources
- * Sắp xếp theo thời gian đăng (mới nhất trước), loại trùng URL
- */
 async function fetchTopNewsFromRss() {
   console.log("\n📰  Đang tổng hợp RSS từ " + RSS_SOURCES.length + " nguồn + Telegram @" + WATCHER_GURU_CHANNEL + "...");
 
