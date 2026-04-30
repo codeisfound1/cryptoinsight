@@ -41,6 +41,13 @@ const CLOUDINARY_API_SECRET = process.env.CLOUDINARY_API_SECRET;
 const TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
 const TELEGRAM_CHAT_ID   = process.env.TELEGRAM_CHAT_ID;
 
+// Telegram MTProto — lấy tin từ kênh WatcherGuru
+const TELEGRAM_API_ID    = process.env.TELEGRAM_API_ID    ? parseInt(process.env.TELEGRAM_API_ID, 10) : null;
+const TELEGRAM_API_HASH  = process.env.TELEGRAM_API_HASH  || null;
+const TELEGRAM_SESSION   = process.env.TELEGRAM_SESSION   || null; // StringSession đã xác thực
+const WATCHER_GURU_CHANNEL = "WatcherGuru";
+const WATCHER_GURU_LIMIT   = 3; // Số tin mới nhất cần lấy
+
 if (!GROQ_KEY) {
   console.error("❌ Thiếu GROQ_API_KEY");
   process.exit(1);
@@ -296,18 +303,121 @@ async function fetchRssFeed(source) {
   return articles;
 }
 
+// ─── TELEGRAM CHANNEL READER (MTProto) ─────────────────────────────────────
+
+/**
+ * Lấy N tin mới nhất từ kênh Telegram @WatcherGuru bằng GramJS (MTProto).
+ * Yêu cầu: TELEGRAM_API_ID, TELEGRAM_API_HASH, TELEGRAM_SESSION trong env.
+ *
+ * TELEGRAM_SESSION là StringSession string — tạo một lần bằng script helper
+ * (xem README), sau đó lưu vào GitHub Secret để tái sử dụng mà không cần login.
+ *
+ * Trả về mảng articles tương thích cấu trúc RSS (url, title, description, publishedAt, sourceName).
+ */
+async function fetchTelegramMessages() {
+  if (!TELEGRAM_API_ID || !TELEGRAM_API_HASH) {
+    console.log("ℹ️   Bỏ qua Telegram MTProto: thiếu TELEGRAM_API_ID hoặc TELEGRAM_API_HASH.");
+    return [];
+  }
+  if (!TELEGRAM_SESSION) {
+    console.log("ℹ️   Bỏ qua Telegram MTProto: thiếu TELEGRAM_SESSION (chưa xác thực).");
+    return [];
+  }
+
+  console.log("📲  Đang lấy " + WATCHER_GURU_LIMIT + " tin mới nhất từ @" + WATCHER_GURU_CHANNEL + "...");
+
+  let client;
+  try {
+    // Import động để không crash nếu package chưa được cài
+    const { TelegramClient } = require("telegram");
+    const { StringSession }  = require("telegram/sessions");
+
+    const session = new StringSession(TELEGRAM_SESSION);
+    client = new TelegramClient(session, TELEGRAM_API_ID, TELEGRAM_API_HASH, {
+      connectionRetries: 3,
+      useWSS: false,
+      // Chạy trong môi trường CI/server — không cần tương tác
+    });
+
+    await client.connect();
+    console.log("   ✅ Kết nối Telegram MTProto thành công.");
+
+    // Lấy entity kênh
+    const entity = await client.getEntity("@" + WATCHER_GURU_CHANNEL);
+
+    // Lấy N tin mới nhất
+    const messages = await client.getMessages(entity, { limit: WATCHER_GURU_LIMIT });
+
+    const articles = [];
+    for (const msg of messages) {
+      if (!msg.message || msg.message.trim() === "") continue; // Bỏ qua tin không có text
+
+      const text = msg.message.trim();
+
+      // Tách dòng đầu làm title (tối đa 120 ký tự)
+      const lines = text.split("\n").filter(l => l.trim());
+      const title = (lines[0] || "WatcherGuru Alert").slice(0, 120);
+
+      // Phần còn lại làm description
+      const description = lines.slice(1).join(" ").trim().slice(0, 300) || title;
+
+      // Tìm URL trong message (nếu có)
+      const urlMatch = text.match(/https?:\/\/[^\s)>\]"]+/);
+      // Nếu không có URL thực, dùng link public tới kênh với message id
+      const url = urlMatch ? urlMatch[0] : "https://t.me/" + WATCHER_GURU_CHANNEL + "/" + msg.id;
+
+      // Ảnh đính kèm (photo)
+      let imageUrl = null;
+      if (msg.photo) {
+        // GramJS không download ảnh trực tiếp ra URL — để null, enrichArticle sẽ bỏ qua
+        imageUrl = null;
+      }
+
+      const publishedAt = msg.date
+        ? new Date(msg.date * 1000).toISOString()
+        : new Date().toISOString();
+
+      articles.push({
+        url,
+        title,
+        description,
+        imageUrl,
+        publishedAt,
+        sourceName: "WatcherGuru (Telegram)",
+      });
+    }
+
+    console.log("   → " + articles.length + " tin từ @" + WATCHER_GURU_CHANNEL);
+    return articles;
+
+  } catch (e) {
+    console.warn("   ⚠️  Không lấy được tin từ Telegram @" + WATCHER_GURU_CHANNEL + ":", e.message);
+    return [];
+  } finally {
+    if (client) {
+      try { await client.disconnect(); } catch (_) {}
+    }
+  }
+}
+
 /**
  * Lấy top N tin mới nhất từ tất cả RSS sources
  * Sắp xếp theo thời gian đăng (mới nhất trước), loại trùng URL
  */
 async function fetchTopNewsFromRss() {
-  console.log("\n📰  Đang tổng hợp RSS từ " + RSS_SOURCES.length + " nguồn...");
+  console.log("\n📰  Đang tổng hợp RSS từ " + RSS_SOURCES.length + " nguồn + Telegram @" + WATCHER_GURU_CHANNEL + "...");
 
   const allArticles = [];
+
+  // Lấy tin từ RSS feeds
   for (const source of RSS_SOURCES) {
     const items = await fetchRssFeed(source);
     allArticles.push(...items);
   }
+
+  // Lấy tin từ Telegram @WatcherGuru (MTProto)
+  const tgMessages = await fetchTelegramMessages();
+  allArticles.push(...tgMessages);
 
   // Loại trùng URL
   const seen   = new Set();
@@ -321,7 +431,8 @@ async function fetchTopNewsFromRss() {
   unique.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
 
   const result = unique.slice(0, TOP_N);
-  console.log("📋  Tổng hợp: " + unique.length + " bài từ " + RSS_SOURCES.length + " nguồn → lấy top " + result.length);
+  const sourceCount = RSS_SOURCES.length + (tgMessages.length > 0 ? 1 : 0);
+  console.log("📋  Tổng hợp: " + unique.length + " bài từ " + sourceCount + " nguồn → lấy top " + result.length);
   return result;
 }
 
