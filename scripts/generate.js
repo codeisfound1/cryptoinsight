@@ -314,68 +314,67 @@ async function fetchRssFeed(source) {
  *   4. Lấy chat_id của kênh: chạy getUpdates hoặc dùng @username trực tiếp
  */
 async function fetchTelegramMessages() {
-  if (!TELEGRAM_BOT_TOKEN) {
-    console.log("ℹ️   Bỏ qua Telegram: thiếu TELEGRAM_BOT_TOKEN.");
-    return [];
-  }
-
+  const rssUrl = "https://rsshub.app/telegram/channel/" + WATCHER_GURU_CHANNEL;
   console.log("📲  Đang lấy " + WATCHER_GURU_LIMIT + " tin mới nhất từ @" + WATCHER_GURU_CHANNEL + "...");
+  console.log("   📡 Đọc RSS: " + rssUrl);
 
+  let xml;
   try {
-    // Bot API: getUpdates không đọc được channel history.
-    // Dùng forwardMessages hoặc getChatHistory qua bot cũng bị giới hạn.
-    // Cách đáng tin cậy nhất: dùng endpoint /getChat để verify bot hoạt động,
-    // sau đó đọc updates gần nhất qua webhook hoặc dùng channel RSS public.
-    //
-    // Với kênh PUBLIC, giải pháp đơn giản nhất là dùng RSS Telegram public:
-    // https://rsshub.app/telegram/channel/WatcherGuru (không cần bot token)
-
-    const rssUrl = "https://rsshub.app/telegram/channel/" + WATCHER_GURU_CHANNEL;
-    console.log("   📡 Đọc RSS public của kênh: " + rssUrl);
-
-    let xml;
-    try {
-      xml = await fetchUrl(rssUrl, 0, {
-        "Accept": "application/rss+xml, application/xml, text/xml, */*",
-        "User-Agent": "Mozilla/5.0",
-      });
-    } catch (e) {
-      console.warn("   ⚠️  Không fetch được RSS Telegram:", e.message);
-      return [];
-    }
-
-    const articles = [];
-    const itemRe = /<(?:item|entry)>([\s\S]*?)<\/(?:item|entry)>/gi;
-    let m;
-    while ((m = itemRe.exec(xml)) !== null && articles.length < WATCHER_GURU_LIMIT) {
-      const block = m[1];
-
-      const titleM = block.match(/<title>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/title>/i);
-      const title  = titleM ? decodeHtmlEntities(titleM[1].trim()).slice(0, 120) : "WatcherGuru Alert";
-
-      const linkM = block.match(/<link>(?:<!\[CDATA\[)?(https?:\/\/[^<\]]+?)(?:\]\]>)?<\/link>/i)
-                 || block.match(/<link[^>]+href=["'](https?:\/\/[^"']+)["']/i);
-      const url = linkM ? linkM[1].trim() : "https://t.me/" + WATCHER_GURU_CHANNEL;
-
-      const descM = block.match(/<description>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/description>/i);
-      const description = descM
-        ? decodeHtmlEntities(descM[1].replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim()).slice(0, 300)
-        : title;
-
-      const dateM = block.match(/<pubDate>([^<]+)<\/pubDate>/i)
-                 || block.match(/<published>([^<]+)<\/published>/i);
-      const publishedAt = dateM ? new Date(dateM[1].trim()).toISOString() : new Date().toISOString();
-
-      articles.push({ url, title, description, imageUrl: null, publishedAt, sourceName: "WatcherGuru (Telegram)" });
-    }
-
-    console.log("   → " + articles.length + " tin từ @" + WATCHER_GURU_CHANNEL);
-    return articles;
-
+    xml = await fetchUrl(rssUrl, 0, {
+      "Accept": "application/rss+xml, application/xml, application/atom+xml, text/xml, */*",
+    });
   } catch (e) {
-    console.warn("   ⚠️  Không lấy được tin từ @" + WATCHER_GURU_CHANNEL + ":", e.message);
+    console.warn("   ⚠️  Không fetch được RSS Telegram:", e.message);
     return [];
   }
+
+  // Debug: log 300 ký tự đầu để kiểm tra format
+  console.log("   🔍 RSS response preview:", xml.slice(0, 300).replace(/
+/g, " "));
+
+  const articles = [];
+
+  // RSSHub trả về Atom feed: <entry> thay vì <item>
+  // Title nằm trong <title>, link nằm trong <link rel="alternate" href="...">,
+  // nội dung trong <content type="html"> hoặc <summary>
+  const itemRe = /<(?:item|entry)([\s\S]*?)<\/(?:item|entry)>/gi;
+  let m;
+
+  while ((m = itemRe.exec(xml)) !== null && articles.length < WATCHER_GURU_LIMIT) {
+    const block = m[1];
+
+    // Title
+    const titleM = block.match(/<title[^>]*>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/title>/i);
+    const title  = titleM ? decodeHtmlEntities(titleM[1].trim()).slice(0, 120) : "WatcherGuru Alert";
+
+    // URL — thử nhiều dạng
+    const urlM = block.match(/<link[^>]+rel=["']alternate["'][^>]+href=["'](https?:\/\/[^"']+)["']/i)
+              || block.match(/<link[^>]+href=["'](https?:\/\/[^"']+)["']/i)
+              || block.match(/<link>(https?:\/\/[^<]+)<\/link>/i)
+              || block.match(/<id>(https?:\/\/[^<]+)<\/id>/i);
+    const url = urlM ? urlM[1].trim() : "https://t.me/" + WATCHER_GURU_CHANNEL;
+
+    // Description / content
+    const descM = block.match(/<content[^>]*>([\s\S]*?)<\/content>/i)
+               || block.match(/<summary[^>]*>([\s\S]*?)<\/summary>/i)
+               || block.match(/<description>([\s\S]*?)<\/description>/i);
+    const description = descM
+      ? decodeHtmlEntities(descM[1].replace(/<!\[CDATA\[|\]\]>/g, "").replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim()).slice(0, 300)
+      : title;
+
+    // Date
+    const dateM = block.match(/<published>([^<]+)<\/published>/i)
+               || block.match(/<updated>([^<]+)<\/updated>/i)
+               || block.match(/<pubDate>([^<]+)<\/pubDate>/i);
+    const publishedAt = dateM ? new Date(dateM[1].trim()).toISOString() : new Date().toISOString();
+
+    if (!url.startsWith("http")) continue;
+
+    articles.push({ url, title, description, imageUrl: null, publishedAt, sourceName: "WatcherGuru (Telegram)" });
+  }
+
+  console.log("   → " + articles.length + " tin từ @" + WATCHER_GURU_CHANNEL);
+  return articles;
 }
 
 /**
