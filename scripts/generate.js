@@ -41,6 +41,10 @@ const CLOUDINARY_API_SECRET = process.env.CLOUDINARY_API_SECRET;
 const TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
 const TELEGRAM_CHAT_ID   = process.env.TELEGRAM_CHAT_ID;
 
+// Telegram — đọc kênh public @WatcherGuru qua RSS (không cần MTProto/session)
+const WATCHER_GURU_CHANNEL = "WatcherGuru";
+const WATCHER_GURU_LIMIT   = 3; // Số tin mới nhất cần lấy
+
 if (!GROQ_KEY) {
   console.error("❌ Thiếu GROQ_API_KEY");
   process.exit(1);
@@ -296,18 +300,78 @@ async function fetchRssFeed(source) {
   return articles;
 }
 
+// ─── TELEGRAM CHANNEL READER ─────────────────────────────────────────────
+
 /**
- * Lấy top N tin mới nhất từ tất cả RSS sources
- * Sắp xếp theo thời gian đăng (mới nhất trước), loại trùng URL
+ * Lấy N tin mới nhất từ kênh public @WatcherGuru.
+ * Scrape trực tiếp https://t.me/s/WatcherGuru — Telegram tự host, không cần
+ * xác thực, không bị Cloudflare chặn như các RSS proxy bên thứ ba.
  */
+async function fetchTelegramMessages() {
+  const pageUrl = "https://t.me/s/" + WATCHER_GURU_CHANNEL;
+  console.log("📲  Đang lấy " + WATCHER_GURU_LIMIT + " tin mới nhất từ @" + WATCHER_GURU_CHANNEL + "...");
+  console.log("   📡 Scrape: " + pageUrl);
+
+  let html;
+  try {
+    html = await fetchUrl(pageUrl, 0, {
+      "Accept":          "text/html,application/xhtml+xml,*/*",
+      "Accept-Language": "en-US,en;q=0.9",
+    });
+  } catch (e) {
+    console.warn("   ⚠️  Không fetch được trang Telegram:", e.message);
+    return [];
+  }
+
+  const articles = [];
+
+  // Tách từng message block dựa trên class tgme_widget_message_wrap
+  const blocks = html.split("tgme_widget_message_wrap").slice(1);
+
+  for (const block of blocks) {
+    if (articles.length >= WATCHER_GURU_LIMIT) break;
+
+    // Nội dung text
+    const textM = block.match(/class="tgme_widget_message_text[^"]*"[^>]*>([\s\S]*?)<\/div>/i);
+    if (!textM) continue;
+    const rawText = textM[1].replace(/<br\s*\/?>/gi, "\n").replace(/<[^>]+>/g, "").trim();
+    const text = decodeHtmlEntities(rawText);
+    if (!text) continue;
+
+    // Permalink tới từng message
+    const urlM = block.match(/href="(https:\/\/t\.me\/[^"]+\/\d+)"/i);
+    const url  = urlM ? urlM[1] : "https://t.me/" + WATCHER_GURU_CHANNEL;
+
+    // Thời gian
+    const dateM = block.match(/<time[^>]+datetime="([^"]+)"/i);
+    const publishedAt = dateM ? new Date(dateM[1]).toISOString() : new Date().toISOString();
+
+    // Dòng đầu làm title
+    const lines = text.split("\n").filter(l => l.trim());
+    const title       = (lines[0] || "WatcherGuru Alert").slice(0, 120);
+    const description = lines.slice(1).join(" ").trim().slice(0, 300) || title;
+
+    articles.push({ url, title, description, imageUrl: null, publishedAt, sourceName: "WatcherGuru (Telegram)" });
+  }
+
+  console.log("   → " + articles.length + " tin từ @" + WATCHER_GURU_CHANNEL);
+  return articles;
+}
+
 async function fetchTopNewsFromRss() {
-  console.log("\n📰  Đang tổng hợp RSS từ " + RSS_SOURCES.length + " nguồn...");
+  console.log("\n📰  Đang tổng hợp RSS từ " + RSS_SOURCES.length + " nguồn + Telegram @" + WATCHER_GURU_CHANNEL + "...");
 
   const allArticles = [];
+
+  // Lấy tin từ RSS feeds
   for (const source of RSS_SOURCES) {
     const items = await fetchRssFeed(source);
     allArticles.push(...items);
   }
+
+  // Lấy tin từ Telegram @WatcherGuru (MTProto)
+  const tgMessages = await fetchTelegramMessages();
+  allArticles.push(...tgMessages);
 
   // Loại trùng URL
   const seen   = new Set();
@@ -321,7 +385,8 @@ async function fetchTopNewsFromRss() {
   unique.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
 
   const result = unique.slice(0, TOP_N);
-  console.log("📋  Tổng hợp: " + unique.length + " bài từ " + RSS_SOURCES.length + " nguồn → lấy top " + result.length);
+  const sourceCount = RSS_SOURCES.length + (tgMessages.length > 0 ? 1 : 0);
+  console.log("📋  Tổng hợp: " + unique.length + " bài từ " + sourceCount + " nguồn → lấy top " + result.length);
   return result;
 }
 

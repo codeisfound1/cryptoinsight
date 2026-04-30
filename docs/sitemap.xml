@@ -2,9 +2,86 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://cryptoinsight.c-odeisfound.workers.dev/</loc>
-    <lastmod>2026-04-29</lastmod>
+    <lastmod>2026-04-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://cryptoinsight.c-odeisfound.workers.dev/#diem-tin-crypto-30042026-luc-1750-thi-truong-tien-dien-tu-bien-dong-manh</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJJTIwQmFuY29yJTIwZXhjbHVkZXMlMjB1c2Vycy5qcGc/cHJlZml4PW1lZGlhJTJGYXJ0aWNsZS1jb3ZlcnM=.jpg</image:loc>
+      <image:title>Điểm tin crypto 30/04/2026 lúc 17:50: Thị trường tiền điện tử biến động mạnh</image:title>
+      <image:caption>Điểm tin crypto 30/04/2026 lúc 17:50: Thị trường tiền điện tử biến động mạnh</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cryptoinsight.c-odeisfound.workers.dev/#diem-tin-crypto-30042026-luc-1648-thi-truong-bien-dong-manh</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777542528/cryptoinsight/posts/diem-tin-crypto-30042026-luc-1648-thi-truong-bien-dong-manh.jpg</image:loc>
+      <image:title>Điểm tin crypto 30/04/2026 lúc 16:48: Thị trường biến động mạnh</image:title>
+      <image:caption>Điểm tin crypto 30/04/2026 lúc 16:48: Thị trường biến động mạnh</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cryptoinsight.c-odeisfound.workers.dev/#diem-tin-crypto-30042026-luc-1517-thi-truong-bien-dong-manh</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777537035/cryptoinsight/posts/diem-tin-crypto-30042026-luc-1517-thi-truong-bien-dong-manh.jpg</image:loc>
+      <image:title>Điểm tin crypto 30/04/2026 lúc 15:17: Thị trường biến động mạnh</image:title>
+      <image:caption>Điểm tin crypto 30/04/2026 lúc 15:17: Thị trường biến động mạnh</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cryptoinsight.c-odeisfound.workers.dev/#diem-tin-crypto-30042026-luc-0956-tinh-hinh-bitcoin-va-su-phat-trien-cua-ai</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJJTIwV2hhdCUyMGlzJTIwaW1wZXJtYW5lbnQlMjBsb3NzJTIwYW5kJTIwaG93JTIwdG8lMjBhdm9pZCUyMGl0Mi5qcGc/cHJlZml4PW1lZGlhJTJGYXJ0aWNsZS1jb3ZlcnM=.jpg</image:loc>
+      <image:title>Điểm tin crypto 30/04/2026 lúc 09:56: Tình hình Bitcoin và sự phát triển của AI</image:title>
+      <image:caption>Điểm tin crypto 30/04/2026 lúc 09:56: Tình hình Bitcoin và sự phát triển của AI</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cryptoinsight.c-odeisfound.workers.dev/#diem-tin-crypto-30042026-luc-0748-thi-truong-bitcoin-va-ai</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL3N0b3AlMjByZWd1bGF0aW9uJTIwYml0Y29pbi5qcGc/cHJlZml4PW1lZGlhJTJGYXJ0aWNsZS1jb3ZlcnM=.jpg</image:loc>
+      <image:title>Điểm tin crypto 30/04/2026 lúc 07:48: Thị trường Bitcoin và AI</image:title>
+      <image:caption>Điểm tin crypto 30/04/2026 lúc 07:48: Thị trường Bitcoin và AI</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cryptoinsight.c-odeisfound.workers.dev/#diem-tin-crypto-29042026-luc-2235-thi-truong-tien-dien-tu-tiep-tuc-phat-trien-ma</loc>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777476906/cryptoinsight/posts/diem-tin-crypto-29042026-luc-2235-thi-truong-tien-dien-tu-tiep-tuc-phat-trien-ma.jpg</image:loc>
+      <image:title>Điểm tin crypto 29/04/2026 lúc 22:35: Thị trường tiền điện tử tiếp tục phát triển mạnh mẽ</image:title>
+      <image:caption>Điểm tin crypto 29/04/2026 lúc 22:35: Thị trường tiền điện tử tiếp tục phát triển mạnh mẽ</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cryptoinsight.c-odeisfound.workers.dev/#diem-tin-crypto-29042026-luc-2149-thi-truong-tien-dien-tu-tiep-tuc-phat-trien-ma</loc>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777474176/cryptoinsight/posts/diem-tin-crypto-29042026-luc-2149-thi-truong-tien-dien-tu-tiep-tuc-phat-trien-ma.jpg</image:loc>
+      <image:title>Điểm tin crypto 29/04/2026 lúc 21:49: Thị trường tiền điện tử tiếp tục phát triển mạnh mẽ</image:title>
+      <image:caption>Điểm tin crypto 29/04/2026 lúc 21:49: Thị trường tiền điện tử tiếp tục phát triển mạnh mẽ</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://cryptoinsight.c-odeisfound.workers.dev/#diem-tin-crypto-29042026-luc-2014-thi-truong-tien-dien-tu-tiep-tuc-bien-dong</loc>
