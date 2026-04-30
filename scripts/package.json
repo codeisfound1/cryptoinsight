@@ -5,7 +5,6 @@
   "private": true,
   "type": "commonjs",
   "dependencies": {
-    "node-fetch": "^2.7.0",
-    "telegram": "^2.25.15"
+    "node-fetch": "^2.7.0"
   }
 }
