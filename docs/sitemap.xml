@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://cryptoinsight.c-odeisfound.workers.dev/</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://cryptoinsight.c-odeisfound.workers.dev/#diem-tin-crypto-01052026-luc-1027-thi-truong-tien-dien-tu-doi-mat-voi-nhieu-thac</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJJTIwV2hhdCUyMGFyZSUyMGluZmxvd3MlMjBhbmQlMjBvdXRmbG93cyUyMG9uJTIwY3J5cHRvJTIwZXhjaGFuZ2VzJTIwYml0Y29pbi5qcGc/cHJlZml4PW1lZGlhJTJGYXJ0aWNsZS1jb3ZlcnM=.jpg</image:loc>
+      <image:title>Điểm tin crypto 01/05/2026 lúc 10:27: Thị trường tiền điện tử đối mặt với nhiều thách thức</image:title>
+      <image:caption>Điểm tin crypto 01/05/2026 lúc 10:27: Thị trường tiền điện tử đối mặt với nhiều thách thức</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://cryptoinsight.c-odeisfound.workers.dev/#diem-tin-crypto-30042026-luc-2013-thi-truong-tien-dien-tu-bien-dong-manh</loc>
