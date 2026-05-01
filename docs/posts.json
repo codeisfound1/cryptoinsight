@@ -1,6 +1,85 @@
 {
   "posts": [
     {
+      "id": "1777639573164",
+      "title": "Điểm tin crypto 01/05/2026 lúc 19:46: Thị trường tiền điện tử biến động mạnh",
+      "summary": "Thị trường tiền điện tử đang biến động mạnh với sự ra mắt của thẻ ghi nợ stablecoin MoonPay, sự kiện ra mắt token MegaETH và quyết định của ngân hàng trung ương Brazil về việc cấm sử dụng tiền điện tử trong thanh toán quốc tế. Bitcoin tăng 12% trong tháng 4 nhưng vẫn còn những áp lực ngắn hạn.",
+      "content": "<p>Thị trường tiền điện tử đang chứng kiến sự biến động mạnh trong những ngày gần đây. Từ sự ra mắt của thẻ ghi nợ stablecoin MoonPay cho đến sự kiện ra mắt token MegaETH, mỗi sự kiện đều mang lại những tác động nhất định đến thị trường.</p><h2>1. Ra mắt thẻ ghi nợ stablecoin MoonPay</h2><p>MoonPay đã ra mắt thẻ ghi nợ stablecoin cho các đại lý AI trên mạng Mastercard. Điều này cho phép người dùng chi tiêu trực tiếp từ ví trên chuỗi.</p><h2>2. Sự kiện ra mắt token MegaETH</h2><p>MegaETH đã ra mắt token lớn nhất trong năm 2026 cho đến nay. Sự kiện này đã gây chú ý lớn trong cộng đồng tiền điện tử.</p><h2>3. Quyết định của ngân hàng trung ương Brazil</h2><p>Ngân hàng trung ương Brazil đã quyết định cấm sử dụng tiền điện tử trong thanh toán quốc tế. Điều này có thể gây ra những tác động tiêu cực đến thị trường tiền điện tử.</p><h2>4. Tăng trưởng của Bitcoin</h2><p>Bitcoin đã tăng 12% trong tháng 4. Tuy nhiên, vẫn còn những áp lực ngắn hạn đối với đồng tiền này.</p><h2>5. Sự kiện khác</h2><p>Các sự kiện khác như việc SBI Holdings mua cổ phần trong sàn giao dịch tiền điện tử Bitbank, sự kiện South Korean Court Lifts Bithumb's Six-Month Business Suspension cũng đã gây chú ý trong cộng đồng tiền điện tử.</p><h2>Nhận định thị trường</h2><p>Thị trường tiền điện tử đang biến động mạnh và có thể sẽ tiếp tục biến động trong thời gian tới. Các nhà đầu tư cần phải cẩn thận và theo dõi sát sao các sự kiện trên thị trường.</p><h2>Khuyến nghị nhà đầu tư</h2><p>Các nhà đầu tư nên cẩn thận và không nên đầu tư quá nhiều vào một loại tiền điện tử duy nhất. Việc đa dạng hóa danh mục đầu tư và theo dõi sát sao các sự kiện trên thị trường là rất quan trọng.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] MoonPay launches stablecoin debit card for AI agents on Mastercard network — <em>The Block</em></li>\n<li>[2] Morning Minute: MegaETH's MEGA Debut Biggest of 2026 — <em>Decrypt</em></li>\n<li>[3] Bitcoin Closes April Up 12% as Strategy's MSTR Posts First Positive Month Since July — <em>Decrypt</em></li>\n<li>[4] Brazil central bank prohibits crypto use in regulated cross-border payments under new FX rules — <em>The Block</em></li>\n<li>[5] Bitcoin bounces as big tech earnings fuel optimism; short-term pressures remain — <em>CoinDesk</em></li>\n<li>[6] SBI Holdings eyes stake in crypto exchange Bitbank to build digital asset powerhouse — <em>CoinDesk</em></li>\n<li>[7] Bitcoin ETFs draw $2B in April for highest monthly inflows this year — <em>Cointelegraph</em></li>\n<li>[8] SBI Holdings in talks to acquire stake in crypto exchange Bitbank, eyes subsidiary status — <em>The Block</em></li>\n<li>[9] South Korean Court Lifts Bithumb's Six-Month Business Suspension — <em>Decrypt</em></li>\n<li>[10] Bitcoin ticks higher, but remains range-bound as traders keep short bias — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "thị trường",
+        "điểm tin"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777639572/cryptohieuqua/posts/diem-tin-crypto-01052026-luc-1946-thi-truong-tien-dien-tu-bien-dong-manh.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1777639572/cryptohieuqua/posts/diem-tin-crypto-01052026-luc-1946-thi-truong-tien-dien-tu-bien-dong-manh.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-01052026-luc-1946-thi-truong-tien-dien-tu-bien-dong-manh",
+        "width": 800,
+        "height": 450,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 01/05/2026 lúc 19:46: Thị trường tiền điện tử biến động mạnh"
+      },
+      "sourceUrl": "https://www.theblock.co/post/399716/moonpay-stablecoin-debit-card-ai-agents-mastercard?utm_source=rss&amp;utm_medium=rss",
+      "sourceTitle": "The Block / Decrypt / CoinDesk / Cointelegraph",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "MoonPay launches stablecoin debit card for AI agents on Mastercard network",
+          "url": "https://www.theblock.co/post/399716/moonpay-stablecoin-debit-card-ai-agents-mastercard?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Morning Minute: MegaETH's MEGA Debut Biggest of 2026",
+          "url": "https://decrypt.co/366299/morning-minute-megaeths-mega-debut-biggest-of-2026",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitcoin Closes April Up 12% as Strategy's MSTR Posts First Positive Month Since July",
+          "url": "https://decrypt.co/366297/bitcoin-closes-april-up-12-as-strategys-mstr-posts-first-positive-month-since-july",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Brazil central bank prohibits crypto use in regulated cross-border payments under new FX rules",
+          "url": "https://www.theblock.co/post/399713/brazil-central-bank-prohibits-crypto-use-in-regulated-cross-border-payments-under-new-fx-rules?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin bounces as big tech earnings fuel optimism; short-term pressures remain",
+          "url": "https://www.coindesk.com/daybook-us/2026/05/01/bitcoin-bounces-as-big-tech-earnings-fuel-optimism-short-term-pressures-remain",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "SBI Holdings eyes stake in crypto exchange Bitbank to build digital asset powerhouse",
+          "url": "https://www.coindesk.com/business/2026/05/01/sbi-holdings-continues-its-crypto-expansion-with-plans-for-a-stake-in-bitbank",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin ETFs draw $2B in April for highest monthly inflows this year",
+          "url": "https://cointelegraph.com/news/bitcoin-etf-2-billion-inflow-april-biggest-month-ytd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "SBI Holdings in talks to acquire stake in crypto exchange Bitbank, eyes subsidiary status",
+          "url": "https://www.theblock.co/post/399709/sbi-holdings-in-talks-to-acquire-stake-in-crypto-exchange-bitbank-eyes-subsidiary-status?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "South Korean Court Lifts Bithumb's Six-Month Business Suspension",
+          "url": "https://decrypt.co/366292/south-korean-court-lifts-bithumbs-six-month-business-suspension",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitcoin ticks higher, but remains range-bound as traders keep short bias",
+          "url": "https://www.coindesk.com/markets/2026/05/01/bitcoin-ticks-higher-but-remains-range-bound-as-traders-keep-short-bias",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-05-01T12:46:13.164Z",
+      "slug": "diem-tin-crypto-01052026-luc-1946-thi-truong-tien-dien-tu-bien-dong-manh"
+    },
+    {
       "id": "1777635153931",
       "title": "Điểm tin crypto 01/05/2026 lúc 18:32: Thị trường tiền điện tử biến động nhẹ",
       "summary": "Thị trường tiền điện tử trải qua biến động nhẹ trong ngày 01/05/2026, với Bitcoin tăng nhẹ và các sự kiện quan trọng như SBI Holdings muốn mua lại Bitbank, Brazil cấm thanh toán bằng tiền điện tử trong các giao dịch xuyên biên giới.",
@@ -3476,7 +3555,12 @@
     "https://cointelegraph.com/news/sbi-seeks-to-make-bitbank-a-subsidiary-in-japan-crypto-consolidation-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/399706/south-korean-court-grants-stay-on-bithumbs-six-month-suspension-pending-final-ruling-reports?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/markets/2026/05/01/bitcoin-edges-above-usd77-000-but-institutional-activity-suggests-downside-hedging",
-    "https://cointelegraph.com/markets/bitcoin-seals-best-monthly-gain-in-a-year-as-sp-500-hits-fresh-all-time-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/markets/bitcoin-seals-best-monthly-gain-in-a-year-as-sp-500-hits-fresh-all-time-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/post/399716/moonpay-stablecoin-debit-card-ai-agents-mastercard?utm_source=rss&amp;utm_medium=rss",
+    "https://decrypt.co/366299/morning-minute-megaeths-mega-debut-biggest-of-2026",
+    "https://decrypt.co/366297/bitcoin-closes-april-up-12-as-strategys-mstr-posts-first-positive-month-since-july",
+    "https://www.theblock.co/post/399713/brazil-central-bank-prohibits-crypto-use-in-regulated-cross-border-payments-under-new-fx-rules?utm_source=rss&amp;utm_medium=rss",
+    "https://cointelegraph.com/news/bitcoin-etf-2-billion-inflow-april-biggest-month-ytd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/398938/bitcoin-leads-1-2b-weekly-haul-for-global-crypto-funds-as-institutional-demand-builds-coinshares?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/398933/luxor-microbt-100-million-rig-deal?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/04/27/global-interest-rates-robinhood-galaxy-earnings-crypto-week-ahead",
@@ -3515,6 +3599,7 @@
     "https://cointelegraph.com/markets/bitcoins-surge-through-77k-pressures-shorts-but-absent-spot-and-long-leverage-cap-rallies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/us-senate-bans-itself-from-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/markets/spot-bitcoin-etf-outflows-top-490m-is-btcs-rally-losing-momentum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/05/01/strategy-keeps-strc-dividend-at-11-5-as-stock-logs-first-monthly-gain-in-nine|https://cointelegraph.com/markets/bitcoins-surge-through-77k-pressures-shorts-but-absent-spot-and-long-leverage-cap-rallies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/tokenized-rwa-market-cap-spiked-in-the-last-15-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/399685/riot-33-million-data-center-revenue-debut-amd-doubles-contracted-capacity?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bakkt-completes-deal-to-acquire-distributed-technologies-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/05/01/bithumb-scores-a-legal-win-in-south-korea-as-six-month-suspension-is-lifted-by-local-judge",
-    "https://www.coindesk.com/daybook-us/2026/05/01/bitcoin-bounces-as-big-tech-earnings-fuel-optimism-short-term-pressures-remain|https://www.coindesk.com/business/2026/05/01/sbi-holdings-continues-its-crypto-expansion-with-plans-for-a-stake-in-bitbank|https://www.theblock.co/post/399709/sbi-holdings-in-talks-to-acquire-stake-in-crypto-exchange-bitbank-eyes-subsidiary-status?utm_source=rss&amp;utm_medium=rss"
+    "https://www.coindesk.com/daybook-us/2026/05/01/bitcoin-bounces-as-big-tech-earnings-fuel-optimism-short-term-pressures-remain|https://www.coindesk.com/business/2026/05/01/sbi-holdings-continues-its-crypto-expansion-with-plans-for-a-stake-in-bitbank|https://www.theblock.co/post/399709/sbi-holdings-in-talks-to-acquire-stake-in-crypto-exchange-bitbank-eyes-subsidiary-status?utm_source=rss&amp;utm_medium=rss",
+    "https://www.theblock.co/post/399716/moonpay-stablecoin-debit-card-ai-agents-mastercard?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/366299/morning-minute-megaeths-mega-debut-biggest-of-2026|https://decrypt.co/366297/bitcoin-closes-april-up-12-as-strategys-mstr-posts-first-positive-month-since-july"
   ]
 }
