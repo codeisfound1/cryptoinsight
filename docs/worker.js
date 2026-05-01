@@ -33,7 +33,7 @@ export default {
       return new Response('Unauthorized — Vui lòng đăng nhập để tiếp tục.', {
         status: 401,
         headers: {
-          'WWW-Authenticate': 'Basic realm="Crypto Insight Admin", charset="UTF-8"',
+          'WWW-Authenticate': 'Basic realm="Crypto Hiệu Quả Admin", charset="UTF-8"',
           'Content-Type': 'text/plain; charset=utf-8',
         },
       });

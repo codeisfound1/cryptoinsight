@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "cryptoinsight",
+  "name": "cryptohieuqua",
   "compatibility_date": "2026-04-27",
   "main": "worker.js",
   "assets": {
