@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://cryptohieu.com/</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://cryptohieu.com/#diem-tin-crypto-01052026-luc-1300-thi-truong-bitcoin-va-stablecoin-dan-dau</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777615227/cryptohieuqua/posts/diem-tin-crypto-01052026-luc-1300-thi-truong-bitcoin-va-stablecoin-dan-dau.jpg</image:loc>
+      <image:title>Điểm tin crypto 01/05/2026 lúc 13:00: Thị trường Bitcoin và Stablecoin dẫn đầu</image:title>
+      <image:caption>Điểm tin crypto 01/05/2026 lúc 13:00: Thị trường Bitcoin và Stablecoin dẫn đầu</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://cryptohieu.com/#diem-tin-crypto-30042026-luc-2013-thi-truong-tien-dien-tu-bien-dong-manh</loc>
@@ -12,7 +23,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777554821/cryptohieuqua/posts/diem-tin-crypto-30042026-luc-2013-thi-truong-tien-dien-tu-bien-dong-manh.jpg</image:loc>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777554821/cryptoinsight/posts/diem-tin-crypto-30042026-luc-2013-thi-truong-tien-dien-tu-bien-dong-manh.jpg</image:loc>
       <image:title>Điểm tin crypto 30/04/2026 lúc 20:13: Thị trường tiền điện tử biến động mạnh</image:title>
       <image:caption>Điểm tin crypto 30/04/2026 lúc 20:13: Thị trường tiền điện tử biến động mạnh</image:caption>
     </image:image>
@@ -34,7 +45,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777542528/cryptohieuqua/posts/diem-tin-crypto-30042026-luc-1648-thi-truong-bien-dong-manh.jpg</image:loc>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777542528/cryptoinsight/posts/diem-tin-crypto-30042026-luc-1648-thi-truong-bien-dong-manh.jpg</image:loc>
       <image:title>Điểm tin crypto 30/04/2026 lúc 16:48: Thị trường biến động mạnh</image:title>
       <image:caption>Điểm tin crypto 30/04/2026 lúc 16:48: Thị trường biến động mạnh</image:caption>
     </image:image>
@@ -45,7 +56,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777537035/cryptohieuqua/posts/diem-tin-crypto-30042026-luc-1517-thi-truong-bien-dong-manh.jpg</image:loc>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777537035/cryptoinsight/posts/diem-tin-crypto-30042026-luc-1517-thi-truong-bien-dong-manh.jpg</image:loc>
       <image:title>Điểm tin crypto 30/04/2026 lúc 15:17: Thị trường biến động mạnh</image:title>
       <image:caption>Điểm tin crypto 30/04/2026 lúc 15:17: Thị trường biến động mạnh</image:caption>
     </image:image>
@@ -78,7 +89,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777476906/cryptohieuqua/posts/diem-tin-crypto-29042026-luc-2235-thi-truong-tien-dien-tu-tiep-tuc-phat-trien-ma.jpg</image:loc>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777476906/cryptoinsight/posts/diem-tin-crypto-29042026-luc-2235-thi-truong-tien-dien-tu-tiep-tuc-phat-trien-ma.jpg</image:loc>
       <image:title>Điểm tin crypto 29/04/2026 lúc 22:35: Thị trường tiền điện tử tiếp tục phát triển mạnh mẽ</image:title>
       <image:caption>Điểm tin crypto 29/04/2026 lúc 22:35: Thị trường tiền điện tử tiếp tục phát triển mạnh mẽ</image:caption>
     </image:image>
@@ -89,7 +100,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777474176/cryptohieuqua/posts/diem-tin-crypto-29042026-luc-2149-thi-truong-tien-dien-tu-tiep-tuc-phat-trien-ma.jpg</image:loc>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777474176/cryptoinsight/posts/diem-tin-crypto-29042026-luc-2149-thi-truong-tien-dien-tu-tiep-tuc-phat-trien-ma.jpg</image:loc>
       <image:title>Điểm tin crypto 29/04/2026 lúc 21:49: Thị trường tiền điện tử tiếp tục phát triển mạnh mẽ</image:title>
       <image:caption>Điểm tin crypto 29/04/2026 lúc 21:49: Thị trường tiền điện tử tiếp tục phát triển mạnh mẽ</image:caption>
     </image:image>
@@ -100,7 +111,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777468448/cryptohieuqua/posts/diem-tin-crypto-29042026-luc-2014-thi-truong-tien-dien-tu-tiep-tuc-bien-dong.jpg</image:loc>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777468448/cryptoinsight/posts/diem-tin-crypto-29042026-luc-2014-thi-truong-tien-dien-tu-tiep-tuc-bien-dong.jpg</image:loc>
       <image:title>Điểm tin crypto 29/04/2026 lúc 20:14: Thị trường tiền điện tử tiếp tục biến động</image:title>
       <image:caption>Điểm tin crypto 29/04/2026 lúc 20:14: Thị trường tiền điện tử tiếp tục biến động</image:caption>
     </image:image>
@@ -111,7 +122,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777431296/cryptohieuqua/posts/diem-tin-crypto-29042026-luc-0954-thi-truong-bien-dong-manh.jpg</image:loc>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777431296/cryptoinsight/posts/diem-tin-crypto-29042026-luc-0954-thi-truong-bien-dong-manh.jpg</image:loc>
       <image:title>Điểm tin crypto 29/04/2026 lúc 09:54: Thị trường biến động mạnh</image:title>
       <image:caption>Điểm tin crypto 29/04/2026 lúc 09:54: Thị trường biến động mạnh</image:caption>
     </image:image>
@@ -122,7 +133,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777382564/cryptohieuqua/posts/diem-tin-crypto-28042026-luc-2022-thi-truong-bien-dong-voi-bitcoin-va-ethereum.jpg</image:loc>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777382564/cryptoinsight/posts/diem-tin-crypto-28042026-luc-2022-thi-truong-bien-dong-voi-bitcoin-va-ethereum.jpg</image:loc>
       <image:title>Điểm tin crypto 28/04/2026 lúc 20:22: Thị trường biến động với Bitcoin và Ethereum</image:title>
       <image:caption>Điểm tin crypto 28/04/2026 lúc 20:22: Thị trường biến động với Bitcoin và Ethereum</image:caption>
     </image:image>
@@ -133,7 +144,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777356185/cryptohieuqua/posts/diem-tin-crypto-28042026-luc-1303-thi-truong-bien-dong-manh.jpg</image:loc>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777356185/cryptoinsight/posts/diem-tin-crypto-28042026-luc-1303-thi-truong-bien-dong-manh.jpg</image:loc>
       <image:title>Điểm tin crypto 28/04/2026 lúc 13:03: Thị trường biến động mạnh</image:title>
       <image:caption>Điểm tin crypto 28/04/2026 lúc 13:03: Thị trường biến động mạnh</image:caption>
     </image:image>
@@ -144,7 +155,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777353232/cryptohieuqua/posts/diem-tin-crypto-28042026-luc-1213-xu-huong-bitcoin-va-ethereum.jpg</image:loc>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777353232/cryptoinsight/posts/diem-tin-crypto-28042026-luc-1213-xu-huong-bitcoin-va-ethereum.jpg</image:loc>
       <image:title>Điểm tin crypto 28/04/2026 lúc 12:13: Xu hướng Bitcoin và Ethereum</image:title>
       <image:caption>Điểm tin crypto 28/04/2026 lúc 12:13: Xu hướng Bitcoin và Ethereum</image:caption>
     </image:image>
@@ -155,7 +166,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777344993/cryptohieuqua/posts/diem-tin-crypto-28042026-luc-0956-thi-truong-tien-dien-tu-bien-dong-manh.jpg</image:loc>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777344993/cryptoinsight/posts/diem-tin-crypto-28042026-luc-0956-thi-truong-tien-dien-tu-bien-dong-manh.jpg</image:loc>
       <image:title>Điểm tin crypto 28/04/2026 lúc 09:56: Thị trường tiền điện tử biến động mạnh</image:title>
       <image:caption>Điểm tin crypto 28/04/2026 lúc 09:56: Thị trường tiền điện tử biến động mạnh</image:caption>
     </image:image>
@@ -166,7 +177,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777332579/cryptohieuqua/posts/diem-tin-crypto-27042026-luc-0629-thi-truong-cho-doi-su-kien-quan-trong.png</image:loc>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777332579/cryptoinsight/posts/diem-tin-crypto-27042026-luc-0629-thi-truong-cho-doi-su-kien-quan-trong.png</image:loc>
       <image:title>Điểm tin crypto 27/04/2026 lúc 06:29: Thị trường chờ đợi sự kiện quan trọng</image:title>
       <image:caption>Điểm tin crypto 27/04/2026 lúc 06:29: Thị trường chờ đợi sự kiện quan trọng</image:caption>
     </image:image>
@@ -177,7 +188,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777306505/cryptohieuqua/posts/diem-tin-crypto-27042026-luc-2315-defi-united-va-xu-huong-thi-truong.jpg</image:loc>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777306505/cryptoinsight/posts/diem-tin-crypto-27042026-luc-2315-defi-united-va-xu-huong-thi-truong.jpg</image:loc>
       <image:title>Điểm tin crypto 27/04/2026 lúc 23:15: DeFi United và Xu Hướng Thị Trường</image:title>
       <image:caption>Điểm tin crypto 27/04/2026 lúc 23:15: DeFi United và Xu Hướng Thị Trường</image:caption>
     </image:image>
@@ -188,7 +199,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777306140/cryptohieuqua/posts/diem-tin-crypto-27042026-luc-2308-thi-truong-on-dinh-voi-su-dan-dat-cua-bitcoin.png</image:loc>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777306140/cryptoinsight/posts/diem-tin-crypto-27042026-luc-2308-thi-truong-on-dinh-voi-su-dan-dat-cua-bitcoin.png</image:loc>
       <image:title>Điểm tin crypto 27/04/2026 lúc 23:08: Thị trường ổn định với sự dẫn dắt của Bitcoin</image:title>
       <image:caption>Điểm tin crypto 27/04/2026 lúc 23:08: Thị trường ổn định với sự dẫn dắt của Bitcoin</image:caption>
     </image:image>
@@ -199,7 +210,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777304880/cryptohieuqua/posts/diem-tin-crypto-27042026-luc-2247-thi-truong-crypto-tim-thay-su-on-dinh.jpg</image:loc>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777304880/cryptoinsight/posts/diem-tin-crypto-27042026-luc-2247-thi-truong-crypto-tim-thay-su-on-dinh.jpg</image:loc>
       <image:title>Điểm tin crypto 27/04/2026 lúc 22:47: Thị trường crypto tìm thấy sự ổn định</image:title>
       <image:caption>Điểm tin crypto 27/04/2026 lúc 22:47: Thị trường crypto tìm thấy sự ổn định</image:caption>
     </image:image>
@@ -210,7 +221,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777303567/cryptohieuqua/posts/diem-tin-crypto-27042026-luc-2226-thi-truong-crypto-tiep-tuc-tang-truong.jpg</image:loc>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777303567/cryptoinsight/posts/diem-tin-crypto-27042026-luc-2226-thi-truong-crypto-tiep-tuc-tang-truong.jpg</image:loc>
       <image:title>Điểm tin crypto 27/04/2026 lúc 22:26: Thị trường crypto tiếp tục tăng trưởng</image:title>
       <image:caption>Điểm tin crypto 27/04/2026 lúc 22:26: Thị trường crypto tiếp tục tăng trưởng</image:caption>
     </image:image>
@@ -221,7 +232,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777302835/cryptohieuqua/posts/diem-tin-crypto-27042026-luc-2213-thi-truong-tien-dien-tu-tiep-tuc-bien-dong.jpg</image:loc>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777302835/cryptoinsight/posts/diem-tin-crypto-27042026-luc-2213-thi-truong-tien-dien-tu-tiep-tuc-bien-dong.jpg</image:loc>
       <image:title>Điểm tin crypto 27/04/2026 lúc 22:13: Thị trường tiền điện tử tiếp tục biến động</image:title>
       <image:caption>Điểm tin crypto 27/04/2026 lúc 22:13: Thị trường tiền điện tử tiếp tục biến động</image:caption>
     </image:image>
@@ -232,7 +243,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777300242/cryptohieuqua/posts/diem-tin-crypto-27042026-luc-2130-thi-truong-tien-dien-tu-bien-dong-manh.jpg</image:loc>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777300242/cryptoinsight/posts/diem-tin-crypto-27042026-luc-2130-thi-truong-tien-dien-tu-bien-dong-manh.jpg</image:loc>
       <image:title>Điểm tin crypto 27/04/2026 lúc 21:30: Thị trường tiền điện tử biến động mạnh</image:title>
       <image:caption>Điểm tin crypto 27/04/2026 lúc 21:30: Thị trường tiền điện tử biến động mạnh</image:caption>
     </image:image>
@@ -243,7 +254,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777298331/cryptohieuqua/posts/diem-tin-crypto-27042026-luc-2058-bitcoin-va-ethereum-dan-dau.png</image:loc>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777298331/cryptoinsight/posts/diem-tin-crypto-27042026-luc-2058-bitcoin-va-ethereum-dan-dau.png</image:loc>
       <image:title>Điểm tin crypto 27/04/2026 lúc 20:58: Bitcoin và Ethereum dẫn đầu</image:title>
       <image:caption>Điểm tin crypto 27/04/2026 lúc 20:58: Bitcoin và Ethereum dẫn đầu</image:caption>
     </image:image>
@@ -254,7 +265,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777297163/cryptohieuqua/posts/diem-tin-crypto-27042026-luc-2039-thi-truong-bitcoin-va-ether-tiep-tuc-bien-dong.jpg</image:loc>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777297163/cryptoinsight/posts/diem-tin-crypto-27042026-luc-2039-thi-truong-bitcoin-va-ether-tiep-tuc-bien-dong.jpg</image:loc>
       <image:title>Điểm tin crypto 27/04/2026 lúc 20:39: Thị trường bitcoin và ether tiếp tục biến động</image:title>
       <image:caption>Điểm tin crypto 27/04/2026 lúc 20:39: Thị trường bitcoin và ether tiếp tục biến động</image:caption>
     </image:image>
@@ -265,7 +276,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777295455/cryptohieuqua/posts/diem-tin-crypto-27042026-luc-2010-thi-truong-tien-dien-tu-bien-dong-manh.png</image:loc>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777295455/cryptoinsight/posts/diem-tin-crypto-27042026-luc-2010-thi-truong-tien-dien-tu-bien-dong-manh.png</image:loc>
       <image:title>Điểm tin crypto 27/04/2026 lúc 20:10: Thị trường tiền điện tử biến động mạnh</image:title>
       <image:caption>Điểm tin crypto 27/04/2026 lúc 20:10: Thị trường tiền điện tử biến động mạnh</image:caption>
     </image:image>
@@ -276,7 +287,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777294116/cryptohieuqua/posts/diem-tin-crypto-27042026-luc-1948-thi-truong-bitcoin-va-ethereum-tiep-tuc-tang-t.jpg</image:loc>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777294116/cryptoinsight/posts/diem-tin-crypto-27042026-luc-1948-thi-truong-bitcoin-va-ethereum-tiep-tuc-tang-t.jpg</image:loc>
       <image:title>Điểm tin crypto 27/04/2026 lúc 19:48: Thị trường Bitcoin và Ethereum tiếp tục tăng trưởng</image:title>
       <image:caption>Điểm tin crypto 27/04/2026 lúc 19:48: Thị trường Bitcoin và Ethereum tiếp tục tăng trưởng</image:caption>
     </image:image>
@@ -287,7 +298,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777293212/cryptohieuqua/posts/diem-tin-crypto-27042026-luc-1933-thi-truong-tien-dien-tu-tiep-tuc-bien-dong.png</image:loc>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777293212/cryptoinsight/posts/diem-tin-crypto-27042026-luc-1933-thi-truong-tien-dien-tu-tiep-tuc-bien-dong.png</image:loc>
       <image:title>Điểm tin crypto 27/04/2026 lúc 19:33: Thị trường tiền điện tử tiếp tục biến động</image:title>
       <image:caption>Điểm tin crypto 27/04/2026 lúc 19:33: Thị trường tiền điện tử tiếp tục biến động</image:caption>
     </image:image>
@@ -298,7 +309,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777292842/cryptohieuqua/posts/diem-tin-crypto-27042026-luc-1927-thi-truong-crypto-tiep-tuc-bien-dong.jpg</image:loc>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777292842/cryptoinsight/posts/diem-tin-crypto-27042026-luc-1927-thi-truong-crypto-tiep-tuc-bien-dong.jpg</image:loc>
       <image:title>Điểm tin crypto 27/04/2026 lúc 19:27: Thị trường crypto tiếp tục biến động</image:title>
       <image:caption>Điểm tin crypto 27/04/2026 lúc 19:27: Thị trường crypto tiếp tục biến động</image:caption>
     </image:image>
@@ -309,7 +320,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777291630/cryptohieuqua/posts/diem-tin-crypto-27042026-luc-1907-bitcoin-va-nft-dan-dau-xu-huong.jpg</image:loc>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777291630/cryptoinsight/posts/diem-tin-crypto-27042026-luc-1907-bitcoin-va-nft-dan-dau-xu-huong.jpg</image:loc>
       <image:title>Điểm tin crypto 27/04/2026 lúc 19:07: Bitcoin và NFT dẫn đầu xu hướng</image:title>
       <image:caption>Điểm tin crypto 27/04/2026 lúc 19:07: Bitcoin và NFT dẫn đầu xu hướng</image:caption>
     </image:image>
@@ -320,7 +331,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777291227/cryptohieuqua/posts/diem-tin-crypto-27042026-luc-1900-thi-truong-crypto-bien-dong-manh.jpg</image:loc>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777291227/cryptoinsight/posts/diem-tin-crypto-27042026-luc-1900-thi-truong-crypto-bien-dong-manh.jpg</image:loc>
       <image:title>Điểm tin crypto 27/04/2026 lúc 19:00: Thị trường crypto biến động mạnh</image:title>
       <image:caption>Điểm tin crypto 27/04/2026 lúc 19:00: Thị trường crypto biến động mạnh</image:caption>
     </image:image>
@@ -331,7 +342,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777289348/cryptohieuqua/posts/diem-tin-crypto-27042026-luc-1829-thi-truong-bien-dong-voi-bitcoin-va-defi.png</image:loc>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777289348/cryptoinsight/posts/diem-tin-crypto-27042026-luc-1829-thi-truong-bien-dong-voi-bitcoin-va-defi.png</image:loc>
       <image:title>Điểm tin crypto 27/04/2026 lúc 18:29: Thị trường biến động với Bitcoin và DeFi</image:title>
       <image:caption>Điểm tin crypto 27/04/2026 lúc 18:29: Thị trường biến động với Bitcoin và DeFi</image:caption>
     </image:image>
@@ -342,7 +353,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777288418/cryptohieuqua/posts/diem-tin-crypto-27042026-luc-1813-thi-truong-bien-dong-voi-su-kien-kelpdao-va-bi.jpg</image:loc>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777288418/cryptoinsight/posts/diem-tin-crypto-27042026-luc-1813-thi-truong-bien-dong-voi-su-kien-kelpdao-va-bi.jpg</image:loc>
       <image:title>Điểm tin crypto 27/04/2026 lúc 18:13: Thị trường biến động với sự kiện KelpDAO và biện pháp trừng phạt Nga</image:title>
       <image:caption>Điểm tin crypto 27/04/2026 lúc 18:13: Thị trường biến động với sự kiện KelpDAO và biện pháp trừng phạt Nga</image:caption>
     </image:image>
@@ -353,7 +364,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777286713/cryptohieuqua/posts/diem-tin-crypto-27042026-luc-1745-thi-truong-bien-dong-manh.jpg</image:loc>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777286713/cryptoinsight/posts/diem-tin-crypto-27042026-luc-1745-thi-truong-bien-dong-manh.jpg</image:loc>
       <image:title>Điểm tin crypto 27/04/2026 lúc 17:45: Thị trường biến động mạnh</image:title>
       <image:caption>Điểm tin crypto 27/04/2026 lúc 17:45: Thị trường biến động mạnh</image:caption>
     </image:image>
@@ -364,7 +375,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777282366/cryptohieuqua/posts/diem-tin-crypto-27042026-luc-1632-thi-truong-tien-dien-tu-bien-dong-manh.jpg</image:loc>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777282366/cryptoinsight/posts/diem-tin-crypto-27042026-luc-1632-thi-truong-tien-dien-tu-bien-dong-manh.jpg</image:loc>
       <image:title>Điểm tin crypto 27/04/2026 lúc 16:32: Thị trường tiền điện tử biến động mạnh</image:title>
       <image:caption>Điểm tin crypto 27/04/2026 lúc 16:32: Thị trường tiền điện tử biến động mạnh</image:caption>
     </image:image>
@@ -375,7 +386,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777281330/cryptohieuqua/posts/diem-tin-crypto-27042026-luc-1615-thi-truong-tien-dien-tu-bien-dong-manh.jpg</image:loc>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777281330/cryptoinsight/posts/diem-tin-crypto-27042026-luc-1615-thi-truong-tien-dien-tu-bien-dong-manh.jpg</image:loc>
       <image:title>Điểm tin crypto 27/04/2026 lúc 16:15: Thị trường tiền điện tử biến động mạnh</image:title>
       <image:caption>Điểm tin crypto 27/04/2026 lúc 16:15: Thị trường tiền điện tử biến động mạnh</image:caption>
     </image:image>
@@ -386,7 +397,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777277983/cryptohieuqua/posts/diem-tin-crypto-27042026-luc-1519-tom-tat-thi-truong-va-xu-huong.jpg</image:loc>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777277983/cryptoinsight/posts/diem-tin-crypto-27042026-luc-1519-tom-tat-thi-truong-va-xu-huong.jpg</image:loc>
       <image:title>Điểm tin crypto 27/04/2026 lúc 15:19: Tóm tắt thị trường và xu hướng</image:title>
       <image:caption>Điểm tin crypto 27/04/2026 lúc 15:19: Tóm tắt thị trường và xu hướng</image:caption>
     </image:image>
@@ -408,7 +419,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
-      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777269611/cryptohieuqua/posts/diem-tin-crypto-27042026-luc-1300-bitcoin-va-xu-huong-thi-truong.jpg</image:loc>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777269611/cryptoinsight/posts/diem-tin-crypto-27042026-luc-1300-bitcoin-va-xu-huong-thi-truong.jpg</image:loc>
       <image:title>Điểm tin crypto 27/04/2026 lúc 13:00: Bitcoin và xu hướng thị trường</image:title>
       <image:caption>Điểm tin crypto 27/04/2026 lúc 13:00: Bitcoin và xu hướng thị trường</image:caption>
     </image:image>
