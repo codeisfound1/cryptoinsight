@@ -1,4 +1,4 @@
-# 🪙 Crypto Insight AI
+# 🪙 Crypto Hiệu Quả AI
  
 > Blog phân tích tiền điện tử tự động — crawl từ RSS + Telegram, viết lại bởi AI Groq, deploy trên GitHub Pages.
  
@@ -21,8 +21,8 @@
 ### 1. Fork repo này
  
 ```bash
-git clone https://github.com/YOUR_USERNAME/cryptoinsight
-cd cryptoinsight
+git clone https://github.com/YOUR_USERNAME/cryptohieuqua
+cd cryptohieuqua
 ```
  
 ### 2. Tạo GitHub Secrets
@@ -32,7 +32,7 @@ Vào **Settings → Secrets and variables → Actions** và thêm:
 | Secret | Mô tả | Bắt buộc |
 |--------|-------|----------|
 | `GROQ_API_KEY` | API key từ [console.groq.com](https://console.groq.com) | ✅ |
-| `SITE_URL` | URL GitHub Pages của bạn (VD: `https://username.github.io/cryptoinsight`) | ✅ |
+| `SITE_URL` | URL GitHub Pages của bạn (VD: `https://username.github.io/cryptohieuqua`) | ✅ |
 | `CLOUDINARY_CLOUD_NAME` | Tên cloud Cloudinary | ❌ |
 | `CLOUDINARY_API_KEY` | API key Cloudinary | ❌ |
 | `CLOUDINARY_API_SECRET` | API secret Cloudinary | ❌ |
@@ -78,7 +78,7 @@ Script tự động gọi URL này và parse 3 tin mới nhất, merge vào pool
 ## 📁 Cấu Trúc
  
 ```
-cryptoinsight/
+cryptohieuqua/
 ├── docs/
 │   ├── index.html      # Trang web chính (dark crypto theme)
 │   ├── posts.json      # Dữ liệu bài viết
