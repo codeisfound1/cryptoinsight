@@ -1,7 +1,7 @@
 {
-  "name": "cryptoinsight-scripts",
+  "name": "crypto-hieu-qua-scripts",
   "version": "2.0.0",
-  "description": "Crypto Insight AI – Auto blog generator from CoinMarketCap",
+  "description": "Crypto Hiệu Quả – Auto blog generator từ nguồn uy tín, AI phân tích hàng ngày",
   "private": true,
   "type": "commonjs",
   "dependencies": {

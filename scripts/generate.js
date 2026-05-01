@@ -28,7 +28,7 @@ const GROQ_MODEL = "llama-3.3-70b-versatile";
 const POSTS_FILE   = path.join(__dirname, "../docs/posts.json");
 const SITEMAP_FILE = path.join(__dirname, "../docs/sitemap.xml");
 const ROBOTS_FILE  = path.join(__dirname, "../docs/robots.txt");
-const SITE_URL     = process.env.SITE_URL || "https://your-username.github.io/cryptoinsight";
+const SITE_URL     = process.env.SITE_URL || "https://cryptohieu.com";
 const GROQ_KEY     = process.env.GROQ_API_KEY;
 const FORCE        = process.env.FORCE === "true";
 
@@ -471,11 +471,11 @@ async function uploadToCloudinary(imageUrl, slug, altText, tags) {
     const timestamp  = Math.floor(Date.now() / 1000).toString();
     const tagsStr    = (tags || []).slice(0, 5).join(",") || "crypto,bitcoin";
     const contextStr = "alt=" + altText.replace(/[|=]/g, " ") + "|caption=" + altText.replace(/[|=]/g, " ");
-    const signParams = ["context=" + contextStr, "folder=cryptoinsight/posts", "overwrite=true", "public_id=" + slug, "tags=" + tagsStr, "timestamp=" + timestamp].join("&");
+    const signParams = ["context=" + contextStr, "folder=cryptohieuqua/posts", "overwrite=true", "public_id=" + slug, "tags=" + tagsStr, "timestamp=" + timestamp].join("&");
     const signature  = crypto.createHash("sha1").update(signParams + CLOUDINARY_API_SECRET).digest("hex");
 
-    const formData = [["file", imageUrl], ["public_id", slug], ["folder", "cryptoinsight/posts"], ["overwrite", "true"], ["tags", tagsStr], ["context", contextStr], ["timestamp", timestamp], ["api_key", CLOUDINARY_API_KEY], ["signature", signature]];
-    const boundary = "----CryptoInsight" + Date.now();
+    const formData = [["file", imageUrl], ["public_id", slug], ["folder", "cryptohieuqua/posts"], ["overwrite", "true"], ["tags", tagsStr], ["context", contextStr], ["timestamp", timestamp], ["api_key", CLOUDINARY_API_KEY], ["signature", signature]];
+    const boundary = "----CryptoHieuQua" + Date.now();
     const bodyStr  = formData.map(([k, v]) => "--" + boundary + "\r\nContent-Disposition: form-data; name=\"" + k + "\"\r\n\r\n" + v + "\r\n").join("") + "--" + boundary + "--\r\n";
     const bodyBuf  = Buffer.from(bodyStr, "utf8");
 
@@ -664,7 +664,7 @@ function decodeHtmlEntities(str) {
 
 async function main() {
   console.log("=".repeat(60));
-  console.log("🚀  Crypto Insight – RSS Multi-Source Roundup -", new Date().toISOString());
+  console.log("🚀  Crypto Hiệu Quả – Tổng Hợp Tin Tức RSS -", new Date().toISOString());
   console.log("📡  Nguồn:", RSS_SOURCES.map(s => s.name).join(", "));
   console.log("📋  Lấy top", TOP_N, "tin mới nhất");
   console.log("=".repeat(60));

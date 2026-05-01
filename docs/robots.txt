@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cryptoinsight.c-odeisfound.workers.dev/sitemap.xml
+Sitemap: https://cryptohieu.com/sitemap.xml

@@ -1,7 +1,7 @@
 {
-  "name": "cryptoinsight",
+  "name": "crypto-hieu-qua",
   "version": "2.0.0",
-  "description": "Crypto Insight AI – Blog phân tích tiền điện tử tự động từ CoinMarketCap",
+  "description": "Crypto Hiệu Quả – Blog tổng hợp tin tức tiền điện tử từ nguồn uy tín, AI phân tích hàng ngày",
   "private": true,
   "scripts": {
     "generate": "node scripts/generate.js",
