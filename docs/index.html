@@ -1,25 +1,29 @@
 <!DOCTYPE html>
+
 <html lang="vi">
 <head>
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
- 
+
   <!-- ═══ SEO: Primary Meta Tags ═══ -->
+
   <title>Crypto Hiệu Quả – Tin Tức & Phân Tích Crypto Hàng Ngày bởi AI</title>
   <meta name="title" content="Crypto Hiệu Quả – Tin Tức & Phân Tích Crypto Hàng Ngày bởi AI"/>
   <meta name="description" content="Tổng hợp tin tức crypto từ các nguồn uy tín toàn cầu – AI phân tích, đánh giá và viết lại mỗi ngày để bạn nắm bắt thị trường nhanh nhất."/>
   <meta name="keywords" content="bitcoin, ethereum, crypto, tiền điện tử, blockchain, defi, altcoin, btc, eth, phân tích crypto, cryptohieu, cryptohieuqua, crypto hiệu quả, hiệu quả crypto, crypto hieu, crypto hieu qua, tin tức cryptohieu, phân tích cryptohieuqua, đầu tư crypto hiệu quả, crypto hiệu quả hàng ngày, tin crypto hieu qua, crypto hiểu, hiểu crypto"/>
   <meta name="robots" content="index, follow"/>
   <meta name="language" content="Vietnamese"/>
- 
+
   <!-- ═══ SEO: Open Graph ═══ -->
+
   <meta property="og:type" content="website"/>
   <meta property="og:title" content="Crypto Hiệu Quả – Tin Tức & Phân Tích Crypto Hàng Ngày bởi AI"/>
   <meta property="og:description" content="Tin tức Bitcoin, Ethereum, Altcoin được tổng hợp từ nguồn uy tín – AI phân tích & đánh giá mỗi ngày."/>
   <meta property="og:locale" content="vi_VN"/>
   <meta property="og:site_name" content="Crypto Hiệu Quả"/>
- 
+
   <!-- ═══ Schema.org ═══ -->
+
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -31,11 +35,12 @@
     "sameAs": ["https://t.me/CryptoHieuQua"]
   }
   </script>
- 
+
   <!-- Fonts -->
+
   <link rel="preconnect" href="https://fonts.googleapis.com"/>
   <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&family=Barlow:ital,wght@0,400;0,600;0,700;0,800;1,400&display=swap" rel="stylesheet"/>
- 
+
   <style>
     :root {
       --bg:       #06080f;
@@ -328,6 +333,41 @@
     .footer-source { margin-top: 10px; font-size: 11px; color: var(--text3); opacity: 0.6; }
     .footer-source a { color: var(--amber); text-decoration: none; }
  
+    /* ── MODAL TOP-RIGHT ACTION BAR ──────────── */
+    .modal-top-actions { position: absolute; top: 14px; right: 14px; z-index: 10; display: flex; gap: 7px; }
+    .mta-btn { width: 36px; height: 36px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.18); background: rgba(0,0,0,0.52); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); color: #fff; font-size: 14px; cursor: pointer; display: flex; align-items: center; justify-content: center; transition: all 0.18s; flex-shrink: 0; }
+    .mta-btn:hover { background: rgba(0,0,0,0.75); border-color: rgba(255,255,255,0.35); transform: translateY(-1px); }
+    .mta-audio.playing { background: var(--amber); border-color: var(--amber); color: #000; animation: audioGlow 1.4s ease-in-out infinite; }
+    .mta-translate.active { background: rgba(245,158,11,0.75); border-color: var(--amber); color: #000; }
+    .mta-close:hover { background: rgba(239,68,68,0.75); border-color: rgba(239,68,68,0.6); }
+
+    /* ── AUDIO PLAYER ─────────────────────────── */
+    .card-audio-btn { position: absolute; bottom: 10px; right: 10px; z-index: 3; width: 32px; height: 32px; border-radius: 50%; background: rgba(0,0,0,0.65); border: 1.5px solid rgba(255,255,255,0.25); color: #fff; font-size: 13px; display: flex; align-items: center; justify-content: center; cursor: pointer; transition: all 0.18s; backdrop-filter: blur(4px); }
+    .card-audio-btn:hover { background: var(--amber); border-color: var(--amber); color: #000; transform: scale(1.1); }
+    .card-audio-btn.playing { background: var(--amber); border-color: var(--amber); color: #000; animation: audioGlow 1.4s ease-in-out infinite; }
+    @keyframes audioGlow { 0%,100%{box-shadow:0 0 0 0 rgba(245,158,11,0.5);} 50%{box-shadow:0 0 0 7px rgba(245,158,11,0);} }
+
+    .modal-audio-bar { background: var(--bg3); border: 1px solid var(--border); border-radius: 12px; margin: 0 36px 24px; padding: 14px 18px; display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+    .modal-audio-bar.hidden { display: none; }
+    .audio-play-btn { width: 38px; height: 38px; border-radius: 50%; background: var(--amber); border: none; color: #000; font-size: 15px; cursor: pointer; display: flex; align-items: center; justify-content: center; flex-shrink: 0; transition: all 0.18s; }
+    .audio-play-btn:hover { background: var(--amber2); transform: scale(1.08); }
+    .audio-play-btn.playing { animation: audioGlow 1.4s ease-in-out infinite; }
+    .audio-progress-wrap { flex: 1; min-width: 100px; display: flex; flex-direction: column; gap: 5px; }
+    .audio-progress { width: 100%; height: 4px; background: var(--bg5); border-radius: 2px; cursor: pointer; appearance: none; -webkit-appearance: none; outline: none; accent-color: var(--amber); }
+    .audio-progress::-webkit-slider-thumb { width: 14px; height: 14px; border-radius: 50%; background: var(--amber); cursor: pointer; -webkit-appearance: none; }
+    .audio-time { font-family: var(--mono); font-size: 10px; color: var(--text3); display: flex; justify-content: space-between; }
+    .audio-speed-group { display: flex; align-items: center; gap: 5px; flex-shrink: 0; }
+    .audio-speed-label { font-family: var(--mono); font-size: 10px; color: var(--text3); letter-spacing:.05em; }
+    .audio-speed-btn { background: transparent; border: 1px solid var(--border); color: var(--text2); padding: 3px 8px; border-radius: 5px; font-family: var(--mono); font-size: 11px; font-weight: 600; cursor: pointer; transition: all 0.15s; }
+    .audio-speed-btn:hover { border-color: var(--border2); color: var(--amber); }
+    .audio-speed-btn.active { background: rgba(245,158,11,0.15); border-color: var(--border2); color: var(--amber); }
+    .audio-voice-toggle { background: transparent; border: 1px solid var(--border); color: var(--text2); padding: 3px 10px; border-radius: 5px; font-family: var(--mono); font-size: 11px; cursor: pointer; transition: all 0.15s; white-space: nowrap; }
+    .audio-voice-toggle:hover { border-color: var(--border2); color: var(--amber); }
+
+    @media (max-width: 640px) {
+      .modal-audio-bar { margin: 0 20px 20px; }
+    }
+
     @media (max-width: 640px) {
       .hero { padding: 44px 20px 52px; }
       .hero-stats { gap: 24px; }
@@ -337,10 +377,12 @@
       .price-inner { grid-template-columns: repeat(2, 1fr); }
     }
   </style>
+
 </head>
 <body>
- 
+
 <!-- TICKER -->
+
 <div class="ticker-wrap" id="ticker-wrap">
   <div class="ticker-label">🔴 LIVE</div>
   <div class="ticker-scroll">
@@ -350,8 +392,9 @@
   </div>
   <div class="ticker-fade"></div>
 </div>
- 
+
 <!-- HEADER -->
+
 <header>
   <div class="header-inner">
     <a class="logo" href="/" aria-label="Crypto Hiệu Quả - Trang chủ">
@@ -369,8 +412,9 @@
     </nav>
   </div>
 </header>
- 
+
 <!-- HERO -->
+
 <section class="hero" aria-label="Giới thiệu">
   <div class="hero-grid"></div>
   <div class="hero-glow"></div>
@@ -398,8 +442,9 @@
     </div>
   </div>
 </section>
- 
+
 <!-- PRICE CARDS -->
+
 <section class="price-section" aria-label="Giá tiền điện tử">
   <div class="price-status-bar">
     <div class="price-status-dot" id="price-status-dot"></div>
@@ -410,8 +455,9 @@
     <!-- populated by CoinGecko API -->
   </div>
 </section>
- 
+
 <!-- MAIN CONTENT -->
+
 <main class="container" id="main-content">
   <div class="toolbar" role="toolbar" aria-label="Lọc bài viết">
     <div class="toolbar-left" id="tag-filters">
@@ -422,7 +468,7 @@
       <button class="btn-ghost" id="btn-admin-mode" onclick="toggleAdminMode()" style="display:none">✏️ Quản trị</button>
     </div>
   </div>
- 
+
   <div id="posts-grid" role="list" aria-label="Danh sách bài viết">
     <div class="loading-state" aria-live="polite">⏳ đang tải bài viết...</div>
   </div>
@@ -430,15 +476,17 @@
     <button id="btn-load-more" onclick="loadMorePosts()">Xem thêm bài viết ↓</button>
   </div>
 </main>
- 
+
 <!-- POST MODAL -->
+
 <div class="modal-overlay" id="post-modal" onclick="closePostModal(event)" role="dialog" aria-modal="true">
   <div class="modal-wrap">
     <div class="modal" id="modal-content"></div>
   </div>
 </div>
- 
+
 <!-- ADMIN PANEL -->
+
 <!--<div class="admin-overlay" id="admin-overlay" onclick="closeAdminOutside(event)" role="dialog" aria-modal="true">
   <div class="admin-wrap">
     <div class="admin-box" id="admin-box">
@@ -466,19 +514,22 @@
     </div>
   </div>
 </div>-->
- 
+
 <!-- SHARE TOAST -->
+
 <div class="toast" id="share-toast" role="status" aria-live="polite">✅ Đã sao chép liên kết!</div>
- 
+
 <!-- ADMIN MODE BAR -->
+
 <!--<div class="admin-mode-bar" id="admin-mode-bar">
   <span>✏️ Chế độ quản trị</span>
   <span id="batch-badge" style="display:none">0 thay đổi</span>
   <button class="btn-exit-admin" id="btn-batch-publish" onclick="openBatchPublish()" style="display:none">🚀 Publish thay đổi</button>
   <button class="btn-exit-admin" onclick="exitAdminMode()">Thoát</button>
 </div>-->
- 
+
 <!-- BATCH PUBLISH MODAL -->
+
 <!--<div class="admin-overlay" id="batch-overlay" onclick="closeBatchOutside(event)" role="dialog" aria-modal="true">
   <div class="admin-wrap">
     <div class="admin-box" id="batch-box" style="max-width:500px">
@@ -508,8 +559,9 @@
     </div>
   </div>
 </div>-->
- 
+
 <!-- EDIT POST MODAL -->
+
 <!--<div class="edit-overlay" id="edit-overlay" onclick="closeEditOutside(event)" role="dialog" aria-modal="true">
   <div class="edit-wrap">
     <div class="edit-box">
@@ -545,8 +597,9 @@
     </div>
   </div>
 </div>-->
- 
+
 <!-- DELETE CONFIRM MODAL -->
+
 <!--<div class="delete-overlay" id="delete-overlay" role="dialog" aria-modal="true">
   <div class="delete-box">
     <div class="delete-icon">🗑️</div>
@@ -560,8 +613,9 @@
     </div>
   </div>
 </div>-->
- 
+
 <!-- FOOTER -->
+
 <footer>
   <div class="footer-inner">
     <nav class="footer-links">
@@ -573,7 +627,7 @@
     <p class="footer-source" data-i18n="footer_disclaimer">⚠️ Nội dung chỉ mang tính tham khảo, không phải lời khuyên đầu tư.</p>
   </div>
 </footer>
- 
+
 <script>
 // ── COINGECKO LIVE PRICE CONFIG ─────────────────────────────────────────────
 var COIN_LIST = [
@@ -973,6 +1027,7 @@ function cardHTML(post) {
     '<img src="'+escAttr(imgSrc)+'" alt="'+escAttr(imgAlt)+'" loading="lazy" onerror="this.style.display=\'none\';this.nextSibling.style.display=\'flex\'">' +
     '<div class="card-thumb-fallback" style="display:none"><span class="fallback-icon">₿</span></div>' +
     '<div class="card-thumb-tags">'+tags+'</div>' +
+    '<button class="card-audio-btn" id="card-audio-'+escAttr(post.id)+'" title="Nghe bài viết" onclick="event.stopPropagation();toggleCardAudio(\''+escAttr(post.id)+'\',this)">▶</button>' +
     '<div class="card-actions">' +
     '<button class="card-action-btn btn-edit-card" title="Chỉnh sửa" onclick="event.stopPropagation();openEdit(\''+escAttr(post.id)+'\')">✏️</button>' +
     '<button class="card-action-btn btn-delete-card" title="Xoá" onclick="event.stopPropagation();openDelete(\''+escAttr(post.id)+'\')">🗑️</button>' +
@@ -1019,11 +1074,34 @@ function openPost(id) {
   document.title = esc(post.title) + ' – Crypto Hiệu Quả';
  
   document.getElementById('modal-content').innerHTML =
-    '<div class="modal-image"><img src="'+escAttr(imgSrc)+'" alt="'+escAttr(imgAlt)+'" onerror="this.parentElement.style.background=\'var(--bg4)\'"></div>' +
+    '<div class="modal-image">' +
+    '<img src="'+escAttr(imgSrc)+'" alt="'+escAttr(imgAlt)+'" onerror="this.parentElement.style.background=\'var(--bg4)\'">' +
+    '<div class="modal-top-actions">' +
+    '<button class="mta-btn mta-audio" id="mta-audio-btn" onclick="toggleModalAudio(\''+escAttr(post.id)+'\')" title="Nghe bài">▶</button>' +
+    '<button class="mta-btn mta-translate" id="mta-translate-btn" onclick="toggleTranslate(\''+escAttr(post.id)+'\')" title="Dịch">🌐</button>' +
+    '<button class="mta-btn mta-share" onclick="sharePost(\''+escAttr(post.id)+'\')" title="Chia sẻ">🔗</button>' +
+    '<button class="mta-btn mta-close" onclick="closePostModal()" title="Đóng">✕</button>' +
+    '</div>' +
+    '</div>' +
     '<div class="modal-hero">' +
     '<div class="modal-tags">'+tags+'</div>' +
     '<h1 class="modal-title">'+esc(post.title)+'</h1>' +
     '<p class="modal-meta">'+date+' · ~'+(post.readTime||5)+' '+t('min_read_label')+'</p>' +
+    '</div>' +
+    '<div class="modal-audio-bar" id="modal-audio-bar">' +
+    '<button class="audio-play-btn" id="modal-audio-play-btn" onclick="toggleModalAudio(\''+escAttr(post.id)+'\')" title="Phát / Dừng">▶</button>' +
+    '<div class="audio-progress-wrap">' +
+    '<input type="range" class="audio-progress" id="modal-audio-progress" min="0" max="100" value="0" oninput="seekModalAudio(this.value)">' +
+    '<div class="audio-time"><span id="modal-audio-cur">0:00</span><span id="modal-audio-dur">–:––</span></div>' +
+    '</div>' +
+    '<div class="audio-speed-group">' +
+    '<span class="audio-speed-label">Tốc độ</span>' +
+    '<button class="audio-speed-btn" onclick="setAudioSpeed(0.8,this)">0.8×</button>' +
+    '<button class="audio-speed-btn active" onclick="setAudioSpeed(1,this)">1×</button>' +
+    '<button class="audio-speed-btn" onclick="setAudioSpeed(1.25,this)">1.25×</button>' +
+    '<button class="audio-speed-btn" onclick="setAudioSpeed(1.5,this)">1.5×</button>' +
+    '<button class="audio-speed-btn" onclick="setAudioSpeed(2,this)">2×</button>' +
+    '</div>' +
     '</div>' +
     '<div class="modal-body">' +
     '<p class="modal-summary">'+esc(post.summary||'')+'</p>' +
@@ -1070,6 +1148,8 @@ function toggleTranslate(id) {
     if (summaryEl) summaryEl.textContent = post.summary || '';
     if (contentEl) contentEl.innerHTML  = post.content || '';
     if (btn) { btn.textContent = '🌐 EN'; btn.classList.remove('active'); }
+    var mtaTr = document.getElementById('mta-translate-btn');
+    if (mtaTr) { mtaTr.textContent = '🌐'; mtaTr.classList.remove('active'); }
     _translateActive = false;
     _translatePostId = null;
     return;
@@ -1077,6 +1157,8 @@ function toggleTranslate(id) {
  
   // Show loading
   if (btn) { btn.textContent = '⏳'; btn.disabled = true; }
+  var mtaTl = document.getElementById('mta-translate-btn');
+  if (mtaTl) { mtaTl.textContent = '⏳'; mtaTl.classList.add('active'); }
  
   // Google Translate unofficial API - dịch từng đoạn riêng lẻ
   function gtrans(text) {
@@ -1139,6 +1221,8 @@ function toggleTranslate(id) {
       }
  
       if (btn) { btn.textContent = '🇻🇳 VI'; btn.classList.add('active'); btn.disabled = false; }
+      var mtaTd = document.getElementById('mta-translate-btn');
+      if (mtaTd) { mtaTd.textContent = '🇻🇳'; mtaTd.classList.add('active'); }
       _translateActive = true;
       _translatePostId = id;
       return;
@@ -1229,6 +1313,238 @@ function setStatus(type, msg) {
   el.className='admin-status '+type; el.textContent=msg;
 }
  
+// ── TEXT-TO-SPEECH AUDIO SYSTEM ────────────────────────────────────────────
+var _tts = {
+  utterance: null,
+  synth: window.speechSynthesis || null,
+  speaking: false,
+  paused: false,
+  postId: null,
+  speed: 1,
+  chunks: [],
+  chunkIndex: 0,
+  progressInterval: null,
+  totalChars: 0,
+  spokenChars: 0,
+};
+
+function _stripHtml(html) {
+  var d = document.createElement('div');
+  d.innerHTML = html || '';
+  return (d.innerText || d.textContent || '').replace(/\s+/g, ' ').trim();
+}
+
+function _buildTTSText(postId) {
+  var post = allPosts.find(function(p){ return String(p.id) === String(postId); });
+  if (!post) return '';
+  var parts = [];
+  if (post.title)   parts.push(post.title + '.');
+  if (post.summary) parts.push(_stripHtml(post.summary));
+  if (post.content) parts.push(_stripHtml(post.content));
+  return parts.join(' ');
+}
+
+// Split text into ~200-char chunks (sentence-aware) for progress tracking
+function _chunkText(text, size) {
+  size = size || 200;
+  var chunks = [];
+  var sentences = text.match(/[^.!?。]+[.!?。]*/g) || [text];
+  var cur = '';
+  sentences.forEach(function(s) {
+    if ((cur + s).length > size && cur.length > 0) { chunks.push(cur.trim()); cur = ''; }
+    cur += s;
+  });
+  if (cur.trim()) chunks.push(cur.trim());
+  return chunks.length ? chunks : [text];
+}
+
+function _fmtTime(sec) {
+  var s = Math.floor(sec);
+  var m = Math.floor(s / 60);
+  return m + ':' + ('0' + (s % 60)).slice(-2);
+}
+
+function _stopTTS(clearCard) {
+  if (_tts.synth) _tts.synth.cancel();
+  clearInterval(_tts.progressInterval);
+  _tts.speaking = false; _tts.paused = false;
+  _tts.chunks = []; _tts.chunkIndex = 0;
+  _tts.spokenChars = 0;
+  // Reset modal UI
+  var btn = document.getElementById('modal-audio-play-btn');
+  if (btn) { btn.textContent = '▶'; btn.classList.remove('playing'); }
+  var mtaBtn = document.getElementById('mta-audio-btn');
+  if (mtaBtn) { mtaBtn.textContent = '▶'; mtaBtn.classList.remove('playing'); }
+  var prog = document.getElementById('modal-audio-progress');
+  if (prog) prog.value = 0;
+  var cur = document.getElementById('modal-audio-cur');
+  if (cur) cur.textContent = '0:00';
+  // Reset card button
+  if (clearCard && _tts.postId) {
+    var cardBtn = document.getElementById('card-audio-' + _tts.postId);
+    if (cardBtn) { cardBtn.textContent = '▶'; cardBtn.classList.remove('playing'); }
+  }
+  _tts.postId = null;
+}
+
+function _updateModalProgress() {
+  if (!_tts.speaking || _tts.paused) return;
+  var total = _tts.totalChars || 1;
+  var spoken = _tts.spokenChars;
+  var pct = Math.min(100, Math.round((spoken / total) * 100));
+  var prog = document.getElementById('modal-audio-progress');
+  if (prog) prog.value = pct;
+  // Estimate time
+  var charsPerSec = 14 * (_tts.speed || 1);
+  var remaining = Math.max(0, (total - spoken) / charsPerSec);
+  var elapsed = spoken / charsPerSec;
+  var cur = document.getElementById('modal-audio-cur');
+  var dur = document.getElementById('modal-audio-dur');
+  if (cur) cur.textContent = _fmtTime(elapsed);
+  if (dur) dur.textContent = _fmtTime(elapsed + remaining);
+}
+
+function _playChunks(chunks, index) {
+  if (index >= chunks.length) {
+    _stopTTS(true);
+    return;
+  }
+  var u = new SpeechSynthesisUtterance(chunks[index]);
+  u.lang = currentLang === 'en' ? 'en-US' : 'vi-VN';
+  u.rate = _tts.speed;
+  _tts.utterance = u;
+
+  u.onend = function() {
+    _tts.spokenChars += chunks[index].length;
+    _tts.chunkIndex = index + 1;
+    _playChunks(chunks, index + 1);
+  };
+  u.onerror = function() {
+    _stopTTS(true);
+  };
+
+  _tts.synth.speak(u);
+}
+
+function _startTTS(postId) {
+  if (!_tts.synth) { showToast('❌ Trình duyệt không hỗ trợ TTS'); return; }
+  _stopTTS(true);
+
+  var text = _buildTTSText(postId);
+  if (!text) return;
+
+  _tts.postId = postId;
+  _tts.chunks = _chunkText(text);
+  _tts.totalChars = text.length;
+  _tts.spokenChars = 0;
+  _tts.chunkIndex = 0;
+  _tts.speaking = true;
+  _tts.paused = false;
+
+  // Update modal
+  var dur = document.getElementById('modal-audio-dur');
+  var charsPerSec = 14 * (_tts.speed || 1);
+  if (dur) dur.textContent = _fmtTime(text.length / charsPerSec);
+
+  _playChunks(_tts.chunks, 0);
+  _tts.progressInterval = setInterval(_updateModalProgress, 500);
+}
+
+// ── CARD AUDIO BUTTON ──────────────────────────────────────────────────────
+function toggleCardAudio(postId, btnEl) {
+  // If same post is playing → stop
+  if (_tts.speaking && _tts.postId === postId) {
+    _stopTTS(true);
+    return;
+  }
+  // Stop any playing
+  _stopTTS(true);
+  // Mark card button playing
+  btnEl.textContent = '⏸';
+  btnEl.classList.add('playing');
+  _startTTS(postId);
+  // Intercept stop to reset card btn
+  var origStop = _stopTTS;
+}
+
+// ── MODAL AUDIO BUTTON ─────────────────────────────────────────────────────
+function toggleModalAudio(postId) {
+  if (!_tts.synth) { showToast('❌ Trình duyệt không hỗ trợ Text-to-Speech'); return; }
+  var btn = document.getElementById('modal-audio-play-btn');
+
+  if (_tts.speaking && _tts.postId === postId) {
+    if (_tts.paused) {
+      // Resume
+      _tts.synth.resume();
+      _tts.paused = false;
+      if (btn) { btn.textContent = '⏸'; btn.classList.add('playing'); }
+      var mtaR = document.getElementById('mta-audio-btn');
+      if (mtaR) { mtaR.textContent = '⏸'; mtaR.classList.add('playing'); }
+    } else {
+      // Pause
+      _tts.synth.pause();
+      _tts.paused = true;
+      if (btn) { btn.textContent = '▶'; btn.classList.remove('playing'); }
+      var mtaP = document.getElementById('mta-audio-btn');
+      if (mtaP) { mtaP.textContent = '▶'; mtaP.classList.remove('playing'); }
+    }
+    return;
+  }
+
+  // Start fresh
+  if (btn) { btn.textContent = '⏸'; btn.classList.add('playing'); }
+  var mtaS = document.getElementById('mta-audio-btn');
+  if (mtaS) { mtaS.textContent = '⏸'; mtaS.classList.add('playing'); }
+  _startTTS(postId);
+
+  // Also stop any card btn that might be active
+  document.querySelectorAll('.card-audio-btn').forEach(function(b) {
+    b.textContent = '▶'; b.classList.remove('playing');
+  });
+}
+
+function seekModalAudio(pct) {
+  if (!_tts.speaking || !_tts.chunks.length) return;
+  // Jump to chunk closest to percentage
+  var target = Math.floor((_tts.chunks.length) * (pct / 100));
+  target = Math.max(0, Math.min(_tts.chunks.length - 1, target));
+  if (_tts.synth) _tts.synth.cancel();
+  clearInterval(_tts.progressInterval);
+  _tts.chunkIndex = target;
+  _tts.spokenChars = _tts.chunks.slice(0, target).reduce(function(a, c){ return a + c.length; }, 0);
+  _tts.paused = false;
+  _playChunks(_tts.chunks, target);
+  _tts.progressInterval = setInterval(_updateModalProgress, 500);
+  var btn = document.getElementById('modal-audio-play-btn');
+  if (btn) { btn.textContent = '⏸'; btn.classList.add('playing'); }
+}
+
+function setAudioSpeed(speed, btnEl) {
+  _tts.speed = speed;
+  // Update button states
+  document.querySelectorAll('.audio-speed-btn').forEach(function(b){ b.classList.remove('active'); });
+  if (btnEl) btnEl.classList.add('active');
+  // Restart if already playing
+  if (_tts.speaking && _tts.postId) {
+    var pid = _tts.postId;
+    var ci  = _tts.chunkIndex;
+    var sc  = _tts.spokenChars;
+    if (_tts.synth) _tts.synth.cancel();
+    clearInterval(_tts.progressInterval);
+    _tts.speaking = true; _tts.paused = false;
+    _playChunks(_tts.chunks, ci);
+    _tts.spokenChars = sc;
+    _tts.progressInterval = setInterval(_updateModalProgress, 500);
+  }
+}
+
+// Stop TTS when modal closes
+var _origClosePostModal = closePostModal;
+closePostModal = function(e) {
+  _stopTTS(true);
+  _origClosePostModal(e);
+};
+
 // ── KEYBOARD ───────────────────────────────────────────────────────────────
 document.addEventListener('keydown', function(e){
   if(e.key==='Escape'){ closePostModal(); closeAdmin(); closeEdit(); closeDelete(); closeBatchPublish(); }
@@ -1447,7 +1763,7 @@ function runBatchPublish(){
     });
 }
 </script>
- 
+
 <script>
 // ═══════════════════════════════════════════════════════
 // THEME & LANGUAGE SYSTEM
@@ -1568,7 +1884,6 @@ document.addEventListener('DOMContentLoaded', function() {
   applyLang(currentLang);
 });
 </script>
- 
+
 </body>
 </html>
- 
