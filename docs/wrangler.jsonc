@@ -2,10 +2,10 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "cryptoinsight",
   "compatibility_date": "2026-04-27",
-  "main": "doc/worker.js",
+  "main": "worker.js",
   "assets": {
-    "directory": ".",
-    "binding": "ASSETS"
+    "directory": "."
+    //"binding": "ASSETS"
   },
   "observability": {
     "enabled": false
