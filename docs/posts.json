@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1777900544119",
+      "title": "Điểm tin crypto 04/05/2026 lúc 20:15: Thị trường biến động với Bitcoin và Ethereum",
+      "summary": "Thị trường tiền điện tử đang trải qua sự biến động với Bitcoin và Ethereum là tâm điểm. Các sự kiện như việc Kraken's parent company Payward alleges $25 triệu crypto custody fraud và Iran missile report gửi bitcoin trở lại $79,000 đã làm ảnh hưởng đến thị trường.",
+      "content": "<p>Thị trường tiền điện tử đang trải qua sự biến động với nhiều sự kiện quan trọng diễn ra trong ngày 04/05/2026. Từ việc Bittensor (TAO) tăng 4.1% trong weekend đến việc Kraken's parent company Payward alleges $25 triệu crypto custody fraud, các sự kiện này đã làm ảnh hưởng đến thị trường.</p><h2>1. Bittensor (TAO) tăng 4.1% trong weekend</h2><p>Bittensor (TAO) đã tăng 4.1% trong weekend, trở thành một trong những đồng tiền điện tử có hiệu suất tốt nhất. Chainlink (LINK) cũng tăng 2.7% kể từ thứ Sáu.</p><h2>2. Kraken's parent company Payward alleges $25 triệu crypto custody fraud</h2><p>Kraken's parent company Payward đã cáo buộc một công ty khác về việc custody fraud với số tiền lên đến $25 triệu. Điều này đã làm ảnh hưởng đến uy tín của Kraken và thị trường tiền điện tử nói chung.</p><h2>3. Iran missile report gửi bitcoin trở lại $79,000</h2><p>Báo cáo về việc Iran phóng tên lửa đã gửi bitcoin trở lại $79,000, làm ảnh hưởng đến thị trường tiền điện tử. Ethereum, SOL, DOGE cũng bị ảnh hưởng và giảm giá.</p><h2>Nhận định thị trường</h2><p>Thị trường tiền điện tử đang trải qua sự biến động và không ổn định. Các sự kiện như việc Kraken's parent company Payward alleges $25 triệu crypto custody fraud và Iran missile report đã làm ảnh hưởng đến thị trường. Tuy nhiên, vẫn có những cơ hội cho các nhà đầu tư với việc Bittensor (TAO) tăng 4.1% trong weekend.</p><h2>Khuyến nghị nhà đầu tư</h2><p>Để đầu tư vào thị trường tiền điện tử, nhà đầu tư cần phải cẩn thận và tìm hiểu kỹ lưỡng về các đồng tiền điện tử và thị trường. Cần phải theo dõi các sự kiện và tin tức để có thể đưa ra quyết định đầu tư sáng suốt.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] CoinDesk 20 performance update: Bittensor (TAO) jumps 4.1% over the weekend — <em>CoinDesk</em></li>\n<li>[2] A beginner’s guide to stablecoins — <em>CoinDesk</em></li>\n<li>[3] Bitcoin scaling layer Citrea rolls out CTR token and dual treasury model — <em>The Block</em></li>\n<li>[4] Kraken's parent company Payward alleges $25 million crypto custody fraud in lawsuit against Etana and firm's CEO — <em>CoinDesk</em></li>\n<li>[5] South Korea crypto sector warns AML proposal goes too far: Report — <em>Cointelegraph</em></li>\n<li>[6] SOL Strategies to acquire cross-chain swap aggregator Houdini for $18 million — <em>The Block</em></li>\n<li>[7] Kraken parent Payward closes $550 million Bitnomial deal, securing full CFTC derivatives stack — <em>CoinDesk</em></li>\n<li>[8] Laywer pops up on Arbitrum DAO forums seeking funds for victims of decades-old North Korean terrorist acts — <em>CoinDesk</em></li>\n<li>[9] Bitcoin stalls near $80,000. Stocks and ETF inflows still point to a breakout. — <em>CoinDesk</em></li>\n<li>[10] Iran missile report sends bitcoin back to $79,000, with ETH, SOL, DOGE sharply lower — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "thị trường",
+        "điểm tin",
+        "kraken",
+        "iran"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1777900543/cryptohieuqua/posts/diem-tin-crypto-04052026-luc-2015-thi-truong-bien-dong-voi-bitcoin-va-ethereum.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1777900543/cryptohieuqua/posts/diem-tin-crypto-04052026-luc-2015-thi-truong-bien-dong-voi-bitcoin-va-ethereum.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-04052026-luc-2015-thi-truong-bien-dong-voi-bitcoin-va-ethereum",
+        "width": 1440,
+        "height": 1080,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 04/05/2026 lúc 20:15: Thị trường biến động với Bitcoin và Ethereum"
+      },
+      "sourceUrl": "https://www.coindesk.com/coindesk-indices/2026/05/04/coindesk-20-performance-update-bittensor-tao-jumps-4-1-over-the-weekend",
+      "sourceTitle": "CoinDesk / The Block / Cointelegraph",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "CoinDesk 20 performance update: Bittensor (TAO) jumps 4.1% over the weekend",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/05/04/coindesk-20-performance-update-bittensor-tao-jumps-4-1-over-the-weekend",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "A beginner’s guide to stablecoins",
+          "url": "https://www.coindesk.com/learn/2026/05/04/a-beginner-s-guide-to-stablecoins",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin scaling layer Citrea rolls out CTR token and dual treasury model",
+          "url": "https://www.theblock.co/post/399867/bitcoin-scaling-layer-citrea-rolls-out-ctr-token-and-dual-treasury-model?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Kraken's parent company Payward alleges $25 million crypto custody fraud in lawsuit against Etana and firm's CEO",
+          "url": "https://www.coindesk.com/business/2026/05/04/kraken-s-parent-company-payward-alleges-usd25-million-crypto-custody-fraud-in-lawsuit-against-etana-and-firm-s-ceo",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "South Korea crypto sector warns AML proposal goes too far: Report",
+          "url": "https://cointelegraph.com/news/south-koreas-crypto-exchanges-push-bank-on-10m-won-reporting-rule-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "SOL Strategies to acquire cross-chain swap aggregator Houdini for $18 million",
+          "url": "https://www.theblock.co/post/399844/sol-strategies-buy-houdini?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Kraken parent Payward closes $550 million Bitnomial deal, securing full CFTC derivatives stack",
+          "url": "https://www.coindesk.com/business/2026/05/04/kraken-parent-payward-closes-usd550-million-bitnomial-deal-securing-full-cftc-derivatives-stack",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Laywer pops up on Arbitrum DAO forums seeking funds for victims of decades-old North Korean terrorist acts",
+          "url": "https://www.coindesk.com/markets/2026/05/04/laywer-pops-up-on-arbitrum-dao-forums-seeking-funds-for-victims-of-decades-old-north-korean-terrorist-acts",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin stalls near $80,000. Stocks and ETF inflows still point to a breakout.",
+          "url": "https://www.coindesk.com/daybook-us/2026/05/04/bitcoin-stalls-near-usd80-000-stocks-and-etf-inflows-still-point-to-a-breakout",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Iran missile report sends bitcoin back to $79,000, with ETH, SOL, DOGE sharply lower",
+          "url": "https://www.coindesk.com/markets/2026/05/04/iran-missile-report-sends-bitcoin-back-to-usd79-000-with-eth-sol-doge-sharply-lower",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-05-04T13:15:44.119Z",
+      "slug": "diem-tin-crypto-04052026-luc-2015-thi-truong-bien-dong-voi-bitcoin-va-ethereum"
+    },
+    {
       "id": "1777863235836",
       "title": "Điểm tin crypto 04/05/2026 lúc 09:53: Bitcoin và thị trường tiền điện tử tiếp tục biến động",
       "summary": "Thị trường tiền điện tử đang trải qua một giai đoạn biến động với Bitcoin gần đạt mức cao nhất trong tuần, trong khi các sự kiện khác như Morgan Stanley ra mắt sản phẩm ETP và cuộc tranh luận về vai trò của crypto trong nền kinh tế tiếp tục diễn ra.",
@@ -4154,7 +4235,17 @@
     "https://www.coindesk.com/policy/2026/05/03/policy-summit-and-other-things-at-consensus-2026-state-of-crypto",
     "https://cointelegraph.com/markets/bitcoin-preps-highest-weekly-close-since-january-as-btc-price-nears-79k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/policy/2026/05/03/crypto-is-at-the-bottom-of-u-s-voters-priorities-heading-into-the-midterm-coindesk-survey-shows",
-    "https://www.coindesk.com/policy/2026/05/03/americans-still-prefer-banks-over-crypto-for-financial-access-coindesk-s-survey-shows"
+    "https://www.coindesk.com/policy/2026/05/03/americans-still-prefer-banks-over-crypto-for-financial-access-coindesk-s-survey-shows",
+    "https://www.coindesk.com/coindesk-indices/2026/05/04/coindesk-20-performance-update-bittensor-tao-jumps-4-1-over-the-weekend",
+    "https://www.coindesk.com/learn/2026/05/04/a-beginner-s-guide-to-stablecoins",
+    "https://www.theblock.co/post/399867/bitcoin-scaling-layer-citrea-rolls-out-ctr-token-and-dual-treasury-model?utm_source=rss&amp;utm_medium=rss",
+    "https://www.coindesk.com/business/2026/05/04/kraken-s-parent-company-payward-alleges-usd25-million-crypto-custody-fraud-in-lawsuit-against-etana-and-firm-s-ceo",
+    "https://cointelegraph.com/news/south-koreas-crypto-exchanges-push-bank-on-10m-won-reporting-rule-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/post/399844/sol-strategies-buy-houdini?utm_source=rss&amp;utm_medium=rss",
+    "https://www.coindesk.com/business/2026/05/04/kraken-parent-payward-closes-usd550-million-bitnomial-deal-securing-full-cftc-derivatives-stack",
+    "https://www.coindesk.com/markets/2026/05/04/laywer-pops-up-on-arbitrum-dao-forums-seeking-funds-for-victims-of-decades-old-north-korean-terrorist-acts",
+    "https://www.coindesk.com/daybook-us/2026/05/04/bitcoin-stalls-near-usd80-000-stocks-and-etf-inflows-still-point-to-a-breakout",
+    "https://www.coindesk.com/markets/2026/05/04/iran-missile-report-sends-bitcoin-back-to-usd79-000-with-eth-sol-doge-sharply-lower"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/398938/bitcoin-leads-1-2b-weekly-haul-for-global-crypto-funds-as-institutional-demand-builds-coinshares?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/398933/luxor-microbt-100-million-rig-deal?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/04/27/global-interest-rates-robinhood-galaxy-earnings-crypto-week-ahead",
@@ -4201,6 +4292,7 @@
     "https://cointelegraph.com/news/linux-copy-fail-a-trivially-exploitable-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/399812/blackrock-urges-occ-to-drop-tokenized-reserve-cap-idea-expand-eligible-assets-in-genius-act-comment-letter?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/399790/cryptoquant-bitcoin-april-price-surge-speculative-spot-demand-weak-correction-risk?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/new-york-forces-uphold-to-pay-5m-over-fraudulent-crypto-investment-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/crypto-industry-will-be-just-fine-if-clarity-act-doesnt-pass-chris-perkins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/bitcoin-posts-its-strongest-monthly-gain-in-12-months-in-april?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/irans-largest-crypto-exchange-founded-by-sons-of-family-tied-to-supreme-leaders-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/new-york-forces-uphold-to-pay-5m-over-fraudulent-crypto-investment-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/crypto-industry-will-be-just-fine-if-clarity-act-doesnt-pass-chris-perkins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/markets/2026/05/03/morgan-stanley-s-oldenburg-bitcoin-on-u-s-bank-balance-sheets-is-coming-just-not-yet|https://cointelegraph.com/news/strategy-takes-a-bitcoin-buying-breather-ahead-of-q1-earnings-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/399825/new-york-ag-settles-for-5-million-with-uphold-in-first-enforcement-action-against-a-crypto-yield-product-promoter?utm_source=rss&amp;utm_medium=rss"
+    "https://www.coindesk.com/markets/2026/05/03/morgan-stanley-s-oldenburg-bitcoin-on-u-s-bank-balance-sheets-is-coming-just-not-yet|https://cointelegraph.com/news/strategy-takes-a-bitcoin-buying-breather-ahead-of-q1-earnings-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/399825/new-york-ag-settles-for-5-million-with-uphold-in-first-enforcement-action-against-a-crypto-yield-product-promoter?utm_source=rss&amp;utm_medium=rss",
+    "https://www.coindesk.com/coindesk-indices/2026/05/04/coindesk-20-performance-update-bittensor-tao-jumps-4-1-over-the-weekend|https://www.coindesk.com/learn/2026/05/04/a-beginner-s-guide-to-stablecoins|https://www.theblock.co/post/399867/bitcoin-scaling-layer-citrea-rolls-out-ctr-token-and-dual-treasury-model?utm_source=rss&amp;utm_medium=rss"
   ]
 }
