@@ -1,6 +1,85 @@
 {
   "posts": [
     {
+      "id": "1779593892073",
+      "title": "Điểm tin crypto 24/05/2026 lúc 10:38: Thị trường biến động mạnh",
+      "summary": "Thị trường crypto đang trải qua một giai đoạn biến động mạnh với nhiều sự kiện quan trọng. Giá Bitcoin giảm xuống dưới $75K, trong khi các chuyên gia dự đoán một cuộc suy giảm xuống $60K. Ngoài ra, các tin tức về cuộc tấn công wrench, thỏa thuận hòa bình Iran và việc ECB cảnh báo về việc nới lỏng quy định stablecoin cũng đang thu hút sự chú ý.",
+      "content": "<p>Thị trường crypto đang trải qua một giai đoạn biến động mạnh với nhiều sự kiện quan trọng. Trong những ngày gần đây, giá Bitcoin giảm xuống dưới $75K, khiến nhiều nhà đầu tư lo lắng về tương lai của thị trường.</p><h2>1. Giá Bitcoin giảm xuống dưới $75K</h2><p>Giá Bitcoin giảm xuống dưới $75K là một sự kiện quan trọng trong thị trường crypto. Điều này cho thấy sự suy giảm của thị trường và có thể ảnh hưởng đến niềm tin của nhà đầu tư.</p><h2>2. Chuyên gia dự đoán cuộc suy giảm xuống $60K</h2><p>Các chuyên gia dự đoán một cuộc suy giảm xuống $60K có thể xảy ra trong tương lai gần. Điều này dựa trên phân tích kỹ thuật và các yếu tố kinh tế vĩ mô.</p><h2>3. Cuộc tấn công wrench tại Pháp</h2><p>Cuộc tấn công wrench tại Pháp là một sự kiện quan trọng trong lĩnh vực an ninh mạng. Điều này cho thấy sự cần thiết của việc tăng cường an ninh cho các nhà đầu tư crypto.</p><h2>4. Thỏa thuận hòa bình Iran</h2><p>Thỏa thuận hòa bình Iran là một sự kiện quan trọng trong lĩnh vực chính trị. Điều này có thể ảnh hưởng đến thị trường crypto và các tài sản khác.</p><h2>5. ECB cảnh báo về việc nới lỏng quy định stablecoin</h2><p>ECB cảnh báo về việc nới lỏng quy định stablecoin là một sự kiện quan trọng trong lĩnh vực tài chính. Điều này cho thấy sự cần thiết của việc tăng cường quy định và giám sát trong lĩnh vực crypto.</p><h2>Nhận định thị trường</h2><p>Thị trường crypto đang trải qua một giai đoạn biến động mạnh. Các sự kiện quan trọng như giá Bitcoin giảm xuống dưới $75K, chuyên gia dự đoán cuộc suy giảm xuống $60K, cuộc tấn công wrench tại Pháp, thỏa thuận hòa bình Iran và ECB cảnh báo về việc nới lỏng quy định stablecoin đều đang ảnh hưởng đến thị trường.</p><h2>Khuyến nghị nhà đầu tư</h2><p>Nhà đầu tư cần phải cẩn thận và tỉnh táo trong giai đoạn biến động này. Họ nên theo dõi sát sao các sự kiện quan trọng và điều chỉnh chiến lược đầu tư của mình cho phù hợp.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] 70% of all crypto wrench attacks happen in France: Report — <em>Cointelegraph</em></li>\n<li>[2] Bitcoin heads higher as President Trump announces Iran peace agreement — <em>CoinDesk</em></li>\n<li>[3] Analysts forecast a Bitcoin crash to the $60K level, revisiting 2026 low — <em>Cointelegraph</em></li>\n<li>[4] ECB warns EU finance ministers that easing euro stablecoin rules would weaken banks: Reuters — <em>The Block</em></li>\n<li>[5] Bitcoin is ready to beat stocks and bonds again after underperformance against Wall Street — <em>CoinDesk</em></li>\n<li>[6] Warsh will cut rates, despite consensus view of rate hikes: Analyst — <em>Cointelegraph</em></li>\n<li>[7] FTX’s former law firm, auditor agree to pay $66 million to settle customer claims over fraud — <em>The Block</em></li>\n<li>[8] Firefox's Big Redesign Gives You a Button to Kill All the AI — <em>Decrypt</em></li>\n<li>[9] Bitcoin Dives Below $75K for First Time in a Month as Crypto Liquidations Near $1 Billion — <em>Decrypt</em></li>\n<li>[10] Spot bitcoin ETFs shed $1.26 billion in worst week since late January as ether funds see 10-day outflow streak — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "thị trường",
+        "điểm tin",
+        "stablecoin"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1779593891/cryptohieuqua/posts/diem-tin-crypto-24052026-luc-1038-thi-truong-bien-dong-manh.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1779593891/cryptohieuqua/posts/diem-tin-crypto-24052026-luc-1038-thi-truong-bien-dong-manh.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-24052026-luc-1038-thi-truong-bien-dong-manh",
+        "width": 528,
+        "height": 352,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 24/05/2026 lúc 10:38: Thị trường biến động mạnh"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/70-crypto-wrench-attacks-happen-france?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / CoinDesk / The Block / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "70% of all crypto wrench attacks happen in France: Report",
+          "url": "https://cointelegraph.com/news/70-crypto-wrench-attacks-happen-france?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin heads higher as President Trump announces Iran peace agreement",
+          "url": "https://www.coindesk.com/markets/2026/05/23/bitcoin-heads-higher-as-president-trump-announces-iran-peace-agreement",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Analysts forecast a Bitcoin crash to the $60K level, revisiting 2026 low",
+          "url": "https://cointelegraph.com/news/analysts-forecast-bitcoin-crash-60k-february-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "ECB warns EU finance ministers that easing euro stablecoin rules would weaken banks: Reuters",
+          "url": "https://www.theblock.co/post/402427/ecb-warns-eu-finance-ministers-that-easing-euro-stablecoin-rules-would-weaken-banks-reuters?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin is ready to beat stocks and bonds again after underperformance against Wall Street",
+          "url": "https://www.coindesk.com/markets/2026/05/23/bitcoin-is-ready-to-beat-stocks-and-bonds-again-after-underperformance-against-wall-street",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Warsh will cut rates, despite consensus view of rate hikes: Analyst",
+          "url": "https://cointelegraph.com/news/warsh-cut-rate-despite-consensus-rate-hikes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "FTX’s former law firm, auditor agree to pay $66 million to settle customer claims over fraud",
+          "url": "https://www.theblock.co/post/402425/ftxs-former-law-firm-auditor-agree-to-pay-66-million-to-settle-customer-claims-over-fraud?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Firefox's Big Redesign Gives You a Button to Kill All the AI",
+          "url": "https://decrypt.co/368867/firefox-redesign-kill-ai-button-project-nova",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitcoin Dives Below $75K for First Time in a Month as Crypto Liquidations Near $1 Billion",
+          "url": "https://decrypt.co/368912/bitcoin-drops-75k-crypto-liquidations-near-1-billion",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Spot bitcoin ETFs shed $1.26 billion in worst week since late January as ether funds see 10-day outflow streak",
+          "url": "https://www.theblock.co/post/402420/spot-bitcoin-etfs-shed-1-26-billion-in-worst-week-since-late-january-as-ether-funds-see-10-day-outflow-streak?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-05-24T03:38:12.073Z",
+      "slug": "diem-tin-crypto-24052026-luc-1038-thi-truong-bien-dong-manh"
+    },
+    {
       "id": "1779540665758",
       "title": "Điểm tin crypto 23/05/2026 lúc 19:51: Thị trường biến động mạnh",
       "summary": "Thị trường tiền điện tử đang trải qua một giai đoạn biến động mạnh với sự sụt giảm của Bitcoin và Ethereum. Các sự kiện nổi bật bao gồm việc ECB phản đối đề xuất về stablecoin euro, Bitcoin giảm xuống 74.300 USD và SEC phê duyệt giao dịch quyền chọn chỉ số Bitcoin trên Nasdaq.",
@@ -7187,16 +7266,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.theblock.co/post/399393/kevin-warsh-clears-key-senate-banking-committee-vote-to-become-federal-reserve-chair?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/news/kucoin-eu-hires-new-aml-chief-after-austria-ban-on-new-business-under-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/markets/2026/04/29/wall-street-is-launching-the-first-ever-prediction-market-etfs-for-u-s-elections",
-    "https://cointelegraph.com/news/moonpay-acquires-sodot-institutional-crypto-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/opinion/2026/04/29/wall-street-is-coming-to-consensus-miami-and-it-s-not-just-to-watch",
-    "https://cointelegraph.com/news/prediction-markets-25-7b-monthly-volume-report-retail-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/coindesk-news/2026/04/29/stellar-s-cmo-says-crypto-must-ditch-hype-and-get-rich-slow-to-win-mainstream-trust",
-    "https://www.theblock.co/post/399386/solana-ventures-squads-funding-stablecoin-altitude?utm_source=rss&amp;utm_medium=rss",
-    "https://www.coindesk.com/markets/2026/04/29/ai-stocks-are-overheated-and-crypto-is-incredibly-cheap-pantera-ceo-dan-morehead-says",
-    "https://decrypt.co/365975/moonpay-launches-institutional-division-sodot-acquisition",
     "https://www.coindesk.com/business/2026/04/29/visa-expands-stablecoin-settlement-network-as-volume-hits-usd7-billion-run-rate",
     "https://www.theblock.co/post/399405/visa-stablecoin-settlement-hits-7-billion-run-rate-pilot-expands-nine-blockchains?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/coindesk-news/2026/04/29/bitcoin-etfs-fuel-institutional-surge-21shares-cio-sees-usd100k-possible-by-year-end",
@@ -7686,7 +7755,17 @@
     "https://www.coindesk.com/markets/2026/05/23/bitcoin-tanks-to-usd74-300-as-spot-etfs-bleed-usd2-26-billion-in-two-weeks",
     "https://cointelegraph.com/news/sec-approves-nasdaq-to-list-bitcoin-index-options-on-the-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/bitcoin-etf-outflows-are-a-contrarian-buy-signal-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/michael-saylor-strategy-mstr-bitcoin-sell-speculation-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/michael-saylor-strategy-mstr-bitcoin-sell-speculation-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/70-crypto-wrench-attacks-happen-france?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/05/23/bitcoin-heads-higher-as-president-trump-announces-iran-peace-agreement",
+    "https://cointelegraph.com/news/analysts-forecast-bitcoin-crash-60k-february-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/post/402427/ecb-warns-eu-finance-ministers-that-easing-euro-stablecoin-rules-would-weaken-banks-reuters?utm_source=rss&amp;utm_medium=rss",
+    "https://www.coindesk.com/markets/2026/05/23/bitcoin-is-ready-to-beat-stocks-and-bonds-again-after-underperformance-against-wall-street",
+    "https://cointelegraph.com/news/warsh-cut-rate-despite-consensus-rate-hikes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/post/402425/ftxs-former-law-firm-auditor-agree-to-pay-66-million-to-settle-customer-claims-over-fraud?utm_source=rss&amp;utm_medium=rss",
+    "https://decrypt.co/368867/firefox-redesign-kill-ai-button-project-nova",
+    "https://decrypt.co/368912/bitcoin-drops-75k-crypto-liquidations-near-1-billion",
+    "https://www.theblock.co/post/402420/spot-bitcoin-etfs-shed-1-26-billion-in-worst-week-since-late-january-as-ether-funds-see-10-day-outflow-streak?utm_source=rss&amp;utm_medium=rss"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/398938/bitcoin-leads-1-2b-weekly-haul-for-global-crypto-funds-as-institutional-demand-builds-coinshares?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/398933/luxor-microbt-100-million-rig-deal?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/04/27/global-interest-rates-robinhood-galaxy-earnings-crypto-week-ahead",
@@ -7774,6 +7853,7 @@
     "https://www.theblock.co/post/402302/ark-invest-buys-5-million-bullish?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/402296/zero-network-wind-down?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/markets/bitcoin-liquidity-imbalance-eyes-a-sharp-rally-to-80k-next-heres-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/402353/binance-disputes-latest-wsj-report-on-alleged-iran-linked-transactions?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/05/22/iren-co-founder-says-ai-s-biggest-bottleneck-is-infrastructure-not-chips|https://www.coindesk.com/coindesk-indices/2026/05/22/coindesk-20-performance-update-near-surges-19-4-as-index-trades-flat",
     "https://cointelegraph.com/markets/ether-analyst-claims-eth-is-still-a-good-long-term-buy-heres-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/bitcoin-pizza-day-those-10k-btc-worth-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/kevin-warsh-sworn-fed-chair-traders-rate-hikes-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/ecb-pushes-back-on-euro-stablecoin-proposals-citing-financial-stability-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/05/23/bitcoin-tanks-to-usd74-300-as-spot-etfs-bleed-usd2-26-billion-in-two-weeks|https://cointelegraph.com/news/sec-approves-nasdaq-to-list-bitcoin-index-options-on-the-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/ecb-pushes-back-on-euro-stablecoin-proposals-citing-financial-stability-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/05/23/bitcoin-tanks-to-usd74-300-as-spot-etfs-bleed-usd2-26-billion-in-two-weeks|https://cointelegraph.com/news/sec-approves-nasdaq-to-list-bitcoin-index-options-on-the-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/70-crypto-wrench-attacks-happen-france?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/05/23/bitcoin-heads-higher-as-president-trump-announces-iran-peace-agreement|https://cointelegraph.com/news/analysts-forecast-bitcoin-crash-60k-february-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
