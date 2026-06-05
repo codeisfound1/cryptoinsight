@@ -1,6 +1,85 @@
 {
   "posts": [
     {
+      "id": "1780631337283",
+      "title": "Điểm tin crypto 05/06/2026 lúc 10:48: Thị trường biến động mạnh",
+      "summary": "Thị trường tiền điện tử đang trải qua những biến động mạnh với sự xuất hiện của các sự kiện quan trọng như việc tìm ra lỗ hổng bảo mật trong Zcash, kế hoạch ra mắt mạng lưới tiền gửi token hóa của JPMorgan và Citi, cũng như sự sụt giảm giá của Bitcoin",
+      "content": "<p>Thị trường tiền điện tử đang trải qua những biến động mạnh trong những ngày gần đây. Các sự kiện quan trọng như việc tìm ra lỗ hổng bảo mật trong Zcash, kế hoạch ra mắt mạng lưới tiền gửi token hóa của JPMorgan và Citi, cũng như sự sụt giảm giá của Bitcoin đã làm cho thị trường trở nên đầy biến động.</p><h2>1. Lỗ hổng bảo mật trong Zcash</h2><p>Việt tìm ra lỗ hổng bảo mật trong Zcash đã làm cho giá của đồng tiền này giảm mạnh. Tuy nhiên, lỗ hổng này đã được khắc phục trong vòng vài ngày và các chuyên gia cho rằng việc khai thác lỗ hổng này là không khả thi.</p><h2>2. Kế hoạch ra mắt mạng lưới tiền gửi token hóa</h2><p>JPMorgan và Citi đang có kế hoạch ra mắt mạng lưới tiền gửi token hóa vào đầu năm 2027. Mạng lưới này sẽ cho phép các khoản tiền gửi được token hóa và di chuyển tức thời, cũng như hỗ trợ việc giải quyết giao dịch 24/7.</p><h2>3. Sự sụt giảm giá của Bitcoin</h2><p>Giá của Bitcoin đã giảm mạnh trong những ngày gần đây, với mức giảm lên đến 21%. Sự sụt giảm này đã làm cho nhiều nhà đầu tư lo lắng về tương lai của thị trường tiền điện tử.</p><h2>Nhận định thị trường</h2><p>Thị trường tiền điện tử đang trải qua những biến động mạnh, nhưng vẫn có những cơ hội cho các nhà đầu tư. Việc tìm ra lỗ hổng bảo mật trong Zcash và kế hoạch ra mắt mạng lưới tiền gửi token hóa của JPMorgan và Citi đã làm cho thị trường trở nên đầy biến động. Tuy nhiên, sự sụt giảm giá của Bitcoin đã làm cho nhiều nhà đầu tư lo lắng về tương lai của thị trường.</p><h2>Khuyến nghị nhà đầu tư</h2><p>Để đầu tư vào thị trường tiền điện tử, các nhà đầu tư cần phải cẩn thận và tìm hiểu kỹ về các sự kiện và xu hướng đang diễn ra. Việc đầu tư vào Bitcoin và các đồng tiền khác cần phải được xem xét kỹ lưỡng và không nên đầu tư quá nhiều vào một loại tài sản duy nhất.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] Security researcher finds Zcash vulnerability allowing ‘unlimited’ counterfeit minting; ZEC drops 31% — <em>The Block</em></li>\n<li>[2] JPMorgan, Citi-backed consortium plans to launch tokenized deposit network in early 2027: WSJ — <em>The Block</em></li>\n<li>[3] Comptroller says only Democrats pressuring over crypto trust charter — <em>Cointelegraph</em></li>\n<li>[4] AI Is Already Developing AI, Says Anthropic—And Humans May Be Slowing Things Down — <em>Decrypt</em></li>\n<li>[5] Republican Lawmaker Plans to Add Prediction Markets to Congressional Stock Ban Bill — <em>Decrypt</em></li>\n<li>[6] Bitcoin fell 21% after Strategy’s debt buyback news— Is a Terra Luna-style doom loop next? — <em>Cointelegraph</em></li>\n<li>[7] Russia targets British 17-year-old for alleging digital assets were skirting sanctions — <em>Cointelegraph</em></li>\n<li>[8] White House crypto adviser Witt defends Clarity Act, calls it ‘pro-law enforcement’ as lawmakers race to pass bill — <em>The Block</em></li>\n<li>[9] 'Looksmaxxing' Trend Spawns $100M Gray Market Fueled By Bitcoin, Stablecoins: Chainalysis — <em>Decrypt</em></li>\n<li>[10] Professional investors dumped 52K BTC worth of ETFs in Q1, filings show — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "zcash",
+        "thị trường",
+        "điểm tin"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1780631336/cryptohieuqua/posts/diem-tin-crypto-05062026-luc-1048-thi-truong-bien-dong-manh.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1780631336/cryptohieuqua/posts/diem-tin-crypto-05062026-luc-1048-thi-truong-bien-dong-manh.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-05062026-luc-1048-thi-truong-bien-dong-manh",
+        "width": 800,
+        "height": 450,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 05/06/2026 lúc 10:48: Thị trường biến động mạnh"
+      },
+      "sourceUrl": "https://www.theblock.co/post/403698/zcash-vulnerability-zec-drops?utm_source=rss&amp;utm_medium=rss",
+      "sourceTitle": "The Block / Cointelegraph / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Security researcher finds Zcash vulnerability allowing ‘unlimited’ counterfeit minting; ZEC drops 31%",
+          "url": "https://www.theblock.co/post/403698/zcash-vulnerability-zec-drops?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "JPMorgan, Citi-backed consortium plans to launch tokenized deposit network in early 2027: WSJ",
+          "url": "https://www.theblock.co/post/403701/jpmorgan-citi-major-banks-tokenized-deposit-network?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Comptroller says only Democrats pressuring over crypto trust charter",
+          "url": "https://cointelegraph.com/news/occ-gould-political-pressure-democrats-world-liberty-financial?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "AI Is Already Developing AI, Says Anthropic—And Humans May Be Slowing Things Down",
+          "url": "https://decrypt.co/370089/ai-already-developing-ai-anthropic-humans-slowing-things-down",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Republican Lawmaker Plans to Add Prediction Markets to Congressional Stock Ban Bill",
+          "url": "https://decrypt.co/370086/republican-lawmaker-add-prediction-markets-ongressional-stock-ban-bill",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitcoin fell 21% after Strategy’s debt buyback news— Is a Terra Luna-style doom loop next?",
+          "url": "https://cointelegraph.com/markets/bitcoin-fell-21-after-strategys-debt-buyback-news-is-a-terra-luna-style-doom-loop-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Russia targets British 17-year-old for alleging digital assets were skirting sanctions",
+          "url": "https://cointelegraph.com/news/russia-sanctions-british-teenager-ruble-stablecoin-ukraine-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "White House crypto adviser Witt defends Clarity Act, calls it ‘pro-law enforcement’ as lawmakers race to pass bill",
+          "url": "https://www.theblock.co/post/403693/white-house-crypto-adviser-witt-defends-clarity-act-calls-it-pro-law-enforcement-as-lawmakers-race-to-pass-bill?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "'Looksmaxxing' Trend Spawns $100M Gray Market Fueled By Bitcoin, Stablecoins: Chainalysis",
+          "url": "https://decrypt.co/370078/looksmaxxing-trend-100m-gray-market-bitcoin-stablecoins-chainalysis",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Professional investors dumped 52K BTC worth of ETFs in Q1, filings show",
+          "url": "https://cointelegraph.com/news/bitcoin-etf-ownership-shifts-hedge-funds-sell-banks-buy-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-06-05T03:48:57.283Z",
+      "slug": "diem-tin-crypto-05062026-luc-1048-thi-truong-bien-dong-manh"
+    },
+    {
       "id": "1780583101329",
       "title": "Điểm tin crypto 04/06/2026 lúc 21:24: Thị trường biến động mạnh",
       "summary": "Thị trường crypto trải qua một tuần biến động mạnh với Bitcoin giảm 14%, trong khi các sự kiện như Travala ra mắt giao thức du lịch AI và Visa thử nghiệm stablecoin riêng tư trên Canton Network thu hút sự chú ý",
@@ -9106,16 +9185,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/estonia-fsa-investor-warning-zondacrypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/swiss-bitcoin-reserve-campaign-to-lapse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/post/400616/duke-law-lecturer-trump-connected-world-liberty-financial-issued-security?utm_source=rss&amp;utm_medium=rss",
-    "https://www.coindesk.com/markets/2026/05/08/coinbase-rebounds-as-altcoins-surge-with-bitcoin-holding-above-usd80-000",
-    "https://cointelegraph.com/news/court-lets-arbitrum-dao-to-transfer-71m-in-eth-tied-to-north-korea-hack-to-aave?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/spot-bitcoin-etfs-log-6th-straight-week-of-net-inflows-for-first-time-in-9-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/jack-mallers-shuts-down-the-idea-that-wall-street-is-a-threat-to-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/policy/2026/05/09/judge-clears-path-for-aave-to-move-usd71-million-in-eth-linked-to-north-korea-hack",
-    "https://cointelegraph.com/news/cz-says-crypto-exchange-rivals-opposed-his-pardon-bid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/seven-major-bitcoin-mining-pools-stratum-v2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/strategy-ceo-phong-le-strategy-selling-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/400642/arbitrums-71-million-in-eth-cleared-for-aave-transfer-as-north-korea-terrorism-creditors-retain-legal-claim?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/400639/boes-bailey-warns-of-looming-wrestle-with-us-over-stablecoin-rules-flags-run-risk-for-uk?utm_source=rss&amp;utm_medium=rss",
@@ -9605,7 +9674,17 @@
     "https://www.coindesk.com/markets/2026/06/04/ripple-linked-xrp-sinks-7-to-four-month-lows",
     "https://www.coindesk.com/coindesk-indices/2026/06/04/coindesk-20-performance-update-bitcoin-cash-bch-up-1-5-is-only-gainer",
     "https://decrypt.co/369999/as-btc-tests-62000-how-low-can-bitcoin-go",
-    "https://cointelegraph.com/news/arthur-hayes-dumped-hype-near-holdings-mega-ai-ipos?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/arthur-hayes-dumped-hype-near-holdings-mega-ai-ipos?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/post/403698/zcash-vulnerability-zec-drops?utm_source=rss&amp;utm_medium=rss",
+    "https://www.theblock.co/post/403701/jpmorgan-citi-major-banks-tokenized-deposit-network?utm_source=rss&amp;utm_medium=rss",
+    "https://cointelegraph.com/news/occ-gould-political-pressure-democrats-world-liberty-financial?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/370089/ai-already-developing-ai-anthropic-humans-slowing-things-down",
+    "https://decrypt.co/370086/republican-lawmaker-add-prediction-markets-ongressional-stock-ban-bill",
+    "https://cointelegraph.com/markets/bitcoin-fell-21-after-strategys-debt-buyback-news-is-a-terra-luna-style-doom-loop-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/russia-sanctions-british-teenager-ruble-stablecoin-ukraine-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/post/403693/white-house-crypto-adviser-witt-defends-clarity-act-calls-it-pro-law-enforcement-as-lawmakers-race-to-pass-bill?utm_source=rss&amp;utm_medium=rss",
+    "https://decrypt.co/370078/looksmaxxing-trend-100m-gray-market-bitcoin-stablecoins-chainalysis",
+    "https://cointelegraph.com/news/bitcoin-etf-ownership-shifts-hedge-funds-sell-banks-buy-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/398938/bitcoin-leads-1-2b-weekly-haul-for-global-crypto-funds-as-institutional-demand-builds-coinshares?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/398933/luxor-microbt-100-million-rig-deal?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/04/27/global-interest-rates-robinhood-galaxy-earnings-crypto-week-ahead",
@@ -9717,6 +9796,7 @@
     "https://www.coindesk.com/markets/2026/06/03/mastercard-expands-on-chain-settlement-in-bet-on-stablecoins-and-always-on-finance|https://www.theblock.co/post/403450/blockchain-association-letter-senate?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/369811/microsoft-1000x-more-reliable-quantum-chip-bitcoin-threat-draws-nearer",
     "https://cointelegraph.com/news/eu-mica-deadline-looms-for-unlicensed-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/markets/hyperliquid-bear-turns-bullish-after-losing-over-46m-betting-on-hype-price-decline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/403549/solayer-rolls-out-solana-native-onchain-perps-trading-platform-margin-trade-mainnet?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/403594/bitmine-preferred-stock-offering?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/06/04/bitcoin-drops-below-usd62-000-as-usd1-5-billion-in-crypto-longs-get-wiped-out|https://www.coindesk.com/tech/2026/06/03/live-markets-bitcoin-crashes-to-usd62-000-as-billions-of-longs-get-liquidated",
-    "https://www.theblock.co/post/402860/travala-debuts-agentic-ai-travel-protocol-with-gasless-usdc-payments-on-base?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/403659/the-rally-that-wasnt-bitcoin-slides-14-in-one-week-as-etf-outflows-strategy-sale-and-oil-prices-hit-sentiment?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/tech/2026/06/04/not-all-ethereum-layer-2s-are-dying-but-many-general-purpose-chains-no-longer-have-a-reason-to-exist"
+    "https://www.theblock.co/post/402860/travala-debuts-agentic-ai-travel-protocol-with-gasless-usdc-payments-on-base?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/403659/the-rally-that-wasnt-bitcoin-slides-14-in-one-week-as-etf-outflows-strategy-sale-and-oil-prices-hit-sentiment?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/tech/2026/06/04/not-all-ethereum-layer-2s-are-dying-but-many-general-purpose-chains-no-longer-have-a-reason-to-exist",
+    "https://www.theblock.co/post/403698/zcash-vulnerability-zec-drops?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/403701/jpmorgan-citi-major-banks-tokenized-deposit-network?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/occ-gould-political-pressure-democrats-world-liberty-financial?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
