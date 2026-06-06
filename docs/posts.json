@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1780750800493",
+      "title": "Điểm tin crypto 06/06/2026 lúc 19:59: Thị trường biến động mạnh",
+      "summary": "Thị trường crypto trải qua một ngày biến động mạnh với Bitcoin giảm xuống dưới $60,000, Ethereum giảm xuống mức thấp nhất trong 13 tháng. Các sự kiện nổi bật bao gồm việc nhà đầu tư bán Bitcoin để mua cổ phiếu SpaceX, sự cố bảo mật của Zcash và việc áp dụng USDC trên nền tảng Base.",
+      "content": "<p>Thị trường crypto đang trải qua một giai đoạn biến động mạnh, với nhiều sự kiện quan trọng diễn ra trong ngày 06/06/2026. Bài viết này sẽ tổng hợp và phân tích các sự kiện nổi bật nhất để giúp nhà đầu tư hiểu rõ hơn về tình hình thị trường.</p><h2>1. Nhà đầu tư bán Bitcoin để mua cổ phiếu SpaceX</h2><p>Theo báo cáo của CoinDesk, một số nhà đầu tư đang bán Bitcoin để mua cổ phiếu SpaceX, điều này đã gây ra sự giảm giá của Bitcoin xuống dưới $60,000. Tuy nhiên, vẫn chưa rõ liệu đây có phải là một xu hướng dài hạn hay không.</p><h2>2. Sự cố bảo mật của Zcash</h2><p>Zcash đang đối mặt với một sự cố bảo mật nghiêm trọng, với việc phát hiện ra một lỗ hổng bảo mật cho phép tạo ra các đồng tiền giả. Điều này đã gây ra sự giảm giá của Zcash và ảnh hưởng đến niềm tin của nhà đầu tư.</p><h2>3. Ethereum giảm xuống mức thấp nhất trong 13 tháng</h2><p>Ethereum đã giảm xuống mức thấp nhất trong 13 tháng, với giá hiện tại là dưới $1,600. Điều này có thể là do sự giảm giá của Bitcoin và sự không chắc chắn về tương lai của thị trường crypto.</p><h2>4. Áp dụng USDC trên nền tảng Base</h2><p>Travala đã cho phép các đại lý AI đặt phòng khách sạn bằng USDC trên nền tảng Base. Điều này có thể giúp tăng cường việc áp dụng USDC và mở rộng khả năng sử dụng của nó.</p><h2>5. Các sự kiện khác</h2><p>Các sự kiện khác bao gồm việc giảm giá của Cardano, việc áp dụng Hyperliquid treasuries và việc xem xét các đề xuất thuế crypto.</p><h2>Nhận định thị trường</h2><p>Thị trường crypto đang trải qua một giai đoạn biến động mạnh, với nhiều sự kiện quan trọng diễn ra. Nhà đầu tư cần phải cẩn thận và theo dõi sát sao các sự kiện để có thể đưa ra quyết định đầu tư thông minh.</p><h2>Khuyến nghị nhà đầu tư</h2><p>Nhà đầu tư nên cẩn thận và không nên đầu tư quá nhiều vào một loại tài sản nào. Việc đa dạng hóa danh mục đầu tư và theo dõi sát sao các sự kiện thị trường có thể giúp giảm thiểu rủi ro và tăng cường lợi nhuận.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] Are retail traders selling their bitcoin to buy the SpaceX IPO? — <em>CoinDesk</em></li>\n<li>[2] Researcher who found Zcash's bug with AI adds Monero to his audit queue — <em>CoinDesk</em></li>\n<li>[3] WLD plunges 20% as Hayes dumps token a day after saying he would keep holding it — <em>CoinDesk</em></li>\n<li>[4] Bitcoin back above $61,000 after rout leads to $1.6 billion liquidations — <em>CoinDesk</em></li>\n<li>[5] Cardano social activity surges as ADA falls under 20 cents to four-year lows — <em>CoinDesk</em></li>\n<li>[6] ETH falls to 13-month low on Zcash bug news and Bitcoin drop to sub-$60K: Is $1.4K next? — <em>Cointelegraph</em></li>\n<li>[7] Travala lets AI agents book hotels with USDC on Base — <em>Cointelegraph</em></li>\n<li>[8] Crypto tax proposals weighed ahead of Tuesday House hearing — <em>Cointelegraph</em></li>\n<li>[9] Zcash Bug Crisis Shows Privacy Cuts Both Ways, Experts Say — <em>Decrypt</em></li>\n<li>[10] Hyperliquid treasuries stand alone in profit as legacy crypto DATs bleed billions — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "thị trường",
+        "điểm tin",
+        "zcash",
+        "usdc"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1780750799/cryptohieuqua/posts/diem-tin-crypto-06062026-luc-1959-thi-truong-bien-dong-manh.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1780750799/cryptohieuqua/posts/diem-tin-crypto-06062026-luc-1959-thi-truong-bien-dong-manh.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-06062026-luc-1959-thi-truong-bien-dong-manh",
+        "width": 1919,
+        "height": 1080,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 06/06/2026 lúc 19:59: Thị trường biến động mạnh"
+      },
+      "sourceUrl": "https://www.coindesk.com/markets/2026/06/06/are-retail-traders-selling-their-bitcoin-to-buy-the-spacex-ipo",
+      "sourceTitle": "CoinDesk / Cointelegraph / Decrypt / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Are retail traders selling their bitcoin to buy the SpaceX IPO?",
+          "url": "https://www.coindesk.com/markets/2026/06/06/are-retail-traders-selling-their-bitcoin-to-buy-the-spacex-ipo",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Researcher who found Zcash's bug with AI adds Monero to his audit queue",
+          "url": "https://www.coindesk.com/tech/2026/06/06/researcher-who-found-zcash-s-bug-with-ai-adds-monero-to-his-audit-queue",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "WLD plunges 20% as Hayes dumps token a day after saying he would keep holding it",
+          "url": "https://www.coindesk.com/markets/2026/06/06/wld-plunges-20-as-hayes-dumps-token-a-day-after-saying-he-would-keep-holding-it",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin back above $61,000 after rout leads to $1.6 billion liquidations",
+          "url": "https://www.coindesk.com/markets/2026/06/06/bitcoin-back-above-usd61-000-after-rout-leads-to-usd1-6-billion-liquidations",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Cardano social activity surges as ADA falls under 20 cents to four-year lows",
+          "url": "https://www.coindesk.com/markets/2026/06/06/cardano-social-activity-surges-as-ada-falls-under-20-cents-to-four-year-lows",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "ETH falls to 13-month low on Zcash bug news and Bitcoin drop to sub-$60K: Is $1.4K next?",
+          "url": "https://cointelegraph.com/markets/eth-falls-to-13-month-low-on-zcash-bug-news-and-bitcoin-drop-to-sub-60k-is-14k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Travala lets AI agents book hotels with USDC on Base",
+          "url": "https://cointelegraph.com/news/travala-ai-agents-book-hotels-usdc-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Crypto tax proposals weighed ahead of Tuesday House hearing",
+          "url": "https://cointelegraph.com/news/crypto-tax-bills-house-ways-means-hearing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Zcash Bug Crisis Shows Privacy Cuts Both Ways, Experts Say",
+          "url": "https://decrypt.co/370223/zcash-bug-crisis-shows-privacy-cuts-both-ways-experts-say",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Hyperliquid treasuries stand alone in profit as legacy crypto DATs bleed billions",
+          "url": "https://www.theblock.co/post/403855/hype-treasuries-alone-profit-legacy-crypto-dats-bleed-billions?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-06-06T13:00:00.493Z",
+      "slug": "diem-tin-crypto-06062026-luc-1959-thi-truong-bien-dong-manh"
+    },
+    {
       "id": "1780716712544",
       "title": "Điểm tin crypto 06/06/2026 lúc 10:31: Thị trường biến động mạnh",
       "summary": "Thị trường crypto đang trải qua một giai đoạn biến động mạnh với giá Bitcoin và Ethereum giảm sâu. Các sự kiện nổi bật bao gồm việc giá ADA của Cardano giảm xuống dưới 20 cent, ETH giảm xuống mức thấp nhất trong 13 tháng và việc phát hiện ra một lỗi trong Zcash.",
@@ -9345,10 +9426,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/markets/bitcoin-price-holds-80k-into-weekly-close-traders-say-dips-not-over-yet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/post/400745/groundbreaking-prediction-market-etfs-launch-delayed-again-as-sec-reviews-more-analyst?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/news/augustus-wins-conditional-occ-approval-for-ai-powered-stablecoin-clearing-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/367396/ripple-200-million-financing-facility-expand-institutional-crypto-brokerage",
     "https://cointelegraph.com/news/strategy-resumes-bitcoin-acquisitions-43m-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/business/2026/05/11/ripple-raises-usd200-million-from-neuberger-berman-to-expand-its-ripple-prime-platform",
     "https://cointelegraph.com/press-releases/dappos-launches-xbubble-an-ai-agent-that-learns-and-uses-ai-for-you?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -9844,7 +9921,11 @@
     "https://decrypt.co/370229/strategy-shares-fall-4-month-low-strc-dips-bitcoin-sinks-under-60k",
     "https://cointelegraph.com/markets/bitcoin-bears-face-26b-trap-as-btc-funding-rate-drops-is-a-short-squeeze-brewing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/06/05/why-diehard-bitcoin-purists-aren-t-sweating-the-massive-price-crash-that-wiped-out-usd200-billion",
-    "https://decrypt.co/370207/anthropic-helping-nsa-hack-china-also-wants-everyone-pause-ai"
+    "https://decrypt.co/370207/anthropic-helping-nsa-hack-china-also-wants-everyone-pause-ai",
+    "https://www.coindesk.com/markets/2026/06/06/are-retail-traders-selling-their-bitcoin-to-buy-the-spacex-ipo",
+    "https://www.coindesk.com/tech/2026/06/06/researcher-who-found-zcash-s-bug-with-ai-adds-monero-to-his-audit-queue",
+    "https://www.coindesk.com/markets/2026/06/06/wld-plunges-20-as-hayes-dumps-token-a-day-after-saying-he-would-keep-holding-it",
+    "https://www.coindesk.com/markets/2026/06/06/bitcoin-back-above-usd61-000-after-rout-leads-to-usd1-6-billion-liquidations"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/398938/bitcoin-leads-1-2b-weekly-haul-for-global-crypto-funds-as-institutional-demand-builds-coinshares?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/398933/luxor-microbt-100-million-rig-deal?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/04/27/global-interest-rates-robinhood-galaxy-earnings-crypto-week-ahead",
@@ -9959,6 +10040,7 @@
     "https://www.theblock.co/post/402860/travala-debuts-agentic-ai-travel-protocol-with-gasless-usdc-payments-on-base?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/403659/the-rally-that-wasnt-bitcoin-slides-14-in-one-week-as-etf-outflows-strategy-sale-and-oil-prices-hit-sentiment?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/tech/2026/06/04/not-all-ethereum-layer-2s-are-dying-but-many-general-purpose-chains-no-longer-have-a-reason-to-exist",
     "https://www.theblock.co/post/403698/zcash-vulnerability-zec-drops?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/403701/jpmorgan-citi-major-banks-tokenized-deposit-network?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/occ-gould-political-pressure-democrats-world-liberty-financial?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/zcash-new-shielded-pool-orchard-counterfeiting-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/coindesk-indices/2026/06/05/coindesk-20-performance-update-bitcoin-btc-price-drops-2-8-as-index-declines|https://decrypt.co/370117/hyperliquid-hit-by-uk-fca-warning-as-crypto-perps-face-scrutiny",
-    "https://www.coindesk.com/markets/2026/06/06/cardano-social-activity-surges-as-ada-falls-under-20-cents-to-four-year-lows|https://cointelegraph.com/markets/eth-falls-to-13-month-low-on-zcash-bug-news-and-bitcoin-drop-to-sub-60k-is-14k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/travala-ai-agents-book-hotels-usdc-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://www.coindesk.com/markets/2026/06/06/cardano-social-activity-surges-as-ada-falls-under-20-cents-to-four-year-lows|https://cointelegraph.com/markets/eth-falls-to-13-month-low-on-zcash-bug-news-and-bitcoin-drop-to-sub-60k-is-14k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/travala-ai-agents-book-hotels-usdc-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/06/06/are-retail-traders-selling-their-bitcoin-to-buy-the-spacex-ipo|https://www.coindesk.com/tech/2026/06/06/researcher-who-found-zcash-s-bug-with-ai-adds-monero-to-his-audit-queue|https://www.coindesk.com/markets/2026/06/06/wld-plunges-20-as-hayes-dumps-token-a-day-after-saying-he-would-keep-holding-it"
   ]
 }
