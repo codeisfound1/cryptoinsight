@@ -1,6 +1,85 @@
 {
   "posts": [
     {
+      "id": "1780931976434",
+      "title": "Điểm tin crypto 08/06/2026 lúc 22:19: Thị trường crypto biến động mạnh",
+      "summary": "Thị trường crypto đang trải qua một giai đoạn biến động mạnh với sự sụt giảm của Bitcoin và Ethereum. Tuy nhiên, một số sự kiện tích cực như việc BitMine mua thêm Ethereum và Strategy mua Bitcoin đã giúp thị trường ổn định lại.",
+      "content": "<p>Thị trường crypto đang trải qua một giai đoạn biến động mạnh với sự sụt giảm của Bitcoin và Ethereum. Tuy nhiên, một số sự kiện tích cực như việc BitMine mua thêm Ethereum và Strategy mua Bitcoin đã giúp thị trường ổn định lại.</p><h2>1. BitMine mua thêm 127.000 Ethereum</h2><p>BitMine, một công ty đầu tư vào Ethereum, đã mua thêm 127.000 Ethereum, nâng tổng số Ethereum trong kho của họ lên 5,54 triệu. Điều này cho thấy sự tự tin của BitMine vào tương lai của Ethereum.</p><h2>2. Strategy mua Bitcoin và tăng dự trữ tiền mặt</h2><p>Strategy, một công ty đầu tư vào Bitcoin, đã mua thêm Bitcoin và tăng dự trữ tiền mặt. Điều này cho thấy sự tự tin của Strategy vào tương lai của Bitcoin.</p><h2>3. Sam Bankman-Fried nộp đơn xin ân xá tổng thống</h2><p>Sam Bankman-Fried, cựu CEO của FTX, đã nộp đơn xin ân xá tổng thống. Điều này cho thấy sự phức tạp của vụ việc FTX và sự ảnh hưởng của nó đến thị trường crypto.</p><h2>4. Thị trường Bitcoin ETF chảy máu 1,7 tỷ USD</h2><p>Thị trường Bitcoin ETF đã chảy máu 1,7 tỷ USD trong tuần qua. Điều này cho thấy sự mất niềm tin của nhà đầu tư vào thị trường Bitcoin.</p><h2>Nhận định thị trường</h2><p>Thị trường crypto đang trải qua một giai đoạn biến động mạnh, nhưng một số sự kiện tích cực như việc BitMine mua thêm Ethereum và Strategy mua Bitcoin đã giúp thị trường ổn định lại. Tuy nhiên, sự mất niềm tin của nhà đầu tư vào thị trường Bitcoin vẫn là một vấn đề lớn.</p><h2>Khuyến nghị nhà đầu tư</h2><p>Nhà đầu tư nên cẩn thận khi đầu tư vào thị trường crypto và nên theo dõi sát sao các sự kiện mới nhất. Việc đa dạng hóa danh mục đầu tư cũng là một cách để giảm thiểu rủi ro.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] Tom Lee's BitMine Buys the Dip Amid 'Superficial' Crypto Selloff, Adding $214M in Ethereum — <em>Decrypt</em></li>\n<li>[2] Spot Bitcoin ETFs bleed $1.7B as outflow streak hits four weeks — <em>Cointelegraph</em></li>\n<li>[3] Former FTX CEO Sam Bankman-Fried officially files for a presidential pardon from Trump — <em>The Block</em></li>\n<li>[4] Blame bitcoin's tumble on rising inflation, not Strategy, 10xResearch argues — <em>CoinDesk</em></li>\n<li>[5] Bitcoin price eyes $90K as FTX-era BTC bullish divergence flashes again — <em>Cointelegraph</em></li>\n<li>[6] South Korea police raid Bithumb over lawmaker hiring favoritism probe: report — <em>Cointelegraph</em></li>\n<li>[7] Congress to Discuss Crypto Tax Rules: What to Watch — <em>Decrypt</em></li>\n<li>[8] Bitmine adds 127,000 ether, bringing treasury to 5.54 million ETH as Tom Lee calls crypto selloff ‘superficial’ — <em>The Block</em></li>\n<li>[9] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[10] Strategy Buys Bitcoin, Pads Cash Reserves Following Biggest Weekly Stock Drop Since 2022 — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "thị trường",
+        "điểm tin"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1780931975/cryptohieuqua/posts/diem-tin-crypto-08062026-luc-2219-thi-truong-crypto-bien-dong-manh.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1780931975/cryptohieuqua/posts/diem-tin-crypto-08062026-luc-2219-thi-truong-crypto-bien-dong-manh.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-08062026-luc-2219-thi-truong-crypto-bien-dong-manh",
+        "width": 1279,
+        "height": 720,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 08/06/2026 lúc 22:19: Thị trường crypto biến động mạnh"
+      },
+      "sourceUrl": "https://decrypt.co/370315/tom-lees-bitmine-buys-dip-superficial-crypto-selloff-214m-ethereum",
+      "sourceTitle": "Decrypt / Cointelegraph / The Block / CoinDesk",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Tom Lee's BitMine Buys the Dip Amid 'Superficial' Crypto Selloff, Adding $214M in Ethereum",
+          "url": "https://decrypt.co/370315/tom-lees-bitmine-buys-dip-superficial-crypto-selloff-214m-ethereum",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Spot Bitcoin ETFs bleed $1.7B as outflow streak hits four weeks",
+          "url": "https://cointelegraph.com/news/bitcoin-etfs-outflows-ether-altcoin-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Former FTX CEO Sam Bankman-Fried officially files for a presidential pardon from Trump",
+          "url": "https://www.theblock.co/post/404001/ftx-sam-bankman-fried-officially-files-presidential-pardon-trump?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Blame bitcoin's tumble on rising inflation, not Strategy, 10xResearch argues",
+          "url": "https://www.coindesk.com/markets/2026/06/08/blame-bitcoin-s-tumble-on-rising-inflation-not-strategy-10xresearch-argues",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin price eyes $90K as FTX-era BTC bullish divergence flashes again",
+          "url": "https://cointelegraph.com/markets/bitcoin-price-eyes-90k-as-ftx-era-btc-bullish-divergence-flashes-again?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "South Korea police raid Bithumb over lawmaker hiring favoritism probe: report",
+          "url": "https://cointelegraph.com/news/south-korea-police-raid-bithumb-over-lawmaker-hiring-favoritism-probe-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Congress to Discuss Crypto Tax Rules: What to Watch",
+          "url": "https://decrypt.co/370310/congress-to-discuss-crypto-tax-rules-what-to-watch",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitmine adds 127,000 ether, bringing treasury to 5.54 million ETH as Tom Lee calls crypto selloff ‘superficial’",
+          "url": "https://www.theblock.co/post/403981/bitmine-adds-127000-ether-bringing-treasury-to-5-54-million-eth-as-tom-lee-calls-crypto-selloff-superficial?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Strategy Buys Bitcoin, Pads Cash Reserves Following Biggest Weekly Stock Drop Since 2022",
+          "url": "https://decrypt.co/370309/strategy-buys-bitcoin-pads-cash-reserves-biggest-weekly-drop-2022",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-06-08T15:19:36.434Z",
+      "slug": "diem-tin-crypto-08062026-luc-2219-thi-truong-crypto-bien-dong-manh"
+    },
+    {
       "id": "1780891374360",
       "title": "Điểm tin crypto 08/06/2026 lúc 11:02: Bitcoin hồi phục và tác động thị trường",
       "summary": "Bitcoin hồi phục lên mức $63,000, NY judge hoãn vụ kiện về quyền sở hữu 40,000 ví bitcoin, và Strategys Saylor tín hiệu mua thêm bitcoin. Thị trường crypto đang trải qua nhiều sự kiện quan trọng",
@@ -9665,15 +9744,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/business/2026/05/12/cleanspark-s-stocks-slides-9-as-firm-reports-usd378-3-million-quarterly-loss",
-    "https://www.coindesk.com/business/2026/05/12/dtcc-taps-chainlink-for-its-tokenized-collateral-platform-ahead-of-q4-launch",
-    "https://www.theblock.co/post/400900/former-bitcoin-miner-bitfarms-reports-145-million-q1-net-loss-amid-keel-rebrand-ai-transition?utm_source=rss&amp;utm_medium=rss",
-    "https://www.theblock.co/post/400903/starknet-launches-strkbtc-to-bring-zk-powered-shielded-bitcoin-to-its-layer-2-network?utm_source=rss&amp;utm_medium=rss",
-    "https://www.theblock.co/post/401060/kelp-dao-aave-resume-rseth?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/news/jpmorgan-files-second-tokenized-money-market-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/bermuda-financial-services-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/367683/hackers-insert-malware-mistral-ai",
-    "https://www.theblock.co/post/401047/first-ever-hyperliquid-etf-launches-posts-very-solid-first-day-of-trading-analyst?utm_source=rss&amp;utm_medium=rss",
     "https://decrypt.co/367664/jpmorgan-tokenized-money-market-fund-ethereum",
     "https://decrypt.co/367663/bitcoin-wallet-firm-exodus-expands-payments-push-sells-87-million-btc",
     "https://www.coindesk.com/business/2026/05/12/jpmorgan-files-to-launch-new-tokenized-fund-as-wall-street-tokenization-race-heats-up",
@@ -10164,7 +10234,16 @@
     "https://decrypt.co/370232/frontier-ai-models-find-crypto-bugs-industry-isnt-ready",
     "https://www.coindesk.com/business/2026/06/06/michael-saylor-revives-bitcoin-buy-speculation-as-scrutiny-over-strategy-grows",
     "https://www.theblock.co/post/403905/jpmorgan-strategy-dollar-reserves-crypto-bill-chance?utm_source=rss&amp;utm_medium=rss",
-    "https://www.coindesk.com/markets/2026/06/07/bitcoin-near-usd60-000-today-vs-february-institutional-mood-is-starkly-different"
+    "https://www.coindesk.com/markets/2026/06/07/bitcoin-near-usd60-000-today-vs-february-institutional-mood-is-starkly-different",
+    "https://decrypt.co/370315/tom-lees-bitmine-buys-dip-superficial-crypto-selloff-214m-ethereum",
+    "https://cointelegraph.com/news/bitcoin-etfs-outflows-ether-altcoin-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/post/404001/ftx-sam-bankman-fried-officially-files-presidential-pardon-trump?utm_source=rss&amp;utm_medium=rss",
+    "https://www.coindesk.com/markets/2026/06/08/blame-bitcoin-s-tumble-on-rising-inflation-not-strategy-10xresearch-argues",
+    "https://cointelegraph.com/markets/bitcoin-price-eyes-90k-as-ftx-era-btc-bullish-divergence-flashes-again?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/south-korea-police-raid-bithumb-over-lawmaker-hiring-favoritism-probe-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/370310/congress-to-discuss-crypto-tax-rules-what-to-watch",
+    "https://www.theblock.co/post/403981/bitmine-adds-127000-ether-bringing-treasury-to-5-54-million-eth-as-tom-lee-calls-crypto-selloff-superficial?utm_source=rss&amp;utm_medium=rss",
+    "https://decrypt.co/370309/strategy-buys-bitcoin-pads-cash-reserves-biggest-weekly-drop-2022"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/398938/bitcoin-leads-1-2b-weekly-haul-for-global-crypto-funds-as-institutional-demand-builds-coinshares?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/398933/luxor-microbt-100-million-rig-deal?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/04/27/global-interest-rates-robinhood-galaxy-earnings-crypto-week-ahead",
@@ -10283,6 +10362,7 @@
     "https://www.coindesk.com/markets/2026/06/06/are-retail-traders-selling-their-bitcoin-to-buy-the-spacex-ipo|https://www.coindesk.com/tech/2026/06/06/researcher-who-found-zcash-s-bug-with-ai-adds-monero-to-his-audit-queue|https://www.coindesk.com/markets/2026/06/06/wld-plunges-20-as-hayes-dumps-token-a-day-after-saying-he-would-keep-holding-it",
     "https://www.theblock.co/post/403885/htx-to-delist-trump-linked-usd1-after-saying-world-liberty-financial-froze-exchange-linked-addresses?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/370237/ai-discover-tech-vulnerabilities-zcash-latest-example|https://www.coindesk.com/markets/2026/06/06/bitcoin-ether-eye-worst-weekly-rout-since-ftx-collapse-as-cryptos-shed-usd390-billion",
     "https://decrypt.co/370128/claude-opus-4-8-review|https://www.coindesk.com/tech/2026/06/07/ethereum-foundation-cuts-and-departures-aren-t-a-crisis-joe-lubin-says|https://www.theblock.co/post/403885/htx-to-delist-trump-linked-usd1-after-saying-world-liberty-financial-froze-exchange-linked-addresses?utm_source=rss&amp;utm_medium=rss",
-    "https://www.theblock.co/post/403919/bitcoin-recovers-63000-kospi-plunges?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/learn/403749/what-is-crypto-market-structure?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/403910/ny-judge-stays-lawsuit-seeking-ownership-of-nearly-40000-bitcoin-wallets-sets-july-hearing-on-proposed-amicus-brief?utm_source=rss&amp;utm_medium=rss"
+    "https://www.theblock.co/post/403919/bitcoin-recovers-63000-kospi-plunges?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/learn/403749/what-is-crypto-market-structure?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/403910/ny-judge-stays-lawsuit-seeking-ownership-of-nearly-40000-bitcoin-wallets-sets-july-hearing-on-proposed-amicus-brief?utm_source=rss&amp;utm_medium=rss",
+    "https://decrypt.co/370315/tom-lees-bitmine-buys-dip-superficial-crypto-selloff-214m-ethereum|https://cointelegraph.com/news/bitcoin-etfs-outflows-ether-altcoin-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/404001/ftx-sam-bankman-fried-officially-files-presidential-pardon-trump?utm_source=rss&amp;utm_medium=rss"
   ]
 }
