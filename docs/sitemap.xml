@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://cryptohieu.com/</loc>
-    <lastmod>2026-06-08</lastmod>
+    <lastmod>2026-06-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://cryptohieu.com/#diem-tin-crypto-09062026-luc-1032-thi-truong-tien-dien-tu-bien-dong-voi-su-kien-</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1780975975/cryptohieuqua/posts/diem-tin-crypto-09062026-luc-1032-thi-truong-tien-dien-tu-bien-dong-voi-su-kien-.jpg</image:loc>
+      <image:title>Điểm tin crypto 09/06/2026 lúc 10:32: Thị trường tiền điện tử biến động với sự kiện OpenAI và Humanity Protocol</image:title>
+      <image:caption>Điểm tin crypto 09/06/2026 lúc 10:32: Thị trường tiền điện tử biến động với sự kiện OpenAI và Humanity Protocol</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://cryptohieu.com/#diem-tin-crypto-08062026-luc-2219-thi-truong-crypto-bien-dong-manh</loc>
