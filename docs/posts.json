@@ -1,6 +1,85 @@
 {
   "posts": [
     {
+      "id": "1781191504131",
+      "title": "Điểm tin crypto 11/06/2026 lúc 22:25: Thị trường tiền điện tử chứng kiến sự quan tâm của các ngân hàng và tổ chức tài chính",
+      "summary": "Thị trường tiền điện tử đang chứng kiến sự quan tâm của các ngân hàng và tổ chức tài chính, với các sự kiện như Community bank group launches new ad campaign, Wall Street Giants đầu tư vào Canton Network, và các ngân hàng đề xuất quy định về stablecoin. Điều này cho thấy sự quan tâm ngày càng tăng của các tổ chức tài chính đối với thị trường tiền điện tử.",
+      "content": "<p>Thị trường tiền điện tử đang chứng kiến sự quan tâm của các ngân hàng và tổ chức tài chính. Điều này được thể hiện qua các sự kiện như Community bank group launches new ad campaign, Wall Street Giants đầu tư vào Canton Network, và các ngân hàng đề xuất quy định về stablecoin.</p><h2>1. Community bank group launches new ad campaign</h2><p>Community bank group đã launches new ad campaign nhằm cảnh báo về rủi ro của các tài sản kỹ thuật số. Điều này cho thấy sự quan tâm của các ngân hàng đối với thị trường tiền điện tử và sự cần thiết phải có quy định rõ ràng.</p><h2>2. Wall Street Giants đầu tư vào Canton Network</h2><p>Wall Street Giants đã đầu tư vào Canton Network, một công ty phát triển công nghệ blockchain. Điều này cho thấy sự quan tâm của các tổ chức tài chính đối với công nghệ blockchain và thị trường tiền điện tử.</p><h2>3. Các ngân hàng đề xuất quy định về stablecoin</h2><p>Các ngân hàng đã đề xuất quy định về stablecoin, nhằm đảm bảo an toàn và bảo mật cho các giao dịch. Điều này cho thấy sự quan tâm của các ngân hàng đối với thị trường tiền điện tử và sự cần thiết phải có quy định rõ ràng.</p><h2>Nhận định thị trường</h2><p>Thị trường tiền điện tử đang chứng kiến sự quan tâm của các ngân hàng và tổ chức tài chính. Điều này cho thấy sự quan tâm ngày càng tăng của các tổ chức tài chính đối với thị trường tiền điện tử. Tuy nhiên, vẫn còn nhiều rủi ro và thách thức cần được giải quyết.</p><h2>Khuyến nghị nhà đầu tư</h2><p>Nhà đầu tư cần phải cẩn thận và tìm hiểu kỹ về thị trường tiền điện tử trước khi đầu tư. Điều này bao gồm việc tìm hiểu về các quy định, rủi ro và cơ hội của thị trường.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] Community bank group launches new ad campaign targeting Clarity Act stablecoin reward language — <em>The Block</em></li>\n<li>[2] Wall Street Giants, Sovereign Wealth Fund Back Canton Network Creator in $355M Round — <em>Decrypt</em></li>\n<li>[3] Banks Say Stablecoin Rules Should Cover Secondary Markets — <em>Decrypt</em></li>\n<li>[4] Franklin Templeton, BNP Paribas see tokenization boosting EU's capital efficiency — <em>Cointelegraph</em></li>\n<li>[5] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[6] Crypto for Advisors: Crypto ETFs — <em>CoinDesk</em></li>\n<li>[7] U.S. House bill would erect crypto-theft task force across law enforcement agencies — <em>CoinDesk</em></li>\n<li>[8] DOJ charges two in $389 million AudiA6 crypto laundering case — <em>The Block</em></li>\n<li>[9] SpaceX stock is coming to Solana on the same day it lists on Nasdaq — <em>CoinDesk</em></li>\n<li>[10] Canton Network developer raises $355 million to bring Wall Street onchain — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "thị trường tiền điện tử",
+        "stablecoin",
+        "canton network",
+        "wall street"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1781191503/cryptohieuqua/posts/diem-tin-crypto-11062026-luc-2225-thi-truong-tien-dien-tu-chung-kien-su-quan-tam.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1781191503/cryptohieuqua/posts/diem-tin-crypto-11062026-luc-2225-thi-truong-tien-dien-tu-chung-kien-su-quan-tam.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-11062026-luc-2225-thi-truong-tien-dien-tu-chung-kien-su-quan-tam",
+        "width": 800,
+        "height": 450,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 11/06/2026 lúc 22:25: Thị trường tiền điện tử chứng kiến sự quan tâm của các ngân hàng và tổ chức tài ch"
+      },
+      "sourceUrl": "https://www.theblock.co/post/404439/community-bank-group-ad-campaign-targeting-clarity-act-stablecoin-reward-language?utm_source=rss&amp;utm_medium=rss",
+      "sourceTitle": "The Block / Decrypt / Cointelegraph / CoinDesk",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Community bank group launches new ad campaign targeting Clarity Act stablecoin reward language",
+          "url": "https://www.theblock.co/post/404439/community-bank-group-ad-campaign-targeting-clarity-act-stablecoin-reward-language?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Wall Street Giants, Sovereign Wealth Fund Back Canton Network Creator in $355M Round",
+          "url": "https://decrypt.co/370753/wall-street-giants-sovereign-wealth-fund-canton-creator-355m-round",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Banks Say Stablecoin Rules Should Cover Secondary Markets",
+          "url": "https://decrypt.co/370752/banks-say-stablecoin-rules-should-cover-secondary-markets",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Franklin Templeton, BNP Paribas see tokenization boosting EU's capital efficiency",
+          "url": "https://cointelegraph.com/news/liquidity-capital-efficiency-tokenization-adoption-banks-franklin-templeton-bnp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Crypto for Advisors: Crypto ETFs",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/06/10/crypto-for-advisors-crypto-etfs",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "U.S. House bill would erect crypto-theft task force across law enforcement agencies",
+          "url": "https://www.coindesk.com/policy/2026/06/10/u-s-house-bill-would-erect-crypto-theft-task-force-across-law-enforcement-agencies",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "DOJ charges two in $389 million AudiA6 crypto laundering case",
+          "url": "https://www.theblock.co/post/404433/doj-charges-two-389-million-audia6-crypto-laundering-case?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "SpaceX stock is coming to Solana on the same day it lists on Nasdaq",
+          "url": "https://www.coindesk.com/tech/2026/06/10/spacex-stock-is-coming-to-solana-on-the-same-day-it-lists-on-nasdaq",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Canton Network developer raises $355 million to bring Wall Street onchain",
+          "url": "https://www.coindesk.com/business/2026/06/11/canton-network-developer-raises-usd355-million-to-bring-wall-street-onchain",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-06-11T15:25:04.131Z",
+      "slug": "diem-tin-crypto-11062026-luc-2225-thi-truong-tien-dien-tu-chung-kien-su-quan-tam"
+    },
+    {
       "id": "1781150415224",
       "title": "Điểm tin crypto 11/06/2026 lúc 11:00: Thị trường biến động mạnh",
       "summary": "Thị trường crypto đang trải qua một giai đoạn biến động mạnh với nhiều sự kiện quan trọng. Từ việc Tom Lee's Bitmine mua 41 triệu đô la giá trị ETH đến việc XRP transaction demand giảm 91,5% và CFTC đề xuất khung pháp lý cho các hợp đồng sự kiện thể thao.",
@@ -10147,15 +10226,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/markets/2026/05/15/strategy-to-repurchase-usd1-5-billion-of-2029-convertible-bonds-using-cash-or-bitcoin-sales",
-    "https://decrypt.co/367949/dune-analytics-slashes-25-of-workforce-in-ai-institutional-pivot",
-    "https://cointelegraph.com/news/south-korea-announce-tokenized-securities-laws-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/business/2026/05/15/winklevoss-gemini-jumps-20-on-usd100-million-bitcoin-infusion-despite-deepening-losses",
-    "https://www.coindesk.com/markets/2026/05/16/bhutan-doesn-t-recall-selling-any-bitcoin-disputing-widely-tracked-usd1-billion-btc-drawdown",
-    "https://cointelegraph.com/news/house-committee-nominate-cftc-commissioners-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/bitcoin-depot-future-legal-judgments-litigation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/ice-cme-press-us-regulators-rein-hyperliquid-dex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/policy/2026/05/15/u-s-house-lawmakers-who-oversee-the-cftc-are-urging-trump-to-fill-the-commission",
     "https://cointelegraph.com/news/solayer-launches-visa-compatible-card-for-usdc-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/368105/drake-calls-sam-bankman-frieds-release-critically-panned-album",
     "https://decrypt.co/368100/lombard-finance-dumps-layerzero-chainlink-1-billion-bitcoin-assets",
@@ -10646,7 +10716,16 @@
     "https://cointelegraph.com/markets/bitcoin-miner-margins-fall-to-record-low-will-btcs-60k-floor-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/370700/solana-exchange-raydium-exploit-defi-attacks-grow",
     "https://www.theblock.co/post/404341/bitcoin-stablecoins-tokenization-bitwise-cio-financial-advisors?utm_source=rss&amp;utm_medium=rss",
-    "https://decrypt.co/370691/tether-nvidia-amazon-back-neura-robotics-1-4-billion-funding-round"
+    "https://decrypt.co/370691/tether-nvidia-amazon-back-neura-robotics-1-4-billion-funding-round",
+    "https://www.theblock.co/post/404439/community-bank-group-ad-campaign-targeting-clarity-act-stablecoin-reward-language?utm_source=rss&amp;utm_medium=rss",
+    "https://decrypt.co/370753/wall-street-giants-sovereign-wealth-fund-canton-creator-355m-round",
+    "https://decrypt.co/370752/banks-say-stablecoin-rules-should-cover-secondary-markets",
+    "https://cointelegraph.com/news/liquidity-capital-efficiency-tokenization-adoption-banks-franklin-templeton-bnp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/coindesk-indices/2026/06/10/crypto-for-advisors-crypto-etfs",
+    "https://www.coindesk.com/policy/2026/06/10/u-s-house-bill-would-erect-crypto-theft-task-force-across-law-enforcement-agencies",
+    "https://www.theblock.co/post/404433/doj-charges-two-389-million-audia6-crypto-laundering-case?utm_source=rss&amp;utm_medium=rss",
+    "https://www.coindesk.com/tech/2026/06/10/spacex-stock-is-coming-to-solana-on-the-same-day-it-lists-on-nasdaq",
+    "https://www.coindesk.com/business/2026/06/11/canton-network-developer-raises-usd355-million-to-bring-wall-street-onchain"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/398938/bitcoin-leads-1-2b-weekly-haul-for-global-crypto-funds-as-institutional-demand-builds-coinshares?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/398933/luxor-microbt-100-million-rig-deal?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/04/27/global-interest-rates-robinhood-galaxy-earnings-crypto-week-ahead",
@@ -10771,6 +10850,7 @@
     "https://www.coindesk.com/business/2026/06/09/a16z-paradigm-lead-usd175-million-bet-to-move-global-credit-markets-onchain|https://cointelegraph.com/news/privacy-starkware-sui-move-compliance-confidential-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/coindesk-indices/2026/06/09/coindesk-20-performance-update-aave-drops-2-6-as-all-constituents-trade-lower",
     "https://www.theblock.co/post/404194/washington-man-gets-five-years?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/404187/house-crypto-tax-hearing-legislation?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/370599/crypto-tax-bills-pushback-house-committee",
     "https://decrypt.co/370645/paradigm-hyperliquid-policy-center-push-back-on-genius-act-stablecoin-aml-rule|https://decrypt.co/370648/fold-shares-jump-bitcoin-fintech-sells-45-million-btc-wipes-out-debt|https://cointelegraph.com/news/pyth-24-7-pricing-indices-tokenized-stocks-commodities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/post/404352/tom-lees-bitmine-buys-41-million-worth-eth?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/markets/xrp-transaction-demand-drops-915-as-063-support-zone-draws-focus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/cftc-prediction-market-rules-sports-election-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://www.theblock.co/post/404352/tom-lees-bitmine-buys-41-million-worth-eth?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/markets/xrp-transaction-demand-drops-915-as-063-support-zone-draws-focus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/cftc-prediction-market-rules-sports-election-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/post/404439/community-bank-group-ad-campaign-targeting-clarity-act-stablecoin-reward-language?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/370753/wall-street-giants-sovereign-wealth-fund-canton-creator-355m-round|https://decrypt.co/370752/banks-say-stablecoin-rules-should-cover-secondary-markets"
   ]
 }
