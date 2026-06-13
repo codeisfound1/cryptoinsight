@@ -1,6 +1,85 @@
 {
   "posts": [
     {
+      "id": "1781322398581",
+      "title": "Điểm tin crypto 13/06/2026 lúc 10:46: Thị trường tiền điện tử biến động mạnh",
+      "summary": "Thị trường tiền điện tử đang trải qua một giai đoạn biến động mạnh với nhiều sự kiện quan trọng. Bitcoin đang trên đà hồi phục, trong khi các sự kiện khác như IPO của SpaceX và sự phát triển của AI đang thu hút sự chú ý.",
+      "content": "<p>Thị trường tiền điện tử đang trải qua một giai đoạn biến động mạnh với nhiều sự kiện quan trọng. Từ việc Anthropic ngừng truy cập vào các mô hình AI của mình đến việc các sàn giao dịch tiền điện tử hủy bỏ phân bổ IPO của SpaceX, mỗi sự kiện đều có tác động đến thị trường.</p><h2>1. Anthropic ngừng truy cập vào các mô hình AI</h2><p>Anthropic đã ngừng truy cập vào các mô hình AI của mình, bao gồm Fable 5 và Mythos 5, do chỉ thị của chính phủ Mỹ về vấn đề an ninh quốc gia. Điều này đã gây ra sự quan ngại về việc sử dụng AI trong lĩnh vực tiền điện tử.</p><h2>2. Bitcoin trên đà hồi phục</h2><p>Bitcoin đang trên đà hồi phục sau một giai đoạn giảm giá mạnh. Các chỉ số kỹ thuật cho thấy Bitcoin có thể đạt mức $70.000 trong thời gian tới.</p><h2>3. IPO của SpaceX và tác động đến thị trường tiền điện tử</h2><p>IPO của SpaceX đã gây ra sự quan tâm lớn trong thị trường tiền điện tử. Tuy nhiên, các sàn giao dịch tiền điện tử đã hủy bỏ phân bổ IPO của SpaceX, khiến nhiều nhà đầu tư thất vọng.</p><h2>4. Sự phát triển của AI trong lĩnh vực tiền điện tử</h2><p>Sự phát triển của AI trong lĩnh vực tiền điện tử đang trở thành một xu hướng quan trọng. Các công ty như Moonshot AI đang đưa AI vào các ứng dụng thực tế, giúp cải thiện hiệu suất và giảm thiểu rủi ro.</p><h2>Nhận định thị trường</h2><p>Thị trường tiền điện tử đang biến động mạnh do nhiều yếu tố, bao gồm sự phát triển của AI, IPO của SpaceX và các sự kiện khác. Nhà đầu tư cần phải cẩn thận và theo dõi thị trường chặt chẽ để đưa ra quyết định đầu tư sáng suốt.</p><h2>Khuyến nghị nhà đầu tư</h2><p>Nhà đầu tư nên theo dõi thị trường chặt chẽ và đưa ra quyết định đầu tư dựa trên phân tích kỹ thuật và cơ bản. Đồng thời, nên đa dạng hóa danh mục đầu tư để giảm thiểu rủi ro.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] Anthropic suspends access to Fable 5, Mythos 5, citing US directive — <em>Cointelegraph</em></li>\n<li>[2] Major crypto exchanges cancel SpaceX IPO allocations, promising refunds — <em>Cointelegraph</em></li>\n<li>[3] Bitcoin’s ‘calm top’ challenges most market bottom estimates: Research — <em>Cointelegraph</em></li>\n<li>[4] Bitcoin rally to $70K builds as orderbook structure highlights traders’ confidence — <em>Cointelegraph</em></li>\n<li>[5] CFTC sues New Mexico in latest bid to assert authority over sports betting markets — <em>The Block</em></li>\n<li>[6] How Crypto Firms Will Own the Octagon at Trump's White House UFC Event — <em>Decrypt</em></li>\n<li>[7] AI Agents Still Can't Stop Prompt Injection Attacks, Researchers Warn — <em>Decrypt</em></li>\n<li>[8] Moonshot AI's Kimi Work Brings 300 AI Agents to Your Desktop — <em>Decrypt</em></li>\n<li>[9] Americans Fear Job Losses Due to AI But Hope for Cancer, Alzheimer’s Cures: Anthropic Survey — <em>Decrypt</em></li>\n<li>[10] Bitcoin hit bottom at $59,000 marking end to the crypto winter, says Standard Chartered analyst — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "thị trường",
+        "điểm tin",
+        "ai"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1781322398/cryptohieuqua/posts/diem-tin-crypto-13062026-luc-1046-thi-truong-tien-dien-tu-bien-dong-manh.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1781322398/cryptohieuqua/posts/diem-tin-crypto-13062026-luc-1046-thi-truong-tien-dien-tu-bien-dong-manh.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-13062026-luc-1046-thi-truong-tien-dien-tu-bien-dong-manh",
+        "width": 528,
+        "height": 352,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 13/06/2026 lúc 10:46: Thị trường tiền điện tử biến động mạnh"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/anthropic-suspends-access-to-fable-mythos-citing-us-directive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / The Block / Decrypt / CoinDesk",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Anthropic suspends access to Fable 5, Mythos 5, citing US directive",
+          "url": "https://cointelegraph.com/news/anthropic-suspends-access-to-fable-mythos-citing-us-directive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Major crypto exchanges cancel SpaceX IPO allocations, promising refunds",
+          "url": "https://cointelegraph.com/news/major-crypto-exchanges-cancel-spacex-ipo-allocations-promising-refunds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin’s ‘calm top’ challenges most market bottom estimates: Research",
+          "url": "https://cointelegraph.com/markets/bitcoins-calm-top-challenges-old-bottom-targets-what-traders-need-to-know?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin rally to $70K builds as orderbook structure highlights traders’ confidence",
+          "url": "https://cointelegraph.com/markets/bitcoin-data-points-to-a-relief-rally-as-order-book-demand-targets-70k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "CFTC sues New Mexico in latest bid to assert authority over sports betting markets",
+          "url": "https://www.theblock.co/post/404674/cftc-sues-new-mexico-latest-bid-assert-authority-sports-betting-markets?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "How Crypto Firms Will Own the Octagon at Trump's White House UFC Event",
+          "url": "https://decrypt.co/370974/how-crypto-firms-own-octagon-trump-white-house-ufc-event",
+          "source": "Decrypt"
+        },
+        {
+          "title": "AI Agents Still Can't Stop Prompt Injection Attacks, Researchers Warn",
+          "url": "https://decrypt.co/370972/ai-agents-prompt-injection-attacks-research",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Moonshot AI's Kimi Work Brings 300 AI Agents to Your Desktop",
+          "url": "https://decrypt.co/370954/moonshot-ai-kimi-work-300-agents-desktop",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Americans Fear Job Losses Due to AI But Hope for Cancer, Alzheimer’s Cures: Anthropic Survey",
+          "url": "https://decrypt.co/370951/americans-fear-job-losses-ai-hope-cancer-alzheimers-cures-anthropic",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitcoin hit bottom at $59,000 marking end to the crypto winter, says Standard Chartered analyst",
+          "url": "https://www.coindesk.com/markets/2026/06/12/bitcoin-hit-bottom-at-usd59-000-marking-end-to-the-crypto-winter-says-standard-chartered-analyst",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-06-13T03:46:38.581Z",
+      "slug": "diem-tin-crypto-13062026-luc-1046-thi-truong-tien-dien-tu-bien-dong-manh"
+    },
+    {
       "id": "1781274572890",
       "title": "Điểm tin crypto 12/06/2026 lúc 21:29: Sam Bankman-Fried mất kháng cáo, thị trường tiền điện tử biến động",
       "summary": "Sam Bankman-Fried mất kháng cáo về tội gian lận và âm mưu, trong khi thị trường tiền điện tử chứng kiến sự biến động với việc giảm giá của Ethereum và tăng trưởng của các token khác. Thị trường cũng chứng kiến sự phát triển của các sản phẩm tài chính mới và sự quan tâm ngày càng tăng đối với các giải pháp tài chính phi tập trung.",
@@ -10386,16 +10465,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/tech/2026/05/17/defi-s-new-front-verifiedx-bets-bitcoin-s-next-chapter-is-programmable-private",
-    "https://www.coindesk.com/business/2026/05/17/japan-s-sbi-securities-rakuten-securities-plan-to-offer-crypto-investment-trusts",
-    "https://cointelegraph.com/news/sbi-rakuten-nomura-line-up-to-launch-crypto-investment-trusts-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/markets/bitcoin-slides-below-79k-macro-fears-can-fixed-income-outflows-save-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/italys-largest-bank-more-than-doubles-crypto-holdings-to-235m-in-q1-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/policy/2026/05/24/a-russian-stablecoin-built-to-dodge-sanctions-says-it-can-survive-even-if-they-re-lifted",
-    "https://cointelegraph.com/news/strategy-mstr-michael-saylor-bitcoin-sell-statement-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/post/401583/bitcoin-drops-below-77000?utm_source=rss&amp;utm_medium=rss",
-    "https://www.theblock.co/post/401570/spacex-ipo-pre-ipo-perps-crypto?utm_source=rss&amp;utm_medium=rss",
-    "https://www.theblock.co/post/401571/verus-ethereum-bridge-exploit?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/grayscale-vaneck-advance-bnb-etf-filings-for-potential-sec-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/367114/kucoin-australias-evolution-showcases-regulatory-focus-mastercard-launch",
     "https://cointelegraph.com/news/bernstein-say-figures-q1-shows-uniqueness-of-blockchain-marketplaces?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -10885,7 +10954,17 @@
     "https://cointelegraph.com/news/kucoin-yet-pay-seychelles-court-order-2m-token-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/404602/ethena-labs-to-allocate-250-million-to-securitizes-tokenized-aaa-clo-fund-as-it-deploys-on-solana?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/404584/bitcoin-etfs-2-trillion-usd-cumulative-trading-volume?utm_source=rss&amp;utm_medium=rss",
-    "https://decrypt.co/370891/metaplanet-acquires-japanese-securities-firm-for-13m-to-launch-bitcoin-yield-products"
+    "https://decrypt.co/370891/metaplanet-acquires-japanese-securities-firm-for-13m-to-launch-bitcoin-yield-products",
+    "https://cointelegraph.com/news/anthropic-suspends-access-to-fable-mythos-citing-us-directive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/major-crypto-exchanges-cancel-spacex-ipo-allocations-promising-refunds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/markets/bitcoins-calm-top-challenges-old-bottom-targets-what-traders-need-to-know?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/markets/bitcoin-data-points-to-a-relief-rally-as-order-book-demand-targets-70k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/post/404674/cftc-sues-new-mexico-latest-bid-assert-authority-sports-betting-markets?utm_source=rss&amp;utm_medium=rss",
+    "https://decrypt.co/370974/how-crypto-firms-own-octagon-trump-white-house-ufc-event",
+    "https://decrypt.co/370972/ai-agents-prompt-injection-attacks-research",
+    "https://decrypt.co/370954/moonshot-ai-kimi-work-300-agents-desktop",
+    "https://decrypt.co/370951/americans-fear-job-losses-ai-hope-cancer-alzheimers-cures-anthropic",
+    "https://www.coindesk.com/markets/2026/06/12/bitcoin-hit-bottom-at-usd59-000-marking-end-to-the-crypto-winter-says-standard-chartered-analyst"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/398938/bitcoin-leads-1-2b-weekly-haul-for-global-crypto-funds-as-institutional-demand-builds-coinshares?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/398933/luxor-microbt-100-million-rig-deal?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/04/27/global-interest-rates-robinhood-galaxy-earnings-crypto-week-ahead",
@@ -11013,6 +11092,7 @@
     "https://www.theblock.co/post/404352/tom-lees-bitmine-buys-41-million-worth-eth?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/markets/xrp-transaction-demand-drops-915-as-063-support-zone-draws-focus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/cftc-prediction-market-rules-sports-election-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/404439/community-bank-group-ad-campaign-targeting-clarity-act-stablecoin-reward-language?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/370753/wall-street-giants-sovereign-wealth-fund-canton-creator-355m-round|https://decrypt.co/370752/banks-say-stablecoin-rules-should-cover-secondary-markets",
     "https://www.theblock.co/post/404469/anarchistic-neobanks-bitcoins-next-frontier-says-blockrise-ceo?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/markets/big-tech-crash-oil-volatility-rattles-markets-will-bitcoin-hold-above-60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/370854/openai-price-war-anthropic-deepseek-china",
-    "https://www.coindesk.com/policy/2026/06/12/ftx-s-sam-bankman-fried-loses-appeal-of-criminal-conviction-on-fraud-conspiracy-charges|https://www.coindesk.com/markets/2026/06/12/xrp-sentiment-falls-to-an-eight-month-low-and-that-has-been-a-buy-signal-before|https://www.theblock.co/post/404637/appeals-court-rejects-sam-bankman-frieds-bid-for-new-trial-in-ftx-fraud-case?utm_source=rss&amp;utm_medium=rss"
+    "https://www.coindesk.com/policy/2026/06/12/ftx-s-sam-bankman-fried-loses-appeal-of-criminal-conviction-on-fraud-conspiracy-charges|https://www.coindesk.com/markets/2026/06/12/xrp-sentiment-falls-to-an-eight-month-low-and-that-has-been-a-buy-signal-before|https://www.theblock.co/post/404637/appeals-court-rejects-sam-bankman-frieds-bid-for-new-trial-in-ftx-fraud-case?utm_source=rss&amp;utm_medium=rss",
+    "https://cointelegraph.com/news/anthropic-suspends-access-to-fable-mythos-citing-us-directive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/major-crypto-exchanges-cancel-spacex-ipo-allocations-promising-refunds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/markets/bitcoins-calm-top-challenges-old-bottom-targets-what-traders-need-to-know?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
