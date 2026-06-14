@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1781443271973",
+      "title": "Điểm tin crypto 14/06/2026 lúc 20:21: Thị trường tiền điện tử biến động mạnh",
+      "summary": "Thị trường tiền điện tử đang trải qua một giai đoạn biến động mạnh với sự xuất hiện của nhiều sự kiện quan trọng. Giá Bitcoin đang tăng trưởng mạnh, trong khi các token khác cũng đang có những bước tiến đáng kể. Ngoài ra, các sự kiện về an ninh mạng và quy định cũng đang thu hút sự chú ý của cộng đồng tiền điện tử.",
+      "content": "<p>Thị trường tiền điện tử đang trải qua một giai đoạn biến động mạnh với sự xuất hiện của nhiều sự kiện quan trọng. Giá Bitcoin đang tăng trưởng mạnh, trong khi các token khác cũng đang có những bước tiến đáng kể.</p><h2>1. Giá Bitcoin tăng trưởng mạnh</h2><p>Giá Bitcoin đang tăng trưởng mạnh, với mức giá gần đạt 65.000 USD. Sự tăng trưởng này được cho là do sự xuất hiện của nhiều yếu tố tích cực, bao gồm cả sự quan tâm của các nhà đầu tư institution.</p><h2>2. Tokenized Pokémon card sales tăng trưởng mạnh</h2><p>Tokenized Pokémon card sales đang tăng trưởng mạnh, với mức tăng trưởng lên đến 100% trong vòng một năm qua. Sự tăng trưởng này được cho là do sự xuất hiện của nhiều nền tảng mới cho phép người dùng mua và bán các thẻ Pokémon một cách dễ dàng.</p><h2>3. Sự kiện về an ninh mạng</h2><p>Humanity Protocol’s $36M hack đang là một trong những sự kiện về an ninh mạng đang thu hút sự chú ý của cộng đồng tiền điện tử. Sự kiện này cho thấy sự cần thiết của việc tăng cường an ninh mạng trong lĩnh vực tiền điện tử.</p><h2>4. Quy định về tiền điện tử</h2><p>Các quy định về tiền điện tử đang trở nên nghiêm ngặt hơn, với sự xuất hiện của nhiều quy định mới về việc sử dụng và giao dịch tiền điện tử. Điều này đang làm cho thị trường tiền điện tử trở nên an toàn hơn cho các nhà đầu tư.</p><h2>Nhận định thị trường</h2><p>Thị trường tiền điện tử đang trải qua một giai đoạn biến động mạnh, với sự xuất hiện của nhiều sự kiện quan trọng. Tuy nhiên, với sự quan tâm của các nhà đầu tư institution và sự tăng trưởng của các token khác, thị trường tiền điện tử vẫn có tiềm năng phát triển mạnh trong tương lai.</p><h2>Khuyến nghị nhà đầu tư</h2><p>Để đầu tư vào thị trường tiền điện tử một cách an toàn, các nhà đầu tư nên tìm hiểu kỹ về các quy định và rủi ro liên quan. Ngoài ra, việc đa dạng hóa danh mục đầu tư cũng là một cách để giảm thiểu rủi ro.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] Pokémon Card Sales Are Surging on Crypto Platforms—Just Don't Call It Gambling — <em>Decrypt</em></li>\n<li>[2] Wall Street and crypto are crashing into each other as tokenized treasury markets hit $14.6 billion — <em>CoinDesk</em></li>\n<li>[3] Humanity Protocol’s $36M hack tied to suspected North Korean hackers: Quantstamp — <em>Cointelegraph</em></li>\n<li>[4] Bitcoin nears $65K as Trump says Hormuz will 'open to all' in Sunday Iran peace deal — <em>Cointelegraph</em></li>\n<li>[5] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[6] Trump says Iran peace deal to be signed Sunday, contradicting Tehran — <em>Cointelegraph</em></li>\n<li>[7] Amazon warning triggered US crackdown on Anthropic AI models: Reports — <em>Cointelegraph</em></li>\n<li>[8] Venice and Morpheus tokens climb as US ban on Anthropic’s Fable 5 fuels ‘permissionless AI’ pitch — <em>The Block</em></li>\n<li>[9] US Government Orders Anthropic to Pull Claude Fable, Mythos AI Models — <em>Decrypt</em></li>\n<li>[10] Coinbase quantum report flags exchange cold wallets among millions of bitcoin exposed by address reuse — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "thị trường",
+        "điểm tin",
+        "an ninh mạng",
+        "quy định"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1781443271/cryptohieuqua/posts/diem-tin-crypto-14062026-luc-2021-thi-truong-tien-dien-tu-bien-dong-manh.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1781443271/cryptohieuqua/posts/diem-tin-crypto-14062026-luc-2021-thi-truong-tien-dien-tu-bien-dong-manh.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-14062026-luc-2021-thi-truong-tien-dien-tu-bien-dong-manh",
+        "width": 1280,
+        "height": 720,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 14/06/2026 lúc 20:21: Thị trường tiền điện tử biến động mạnh"
+      },
+      "sourceUrl": "https://decrypt.co/370978/pokemon-cards-surging-crypto-platforms-gambling",
+      "sourceTitle": "Decrypt / CoinDesk / Cointelegraph / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Pokémon Card Sales Are Surging on Crypto Platforms—Just Don't Call It Gambling",
+          "url": "https://decrypt.co/370978/pokemon-cards-surging-crypto-platforms-gambling",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Wall Street and crypto are crashing into each other as tokenized treasury markets hit $14.6 billion",
+          "url": "https://www.coindesk.com/markets/2026/06/11/wall-street-and-crypto-are-crashing-into-each-other-as-tokenized-treasury-markets-hit-usd14-6-billion",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Humanity Protocol’s $36M hack tied to suspected North Korean hackers: Quantstamp",
+          "url": "https://cointelegraph.com/news/humanity-protocol-hack-linked-north-korean-actors-quantstamp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin nears $65K as Trump says Hormuz will 'open to all' in Sunday Iran peace deal",
+          "url": "https://cointelegraph.com/markets/bitcoin-nears-65k-as-trump-says-hormuz-will-open-to-all-in-sunday-iran-peace-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Trump says Iran peace deal to be signed Sunday, contradicting Tehran",
+          "url": "https://cointelegraph.com/news/trump-says-iran-peace-deal-to-be-signed-sunday-contradicting-tehran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Amazon warning triggered US crackdown on Anthropic AI models: Reports",
+          "url": "https://cointelegraph.com/news/amazon-warning-triggered-us-crackdown-on-anthropic-ai-models-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Venice and Morpheus tokens climb as US ban on Anthropic’s Fable 5 fuels ‘permissionless AI’ pitch",
+          "url": "https://www.theblock.co/post/404690/venice-and-morpheus-tokens-climb-as-us-ban-on-anthropics-fable-5-fuels-permissionless-ai-pitch?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "US Government Orders Anthropic to Pull Claude Fable, Mythos AI Models",
+          "url": "https://decrypt.co/371027/us-government-orders-anthropic-pull-claude-fable-mythos-ai-models",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Coinbase quantum report flags exchange cold wallets among millions of bitcoin exposed by address reuse",
+          "url": "https://www.theblock.co/post/404685/coinbase-quantum-report-flags-exchange-cold-wallets-among-millions-of-bitcoin-exposed-by-address-reuse?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-06-14T13:21:11.973Z",
+      "slug": "diem-tin-crypto-14062026-luc-2021-thi-truong-tien-dien-tu-bien-dong-manh"
+    },
+    {
       "id": "1781410015018",
       "title": "Điểm tin crypto 14/06/2026 lúc 11:06: Thị trường tiền điện tử biến động mạnh",
       "summary": "Thị trường tiền điện tử đang biến động mạnh với sự kiện Anthropic bị chính phủ Mỹ yêu cầu gỡ bỏ các mô hình AI, trong khi Bitcoin tăng giá lên trên 64.000 USD. Các sự kiện này đang tác động mạnh đến thị trường và nhà đầu tư.",
@@ -10625,11 +10706,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/interest-rates-fed-chair-kevin-warsh-sworn-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/galaxy-secures-new-york-bitlicense-institutional-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/policy/2026/05/18/sec-to-propose-tokenized-stock-framework-as-wall-street-efforts-deepen-bloomberg",
-    "https://www.theblock.co/post/401709/ethereum-onchain-conviction-grows-staked-eth-rises-price-underperforms?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/markets/bitcoin-lost-its-hold-on-80k-but-three-events-may-send-it-back-sooner-than-markets-expect?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/368287/lawyers-apologize-fake-claude-generated-quotes-trump-layoffs-case",
     "https://www.theblock.co/post/401761/ohio-man-sentenced-to-9-years-for-running-10-million-crypto-ponzi-scheme?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/news-analysis/2026/05/18/amid-the-clarity-act-fanfare-is-some-worry-over-how-a-last-minute-deal-may-punch-defi",
@@ -11124,7 +11200,12 @@
     "https://www.coindesk.com/opinion/2026/06/13/stablecoins-were-meant-to-disrupt-finance-instead-they-became-idle-cash",
     "https://www.coindesk.com/markets/2026/06/13/bitcoin-rises-above-usd64-000-after-pakistan-prime-minister-says-iran-peace-deal-is-near",
     "https://decrypt.co/371014/google-sues-chinese-crime-group-gemini-ai-phishing-scams",
-    "https://www.coindesk.com/business/2026/06/13/wall-street-is-moving-past-crypto-pilots-and-deeper-into-ethereum-says-etherealize-founder"
+    "https://www.coindesk.com/business/2026/06/13/wall-street-is-moving-past-crypto-pilots-and-deeper-into-ethereum-says-etherealize-founder",
+    "https://decrypt.co/370978/pokemon-cards-surging-crypto-platforms-gambling",
+    "https://www.coindesk.com/markets/2026/06/11/wall-street-and-crypto-are-crashing-into-each-other-as-tokenized-treasury-markets-hit-usd14-6-billion",
+    "https://cointelegraph.com/news/humanity-protocol-hack-linked-north-korean-actors-quantstamp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/markets/bitcoin-nears-65k-as-trump-says-hormuz-will-open-to-all-in-sunday-iran-peace-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/trump-says-iran-peace-deal-to-be-signed-sunday-contradicting-tehran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/398938/bitcoin-leads-1-2b-weekly-haul-for-global-crypto-funds-as-institutional-demand-builds-coinshares?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/398933/luxor-microbt-100-million-rig-deal?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/04/27/global-interest-rates-robinhood-galaxy-earnings-crypto-week-ahead",
@@ -11255,6 +11336,7 @@
     "https://www.coindesk.com/policy/2026/06/12/ftx-s-sam-bankman-fried-loses-appeal-of-criminal-conviction-on-fraud-conspiracy-charges|https://www.coindesk.com/markets/2026/06/12/xrp-sentiment-falls-to-an-eight-month-low-and-that-has-been-a-buy-signal-before|https://www.theblock.co/post/404637/appeals-court-rejects-sam-bankman-frieds-bid-for-new-trial-in-ftx-fraud-case?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/anthropic-suspends-access-to-fable-mythos-citing-us-directive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/major-crypto-exchanges-cancel-spacex-ipo-allocations-promising-refunds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/markets/bitcoins-calm-top-challenges-old-bottom-targets-what-traders-need-to-know?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/06/13/saylor-to-musk-thanks-to-you-25-of-mag8-firms-now-hold-bitcoin|https://decrypt.co/370988/ai-agent-rekts-dev-bogus-scan-crypto-donations|https://www.coindesk.com/business/2026/06/09/crypto-should-adopt-the-best-of-centralization-says-lmax-ceo",
-    "https://cointelegraph.com/news/amazon-warning-triggered-us-crackdown-on-anthropic-ai-models-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/404690/venice-and-morpheus-tokens-climb-as-us-ban-on-anthropics-fable-5-fuels-permissionless-ai-pitch?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/371027/us-government-orders-anthropic-pull-claude-fable-mythos-ai-models"
+    "https://cointelegraph.com/news/amazon-warning-triggered-us-crackdown-on-anthropic-ai-models-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/404690/venice-and-morpheus-tokens-climb-as-us-ban-on-anthropics-fable-5-fuels-permissionless-ai-pitch?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/371027/us-government-orders-anthropic-pull-claude-fable-mythos-ai-models",
+    "https://decrypt.co/370978/pokemon-cards-surging-crypto-platforms-gambling|https://www.coindesk.com/markets/2026/06/11/wall-street-and-crypto-are-crashing-into-each-other-as-tokenized-treasury-markets-hit-usd14-6-billion|https://cointelegraph.com/news/humanity-protocol-hack-linked-north-korean-actors-quantstamp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
