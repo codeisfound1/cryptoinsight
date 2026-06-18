@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://cryptohieu.com/</loc>
-    <lastmod>2026-06-17</lastmod>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://cryptohieu.com/#diem-tin-crypto-18062026-luc-1100-thi-truong-tien-dien-tu-doi-mat-voi-thach-thuc</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1781755227/cryptohieuqua/posts/diem-tin-crypto-18062026-luc-1100-thi-truong-tien-dien-tu-doi-mat-voi-thach-thuc.jpg</image:loc>
+      <image:title>Điểm tin crypto 18/06/2026 lúc 11:00: Thị trường tiền điện tử đối mặt với thách thức pháp lý và biến động giá</image:title>
+      <image:caption>Điểm tin crypto 18/06/2026 lúc 11:00: Thị trường tiền điện tử đối mặt với thách thức pháp lý và biến động giá</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://cryptohieu.com/#diem-tin-crypto-17062026-luc-2142-thi-truong-bien-dong-voi-bitcoin-va-cac-su-kie</loc>
