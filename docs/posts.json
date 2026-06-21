@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1782015302465",
+      "title": "Điểm tin crypto 21/06/2026 lúc 11:14: Thị trường tiền điện tử biến động mạnh",
+      "summary": "Thị trường tiền điện tử đang biến động mạnh với sự kiện Jaredfromsubway.eth bị khai thác 7,5 triệu đô la, Axelar bridge bị rút 4,67 triệu đô la và Bitcoin giảm gần 50% so với giá đỉnh. Các sự kiện này cho thấy sự không ổn định của thị trường và nhu cầu về bảo mật cao hơn.",
+      "content": "<p>Thị trường tiền điện tử đang trải qua một giai đoạn biến động mạnh, với nhiều sự kiện quan trọng xảy ra trong những ngày gần đây. Từ việc Jaredfromsubway.eth bị khai thác 7,5 triệu đô la đến Axelar bridge bị rút 4,67 triệu đô la, các sự kiện này cho thấy sự không ổn định của thị trường và nhu cầu về bảo mật cao hơn.</p><h2>1. Jaredfromsubway.eth bị khai thác 7,5 triệu đô la</h2><p>Jaredfromsubway.eth, một bot nổi tiếng trên Ethereum, đã bị khai thác 7,5 triệu đô la. Sự kiện này cho thấy sự dễ bị tổn thương của các bot trên mạng Ethereum và nhu cầu về bảo mật cao hơn.</p><h2>2. Axelar bridge bị rút 4,67 triệu đô la</h2><p>Axelar bridge, một cầu nối giữa các blockchain, đã bị rút 4,67 triệu đô la. Sự kiện này cho thấy sự không ổn định của các cầu nối và nhu cầu về bảo mật cao hơn.</p><h2>3. Bitcoin giảm gần 50% so với giá đỉnh</h2><p>Bitcoin, đồng tiền điện tử hàng đầu, đã giảm gần 50% so với giá đỉnh. Sự kiện này cho thấy sự không ổn định của thị trường và nhu cầu về đầu tư dài hạn.</p><h2>Nhận định thị trường</h2><p>Thị trường tiền điện tử đang biến động mạnh, với nhiều sự kiện quan trọng xảy ra trong những ngày gần đây. Tuy nhiên, các sự kiện này cũng cho thấy sự không ổn định của thị trường và nhu cầu về bảo mật cao hơn. Nhà đầu tư cần phải cẩn thận và đầu tư dài hạn để tránh rủi ro.</p><h2>Khuyến nghị nhà đầu tư</h2><p>Nhà đầu tư cần phải cẩn thận và đầu tư dài hạn để tránh rủi ro. Ngoài ra, nhà đầu tư cũng cần phải tìm hiểu về các đồng tiền điện tử và các công nghệ liên quan để có thể đưa ra quyết định đầu tư sáng suốt.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] Notorious ‘sandwich attack’ bot Jaredfromsubway.eth exploited for $7.5M — <em>Cointelegraph</em></li>\n<li>[2] Secret Network’s Axelar bridge drained for $4.67 million in infinite-mint exploit that went unnoticed for seven days — <em>The Block</em></li>\n<li>[3] Bitcoin rotations into altcoins collapses: Have altseasons &apos;disappeared&apos;? — <em>Cointelegraph</em></li>\n<li>[4] Charles Schwab is working with Cboe to launch S&P 500 ‘yes-or-no’ binary options contracts: WSJ — <em>The Block</em></li>\n<li>[5] OpenRouter's Fusion Promises Claude Fable-Level AI for Cheap—Right as Fable 5 Goes Dark — <em>Decrypt</em></li>\n<li>[6] Andre Cronje, two others resign from Sonic Labs board as S token trades 97% below its peak — <em>The Block</em></li>\n<li>[7] AI is making crypto security cheaper, faster and harder to ignore — <em>CoinDesk</em></li>\n<li>[8] Bitcoin Network Activity Is Rising as BTC Falls Nearly 50% Below Peak Price: CryptoQuant — <em>Decrypt</em></li>\n<li>[9] Crypto industry looks to stablecoins and DeFi revisions in MiCA 2.0 — <em>Cointelegraph</em></li>\n<li>[10] How STRC lost its par: The timeline behind Strategy's preferred-stock meltdown — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "thị trường",
+        "điểm tin",
+        "bảo mật",
+        "altcoin"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1782015301/cryptohieuqua/posts/diem-tin-crypto-21062026-luc-1114-thi-truong-tien-dien-tu-bien-dong-manh.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1782015301/cryptohieuqua/posts/diem-tin-crypto-21062026-luc-1114-thi-truong-tien-dien-tu-bien-dong-manh.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-21062026-luc-1114-thi-truong-tien-dien-tu-bien-dong-manh",
+        "width": 1450,
+        "height": 966,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 21/06/2026 lúc 11:14: Thị trường tiền điện tử biến động mạnh"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/notorious-sandwich-attack-bot-jaredfromsubwayeth-exploited-for-75m?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+      "sourceTitle": "Cointelegraph / The Block / Decrypt / CoinDesk",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Notorious ‘sandwich attack’ bot Jaredfromsubway.eth exploited for $7.5M",
+          "url": "https://cointelegraph.com/news/notorious-sandwich-attack-bot-jaredfromsubwayeth-exploited-for-75m?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Secret Network’s Axelar bridge drained for $4.67 million in infinite-mint exploit that went unnoticed for seven days",
+          "url": "https://www.theblock.co/post/405459/secret-networks-axelar-bridge-drained-for-4-67-million-in-infinite-mint-exploit-that-went-unnoticed-for-seven-days?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin rotations into altcoins collapses: Have altseasons &apos;disappeared&apos;?",
+          "url": "https://cointelegraph.com/markets/bitcoin-rotations-into-altcoins-collapses-have-altseasons-disappeared?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Charles Schwab is working with Cboe to launch S&P 500 ‘yes-or-no’ binary options contracts: WSJ",
+          "url": "https://www.theblock.co/post/405454/charles-schwab-is-working-with-cboe-to-launch-sp-500-yes-or-no-binary-options-contracts-wsj?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "OpenRouter's Fusion Promises Claude Fable-Level AI for Cheap—Right as Fable 5 Goes Dark",
+          "url": "https://decrypt.co/371711/openrouter-fusion-claude-fable-level-ai-cheap",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Andre Cronje, two others resign from Sonic Labs board as S token trades 97% below its peak",
+          "url": "https://www.theblock.co/post/405450/andre-cronje-two-others-resign-from-sonic-labs-board-as-s-token-trades-97-below-its-peak?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "AI is making crypto security cheaper, faster and harder to ignore",
+          "url": "https://www.coindesk.com/tech/2026/06/20/ai-is-making-crypto-security-cheaper-faster-and-harder-to-ignore",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin Network Activity Is Rising as BTC Falls Nearly 50% Below Peak Price: CryptoQuant",
+          "url": "https://decrypt.co/371702/bitcoin-network-activity-rising-btc-falls-50-percent-below-peak-price",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Crypto industry looks to stablecoins and DeFi revisions in MiCA 2.0",
+          "url": "https://cointelegraph.com/features/crypto-industry-stablecoins-defi-mica?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "How STRC lost its par: The timeline behind Strategy's preferred-stock meltdown",
+          "url": "https://www.coindesk.com/markets/2026/06/20/how-strc-lost-its-par-the-timeline-behind-strategy-s-preferred-stock-meltdown",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-06-21T04:15:02.465Z",
+      "slug": "diem-tin-crypto-21062026-luc-1114-thi-truong-tien-dien-tu-bien-dong-manh"
+    },
+    {
       "id": "1781961485602",
       "title": "Điểm tin crypto 20/06/2026 lúc 20:18: Thị trường biến động với nhiều sự kiện quan trọng",
       "summary": "Thị trường crypto trải qua nhiều sự kiện quan trọng trong ngày 20/06/2026, bao gồm việc STRC mất giá trị, Pudgy Penguins mở rộng thị trường và các tín hiệu tích cực từ Philippine SEC. Ngoài ra, các sự kiện về tội phạm crypto, dự báo thị trường và các động thái từ các công ty tài chính cũng được chú ý.",
@@ -11670,15 +11751,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/cftc-officials-who-questioned-prediction-markets-were-suspended-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/blockchain-researcher-defends-ethereum-foundation-says-its-exactly-doing-its-job?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/markets/why-is-bitcoin-falling-despite-pro-crypto-kevin-warsh-becoming-fed-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/euro-and-usd-stablecoins-depeg-amid-ongoing-28m-stablr-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/soaring-bond-prices-structural-shift-bitcoin-supercycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/368875/buy-bitcoin-xrp-chatgpt-moonpay",
-    "https://cointelegraph.com/news/buterin-fires-back-ef-critics-neutrality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/post/402442/nyt-investigation-alleges-cftc-purged-staff-who-questioned-trump-tied-crypto-firms?utm_source=rss&amp;utm_medium=rss",
-    "https://www.coindesk.com/business/2026/05/24/coinbase-does-not-fear-competition-from-wall-street-says-exchange-executive",
     "https://decrypt.co/292448/microstrategy-biggest-bitcoin-buys",
     "https://www.coindesk.com/policy/2026/05/24/crypto-and-the-fed-state-of-crypto",
     "https://cointelegraph.com/news/law-firm-fenwick-west-54m-ftx-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -12169,7 +12241,16 @@
     "https://www.coindesk.com/markets/2026/06/20/how-strc-lost-its-par-the-timeline-behind-strategy-s-preferred-stock-meltdown",
     "https://cointelegraph.com/news/pudgy-penguins-expands-retail-footprint-with-target-trading-card-rollout?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
     "https://cointelegraph.com/news/philippine-sec-rwa-tokenization-readiness?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
-    "https://cointelegraph.com/news/crypto-kidnappers-who-robbed-a-minnesota-family-of-8m-plead-guilty?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss"
+    "https://cointelegraph.com/news/crypto-kidnappers-who-robbed-a-minnesota-family-of-8m-plead-guilty?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+    "https://cointelegraph.com/news/notorious-sandwich-attack-bot-jaredfromsubwayeth-exploited-for-75m?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+    "https://www.theblock.co/post/405459/secret-networks-axelar-bridge-drained-for-4-67-million-in-infinite-mint-exploit-that-went-unnoticed-for-seven-days?utm_source=rss&amp;utm_medium=rss",
+    "https://cointelegraph.com/markets/bitcoin-rotations-into-altcoins-collapses-have-altseasons-disappeared?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+    "https://www.theblock.co/post/405454/charles-schwab-is-working-with-cboe-to-launch-sp-500-yes-or-no-binary-options-contracts-wsj?utm_source=rss&amp;utm_medium=rss",
+    "https://decrypt.co/371711/openrouter-fusion-claude-fable-level-ai-cheap",
+    "https://www.theblock.co/post/405450/andre-cronje-two-others-resign-from-sonic-labs-board-as-s-token-trades-97-below-its-peak?utm_source=rss&amp;utm_medium=rss",
+    "https://www.coindesk.com/tech/2026/06/20/ai-is-making-crypto-security-cheaper-faster-and-harder-to-ignore",
+    "https://decrypt.co/371702/bitcoin-network-activity-rising-btc-falls-50-percent-below-peak-price",
+    "https://cointelegraph.com/features/crypto-industry-stablecoins-defi-mica?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/398938/bitcoin-leads-1-2b-weekly-haul-for-global-crypto-funds-as-institutional-demand-builds-coinshares?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/398933/luxor-microbt-100-million-rig-deal?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/04/27/global-interest-rates-robinhood-galaxy-earnings-crypto-week-ahead",
@@ -12313,6 +12394,7 @@
     "https://www.theblock.co/post/405369/kalshi-early-ipo-talks?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/405362/morgan-stanley-eth-sol-etf-amendments?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/cftc-permanently-bans-celsius-mashinsky-from-trading?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://www.theblock.co/post/405429/two-texas-brothers-admit-to-8-million-crypto-robbery-after-holding-family-at-gunpoint-face-up-to-20-years-in-prison?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/kalshi-early-ipo-talks-investment-banks-report?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
     "https://cointelegraph.com/news/s-token-drops-5-as-3-former-execs-resign-from-sonic-labs-board?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://cointelegraph.com/news/charles-schwab-prediction-markets-sp500-wagers?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
-    "https://www.coindesk.com/markets/2026/06/20/how-strc-lost-its-par-the-timeline-behind-strategy-s-preferred-stock-meltdown|https://cointelegraph.com/news/pudgy-penguins-expands-retail-footprint-with-target-trading-card-rollout?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://cointelegraph.com/news/philippine-sec-rwa-tokenization-readiness?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss"
+    "https://www.coindesk.com/markets/2026/06/20/how-strc-lost-its-par-the-timeline-behind-strategy-s-preferred-stock-meltdown|https://cointelegraph.com/news/pudgy-penguins-expands-retail-footprint-with-target-trading-card-rollout?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://cointelegraph.com/news/philippine-sec-rwa-tokenization-readiness?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+    "https://cointelegraph.com/news/notorious-sandwich-attack-bot-jaredfromsubwayeth-exploited-for-75m?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://www.theblock.co/post/405459/secret-networks-axelar-bridge-drained-for-4-67-million-in-infinite-mint-exploit-that-went-unnoticed-for-seven-days?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/markets/bitcoin-rotations-into-altcoins-collapses-have-altseasons-disappeared?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss"
   ]
 }
