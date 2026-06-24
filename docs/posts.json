@@ -1,6 +1,85 @@
 {
   "posts": [
     {
+      "id": "1782309413568",
+      "title": "Điểm tin crypto 24/06/2026 lúc 20:56: Thị trường biến động mạnh",
+      "summary": "Thị trường tiền điện tử đang trải qua một giai đoạn biến động mạnh với sự sụt giảm của Bitcoin, vàng và bạc. Các sự kiện quan trọng như việc Binance tìm kiếm giấy phép tại EU và sự phát triển của DeFi cũng đang thu hút sự chú ý.",
+      "content": "<p>Thị trường tiền điện tử đang trải qua một giai đoạn biến động mạnh với sự sụt giảm của Bitcoin, vàng và bạc. Các sự kiện quan trọng như việc Binance tìm kiếm giấy phép tại EU và sự phát triển của DeFi cũng đang thu hút sự chú ý.</p><h2>1. Sự sụt giảm của Bitcoin, vàng và bạc</h2><p>Sự sụt giảm của Bitcoin, vàng và bạc đang gây ra sự quan ngại cho các nhà đầu tư. Theo CoinDesk, giá Bitcoin có thể giảm xuống mức 55.000 USD trước khi tìm thấy đáy.</p><h2>2. Binance tìm kiếm giấy phép tại EU</h2><p>Binance đang tìm kiếm giấy phép tại EU để tiếp tục hoạt động tại khu vực này. Theo Cointelegraph, công ty đang xem xét các lựa chọn thay thế nếu việc xin giấy phép tại Hy Lạp không thành công.</p><h2>3. Sự phát triển của DeFi</h2><p>DeFi đang trở thành một trong những lĩnh vực phát triển nhanh nhất của thị trường tiền điện tử. Theo CoinDesk, Aave có thể tăng lên mức 3.500 USD vào năm 2030 nhờ sự phát triển của DeFi.</p><h2>4. Các sự kiện khác</h2><p>Các sự kiện khác như việc Kraken-incubated Ink nâng cấp lên Optimism’s OP Enterprise Fully Managed, Black Lake và Nuva Labs tokenize 25 triệu USD trong các khoản vay thế chấp trên Provenance cũng đang thu hút sự chú ý.</p><h2>Nhận định thị trường</h2><p>Thị trường tiền điện tử đang trải qua một giai đoạn biến động mạnh, nhưng vẫn có những cơ hội cho các nhà đầu tư. Sự phát triển của DeFi và các công nghệ mới đang tạo ra những cơ hội mới cho thị trường.</p><h2>Khuyến nghị nhà đầu tư</h2><p>Đối với các nhà đầu tư, việc đa dạng hóa danh mục đầu tư và theo dõi sát sao các sự kiện thị trường là rất quan trọng. Việc đầu tư vào các công ty và dự án có tiềm năng phát triển mạnh cũng là một lựa chọn hợp lý.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] Gold, silver and bitcoin tumble as debasement trade unwinds — <em>CoinDesk</em></li>\n<li>[2] Bitcoin could fall to $55,000 before finding a bottom, 10x Research says — <em>CoinDesk</em></li>\n<li>[3] Kraken-incubated Ink upgrades to Optimism’s OP Enterprise Fully Managed in multi-year infrastructure deal — <em>The Block</em></li>\n<li>[4] CoinDesk 20 performance update: Aave (AAVE) gains 5.9% as index moves higher — <em>CoinDesk</em></li>\n<li>[5] Binance eyes alternative EU licensing route if Greek bid fails: Report — <em>Cointelegraph</em></li>\n<li>[6] Black Lake, Nuva Labs tokenize $25 million in mortgage loans on Provenance in RWA push — <em>The Block</em></li>\n<li>[7] CZ, Binance founder, wants to clear up 'misunderstandings' about who he is — <em>CoinDesk</em></li>\n<li>[8] Aave could soar to $3,500 by 2030 on DeFi revival, says StanChart — <em>CoinDesk</em></li>\n<li>[9] SecondFi traces Cardano wallet exploit to address-level issue — <em>Cointelegraph</em></li>\n<li>[10] Morning Minute: Meta Is Building a Prediction Market — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "thị trường",
+        "điểm tin",
+        "DeFi"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1782309412/cryptohieuqua/posts/diem-tin-crypto-24062026-luc-2056-thi-truong-bien-dong-manh.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1782309412/cryptohieuqua/posts/diem-tin-crypto-24062026-luc-2056-thi-truong-bien-dong-manh.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-24062026-luc-2056-thi-truong-bien-dong-manh",
+        "width": 1325,
+        "height": 1080,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 24/06/2026 lúc 20:56: Thị trường biến động mạnh"
+      },
+      "sourceUrl": "https://www.coindesk.com/markets/2026/06/24/gold-silver-and-bitcoin-tumble-as-debasement-trade-unwinds",
+      "sourceTitle": "CoinDesk / The Block / Cointelegraph / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Gold, silver and bitcoin tumble as debasement trade unwinds",
+          "url": "https://www.coindesk.com/markets/2026/06/24/gold-silver-and-bitcoin-tumble-as-debasement-trade-unwinds",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin could fall to $55,000 before finding a bottom, 10x Research says",
+          "url": "https://www.coindesk.com/markets/2026/06/24/bitcoin-could-fall-to-usd55-000-before-finding-a-bottom-10x-research-says",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Kraken-incubated Ink upgrades to Optimism’s OP Enterprise Fully Managed in multi-year infrastructure deal",
+          "url": "https://www.theblock.co/post/405957/kraken-incubated-ink-upgrades-to-optimism-op-enterprise-fully-managed?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "CoinDesk 20 performance update: Aave (AAVE) gains 5.9% as index moves higher",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/06/24/coindesk-20-performance-update-aave-aave-gains-5-9-as-index-moves-higher",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Binance eyes alternative EU licensing route if Greek bid fails: Report",
+          "url": "https://cointelegraph.com/news/binance-eu-license-greece-mica-setback?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Black Lake, Nuva Labs tokenize $25 million in mortgage loans on Provenance in RWA push",
+          "url": "https://www.theblock.co/post/405963/black-lake-nuva-labs-tokenize-25-million-in-mortgage-loans-on-provenance-in-rwa-push?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "CZ, Binance founder, wants to clear up 'misunderstandings' about who he is",
+          "url": "https://www.coindesk.com/policy/2026/06/23/cz-binance-founder-wants-to-clear-up-misunderstandings-about-who-he-is",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Aave could soar to $3,500 by 2030 on DeFi revival, says StanChart",
+          "url": "https://www.coindesk.com/markets/2026/06/24/aave-could-soar-to-usd3-500-by-2030-on-defi-revival-says-stanchart",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "SecondFi traces Cardano wallet exploit to address-level issue",
+          "url": "https://cointelegraph.com/news/cardano-wallet-secondfi-flaw-16-million-ada-exploit?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Morning Minute: Meta Is Building a Prediction Market",
+          "url": "https://decrypt.co/371953/morning-minute-meta-is-building-a-prediction-market",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-06-24T13:56:53.568Z",
+      "slug": "diem-tin-crypto-24062026-luc-2056-thi-truong-bien-dong-manh"
+    },
+    {
       "id": "1782272198547",
       "title": "Điểm tin crypto 24/06/2026 lúc 10:36: Thị trường biến động với các sự kiện chính trị và công nghệ",
       "summary": "Thị trường crypto đang trải qua các biến động với sự kiện Adrian Boafo thắng cử tại Maryland, StarkWare giới thiệu 'Private KYC', và CFTC kiện Kentucky. Ngoài ra, Ethereum đối mặt với 'thuế' staking và AI chipmaker Cerebras giảm 11% sau báo cáo thu nhập công khai đầu tiên.",
@@ -12234,16 +12313,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.theblock.co/post/402729/robinhood-ai-powered-crypto-trading-launching-agentic-stock-trading-beta?utm_source=rss&amp;utm_medium=rss",
-    "https://www.coindesk.com/business/2026/05/27/banca-sella-gets-green-light-to-provide-crypto-services-to-customers-first-in-italy",
-    "https://decrypt.co/369153/robinhood-opens-platform-ai-agents-stock-trading-credit-card-spending",
-    "https://www.coindesk.com/business/2026/05/27/major-crypto-exchanges-increase-transfer-scrutiny-with-htx-over-uk-sanctions",
-    "https://cointelegraph.com/news/kraken-rolls-out-bitcoin-vault-for-holders-to-earn-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/post/402800/trump-future-proof-digital-asset?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/markets/bitcoin-falls-further-as-btc-miners-pivot-to-ai-pro-crypto-legislation-stalls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/policy/2026/05/27/u-s-cftc-files-request-to-erase-gemini-settlement-that-it-no-longer-considers-fair",
-    "https://cointelegraph.com/news/crypto-card-monthly-volume-surge-230-one-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/markets/bitcoin-miner-inflows-rise-to-20k-on-binance-can-btc-hold-its-daily-uptrend?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/policy/2026/05/27/google-engineer-insider-traded-search-results-on-polymarket-feds-allege",
     "https://cointelegraph.com/news/polymarket-kyc-sanctions-insider-trading-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/news-analysis/2026/05/27/crypto-cash-backs-potential-new-allies-in-congress-as-industry-pac-presence-widens",
@@ -12733,7 +12802,17 @@
     "https://www.coindesk.com/markets/2026/06/23/ai-chipmaker-cerebras-down-11-after-first-public-earnings-report",
     "https://cointelegraph.com/markets/170m-ether-positions-liquidated-as-crypto-market-tumbles-is-eth-doomed?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
     "https://decrypt.co/371914/meet-qwable-free-local-model-thinks-like-claude-fable",
-    "https://cointelegraph.com/features/starmer-steps-down-what-andy-burnham-means-for-crypto-in-the-uk?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss"
+    "https://cointelegraph.com/features/starmer-steps-down-what-andy-burnham-means-for-crypto-in-the-uk?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+    "https://www.coindesk.com/markets/2026/06/24/gold-silver-and-bitcoin-tumble-as-debasement-trade-unwinds",
+    "https://www.coindesk.com/markets/2026/06/24/bitcoin-could-fall-to-usd55-000-before-finding-a-bottom-10x-research-says",
+    "https://www.theblock.co/post/405957/kraken-incubated-ink-upgrades-to-optimism-op-enterprise-fully-managed?utm_source=rss&amp;utm_medium=rss",
+    "https://www.coindesk.com/coindesk-indices/2026/06/24/coindesk-20-performance-update-aave-aave-gains-5-9-as-index-moves-higher",
+    "https://cointelegraph.com/news/binance-eu-license-greece-mica-setback?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+    "https://www.theblock.co/post/405963/black-lake-nuva-labs-tokenize-25-million-in-mortgage-loans-on-provenance-in-rwa-push?utm_source=rss&amp;utm_medium=rss",
+    "https://www.coindesk.com/policy/2026/06/23/cz-binance-founder-wants-to-clear-up-misunderstandings-about-who-he-is",
+    "https://www.coindesk.com/markets/2026/06/24/aave-could-soar-to-usd3-500-by-2030-on-defi-revival-says-stanchart",
+    "https://cointelegraph.com/news/cardano-wallet-secondfi-flaw-16-million-ada-exploit?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
+    "https://decrypt.co/371953/morning-minute-meta-is-building-a-prediction-market"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/398938/bitcoin-leads-1-2b-weekly-haul-for-global-crypto-funds-as-institutional-demand-builds-coinshares?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/398933/luxor-microbt-100-million-rig-deal?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/04/27/global-interest-rates-robinhood-galaxy-earnings-crypto-week-ahead",
@@ -12884,6 +12963,7 @@
     "https://www.theblock.co/post/405640/nyse-intercontinental-exchange-okx-expand-access-tokenized-equities-joint-venture-cuomo?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/policy/2026/06/22/crypto-s-second-u-s-lobbying-front-tax-policy-sees-industry-push-on-mining-staking|https://cointelegraph.com/markets/bitcoin-price-taps-655k-as-iran-deal-sees-oil-drop-toward-16-week-low?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
     "https://cointelegraph.com/news/bitmine-sharplink-and-joe-lubin-back-ethereum-rd-nonprofit?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://www.theblock.co/post/405706/turboflow-funding-crypto-pantera-capital?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/policy/2026/06/22/u-s-senate-passes-housing-bill-that-carries-four-year-ban-on-a-fed-cbdc",
     "https://www.theblock.co/post/405809/ethereum-foundation-cuts-20-of-its-workforce-as-new-5-cluster-structure-takes-shape?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/tech/2026/06/23/ethereum-foundation-cuts-20-of-staff-amid-leadership-exodus|https://decrypt.co/371854/thailand-expands-crypto-mining-probe-into-300m-chinese-laundering-network",
-    "https://www.theblock.co/post/405921/adrian-boafo-wins-maryland-democratic-primary?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/starkware-introduces-private-kyc-to-address-personal-data-breaches?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://www.coindesk.com/policy/2026/06/23/crypto-pac-s-usd5-5-million-congress-pick-gets-maryland-win-more-crypto-allies-advance"
+    "https://www.theblock.co/post/405921/adrian-boafo-wins-maryland-democratic-primary?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/starkware-introduces-private-kyc-to-address-personal-data-breaches?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://www.coindesk.com/policy/2026/06/23/crypto-pac-s-usd5-5-million-congress-pick-gets-maryland-win-more-crypto-allies-advance",
+    "https://www.coindesk.com/markets/2026/06/24/gold-silver-and-bitcoin-tumble-as-debasement-trade-unwinds|https://www.coindesk.com/markets/2026/06/24/bitcoin-could-fall-to-usd55-000-before-finding-a-bottom-10x-research-says|https://www.theblock.co/post/405957/kraken-incubated-ink-upgrades-to-optimism-op-enterprise-fully-managed?utm_source=rss&amp;utm_medium=rss"
   ]
 }
