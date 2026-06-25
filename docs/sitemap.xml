@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://cryptohieu.com/</loc>
-    <lastmod>2026-06-24</lastmod>
+    <lastmod>2026-06-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://cryptohieu.com/#diem-tin-crypto-25062026-luc-1035-thi-truong-bien-dong-voi-su-ra-mat-cua-rlusd-v</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1782358513/cryptohieuqua/posts/diem-tin-crypto-25062026-luc-1035-thi-truong-bien-dong-voi-su-ra-mat-cua-rlusd-v.jpg</image:loc>
+      <image:title>Điểm tin crypto 25/06/2026 lúc 10:35: Thị trường biến động với sự ra mắt của RLUSD và tình hình khó khăn của các thợ mỏ Bitcoin</image:title>
+      <image:caption>Điểm tin crypto 25/06/2026 lúc 10:35: Thị trường biến động với sự ra mắt của RLUSD và tình hình khó khăn của các thợ mỏ </image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://cryptohieu.com/#diem-tin-crypto-24062026-luc-2056-thi-truong-bien-dong-manh</loc>
