@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://cryptohieu.com/</loc>
-    <lastmod>2026-06-30</lastmod>
+    <lastmod>2026-07-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://cryptohieu.com/#diem-tin-crypto-01072026-luc-1055-thi-truong-bien-dong-voi-tin-tuc-ve-binance-va</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1782878137/cryptohieuqua/posts/diem-tin-crypto-01072026-luc-1055-thi-truong-bien-dong-voi-tin-tuc-ve-binance-va.jpg</image:loc>
+      <image:title>Điểm tin crypto 01/07/2026 lúc 10:55: Thị trường biến động với tin tức về Binance và Trump</image:title>
+      <image:caption>Điểm tin crypto 01/07/2026 lúc 10:55: Thị trường biến động với tin tức về Binance và Trump</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://cryptohieu.com/#diem-tin-crypto-30062026-luc-2047-thi-truong-tien-dien-tu-tiep-tuc-bien-dong</loc>
