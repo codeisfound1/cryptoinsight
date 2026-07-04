@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1783169495128",
+      "title": "Điểm tin crypto 04/07/2026 lúc 19:51: Thị trường crypto biến động mạnh",
+      "summary": "Thị trường crypto đang trải qua những biến động mạnh với sự thay đổi trong quy định của chính phủ Anh, delisting của USDT trên Revolut và sự tăng trưởng của XRP. Đồng thời, Bitcoin và Ether đang trải qua những đợt hồi phục nhẹ sau thời gian giảm giá mạnh.",
+      "content": "<p>Thị trường crypto đang trở nên nóng hơn bao giờ hết với những sự kiện quan trọng diễn ra trong những ngày gần đây. Từ việc chính phủ Anh công bố quy định mới về crypto, delisting của USDT trên Revolut, cho đến sự tăng trưởng mạnh của XRP, tất cả đều đang tạo ra những biến động lớn trên thị trường.</p><h2>1. Chính phủ Anh công bố quy định mới về crypto</h2><p>Chính phủ Anh vừa công bố quy định mới về crypto, với mục tiêu tạo ra một môi trường đầu tư an toàn và minh bạch hơn. Quy định này được kỳ vọng sẽ giúp tăng cường sự tham gia của các nhà đầu tư institution vào thị trường crypto.</p><h2>2. Revolut delist USDT</h2><p>Revolut, một trong những nền tảng tài chính lớn nhất thế giới, vừa thông báo sẽ delist USDT vào cuối tháng 8. Điều này được cho là do những lo ngại về quy định và rủi ro liên quan đến stablecoin này.</p><h2>3. XRP tăng trưởng mạnh</h2><p>XRP đang trải qua một giai đoạn tăng trưởng mạnh, với giá tăng hơn 8% trong những ngày gần đây. Điều này được cho là do sự quan tâm ngày càng tăng của các nhà đầu tư đến token này.</p><h2>4. Bitcoin và Ether hồi phục nhẹ</h2><p>Bitcoin và Ether đang trải qua những đợt hồi phục nhẹ sau thời gian giảm giá mạnh. Điều này được cho là do sự quan tâm ngày càng tăng của các nhà đầu tư đến hai đồng tiền này.</p><h2>Nhận định thị trường</h2><p>Thị trường crypto đang trở nên ngày càng phức tạp và biến động. Tuy nhiên, với sự quan tâm ngày càng tăng của các nhà đầu tư và sự phát triển của công nghệ, thị trường này vẫn có tiềm năng tăng trưởng mạnh trong tương lai.</p><h2>Khuyến nghị nhà đầu tư</h2><p>Nhà đầu tư nên cẩn thận và nghiên cứu kỹ lưỡng trước khi đầu tư vào thị trường crypto. Đồng thời, nên đa dạng hóa danh mục đầu tư và không nên đầu tư quá nhiều vào một đồng tiền nào.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[2] UK's bold new crypto rules promise to unlock global trading, but huge compliance hurdles still threaten the rollout — <em>CoinDesk</em></li>\n<li>[3] Revolut to delist USDT in August, citing regulatory and risk concerns — <em>Cointelegraph</em></li>\n<li>[4] Tim Draper denies moving Bitcoin, reiterates $250,000 BTC prediction — <em>Cointelegraph</em></li>\n<li>[5] XRP climbs 8% as record holder losses signal better risk-reward for buyers — <em>CoinDesk</em></li>\n<li>[6] Bitcoin’s next parabolic run may need $1 trillion in fresh capital — <em>CoinDesk</em></li>\n<li>[7] Bitcoin profit and loss ratio falls to 43-month low — <em>Cointelegraph</em></li>\n<li>[8] US law enforcement group drops opposition to CLARITY Act: Report — <em>Cointelegraph</em></li>\n<li>[9] Bitcoin, Ether extend relief rallies as extreme fear meets renewed ETF buying — <em>Cointelegraph</em></li>\n<li>[10] SOL rallies as Solana memecoins, prediction market activity surge: Are bulls back? — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "thị trường",
+        "điểm tin",
+        "xrp",
+        "usdt"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1783169494/cryptohieuqua/posts/diem-tin-crypto-04072026-luc-1951-thi-truong-crypto-bien-dong-manh.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1783169494/cryptohieuqua/posts/diem-tin-crypto-04072026-luc-1951-thi-truong-crypto-bien-dong-manh.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-04072026-luc-1951-thi-truong-crypto-bien-dong-manh",
+        "width": 1450,
+        "height": 966,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 04/07/2026 lúc 19:51: Thị trường crypto biến động mạnh"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / CoinDesk",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "UK's bold new crypto rules promise to unlock global trading, but huge compliance hurdles still threaten the rollout",
+          "url": "https://www.coindesk.com/policy/2026/07/04/uk-s-bold-new-crypto-rules-promise-to-unlock-global-trading-but-huge-compliance-hurdles-still-threaten-the-rollout",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Revolut to delist USDT in August, citing regulatory and risk concerns",
+          "url": "https://cointelegraph.com/news/revolut-usdt-delisting-regulatory-risk-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Tim Draper denies moving Bitcoin, reiterates $250,000 BTC prediction",
+          "url": "https://cointelegraph.com/news/tim-draper-denies-moving-bitcoin-250k-btc-prediction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "XRP climbs 8% as record holder losses signal better risk-reward for buyers",
+          "url": "https://www.coindesk.com/markets/2026/07/04/xrp-climbs-8-as-one-onchain-gauge-signal-shows-favorable-risk-reward-for-buyers",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin’s next parabolic run may need $1 trillion in fresh capital",
+          "url": "https://www.coindesk.com/markets/2026/07/04/bitcoin-s-next-parabolic-run-may-need-usd1-trillion-in-fresh-capital",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin profit and loss ratio falls to 43-month low",
+          "url": "https://cointelegraph.com/news/bitcoin-realized-profit-loss-ratio-falls-to-lowest-level-since-2022-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "US law enforcement group drops opposition to CLARITY Act: Report",
+          "url": "https://cointelegraph.com/news/us-law-enforcement-group-drops-opposition-to-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin, Ether extend relief rallies as extreme fear meets renewed ETF buying",
+          "url": "https://cointelegraph.com/markets/bitcoin-ether-extend-relief-rallies-as-extreme-fear-meets-renewed-etf-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "SOL rallies as Solana memecoins, prediction market activity surge: Are bulls back?",
+          "url": "https://cointelegraph.com/markets/sol-rallies-as-solana-memecoins-prediction-market-activity-surge-are-bulls-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-07-04T12:51:35.128Z",
+      "slug": "diem-tin-crypto-04072026-luc-1951-thi-truong-crypto-bien-dong-manh"
+    },
+    {
       "id": "1783133733520",
       "title": "Điểm tin crypto 04/07/2026 lúc 09:55: Thị trường biến động với sự kiện của Solana và Donald Trump",
       "summary": "Thị trường crypto đang chứng kiến sự biến động với sự kiện của Solana và Donald Trump. Giá SOL tăng mạnh sau khi memecoins và hoạt động của thị trường dự đoán tăng cao. Đồng thời, Donald Trump tiết lộ lợi nhuận hơn 1 tỷ USD từ đầu tư crypto trong thời gian tại nhiệm.",
@@ -13841,14 +13922,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/markets/2026/06/06/are-retail-traders-selling-their-bitcoin-to-buy-the-spacex-ipo",
-    "https://www.coindesk.com/tech/2026/06/06/researcher-who-found-zcash-s-bug-with-ai-adds-monero-to-his-audit-queue",
-    "https://www.coindesk.com/markets/2026/06/06/wld-plunges-20-as-hayes-dumps-token-a-day-after-saying-he-would-keep-holding-it",
-    "https://www.coindesk.com/markets/2026/06/06/bitcoin-back-above-usd61-000-after-rout-leads-to-usd1-6-billion-liquidations",
-    "https://www.theblock.co/post/403885/htx-to-delist-trump-linked-usd1-after-saying-world-liberty-financial-froze-exchange-linked-addresses?utm_source=rss&amp;utm_medium=rss",
-    "https://decrypt.co/370237/ai-discover-tech-vulnerabilities-zcash-latest-example",
-    "https://www.coindesk.com/markets/2026/06/06/bitcoin-ether-eye-worst-weekly-rout-since-ftx-collapse-as-cryptos-shed-usd390-billion",
-    "https://www.theblock.co/post/403879/hyperion-defi-to-unwind-29m-in-hype-deals-with-felix-native-markets-as-usdh-sunsets?utm_source=rss&amp;utm_medium=rss",
     "https://decrypt.co/370238/claude-code-vulnerability-attackers-steal-credentials-github-microsoft",
     "https://www.theblock.co/post/403876/wallet-linked-to-ethereum-co-founder-joseph-lubin-moves-110000-eth-to-defend-259m-dai-debt-position?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/opinion/2026/06/06/meta-is-paying-creators-in-stablecoins-spending-them-is-someone-else-s-problem",
@@ -14340,7 +14413,15 @@
     "https://decrypt.co/372738/zcash-ironwood-upgrade-developers-restore-confidence-zec-crash",
     "https://www.theblock.co/post/407160/cryptoquant-bitcoin-ether-altcoin-exchange-deposits-volatility?utm_source=rss&amp;utm_medium=rss",
     "https://decrypt.co/372737/dave-portnoy-losing-millions-bitcoin-falls",
-    "https://cointelegraph.com/news/donald-trump-crypto-investments-president-profit-office?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/donald-trump-crypto-investments-president-profit-office?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/policy/2026/07/04/uk-s-bold-new-crypto-rules-promise-to-unlock-global-trading-but-huge-compliance-hurdles-still-threaten-the-rollout",
+    "https://cointelegraph.com/news/revolut-usdt-delisting-regulatory-risk-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/tim-draper-denies-moving-bitcoin-250k-btc-prediction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/07/04/xrp-climbs-8-as-one-onchain-gauge-signal-shows-favorable-risk-reward-for-buyers",
+    "https://www.coindesk.com/markets/2026/07/04/bitcoin-s-next-parabolic-run-may-need-usd1-trillion-in-fresh-capital",
+    "https://cointelegraph.com/news/bitcoin-realized-profit-loss-ratio-falls-to-lowest-level-since-2022-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/us-law-enforcement-group-drops-opposition-to-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/markets/bitcoin-ether-extend-relief-rallies-as-extreme-fear-meets-renewed-etf-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/398938/bitcoin-leads-1-2b-weekly-haul-for-global-crypto-funds-as-institutional-demand-builds-coinshares?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/398933/luxor-microbt-100-million-rig-deal?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/04/27/global-interest-rates-robinhood-galaxy-earnings-crypto-week-ahead",
@@ -14511,6 +14592,7 @@
     "https://www.coindesk.com/markets/2026/07/02/jpmorgan-says-strategy-s-bitcoin-sales-policy-adds-two-way-risk-to-crypto-markets|https://decrypt.co/372670/metaplanet-adds-2823-bitcoin-in-q2-as-buying-pace-cools|https://cointelegraph.com/news/uk-payment-blueprint-tokenized-payments-multi-money-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/securitize-gains-on-nyse-debut-with-tokenized-stock-live-on-solana-avalanche?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/markets/bitcoin-holds-61k-after-us-jobs-data-report-ai-sector-weakness-did-btc-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/features/is-bitcoin-heading-for-65k-sharplink-buys-16m-eth-market-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/372726/farage-reported-to-uk-standards-watchdog-over-alleged-crypto-lobbying|https://www.theblock.co/post/407140/imf-says-policy-choices-will-determine-whether-tokenization-strengthens-or-fragments-the-financial-system?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/policy/2026/07/03/trump-says-there-is-nothing-wrong-with-family-s-crypto-windfall",
-    "https://cointelegraph.com/markets/sol-rallies-as-solana-memecoins-prediction-market-activity-surge-are-bulls-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/372750/claude-fable-5-not-nerfed-router-paranoid|https://decrypt.co/372749/senator-gillibrand-ban-trump-elected-officials-launching-meme-coins"
+    "https://cointelegraph.com/markets/sol-rallies-as-solana-memecoins-prediction-market-activity-surge-are-bulls-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/372750/claude-fable-5-not-nerfed-router-paranoid|https://decrypt.co/372749/senator-gillibrand-ban-trump-elected-officials-launching-meme-coins",
+    "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/07/04/uk-s-bold-new-crypto-rules-promise-to-unlock-global-trading-but-huge-compliance-hurdles-still-threaten-the-rollout|https://cointelegraph.com/news/revolut-usdt-delisting-regulatory-risk-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
