@@ -1,6 +1,85 @@
 {
   "posts": [
     {
+      "id": "1783221929998",
+      "title": "Điểm tin crypto 05/07/2026 lúc 10:25: Thị trường biến động mạnh",
+      "summary": "Thị trường crypto đang trải qua những biến động mạnh với Bitcoin vượt qua $63,000, các dự án mới như Moonbeam chuyển sang Base và cảnh báo về rủi ro bảo mật từ các chuyên gia.",
+      "content": "<p>Thị trường tiền điện tử đang trải qua một giai đoạn biến động mạnh với nhiều sự kiện quan trọng diễn ra trong tuần qua. Từ việc Bitcoin vượt qua mốc $63,000 cho đến các dự án mới như Moonbeam chuyển sang Base, thị trường đang chứng kiến sự thay đổi liên tục.</p><h2>1. Moonbeam Chuyển Sang Base</h2><p>Moonbeam, một dự án nổi bật trong hệ sinh thái Polkadot, đã宣 bố chuyển sang Base. Đây là một bước ngoặt quan trọng cho dự án này và có thể ảnh hưởng đến toàn bộ hệ sinh thái.</p><h2>2. Bitcoin Vượt Qua $63,000</h2><p>Bitcoin đã vượt qua mốc $63,000, đánh dấu một sự tăng trưởng mạnh mẽ của đồng tiền này. Tuy nhiên, các chuyên gia cũng cảnh báo về rủi ro bảo mật từ các cuộc tấn công của hacker.</p><h2>3. Cảnh Báo Về Rủi Ro Bảo Mật</h2><p>Các chuyên gia đang cảnh báo về rủi ro bảo mật từ các cuộc tấn công của hacker. Một nhóm nghiên cứu đã tìm ra một lỗ hổng bảo mật trong blockchain Aptos, có thể gây ra thiệt hại lên đến $70 tỷ.</p><h2>Nhận Định Thị Trường</h2><p>Thị trường tiền điện tử đang trở nên ngày càng phức tạp và biến động. Các nhà đầu tư cần phải cẩn thận và cập nhật thông tin thường xuyên để tránh rủi ro.</p><h2>Khuyến Nghị Nhà Đầu Tư</h2><p>Để đầu tư an toàn, các nhà đầu tư nên tìm hiểu kỹ về các dự án và đồng tiền trước khi đầu tư. Ngoài ra, cũng nên phân bổ rủi ro và không nên đầu tư quá nhiều vào một đồng tiền hoặc dự án.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] Moonbeam to pivot from Polkadot to Base, unveils AI agent framework — <em>Cointelegraph</em></li>\n<li>[2] Bitcoin ETFs log record eighth straight negative week despite large Thursday inflow — <em>The Block</em></li>\n<li>[3] Nearly 1 million wallets are down $3.81 billion on Trump’s memecoin: report — <em>The Block</em></li>\n<li>[4] Tokenization's next use case is personalized portfolios, NYLIM executive says — <em>CoinDesk</em></li>\n<li>[5] Kraken lets traders use tokenized stocks as collateral for leveraged trades — <em>Cointelegraph</em></li>\n<li>[6] Bitcoin jumps above $63,000, reversing end-June losses — <em>CoinDesk</em></li>\n<li>[7] Bitcoin experts split over plan to freeze Satoshi's 1.1 million bitcoin as quantum threat grows — <em>CoinDesk</em></li>\n<li>[8] How ethical hackers with just a $3,000 server found a flaw that could've put $70 billion in crypto at risk — <em>CoinDesk</em></li>\n<li>[9] Bitcoin to $53K? Exchange Deposits Jump as Analysts Warn of Increased Volatility — <em>Decrypt</em></li>\n<li>[10] Kalshi hits record June trading volume as World Cup fuels prediction markets — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "thị trường",
+        "điểm tin",
+        "bảo mật"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1783221929/cryptohieuqua/posts/diem-tin-crypto-05072026-luc-1025-thi-truong-bien-dong-manh.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1783221929/cryptohieuqua/posts/diem-tin-crypto-05072026-luc-1025-thi-truong-bien-dong-manh.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-05072026-luc-1025-thi-truong-bien-dong-manh",
+        "width": 2570,
+        "height": 1446,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 05/07/2026 lúc 10:25: Thị trường biến động mạnh"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / The Block / CoinDesk / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Moonbeam to pivot from Polkadot to Base, unveils AI agent framework",
+          "url": "https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin ETFs log record eighth straight negative week despite large Thursday inflow",
+          "url": "https://www.theblock.co/post/407173/bitcoin-etfs-log-record-eighth-straight-negative-week-despite-large-thursday-inflow?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Nearly 1 million wallets are down $3.81 billion on Trump’s memecoin: report",
+          "url": "https://www.theblock.co/post/407170/nearly-1-million-wallets-are-down-3-81-billion-on-trumps-memecoin-report?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Tokenization's next use case is personalized portfolios, NYLIM executive says",
+          "url": "https://www.coindesk.com/business/2026/07/02/tokenization-s-next-use-case-is-personalized-portfolios-nylim-executive-says",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Kraken lets traders use tokenized stocks as collateral for leveraged trades",
+          "url": "https://cointelegraph.com/news/kraken-lets-traders-use-tokenized-stocks-as-collateral-for-leveraged-trades?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin jumps above $63,000, reversing end-June losses",
+          "url": "https://www.coindesk.com/markets/2026/07/04/bitcoin-jumps-above-usd63-000-reversing-end-june-losses",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin experts split over plan to freeze Satoshi's 1.1 million bitcoin as quantum threat grows",
+          "url": "https://www.coindesk.com/business/2026/07/04/bitcoin-experts-split-over-plan-to-freeze-satoshi-s-1-1-million-bitcoin-as-quantum-threat-grows",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "How ethical hackers with just a $3,000 server found a flaw that could've put $70 billion in crypto at risk",
+          "url": "https://www.coindesk.com/tech/2026/07/04/how-ethical-hackers-with-just-a-usd3-000-server-found-a-flaw-that-could-ve-put-usd70-billion-in-crypto-at-risk",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin to $53K? Exchange Deposits Jump as Analysts Warn of Increased Volatility",
+          "url": "https://decrypt.co/372744/bitcoin-53k-exchange-deposits-jump-analysts-warn-increased-volatility",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Kalshi hits record June trading volume as World Cup fuels prediction markets",
+          "url": "https://cointelegraph.com/news/world-cup-drives-prediction-markets-to-record-june-trading-volumes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-07-05T03:25:29.998Z",
+      "slug": "diem-tin-crypto-05072026-luc-1025-thi-truong-bien-dong-manh"
+    },
+    {
       "id": "1783169495128",
       "title": "Điểm tin crypto 04/07/2026 lúc 19:51: Thị trường crypto biến động mạnh",
       "summary": "Thị trường crypto đang trải qua những biến động mạnh với sự thay đổi trong quy định của chính phủ Anh, delisting của USDT trên Revolut và sự tăng trưởng của XRP. Đồng thời, Bitcoin và Ether đang trải qua những đợt hồi phục nhẹ sau thời gian giảm giá mạnh.",
@@ -13922,16 +14001,6 @@
     }
   ],
   "publishedUrls": [
-    "https://decrypt.co/370238/claude-code-vulnerability-attackers-steal-credentials-github-microsoft",
-    "https://www.theblock.co/post/403876/wallet-linked-to-ethereum-co-founder-joseph-lubin-moves-110000-eth-to-defend-259m-dai-debt-position?utm_source=rss&amp;utm_medium=rss",
-    "https://www.coindesk.com/opinion/2026/06/06/meta-is-paying-creators-in-stablecoins-spending-them-is-someone-else-s-problem",
-    "https://cointelegraph.com/markets/bitcoin-most-oversold-since-2020-crash-can-btc-rebound-to-70k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/370235/bitcoin-dumped-gains-since-trump-reelected-then-some",
-    "https://www.coindesk.com/business/2026/06/06/america-s-largest-banks-are-building-a-new-digital-currency-network-to-stop-a-massive-deposit-drain",
-    "https://decrypt.co/370128/claude-opus-4-8-review",
-    "https://www.coindesk.com/tech/2026/06/07/ethereum-foundation-cuts-and-departures-aren-t-a-crisis-joe-lubin-says",
-    "https://www.theblock.co/post/403919/bitcoin-recovers-63000-kospi-plunges?utm_source=rss&amp;utm_medium=rss",
-    "https://www.theblock.co/learn/403749/what-is-crypto-market-structure?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/403910/ny-judge-stays-lawsuit-seeking-ownership-of-nearly-40000-bitcoin-wallets-sets-july-hearing-on-proposed-amicus-brief?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/markets/what-happens-to-bitcoin-if-the-nasdaq-falls-further?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/policy/2026/06/07/a-quick-review-of-the-ways-and-means-tax-bills-state-of-crypto",
@@ -14421,7 +14490,17 @@
     "https://www.coindesk.com/markets/2026/07/04/bitcoin-s-next-parabolic-run-may-need-usd1-trillion-in-fresh-capital",
     "https://cointelegraph.com/news/bitcoin-realized-profit-loss-ratio-falls-to-lowest-level-since-2022-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/us-law-enforcement-group-drops-opposition-to-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/markets/bitcoin-ether-extend-relief-rallies-as-extreme-fear-meets-renewed-etf-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/markets/bitcoin-ether-extend-relief-rallies-as-extreme-fear-meets-renewed-etf-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/post/407173/bitcoin-etfs-log-record-eighth-straight-negative-week-despite-large-thursday-inflow?utm_source=rss&amp;utm_medium=rss",
+    "https://www.theblock.co/post/407170/nearly-1-million-wallets-are-down-3-81-billion-on-trumps-memecoin-report?utm_source=rss&amp;utm_medium=rss",
+    "https://www.coindesk.com/business/2026/07/02/tokenization-s-next-use-case-is-personalized-portfolios-nylim-executive-says",
+    "https://cointelegraph.com/news/kraken-lets-traders-use-tokenized-stocks-as-collateral-for-leveraged-trades?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/07/04/bitcoin-jumps-above-usd63-000-reversing-end-june-losses",
+    "https://www.coindesk.com/business/2026/07/04/bitcoin-experts-split-over-plan-to-freeze-satoshi-s-1-1-million-bitcoin-as-quantum-threat-grows",
+    "https://www.coindesk.com/tech/2026/07/04/how-ethical-hackers-with-just-a-usd3-000-server-found-a-flaw-that-could-ve-put-usd70-billion-in-crypto-at-risk",
+    "https://decrypt.co/372744/bitcoin-53k-exchange-deposits-jump-analysts-warn-increased-volatility",
+    "https://cointelegraph.com/news/world-cup-drives-prediction-markets-to-record-june-trading-volumes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/398938/bitcoin-leads-1-2b-weekly-haul-for-global-crypto-funds-as-institutional-demand-builds-coinshares?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/398933/luxor-microbt-100-million-rig-deal?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/04/27/global-interest-rates-robinhood-galaxy-earnings-crypto-week-ahead",
@@ -14593,6 +14672,7 @@
     "https://cointelegraph.com/news/securitize-gains-on-nyse-debut-with-tokenized-stock-live-on-solana-avalanche?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/markets/bitcoin-holds-61k-after-us-jobs-data-report-ai-sector-weakness-did-btc-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/features/is-bitcoin-heading-for-65k-sharplink-buys-16m-eth-market-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/372726/farage-reported-to-uk-standards-watchdog-over-alleged-crypto-lobbying|https://www.theblock.co/post/407140/imf-says-policy-choices-will-determine-whether-tokenization-strengthens-or-fragments-the-financial-system?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/policy/2026/07/03/trump-says-there-is-nothing-wrong-with-family-s-crypto-windfall",
     "https://cointelegraph.com/markets/sol-rallies-as-solana-memecoins-prediction-market-activity-surge-are-bulls-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/372750/claude-fable-5-not-nerfed-router-paranoid|https://decrypt.co/372749/senator-gillibrand-ban-trump-elected-officials-launching-meme-coins",
-    "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/07/04/uk-s-bold-new-crypto-rules-promise-to-unlock-global-trading-but-huge-compliance-hurdles-still-threaten-the-rollout|https://cointelegraph.com/news/revolut-usdt-delisting-regulatory-risk-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/07/04/uk-s-bold-new-crypto-rules-promise-to-unlock-global-trading-but-huge-compliance-hurdles-still-threaten-the-rollout|https://cointelegraph.com/news/revolut-usdt-delisting-regulatory-risk-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/moonbeam-pivots-from-polkadot-to-base-unveils-ai-agent-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/407173/bitcoin-etfs-log-record-eighth-straight-negative-week-despite-large-thursday-inflow?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/407170/nearly-1-million-wallets-are-down-3-81-billion-on-trumps-memecoin-report?utm_source=rss&amp;utm_medium=rss"
   ]
 }
