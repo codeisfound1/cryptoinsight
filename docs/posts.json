@@ -1,6 +1,85 @@
 {
   "posts": [
     {
+      "id": "1783737501032",
+      "title": "Điểm tin crypto 11/07/2026 lúc 09:38: Thị trường biến động với dự đoán giá Bitcoin và vụ kiện BitClub",
+      "summary": "Thị trường crypto đang biến động với dự đoán giá Bitcoin lên tới 500.000 USD vào năm 2029, trong khi vụ kiện BitClub đang gây chú ý với việc DOJ muốn bỏ qua các cáo buộc. Ngoài ra, các sự kiện khác như Apple kiện OpenAI và Meta thảo luận về thương mại agentic cũng đang thu hút sự chú ý.",
+      "content": "<p>Thị trường crypto đang chứng kiến sự biến động mạnh mẽ với nhiều sự kiện quan trọng diễn ra trong thời gian gần đây. Từ dự đoán giá Bitcoin lên tới 500.000 USD vào năm 2029 đến vụ kiện BitClub đang gây chú ý, thị trường đang chứng kiến sự thay đổi nhanh chóng.</p><h2>1. Dự đoán giá Bitcoin</h2><p>Dự đoán giá Bitcoin lên tới 500.000 USD vào năm 2029 đang gây chú ý trong cộng đồng crypto. Tuy nhiên, một số chuyên gia cho rằng dự đoán này có thể không chính xác do sự biến động của thị trường.</p><h2>2. Vụ kiện BitClub</h2><p>Vụ kiện BitClub đang gây chú ý với việc DOJ muốn bỏ qua các cáo buộc đối với Matthew Goettsche, người bị cáo buộc tham gia vào vụ lừa đảo 722 triệu USD.</p><h2>3. Apple kiện OpenAI</h2><p>Apple đang kiện OpenAI với cáo buộc rằng các nhân viên cũ của Apple đã đánh cắp bí mật thương mại và sử dụng chúng để phát triển công nghệ của OpenAI.</p><h2>4. Meta thảo luận về thương mại agentic</h2><p>Meta đang thảo luận về thương mại agentic, một hình thức thương mại mới sử dụng công nghệ AI để giúp người dùng mua sắm thông minh hơn.</p><h2>Nhận định thị trường</h2><p>Thị trường crypto đang chứng kiến sự biến động mạnh mẽ với nhiều sự kiện quan trọng diễn ra trong thời gian gần đây. Dự đoán giá Bitcoin lên tới 500.000 USD vào năm 2029 đang gây chú ý, nhưng cũng có nhiều rủi ro và bất ổn trong thị trường.</p><h2>Khuyến nghị nhà đầu tư</h2><p>Nhà đầu tư cần phải cẩn thận và nghiên cứu kỹ lưỡng trước khi đầu tư vào thị trường crypto. Cần phải theo dõi sát sao các sự kiện quan trọng và phân tích kỹ lưỡng trước khi đưa ra quyết định đầu tư.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] Bitcoin analysts predict $300,000–$500,000 price in 2029. The math says no — <em>CoinDesk</em></li>\n<li>[2] DOJ moves to dismiss charges against alleged $722M BitClub fraudster: Report — <em>Cointelegraph</em></li>\n<li>[3] Apple Sues OpenAI, Claims Former Employees Stole Trade Secrets — <em>Decrypt</em></li>\n<li>[4] Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\" — <em>CoinDesk</em></li>\n<li>[5] Kraken to overhaul app with AI investing assistant — <em>Cointelegraph</em></li>\n<li>[6] Senate Democrats call for hearings into Trump’s ties to crypto amid CLARITY Act discussions — <em>Cointelegraph</em></li>\n<li>[7] Democrats Call for Senate Hearings on Trump's Massive Crypto Profits — <em>Decrypt</em></li>\n<li>[8] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[9] DOJ to drop charges against man accused in $722 million BitClub crypto Ponzi scheme: Bloomberg — <em>The Block</em></li>\n<li>[10] Here’s what’s next for the Clarity Act as Congress returns to Washington — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "thị trường",
+        "điểm tin",
+        "cryptocurrency"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1783737500/cryptohieuqua/posts/diem-tin-crypto-11072026-luc-0938-thi-truong-bien-dong-voi-du-doan-gia-bitcoin-v.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1783737500/cryptohieuqua/posts/diem-tin-crypto-11072026-luc-0938-thi-truong-bien-dong-voi-du-doan-gia-bitcoin-v.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-11072026-luc-0938-thi-truong-bien-dong-voi-du-doan-gia-bitcoin-v",
+        "width": 1620,
+        "height": 1080,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 11/07/2026 lúc 09:38: Thị trường biến động với dự đoán giá Bitcoin và vụ kiện BitClub"
+      },
+      "sourceUrl": "https://www.coindesk.com/markets/2026/07/10/bitcoin-analysts-predict-usd300-000-usd500-000-price-in-2029-the-math-says-no",
+      "sourceTitle": "CoinDesk / Cointelegraph / Decrypt / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Bitcoin analysts predict $300,000–$500,000 price in 2029. The math says no",
+          "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-analysts-predict-usd300-000-usd500-000-price-in-2029-the-math-says-no",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "DOJ moves to dismiss charges against alleged $722M BitClub fraudster: Report",
+          "url": "https://cointelegraph.com/news/doj-to-dismiss-charges-against-alleged-722m-bitclub-crypto-fraudster-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Apple Sues OpenAI, Claims Former Employees Stole Trade Secrets",
+          "url": "https://decrypt.co/373339/apple-sues-openai-claims-former-employees-stole-trade-secrets",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\"",
+          "url": "https://www.coindesk.com/coindesk-news/2026/07/10/meta-s-chief-data-officer-says-agentic-commerce-is-the-next-tier-of-business",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Kraken to overhaul app with AI investing assistant",
+          "url": "https://cointelegraph.com/news/kraken-to-rebuild-app-around-ai-powered-trading-agents-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Senate Democrats call for hearings into Trump’s ties to crypto amid CLARITY Act discussions",
+          "url": "https://cointelegraph.com/news/senate-democrats-hearings-donald-trump-crypto-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Democrats Call for Senate Hearings on Trump's Massive Crypto Profits",
+          "url": "https://decrypt.co/373289/democrats-senate-hearings-trump-massive-crypto-profits",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "DOJ to drop charges against man accused in $722 million BitClub crypto Ponzi scheme: Bloomberg",
+          "url": "https://www.theblock.co/post/407931/doj-drop-charges-against-man-accused-722-million-bitclub-crypto-ponzi-scheme-bloomberg?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Here’s what’s next for the Clarity Act as Congress returns to Washington",
+          "url": "https://www.theblock.co/post/407930/whats-next-for-clarity-act-congress-returns-to-washington?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-07-11T02:38:21.032Z",
+      "slug": "diem-tin-crypto-11072026-luc-0938-thi-truong-bien-dong-voi-du-doan-gia-bitcoin-v"
+    },
+    {
       "id": "1783691225637",
       "title": "Điểm tin crypto 10/07/2026 lúc 20:47: Thị trường tiền điện tử tiếp tục biến động",
       "summary": "Thị trường tiền điện tử đang chứng kiến sự biến động lớn với việc Binance co-CEO cho biết 70% rút tiền ở EU chuyển sang tự lưu trữ, Standard Chartered giữ mục tiêu giá Bitcoin ở 100.000 USD và Circle được chấp thuận thành lập ngân hàng tín thác quốc gia tại Mỹ",
@@ -14879,15 +14958,6 @@
     }
   ],
   "publishedUrls": [
-    "https://decrypt.co/370972/ai-agents-prompt-injection-attacks-research",
-    "https://decrypt.co/370954/moonshot-ai-kimi-work-300-agents-desktop",
-    "https://decrypt.co/370951/americans-fear-job-losses-ai-hope-cancer-alzheimers-cures-anthropic",
-    "https://www.coindesk.com/markets/2026/06/12/bitcoin-hit-bottom-at-usd59-000-marking-end-to-the-crypto-winter-says-standard-chartered-analyst",
-    "https://www.coindesk.com/markets/2026/06/13/saylor-to-musk-thanks-to-you-25-of-mag8-firms-now-hold-bitcoin",
-    "https://decrypt.co/370988/ai-agent-rekts-dev-bogus-scan-crypto-donations",
-    "https://www.coindesk.com/business/2026/06/09/crypto-should-adopt-the-best-of-centralization-says-lmax-ceo",
-    "https://cointelegraph.com/news/morphos-175m-raise-shows-where-the-last-of-the-crypto-vc-money-is-going?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/tech/2026/06/11/ripple-wants-ai-agents-to-pay-in-xrp-and-rlusd-the-market-is-still-mostly-usdc",
     "https://www.coindesk.com/tech/2026/06/13/top-cryptographers-can-t-agree-on-bitcoin-s-biggest-quantum-question",
     "https://www.coindesk.com/markets/2026/06/13/anthropic-s-pre-ipo-shares-fall-as-us-government-shuts-down-its-most-powerful-ai-model",
     "https://www.coindesk.com/markets/2026/06/13/bitcoin-steady-above-usd63-000-as-its-worst-week-in-months-got-a-late-macro-rescue",
@@ -15378,7 +15448,16 @@
     "https://cointelegraph.com/news/wall-street-prediction-market-trading-insider-fears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/business/2026/07/10/circle-secures-u-s-trust-bank-approval-in-crypto-expansion",
     "https://www.coindesk.com/daybook-us/2026/07/10/japan-s-invest-locally-plan-likely-to-spur-demand-for-assets-like-bitcoin-gold",
-    "https://cointelegraph.com/news/circle-final-occ-approval-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/circle-final-occ-approval-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/07/10/bitcoin-analysts-predict-usd300-000-usd500-000-price-in-2029-the-math-says-no",
+    "https://cointelegraph.com/news/doj-to-dismiss-charges-against-alleged-722m-bitclub-crypto-fraudster-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/373339/apple-sues-openai-claims-former-employees-stole-trade-secrets",
+    "https://www.coindesk.com/coindesk-news/2026/07/10/meta-s-chief-data-officer-says-agentic-commerce-is-the-next-tier-of-business",
+    "https://cointelegraph.com/news/kraken-to-rebuild-app-around-ai-powered-trading-agents-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/senate-democrats-hearings-donald-trump-crypto-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/373289/democrats-senate-hearings-trump-massive-crypto-profits",
+    "https://www.theblock.co/post/407931/doj-drop-charges-against-man-accused-722-million-bitclub-crypto-ponzi-scheme-bloomberg?utm_source=rss&amp;utm_medium=rss",
+    "https://www.theblock.co/post/407930/whats-next-for-clarity-act-congress-returns-to-washington?utm_source=rss&amp;utm_medium=rss"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/398938/bitcoin-leads-1-2b-weekly-haul-for-global-crypto-funds-as-institutional-demand-builds-coinshares?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/398933/luxor-microbt-100-million-rig-deal?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/04/27/global-interest-rates-robinhood-galaxy-earnings-crypto-week-ahead",
@@ -15562,6 +15641,7 @@
     "https://cointelegraph.com/news/crypto-vc-paradigm-raises-12b-to-push-into-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/defi-dashboard-zapper-to-shut-down-after-seven-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/crypto-could-benefit-if-fed-steps-in-to-backstop-us-stock-market-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/407732/hong-kong-sfc-orders-crypto-platforms-online-brokers-to-phase-out-otp-logins?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/407719/paypal-seeks-increase-pyusd-stablecoin-native-issuance-on-polygon?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/407723/tarun-chitra-gauntlet-125-million-series-c-funding-sbi-holdings?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/defi-quietly-re-rating-holds-up-unusually-well-in-downturn-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/07/09/new-hampshire-snuffs-out-trailblazing-bitcoin-municipal-bond-effort|https://www.theblock.co/post/407790/bitwise-says-bitcoins-floor-rising-despite-ai-boom-regulatory-delays?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/features/how-crypto-built-political-influence-in-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/407888/binance-co-ceo-says-70-of-eu-withdrawals-went-to-self-custody-after-mica-deadline-with-just-30-going-to-licensed-platforms?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/407884/communication-challenge-nothing-more-standard-chartered-keeps-100000-bitcoin-target-calls-strategy-selloff-a-signaling-problem?utm_source=rss&amp;utm_medium=rss"
+    "https://cointelegraph.com/features/how-crypto-built-political-influence-in-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/407888/binance-co-ceo-says-70-of-eu-withdrawals-went-to-self-custody-after-mica-deadline-with-just-30-going-to-licensed-platforms?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/407884/communication-challenge-nothing-more-standard-chartered-keeps-100000-bitcoin-target-calls-strategy-selloff-a-signaling-problem?utm_source=rss&amp;utm_medium=rss",
+    "https://www.coindesk.com/markets/2026/07/10/bitcoin-analysts-predict-usd300-000-usd500-000-price-in-2029-the-math-says-no|https://cointelegraph.com/news/doj-to-dismiss-charges-against-alleged-722m-bitclub-crypto-fraudster-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/373339/apple-sues-openai-claims-former-employees-stole-trade-secrets"
   ]
 }
