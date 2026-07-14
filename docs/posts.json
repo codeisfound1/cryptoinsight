@@ -1,6 +1,86 @@
 {
   "posts": [
     {
+      "id": "1784033841784",
+      "title": "Điểm tin crypto 14/07/2026 lúc 19:57: Thị trường biến động với CPI giảm và ảnh hưởng của U.S.-Iran",
+      "summary": "Thị trường tiền điện tử biến động mạnh với việc CPI giảm 0.4% và căng thẳng U.S.-Iran tăng cao. Hut 8 tăng giá mục tiêu lên 165 USD và CleanSpark ký hợp đồng 20 năm với công ty công nghệ toàn cầu",
+      "content": "<p>Thị trường tiền điện tử đang trải qua một giai đoạn biến động mạnh với nhiều sự kiện quan trọng diễn ra trong ngày 14/07/2026. Việc CPI giảm 0.4% và căng thẳng U.S.-Iran tăng cao đã làm cho thị trường trở nên không chắc chắn.</p><h2>1. Hut 8 tăng giá mục tiêu lên 165 USD</h2><p>Hut 8, một công ty khai thác bitcoin, đã tăng giá mục tiêu lên 165 USD do sự kiện Beacon Point đã biến công ty này thành một nền tảng cơ sở hạ tầng AI với tiềm năng tăng trưởng dài hạn.</p><h2>2. CleanSpark ký hợp đồng 20 năm với công ty công nghệ toàn cầu</h2><p>CleanSpark, một công ty cung cấp giải pháp năng lượng sạch, đã ký hợp đồng 20 năm với một công ty công nghệ toàn cầu để cung cấp dịch vụ trung tâm dữ liệu.</p><h2>3. CPI giảm 0.4% và ảnh hưởng đến thị trường</h2><p>Chỉ số giá tiêu dùng (CPI) đã giảm 0.4% trong tháng 6, điều này có thể làm cho Cục Dự trữ Liên bang Mỹ (Fed) giảm tốc độ tăng lãi suất.</p><h2>4. U.S.-Iran căng thẳng tăng cao và ảnh hưởng đến thị trường</h2><p>Căng thẳng giữa U.S. và Iran đã tăng cao, điều này có thể làm cho thị trường trở nên không chắc chắn và ảnh hưởng đến giá bitcoin.</p><h2>Nhận định thị trường</h2><p>Thị trường tiền điện tử đang biến động mạnh do nhiều yếu tố khác nhau. Việc CPI giảm và căng thẳng U.S.-Iran tăng cao đã làm cho thị trường trở nên không chắc chắn.</p><h2>Khuyến nghị nhà đầu tư</h2><p>Nhà đầu tư nên cẩn thận và theo dõi sát sao thị trường để có thể đưa ra quyết định đầu tư sáng suốt.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] Hut 8 price target hiked to $165 at Benchmark as AI pivot reshapes valuation — <em>CoinDesk</em></li>\n<li>[2] U.S. June CPI fell 0.4%, likely cooling move toward Fed rate hikes — <em>CoinDesk</em></li>\n<li>[3] CleanSpark signs $6.6 billion, 20-year data center lease with unnamed global tech firm — <em>The Block</em></li>\n<li>[4] Morning Minute: Saylor's Strategy Hoards Cash, Doesn't Buy BTC — <em>Decrypt</em></li>\n<li>[5] ECB picks firms including Deutsche Bank, Revolut for digital euro pilot — <em>CoinDesk</em></li>\n<li>[6] Japan’s biggest card network taps Circle to bring stablecoins to 40 million merchants — <em>CoinDesk</em></li>\n<li>[7] ABA, state banking groups push back on CLARITY Act stablecoin yield provisions — <em>Cointelegraph</em></li>\n<li>[8] Solana community lead enters UK by-election with onchain transparency pitch — <em>Cointelegraph</em></li>\n<li>[9] ECB picks 36 payment providers to test digital euro ahead of 2027 pilot — <em>Cointelegraph</em></li>\n<li>[10] U.S.-Iran escalation weighs on bitcoin, stocks as oil climbs — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "thị trường",
+        "điểm tin",
+        "cpi",
+        "iran"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1784033841/cryptohieuqua/posts/diem-tin-crypto-14072026-luc-1957-thi-truong-bien-dong-voi-cpi-giam-va-anh-huong.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1784033841/cryptohieuqua/posts/diem-tin-crypto-14072026-luc-1957-thi-truong-bien-dong-voi-cpi-giam-va-anh-huong.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-14072026-luc-1957-thi-truong-bien-dong-voi-cpi-giam-va-anh-huong",
+        "width": 1920,
+        "height": 1077,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 14/07/2026 lúc 19:57: Thị trường biến động với CPI giảm và ảnh hưởng của U.S.-Iran"
+      },
+      "sourceUrl": "https://www.coindesk.com/business/2026/07/14/hut-8-price-target-hiked-to-usd165-at-benchmark-as-ai-pivot-reshapes-valuation",
+      "sourceTitle": "CoinDesk / The Block / Decrypt / Cointelegraph",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Hut 8 price target hiked to $165 at Benchmark as AI pivot reshapes valuation",
+          "url": "https://www.coindesk.com/business/2026/07/14/hut-8-price-target-hiked-to-usd165-at-benchmark-as-ai-pivot-reshapes-valuation",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "U.S. June CPI fell 0.4%, likely cooling move toward Fed rate hikes",
+          "url": "https://www.coindesk.com/markets/2026/07/14/u-s-june-cpi-fell-0-4-likely-cooling-move-toward-fed-rate-hikes",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "CleanSpark signs $6.6 billion, 20-year data center lease with unnamed global tech firm",
+          "url": "https://www.theblock.co/post/408215/cleanspark-signs-20-year-data-center-lease-with-unnamed-tech-giant?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Morning Minute: Saylor's Strategy Hoards Cash, Doesn't Buy BTC",
+          "url": "https://decrypt.co/373466/morning-minute-saylors-strategy-hoards-cash-doesnt-buy-btc",
+          "source": "Decrypt"
+        },
+        {
+          "title": "ECB picks firms including Deutsche Bank, Revolut for digital euro pilot",
+          "url": "https://www.coindesk.com/business/2026/07/14/ecb-picks-firms-including-deutsche-bank-revolut-for-digital-euro-pilot",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Japan’s biggest card network taps Circle to bring stablecoins to 40 million merchants",
+          "url": "https://www.coindesk.com/business/2026/07/14/circle-signs-mou-with-japan-s-largest-card-network-to-explore-stablecoin-payments",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "ABA, state banking groups push back on CLARITY Act stablecoin yield provisions",
+          "url": "https://cointelegraph.com/news/aba-banking-associations-clarity-act-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Solana community lead enters UK by-election with onchain transparency pitch",
+          "url": "https://cointelegraph.com/news/solana-community-lead-uk-by-election-pension-self-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "ECB picks 36 payment providers to test digital euro ahead of 2027 pilot",
+          "url": "https://cointelegraph.com/news/ecb-36-payment-providers-digital-euro-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "U.S.-Iran escalation weighs on bitcoin, stocks as oil climbs",
+          "url": "https://www.coindesk.com/daybook-us/2026/07/14/u-s-iran-escalation-weighs-on-bitcoin-stocks-as-oil-climbs",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-07-14T12:57:21.784Z",
+      "slug": "diem-tin-crypto-14072026-luc-1957-thi-truong-bien-dong-voi-cpi-giam-va-anh-huong"
+    },
+    {
       "id": "1783996178343",
       "title": "Điểm tin crypto 14/07/2026 lúc 09:29: Thị trường crypto tiếp tục biến động",
       "summary": "Thị trường crypto đang chứng kiến sự biến động mạnh mẽ với sự xuất hiện của các công nghệ mới và sự thay đổi trong chính sách của các quốc gia. Các sự kiện nổi bật bao gồm việc Nhật Bản chấp nhận cho vay bằng tiền điện tử, sự ủng hộ của các cơ quan thực thi pháp luật đối với Đạo luật CLARITY và sự phản đối của các nhà hoạt động đối với sự phát triển của trí tuệ nhân tạo.",
@@ -15442,16 +15522,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/tech/2026/06/16/ethereum-s-biggest-protocol-overhaul-in-years-moves-into-its-final-development-stage",
-    "https://www.theblock.co/post/404956/sec-atkins-defends-cftc-selig-questions-agencys-ability-regulate-prediction-markets?utm_source=rss&amp;utm_medium=rss",
-    "https://www.coindesk.com/business/2026/06/16/state-street-targets-stablecoin-reserve-boom-with-new-money-market-fund",
-    "https://cointelegraph.com/markets/hyperliquid-open-interest-gains-32-in-a-week-is-80-hype-next?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
-    "https://cointelegraph.com/news/senators-urge-treasury-ensure-state-authority-in-genius-application?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
-    "https://decrypt.co/371357/alibaba-qwen-robot-operating-system-robot-economy",
-    "https://cointelegraph.com/markets/bitcoin-tops-67k-following-us-iran-peace-deal-is-it-a-bull-trap?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
-    "https://www.coindesk.com/markets/2026/06/16/here-is-why-strategy-s-dividend-paying-crypto-stock-is-crashing-to-near-historic-lows",
-    "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
-    "https://www.coindesk.com/markets/2026/06/16/bitcoin-miners-ai-pivot-faces-usd50-billion-reality-check-says-vaneck",
     "https://cointelegraph.com/news/tokenized-rwa-market-tops-43b-wall-street-pushes-deeper-onchain?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
     "https://www.coindesk.com/policy/2026/06/16/u-s-senators-urge-treasury-not-to-leave-states-out-of-genius-act-stablecoin-process",
     "https://decrypt.co/371343/binance-rejected-eu-regulatory-license-reuters",
@@ -15941,7 +16011,17 @@
     "https://decrypt.co/373424/new-hampshire-bitcoin-reserve-blockchain-basic-laws-signing",
     "https://decrypt.co/373422/anthropic-claude-personality-changes-model-language",
     "https://www.theblock.co/post/408064/hyperliquid-hip-3-markets-surge-50-perp-volume-onchain-stock-trading-grows?utm_source=rss&amp;utm_medium=rss",
-    "https://www.coindesk.com/coindesk-news/2026/07/13/binance-us-ceo-says-exchange-is-rebuilding-eyes-return-to-20-u-s-market-share"
+    "https://www.coindesk.com/coindesk-news/2026/07/13/binance-us-ceo-says-exchange-is-rebuilding-eyes-return-to-20-u-s-market-share",
+    "https://www.coindesk.com/business/2026/07/14/hut-8-price-target-hiked-to-usd165-at-benchmark-as-ai-pivot-reshapes-valuation",
+    "https://www.coindesk.com/markets/2026/07/14/u-s-june-cpi-fell-0-4-likely-cooling-move-toward-fed-rate-hikes",
+    "https://www.theblock.co/post/408215/cleanspark-signs-20-year-data-center-lease-with-unnamed-tech-giant?utm_source=rss&amp;utm_medium=rss",
+    "https://decrypt.co/373466/morning-minute-saylors-strategy-hoards-cash-doesnt-buy-btc",
+    "https://www.coindesk.com/business/2026/07/14/ecb-picks-firms-including-deutsche-bank-revolut-for-digital-euro-pilot",
+    "https://www.coindesk.com/business/2026/07/14/circle-signs-mou-with-japan-s-largest-card-network-to-explore-stablecoin-payments",
+    "https://cointelegraph.com/news/aba-banking-associations-clarity-act-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/solana-community-lead-uk-by-election-pension-self-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/ecb-36-payment-providers-digital-euro-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/daybook-us/2026/07/14/u-s-iran-escalation-weighs-on-bitcoin-stocks-as-oil-climbs"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/398938/bitcoin-leads-1-2b-weekly-haul-for-global-crypto-funds-as-institutional-demand-builds-coinshares?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/398933/luxor-microbt-100-million-rig-deal?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/04/27/global-interest-rates-robinhood-galaxy-earnings-crypto-week-ahead",
@@ -16132,6 +16212,7 @@
     "https://cointelegraph.com/news/pakistan-crypto-chief-dialogue-islamic-ruling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/07/12/bitcoin-is-nearing-a-power-law-support-line-fidelity-has-tracked-since-2015|https://cointelegraph.com/news/ethereum-pos-energy-intensity-cambridge-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/407977/the-funding-why-japan-sbi-holdings-is-investing-big-in-crypto?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/407973/bitcoin-whale-moves-188-million-worth-btc?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bitcoin-etfs-draw-197m-snap-8-week-outflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/policy/2026/07/13/wall-street-transfer-agents-lobby-sec-warning-that-third-party-tokens-pose-risks-to-market-integrity|https://cointelegraph.com/news/coinbase-ventures-leading-crypto-vc-h1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/408029/tom-lee-says-users-starting-see-ethereum-money-bitmine-adds-27801-eth?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/features/thai-scammer-japan-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/clarity-act-gains-second-law-enforcement-endorsement-before-senate-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/373439/openai-new-gpt-5-6-prompt-guide-chatgpt"
+    "https://cointelegraph.com/features/thai-scammer-japan-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/clarity-act-gains-second-law-enforcement-endorsement-before-senate-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/373439/openai-new-gpt-5-6-prompt-guide-chatgpt",
+    "https://www.coindesk.com/business/2026/07/14/hut-8-price-target-hiked-to-usd165-at-benchmark-as-ai-pivot-reshapes-valuation|https://www.coindesk.com/markets/2026/07/14/u-s-june-cpi-fell-0-4-likely-cooling-move-toward-fed-rate-hikes|https://www.theblock.co/post/408215/cleanspark-signs-20-year-data-center-lease-with-unnamed-tech-giant?utm_source=rss&amp;utm_medium=rss"
   ]
 }
