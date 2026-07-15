@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1784082456405",
+      "title": "Điểm tin crypto 15/07/2026 lúc 09:27: Xu hướng đầu tư và phát triển công nghệ",
+      "summary": "Thị trường crypto chứng kiến sự quan tâm ngày càng tăng từ các nhà quản lý tài sản, sự phát triển của công nghệ AI và các giải pháp tài chính phi tập trung. Các sự kiện nổi bật bao gồm việc Ark Invest đầu tư vào Circle, Bitmine kiếm được 46 triệu đô la từ staking Ethereum và Ethereum Foundation thành lập công ty con EthSystems.",
+      "content": "<p>Thị trường tiền điện tử đang chứng kiến sự quan tâm ngày càng tăng từ các nhà quản lý tài sản và các công ty công nghệ. Các sự kiện gần đây cho thấy xu hướng này sẽ tiếp tục trong thời gian tới.</p><h2>1. Sự quan tâm của các nhà quản lý tài sản</h2><p>Các nhà quản lý tài sản đang ngày càng quan tâm đến việc đầu tư vào tiền điện tử. Theo một báo cáo từ The Block, các nhà quản lý tài sản đang đầu tư vào tiền điện tử thông qua các sản phẩm được quản lý, chẳng hạn như quỹ đầu tư và chứng chỉ quỹ.</p><h2>2. Phát triển công nghệ AI</h2><p>Công nghệ AI đang được áp dụng rộng rãi trong lĩnh vực tiền điện tử. Coinbase đã công bố rằng hơn 95% mã code của họ được viết với sự giúp đỡ của AI. Điều này cho thấy sự phát triển nhanh chóng của công nghệ AI trong lĩnh vực này.</p><h2>3. Phát triển DeFi</h2><p>DeFi (Tài chính phi tập trung) đang trở thành một lĩnh vực quan trọng trong thị trường tiền điện tử. Các công ty như Bitmine và EthSystems đang phát triển các giải pháp DeFi để giúp các tổ chức và cá nhân quản lý tài sản của mình một cách hiệu quả hơn.</p><h2>Nhận định thị trường</h2><p>Thị trường tiền điện tử đang chứng kiến sự phát triển nhanh chóng và sự quan tâm ngày càng tăng từ các nhà quản lý tài sản và các công ty công nghệ. Xu hướng này dự kiến sẽ tiếp tục trong thời gian tới, với sự phát triển của công nghệ AI và DeFi.</p><h2>Khuyến nghị nhà đầu tư</h2><p>Nhà đầu tư nên cân nhắc việc đầu tư vào các công ty và dự án có tiềm năng phát triển mạnh trong lĩnh vực tiền điện tử. Đặc biệt, các công ty có sự quan tâm đến công nghệ AI và DeFi có thể là những lựa chọn hấp dẫn.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] How Asset Managers Are Investing in Crypto — <em>The Block</em></li>\n<li>[2] Bitcoin vs Gold as a Reserve Asset — <em>The Block</em></li>\n<li>[3] Ark Invest adds $14 million in Circle shares while selling Robinhood — <em>The Block</em></li>\n<li>[4] Bitmine generated $46M from Ethereum staking last quarter — <em>Cointelegraph</em></li>\n<li>[5] Over 95% of Coinbase’s code is now written with help of AI — <em>Cointelegraph</em></li>\n<li>[6] Three US senators oppose CLARITY Act on ethics grounds with vote expected soon — <em>Cointelegraph</em></li>\n<li>[7] Ethereum Foundation privacy team spins out as for-profit EthSystems to serve institutions with Lubin, Bitmine backing — <em>The Block</em></li>\n<li>[8] U.S. CFTC moves to stop Kalshi from canceling trades as ordered by Michigan court — <em>CoinDesk</em></li>\n<li>[9] Velocity raises $38M to build stablecoin treasury infrastructure for enterprises — <em>Cointelegraph</em></li>\n<li>[10] DeepMind CEO Says AGI Will Be Bigger Than Electricity or Fire — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "thị trường",
+        "điểm tin",
+        "AI",
+        "DeFi"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1784082455/cryptohieuqua/posts/diem-tin-crypto-15072026-luc-0927-xu-huong-dau-tu-va-phat-trien-cong-nghe.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1784082455/cryptohieuqua/posts/diem-tin-crypto-15072026-luc-0927-xu-huong-dau-tu-va-phat-trien-cong-nghe.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-15072026-luc-0927-xu-huong-dau-tu-va-phat-trien-cong-nghe",
+        "width": 716,
+        "height": 450,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 15/07/2026 lúc 09:27: Xu hướng đầu tư và phát triển công nghệ"
+      },
+      "sourceUrl": "https://www.theblock.co/learn/408181/how-asset-managers-are-investing-in-crypto?utm_source=rss&amp;utm_medium=rss",
+      "sourceTitle": "The Block / Cointelegraph / CoinDesk / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "How Asset Managers Are Investing in Crypto",
+          "url": "https://www.theblock.co/learn/408181/how-asset-managers-are-investing-in-crypto?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin vs Gold as a Reserve Asset",
+          "url": "https://www.theblock.co/learn/408147/bitcoin-vs-gold-as-a-reserve-asset?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Ark Invest adds $14 million in Circle shares while selling Robinhood",
+          "url": "https://www.theblock.co/post/408336/ark-invest-adds-14-million-in-circle?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitmine generated $46M from Ethereum staking last quarter",
+          "url": "https://cointelegraph.com/news/bitmine-generated-46m-from-ethereum-staking-last-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Over 95% of Coinbase’s code is now written with help of AI",
+          "url": "https://cointelegraph.com/news/over-95-of-coinbases-code-is-now-written-with-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Three US senators oppose CLARITY Act on ethics grounds with vote expected soon",
+          "url": "https://cointelegraph.com/news/us-senators-oppose-clarity-act-vote-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Ethereum Foundation privacy team spins out as for-profit EthSystems to serve institutions with Lubin, Bitmine backing",
+          "url": "https://www.theblock.co/post/408331/ethereum-foundation-privacy-team-spins-out-as-for-profit-ethsystems-to-serve-institutions-with-lubin-bitmine-backing?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "U.S. CFTC moves to stop Kalshi from canceling trades as ordered by Michigan court",
+          "url": "https://www.coindesk.com/policy/2026/07/14/u-s-cftc-moves-to-stop-kalshi-from-canceling-trades-as-ordered-by-michigan-court",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Velocity raises $38M to build stablecoin treasury infrastructure for enterprises",
+          "url": "https://cointelegraph.com/news/velocity-raises-38m-to-build-stablecoin-treasury-infrastructure-for-enterprises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "DeepMind CEO Says AGI Will Be Bigger Than Electricity or Fire",
+          "url": "https://decrypt.co/373511/deepmind-ceo-agi-bigger-than-electricity-fire",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-07-15T02:27:36.405Z",
+      "slug": "diem-tin-crypto-15072026-luc-0927-xu-huong-dau-tu-va-phat-trien-cong-nghe"
+    },
+    {
       "id": "1784033841784",
       "title": "Điểm tin crypto 14/07/2026 lúc 19:57: Thị trường biến động với CPI giảm và ảnh hưởng của U.S.-Iran",
       "summary": "Thị trường tiền điện tử biến động mạnh với việc CPI giảm 0.4% và căng thẳng U.S.-Iran tăng cao. Hut 8 tăng giá mục tiêu lên 165 USD và CleanSpark ký hợp đồng 20 năm với công ty công nghệ toàn cầu",
@@ -15522,16 +15603,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/tokenized-rwa-market-tops-43b-wall-street-pushes-deeper-onchain?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
-    "https://www.coindesk.com/policy/2026/06/16/u-s-senators-urge-treasury-not-to-leave-states-out-of-genius-act-stablecoin-process",
-    "https://decrypt.co/371343/binance-rejected-eu-regulatory-license-reuters",
-    "https://www.theblock.co/post/405111/bhutan-bitcoin-binance-holdings-fall-below-1750-btc-arkham?utm_source=rss&amp;utm_medium=rss",
-    "https://www.theblock.co/post/405104/trace-finance-funding-valuation-stablecoins-crypto?utm_source=rss&amp;utm_medium=rss",
-    "https://www.coindesk.com/opinion/2026/06/17/crypto-s-security-nightmare-won-t-be-solved-by-ordinary-audits",
-    "https://www.theblock.co/post/405086/limitless-ceo-no-prediction-market-platform-will-dominate-perpetual-futures-precedent?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/news/ready-usdc-card-service-halt-non-eea-report?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
-    "https://www.coindesk.com/business/2026/06/17/mexican-billionaire-with-70-of-his-investment-portfolio-in-bitcoin-says-it-s-better-than-real-estate",
-    "https://www.coindesk.com/markets/2026/06/17/warsh-s-first-fed-meeting-could-be-more-about-communication-than-rates",
     "https://cointelegraph.com/news/coinmena-standard-chartered-revolut-uae-crypto-finance?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
     "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news3?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
     "https://www.coindesk.com/coindesk-indices/2026/06/17/coindesk-20-performance-update-bitcoin-cash-bch-drops-3-1-leading-index-lower",
@@ -16021,7 +16092,17 @@
     "https://cointelegraph.com/news/aba-banking-associations-clarity-act-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/solana-community-lead-uk-by-election-pension-self-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/ecb-36-payment-providers-digital-euro-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/daybook-us/2026/07/14/u-s-iran-escalation-weighs-on-bitcoin-stocks-as-oil-climbs"
+    "https://www.coindesk.com/daybook-us/2026/07/14/u-s-iran-escalation-weighs-on-bitcoin-stocks-as-oil-climbs",
+    "https://www.theblock.co/learn/408181/how-asset-managers-are-investing-in-crypto?utm_source=rss&amp;utm_medium=rss",
+    "https://www.theblock.co/learn/408147/bitcoin-vs-gold-as-a-reserve-asset?utm_source=rss&amp;utm_medium=rss",
+    "https://www.theblock.co/post/408336/ark-invest-adds-14-million-in-circle?utm_source=rss&amp;utm_medium=rss",
+    "https://cointelegraph.com/news/bitmine-generated-46m-from-ethereum-staking-last-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/over-95-of-coinbases-code-is-now-written-with-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/us-senators-oppose-clarity-act-vote-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/post/408331/ethereum-foundation-privacy-team-spins-out-as-for-profit-ethsystems-to-serve-institutions-with-lubin-bitmine-backing?utm_source=rss&amp;utm_medium=rss",
+    "https://www.coindesk.com/policy/2026/07/14/u-s-cftc-moves-to-stop-kalshi-from-canceling-trades-as-ordered-by-michigan-court",
+    "https://cointelegraph.com/news/velocity-raises-38m-to-build-stablecoin-treasury-infrastructure-for-enterprises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/373511/deepmind-ceo-agi-bigger-than-electricity-fire"
   ],
   "publishedBatchKeys": [
     "https://www.theblock.co/post/398938/bitcoin-leads-1-2b-weekly-haul-for-global-crypto-funds-as-institutional-demand-builds-coinshares?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/398933/luxor-microbt-100-million-rig-deal?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/04/27/global-interest-rates-robinhood-galaxy-earnings-crypto-week-ahead",
@@ -16213,6 +16294,7 @@
     "https://www.theblock.co/post/407977/the-funding-why-japan-sbi-holdings-is-investing-big-in-crypto?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/407973/bitcoin-whale-moves-188-million-worth-btc?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bitcoin-etfs-draw-197m-snap-8-week-outflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/policy/2026/07/13/wall-street-transfer-agents-lobby-sec-warning-that-third-party-tokens-pose-risks-to-market-integrity|https://cointelegraph.com/news/coinbase-ventures-leading-crypto-vc-h1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/408029/tom-lee-says-users-starting-see-ethereum-money-bitmine-adds-27801-eth?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/features/thai-scammer-japan-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/clarity-act-gains-second-law-enforcement-endorsement-before-senate-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/373439/openai-new-gpt-5-6-prompt-guide-chatgpt",
-    "https://www.coindesk.com/business/2026/07/14/hut-8-price-target-hiked-to-usd165-at-benchmark-as-ai-pivot-reshapes-valuation|https://www.coindesk.com/markets/2026/07/14/u-s-june-cpi-fell-0-4-likely-cooling-move-toward-fed-rate-hikes|https://www.theblock.co/post/408215/cleanspark-signs-20-year-data-center-lease-with-unnamed-tech-giant?utm_source=rss&amp;utm_medium=rss"
+    "https://www.coindesk.com/business/2026/07/14/hut-8-price-target-hiked-to-usd165-at-benchmark-as-ai-pivot-reshapes-valuation|https://www.coindesk.com/markets/2026/07/14/u-s-june-cpi-fell-0-4-likely-cooling-move-toward-fed-rate-hikes|https://www.theblock.co/post/408215/cleanspark-signs-20-year-data-center-lease-with-unnamed-tech-giant?utm_source=rss&amp;utm_medium=rss",
+    "https://www.theblock.co/learn/408181/how-asset-managers-are-investing-in-crypto?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/learn/408147/bitcoin-vs-gold-as-a-reserve-asset?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/408336/ark-invest-adds-14-million-in-circle?utm_source=rss&amp;utm_medium=rss"
   ]
 }
