@@ -1,6 +1,85 @@
 {
   "posts": [
     {
+      "id": "1784725980162",
+      "title": "Điểm tin crypto 22/07/2026 lúc 20:12: Thị trường biến động mạnh",
+      "summary": "Thị trường crypto đang trải qua những biến động mạnh với sự kiện Binance ghi nhận dòng tiền chảy ra lớn, Zilliqa phát hiện lỗ hổng bảo mật và các dự án DeFi tiếp tục phát triển. Các sự kiện này đang tác động trực tiếp đến giá Bitcoin và các altcoin khác.",
+      "content": "<p>Thị trường crypto đang là tâm điểm của sự chú ý với nhiều sự kiện quan trọng diễn ra trong ngày 22/07/2026. Từ việc Binance ghi nhận dòng tiền chảy ra lớn đến việc Zilliqa phát hiện lỗ hổng bảo mật, các sự kiện này đang tác động trực tiếp đến giá Bitcoin và các altcoin khác.</p><h2>1. Binance ghi nhận dòng tiền chảy ra lớn</h2><p>Binance, một trong những sàn giao dịch crypto lớn nhất thế giới, đã ghi nhận dòng tiền chảy ra lớn với hơn 9.000 BTC trong một ngày. Điều này đã gây ra sự chú ý lớn trong cộng đồng crypto và làm dấy lên lo ngại về sự ổn định của thị trường.</p><h2>2. Zilliqa phát hiện lỗ hổng bảo mật</h2><p>Zilliqa, một dự án blockchain, đã phát hiện lỗ hổng bảo mật trong ứng dụng Ledger của mình. Lỗ hổng này cho phép kẻ tấn công lấy được khóa riêng của người dùng, gây ra sự lo ngại về bảo mật cho cộng đồng Zilliqa.</p><h2>3. Các dự án DeFi tiếp tục phát triển</h2><p>Mặc dù thị trường crypto đang trải qua những biến động mạnh, nhưng các dự án DeFi (tài chính phi tập trung) vẫn tiếp tục phát triển. Các dự án như Kalshi và Midnight đang thu hút sự chú ý với các sản phẩm và dịch vụ mới.</p><h2>Nhận định thị trường</h2><p>Thị trường crypto đang trải qua những biến động mạnh, nhưng vẫn có những cơ hội cho các nhà đầu tư. Việc Binance ghi nhận dòng tiền chảy ra lớn và Zilliqa phát hiện lỗ hổng bảo mật đã gây ra sự lo ngại, nhưng các dự án DeFi vẫn tiếp tục phát triển.</p><h2>Khuyến nghị nhà đầu tư</h2><p>Để đầu tư vào thị trường crypto, nhà đầu tư cần phải có kiến thức và kinh nghiệm. Họ nên theo dõi sát sao các sự kiện và xu hướng của thị trường, cũng như diversify danh mục đầu tư của mình để giảm thiểu rủi ro.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[2] Justin Sun's HTX 'Rotating' On-Chain Wallets Amid UK Sanctions: TRM Labs — <em>Decrypt</em></li>\n<li>[3] Zilliqa halts native transactions over bug in its Ledger app dating to 2019 — <em>The Block</em></li>\n<li>[4] Kalshi rolls out Midterm Hubs ahead of the November elections in the U.S. — <em>CoinDesk</em></li>\n<li>[5] Bitcoin analysis eyes ‘serious volume’ after Binance sees 9K BTC daily outflow — <em>Cointelegraph</em></li>\n<li>[6] Morning Minute: OpenAI Model Escapes Containment, Hacks Hugging Face — <em>Decrypt</em></li>\n<li>[7] Zilliqa Ledger app vulnerability lets attackers recover signer’s private keys — <em>Cointelegraph</em></li>\n<li>[8] Midnight token rebounds 19% after Wanchain bridge hack, Hoskinson calls for ZK revamp — <em>CoinDesk</em></li>\n<li>[9] US seeks forfeiture of $25M in crypto tied to romance, investment scams — <em>Cointelegraph</em></li>\n<li>[10] Here's why bitcoin bulls should take a closer look at interest rates — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "thị trường",
+        "điểm tin",
+        "decentralized finance"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1784725979/cryptohieuqua/posts/diem-tin-crypto-22072026-luc-2012-thi-truong-bien-dong-manh.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1784725979/cryptohieuqua/posts/diem-tin-crypto-22072026-luc-2012-thi-truong-bien-dong-manh.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-22072026-luc-2012-thi-truong-bien-dong-manh",
+        "width": 1450,
+        "height": 966,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 22/07/2026 lúc 20:12: Thị trường biến động mạnh"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / Decrypt / The Block / CoinDesk",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Justin Sun's HTX 'Rotating' On-Chain Wallets Amid UK Sanctions: TRM Labs",
+          "url": "https://decrypt.co/374030/justin-suns-htx-rotating-on-chain-wallets-amid-uk-sanctions-trm-labs",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Zilliqa halts native transactions over bug in its Ledger app dating to 2019",
+          "url": "https://www.theblock.co/post/409383/zilliqa-halts-native-transactions-over-bug-in-its-ledger-app-dating-to-2019?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Kalshi rolls out Midterm Hubs ahead of the November elections in the U.S.",
+          "url": "https://www.coindesk.com/markets/2026/07/22/kalshi-rolls-out-midterm-hubs-ahead-of-the-november-elections-in-the-u-s",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin analysis eyes ‘serious volume’ after Binance sees 9K BTC daily outflow",
+          "url": "https://cointelegraph.com/markets/bitcoin-analysis-eyes-serious-volume-after-binance-sees-9k-btc-daily-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Morning Minute: OpenAI Model Escapes Containment, Hacks Hugging Face",
+          "url": "https://decrypt.co/374029/morning-minute-openai-model-escapes-containment-hacks-hugging-face",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Zilliqa Ledger app vulnerability lets attackers recover signer’s private keys",
+          "url": "https://cointelegraph.com/news/zilliqa-ledger-vulnerability-attackers-recover-private-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Midnight token rebounds 19% after Wanchain bridge hack, Hoskinson calls for ZK revamp",
+          "url": "https://www.coindesk.com/business/2026/07/22/midnight-token-rebounds-after-wanchain-bridge-hack-hoskinson-calls-for-industry-overhaul",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "US seeks forfeiture of $25M in crypto tied to romance, investment scams",
+          "url": "https://cointelegraph.com/news/doj-25m-crypto-forfeiture-romance-investment-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Here's why bitcoin bulls should take a closer look at interest rates",
+          "url": "https://www.coindesk.com/daybook-us/2026/07/22/here-s-why-bitcoin-bulls-should-take-a-closer-look-at-interest-rates",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-07-22T13:13:00.162Z",
+      "slug": "diem-tin-crypto-22072026-luc-2012-thi-truong-bien-dong-manh"
+    },
+    {
       "id": "1784687902647",
       "title": "Điểm tin crypto 22/07/2026 lúc 09:38: Thị trường tiền điện tử đối mặt với thách thức và cơ hội mới",
       "summary": "Thị trường tiền điện tử đang trải qua một giai đoạn đầy thách thức và cơ hội mới, với các sự kiện như Balaji's Network School chuyển đến Kazakhstan, Satsuma bán thanh lý kho bạc Bitcoin và Digital Chamber khởi kiện Illinois về thuế tài sản kỹ thuật số.",
@@ -16724,15 +16803,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.theblock.co/post/406067/ripple-launches-rlusd-stablecoin-japan?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/news/abracadabra-takes-emergency-measures-as-magic-internet-money-depeg-worsens?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
-    "https://cointelegraph.com/news/kalshi-seeks-funding-at-40b-valuation-nearly-doubling-last-raise-ft?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
-    "https://www.theblock.co/post/406061/kalshi-40-billion-valuation?utm_source=rss&amp;utm_medium=rss",
-    "https://decrypt.co/372056/aave-token-climb-50x-end-2030-standard-chartered",
-    "https://cointelegraph.com/markets/hype-down-22-from-record-highs-can-spot-demand-retain-the-uptrend?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
-    "https://www.theblock.co/post/405858/bitcoin-miners-face-deepening-margin-squeeze-as-revenue-falls-below-production-costs?utm_source=rss&amp;utm_medium=rss",
-    "https://decrypt.co/372048/kalshi-sues-illinois-state-taxes-sports-related-prediction-markets",
-    "https://cointelegraph.com/news/ftx-exec-wife-november-trial-campaign-finance-charges?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
     "https://decrypt.co/372023/next-gamestop-meme-stock-traders-biggie-size-bet-wendys",
     "https://www.theblock.co/post/406159/four-arrested-poland-sim-swap-attacks-crypto-exchanges-zachxbt-social-engineering-threat-merry?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/coindesk-indices/2026/06/25/coindesk-20-performance-update-aave-gains-10-1-as-index-rises",
@@ -17223,10 +17293,18 @@
     "https://www.theblock.co/post/409173/trump-backed-crypto-ethics-rule-doj-enforcement-prohibits-federal-officials-issuing-cryptocurrencies?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/409160/the-digital-chamber-sues-illinois-over-incoming-crypto-transaction-tax?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/movement-labs-files-chapter-11-bankruptcy-move-token-turmoil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/post/409168/canton-digital-asset-additional-10-million-funding-same-2-billion-equity-valuation-expanding-round-365-million?utm_source=rss&amp;utm_medium=rss"
+    "https://www.theblock.co/post/409168/canton-digital-asset-additional-10-million-funding-same-2-billion-equity-valuation-expanding-round-365-million?utm_source=rss&amp;utm_medium=rss",
+    "https://decrypt.co/374030/justin-suns-htx-rotating-on-chain-wallets-amid-uk-sanctions-trm-labs",
+    "https://www.theblock.co/post/409383/zilliqa-halts-native-transactions-over-bug-in-its-ledger-app-dating-to-2019?utm_source=rss&amp;utm_medium=rss",
+    "https://www.coindesk.com/markets/2026/07/22/kalshi-rolls-out-midterm-hubs-ahead-of-the-november-elections-in-the-u-s",
+    "https://cointelegraph.com/markets/bitcoin-analysis-eyes-serious-volume-after-binance-sees-9k-btc-daily-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/374029/morning-minute-openai-model-escapes-containment-hacks-hugging-face",
+    "https://cointelegraph.com/news/zilliqa-ledger-vulnerability-attackers-recover-private-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/business/2026/07/22/midnight-token-rebounds-after-wanchain-bridge-hack-hoskinson-calls-for-industry-overhaul",
+    "https://cointelegraph.com/news/doj-25m-crypto-forfeiture-romance-investment-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/daybook-us/2026/07/22/here-s-why-bitcoin-bulls-should-take-a-closer-look-at-interest-rates"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/398968/the-beat-goes-on-michael-saylor-strategy-bitcoin-buys?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/365600/morning-minute-nfts-storm-back-led-by-bored-apes|https://cointelegraph.com/news/kbank-tests-ripple-wallet-for-remittances-as-south-korea-weighs-stablecoin-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/04/27/pudgy-penguins-rally-coincides-with-token-unlock-as-analyst-flags-exit-liquidity-risk|https://www.coindesk.com/markets/2026/04/27/bitcoin-funds-take-in-usd933-million-as-crypto-etfs-hit-highest-aum-since-february|https://www.theblock.co/post/398968/the-beat-goes-on-michael-saylor-strategy-bitcoin-buys?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/398948/the-block-appoints-steve-chung-ceo?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/04/27/pudgy-penguins-rally-coincides-with-token-unlock-as-analyst-flags-exit-liquidity-risk|https://www.coindesk.com/markets/2026/04/27/bitcoin-funds-take-in-usd933-million-as-crypto-etfs-hit-highest-aum-since-february",
     "https://decrypt.co/365604/bitcoin-etfs-extend-longest-win-streak-since-september-but-spot-demand-lags|https://www.theblock.co/post/398948/the-block-appoints-steve-chung-ceo?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/markets/first-21-week-trend-line-reclaim-since-october-2025-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -17425,6 +17503,7 @@
     "https://cointelegraph.com/magazine/peter-brandt-says-bitcoins-bear-market-isnt-over-predicts-final-bottom-in-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/business/2026/07/20/tom-lee-s-bitmine-slowed-ether-purchases-as-it-bought-back-usd86-million-in-stock",
     "https://www.theblock.co/post/409007/sec-charges-florida-man-mining-scheme?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/london-stock-exchange-plans-round-the-clock-trading-in-2027-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/409000/trump-agrees-to-ethics-provision-crypto-bill?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/409040/jito-rolls-out-jtx-self-custodial-trading-platform-for-solana-tokens-and-rwas?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/morpho-midnight-fixed-rate-lending-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/409062/morpho-midnight-fixed-rate-lending-protocol-base-onchain-credit-markets?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/news/balajis-network-school-turns-to-kazakhstan-amid-malaysia-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/374018/dat-satsuma-unwind-bitcoin-treasury-sell-off-btc|https://www.coindesk.com/policy/2026/07/21/crypto-lobby-group-tdc-sues-illinois-to-block-digital-asset-tax"
+    "https://cointelegraph.com/news/balajis-network-school-turns-to-kazakhstan-amid-malaysia-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/374018/dat-satsuma-unwind-bitcoin-treasury-sell-off-btc|https://www.coindesk.com/policy/2026/07/21/crypto-lobby-group-tdc-sues-illinois-to-block-digital-asset-tax",
+    "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/374030/justin-suns-htx-rotating-on-chain-wallets-amid-uk-sanctions-trm-labs|https://www.theblock.co/post/409383/zilliqa-halts-native-transactions-over-bug-in-its-ledger-app-dating-to-2019?utm_source=rss&amp;utm_medium=rss"
   ]
 }
