@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://cryptohieu.com/</loc>
-    <lastmod>2026-07-21</lastmod>
+    <lastmod>2026-07-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://cryptohieu.com/#diem-tin-crypto-22072026-luc-0938-thi-truong-tien-dien-tu-doi-mat-voi-thach-thuc</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1784687901/cryptohieuqua/posts/diem-tin-crypto-22072026-luc-0938-thi-truong-tien-dien-tu-doi-mat-voi-thach-thuc.jpg</image:loc>
+      <image:title>Điểm tin crypto 22/07/2026 lúc 09:38: Thị trường tiền điện tử đối mặt với thách thức và cơ hội mới</image:title>
+      <image:caption>Điểm tin crypto 22/07/2026 lúc 09:38: Thị trường tiền điện tử đối mặt với thách thức và cơ hội mới</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://cryptohieu.com/#diem-tin-crypto-21072026-luc-2007-nhieu-su-kien-quan-trong</loc>
