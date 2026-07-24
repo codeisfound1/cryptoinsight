@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1784898562591",
+      "title": "Điểm tin crypto 24/07/2026 lúc 20:09: Thị trường tiền điện tử biến động mạnh",
+      "summary": "Thị trường tiền điện tử đang trải qua một giai đoạn biến động mạnh với nhiều sự kiện quan trọng diễn ra trong ngày 24/07/2026. Từ việc các nhà nông ở Brazil sử dụng công nghệ blockchain để vay vốn đến việc Ủy ban Chứng khoán và Giao dịch Thái Lan (SEC) đệ trình khiếu nại chống lại Bitkub, những sự kiện này đang làm thay đổi cục diện của thị trường.",
+      "content": "<p>Thị trường tiền điện tử đang trải qua một giai đoạn biến động mạnh với nhiều sự kiện quan trọng diễn ra trong ngày 24/07/2026. Từ việc các nhà nông ở Brazil sử dụng công nghệ blockchain để vay vốn đến việc Ủy ban Chứng khoán và Giao dịch Thái Lan (SEC) đệ trình khiếu nại chống lại Bitkub, những sự kiện này đang làm thay đổi cục diện của thị trường.</p><h2>1. Các nhà nông Brazil sử dụng blockchain để vay vốn</h2><p>Các nhà nông ở Brazil đã bắt đầu sử dụng công nghệ blockchain để vay vốn bằng cách token hóa đàn bò sữa của họ. Điều này cho phép họ vay vốn mà không cần phải trải qua các quy trình vay vốn truyền thống của ngân hàng. Sự kiện này cho thấy tiềm năng của công nghệ blockchain trong việc tài trợ cho các doanh nghiệp nông nghiệp.</p><h2>2. Ủy ban Chứng khoán và Giao dịch Thái Lan đệ trình khiếu nại chống lại Bitkub</h2><p>Ủy ban Chứng khoán và Giao dịch Thái Lan (SEC) đã đệ trình khiếu nại chống lại Bitkub, một sàn giao dịch tiền điện tử lớn ở Thái Lan, vì đã cung cấp thông tin sai lệch liên quan đến một cuộc tấn công mạng vào năm 2021. Sự kiện này cho thấy sự tăng cường giám sát của các cơ quan quản lý đối với thị trường tiền điện tử.</p><h2>3. Arthur Hayes và các đồng sáng lập BitMEX đối mặt với cáo buộc gian lận</h2><p>Arthur Hayes và các đồng sáng lập BitMEX đang đối mặt với cáo buộc gian lận liên quan đến việc tạo ra một \n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] Brazilian farmers tokenized dairy cows to get loans, bypassing bank lending limits — <em>CoinDesk</em></li>\n<li>[2] Thailand SEC files complaint against Bitkub over alleged false disclosures — <em>Cointelegraph</em></li>\n<li>[3] Arthur Hayes, BitMEX co-founders face fraud claims over alleged ‘Insider Trading Desk’ as exchange winds down — <em>The Block</em></li>\n<li>[4] Morning Minute: Bitcoin's New $15M Quantum Defense Fund — <em>Decrypt</em></li>\n<li>[5] India Orders GitHub to Take Down Jack Dorsey's Bitchat Amid Protests — <em>Decrypt</em></li>\n<li>[6] Odos Protocol to shut down, gives users until July 30 to withdraw assets — <em>Cointelegraph</em></li>\n<li>[7] EU hits Russia with massive 21st sanctions package targeting $120B crypto network — <em>CoinDesk</em></li>\n<li>[8] Crypto market maker B2C2 held sale talks with multiple potential buyers — <em>CoinDesk</em></li>\n<li>[9] RWAs become Hyperliquid’s largest trading category — <em>Cointelegraph</em></li>\n<li>[10] Crypto's institutional influx has killed the memecoin craze — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "thị trường",
+        "điểm tin",
+        "blockchain",
+        "tiền điện tử"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1784898562/cryptohieuqua/posts/diem-tin-crypto-24072026-luc-2009-thi-truong-tien-dien-tu-bien-dong-manh.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1784898562/cryptohieuqua/posts/diem-tin-crypto-24072026-luc-2009-thi-truong-tien-dien-tu-bien-dong-manh.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-24072026-luc-2009-thi-truong-tien-dien-tu-bien-dong-manh",
+        "width": 1620,
+        "height": 1080,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 24/07/2026 lúc 20:09: Thị trường tiền điện tử biến động mạnh"
+      },
+      "sourceUrl": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
+      "sourceTitle": "CoinDesk / Cointelegraph / The Block / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank lending limits",
+          "url": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Thailand SEC files complaint against Bitkub over alleged false disclosures",
+          "url": "https://cointelegraph.com/news/bitkub-criminal-complaint-thailand-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Arthur Hayes, BitMEX co-founders face fraud claims over alleged ‘Insider Trading Desk’ as exchange winds down",
+          "url": "https://www.theblock.co/post/409595/arthur-hayes-bitmex-co-founders-face-fraud-claims-over-alleged-insider-trading-desk-as-exchange-winds-down?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Morning Minute: Bitcoin's New $15M Quantum Defense Fund",
+          "url": "https://decrypt.co/374222/morning-minute-bitcoins-new-15m-quantum-defense-fund",
+          "source": "Decrypt"
+        },
+        {
+          "title": "India Orders GitHub to Take Down Jack Dorsey's Bitchat Amid Protests",
+          "url": "https://decrypt.co/374239/india-orders-github-to-take-down-jack-dorseys-bitchat-amid-protests",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Odos Protocol to shut down, gives users until July 30 to withdraw assets",
+          "url": "https://cointelegraph.com/news/odos-protocol-shut-down-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "EU hits Russia with massive 21st sanctions package targeting $120B crypto network",
+          "url": "https://www.coindesk.com/policy/2026/07/24/eu-hits-russia-with-massive-21st-sanctions-package-targeting-usd120b-crypto-network",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Crypto market maker B2C2 held sale talks with multiple potential buyers",
+          "url": "https://www.coindesk.com/business/2026/06/29/crypto-market-maker-b2c2-held-sale-talks-with-multiple-potential-buyers",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "RWAs become Hyperliquid’s largest trading category",
+          "url": "https://cointelegraph.com/news/hyperliquid-rwa-volume-crypto-trading-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Crypto's institutional influx has killed the memecoin craze",
+          "url": "https://www.coindesk.com/daybook-us/2026/07/24/crypto-s-institutional-influx-has-killed-the-memecoin-craze",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-07-24T13:09:22.591Z",
+      "slug": "diem-tin-crypto-24072026-luc-2009-thi-truong-tien-dien-tu-bien-dong-manh"
+    },
+    {
       "id": "1784860789900",
       "title": "Điểm tin crypto 24/07/2026 lúc 09:39: Thị trường tiền điện tử biến động mạnh",
       "summary": "Thị trường tiền điện tử đang biến động mạnh với sự ảnh hưởng của nhiều yếu tố như cuộc chiến tranh giữa Mỹ và Iran, việc SEC xem xét việc giao dịch chứng khoán 24 giờ và sự phát triển của công nghệ AI trong lĩnh vực tiền điện tử. Bitcoin đã giảm xuống dưới mức 65.000 USD và các nhà đầu tư đang chờ đợi sự rõ ràng về quy định tiền điện tử từ các cơ quan chức năng.",
@@ -17044,16 +17125,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/ascendex-exchange-reportedly-faces-liquidity-issues-claims-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/markets/sol-reclaims-72-but-onchain-data-flags-weakening-momentum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/us-senators-urge-cftc-probe-polymarket-over-report-deceptive-marketing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/markets/old-ether-wallets-move-37806-eth-as-whale-conviction-faces-key-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/post/406438/strategy-loses-bitcoin-premium-enterprise-mnav-dips-below-1?utm_source=rss&amp;utm_medium=rss",
-    "https://decrypt.co/372249/wall-street-next-tokenization-test-blackrock-backed-securitize-ipo",
-    "https://www.theblock.co/post/406432/ripple-ceo-says-michael-saylor-has-hurt-crypto-market-as-strategys-strc-trades-25-below-par?utm_source=rss&amp;utm_medium=rss",
-    "https://www.coindesk.com/markets/2026/06/26/aave-solana-ecosystem-tokens-lead-crypto-rebound-as-bitcoin-steadies-near-usd60-000",
-    "https://www.coindesk.com/policy/2026/06/26/u-s-house-democrat-who-may-soon-run-key-committee-condemns-crypto-in-401-k-s",
-    "https://decrypt.co/372244/linux-foundation-tech-giants-akrites-defend-open-source-ai-attacks",
     "https://cointelegraph.com/news/spain-no-extension-mica-compliance-crypto-companies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/policy/2026/06/27/binance-founder-cz-blames-crypto-s-sour-2026-on-mix-of-ai-global-tension-4-year-cycle",
     "https://www.coindesk.com/markets/2026/06/27/strategy-s-valuation-has-fallen-below-the-value-of-its-bitcoin-holdings",
@@ -17543,10 +17614,19 @@
     "https://cointelegraph.com/markets/bitcoin-dips-below-65k-iran-war-sparks-100-oil-us-bond-spike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/policy/2026/07/23/clarity-act-expected-to-miss-its-window-before-congress-summer-break-leadership-says",
     "https://decrypt.co/374178/nasdaq-listed-zhibao-bitcoin-treasury-220-million-stock-sale",
-    "https://cointelegraph.com/news/crypto-industry-contributed-us-economy-2026-nca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/crypto-industry-contributed-us-economy-2026-nca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
+    "https://cointelegraph.com/news/bitkub-criminal-complaint-thailand-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/post/409595/arthur-hayes-bitmex-co-founders-face-fraud-claims-over-alleged-insider-trading-desk-as-exchange-winds-down?utm_source=rss&amp;utm_medium=rss",
+    "https://decrypt.co/374222/morning-minute-bitcoins-new-15m-quantum-defense-fund",
+    "https://decrypt.co/374239/india-orders-github-to-take-down-jack-dorseys-bitchat-amid-protests",
+    "https://cointelegraph.com/news/odos-protocol-shut-down-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/policy/2026/07/24/eu-hits-russia-with-massive-21st-sanctions-package-targeting-usd120b-crypto-network",
+    "https://www.coindesk.com/business/2026/06/29/crypto-market-maker-b2c2-held-sale-talks-with-multiple-potential-buyers",
+    "https://cointelegraph.com/news/hyperliquid-rwa-volume-crypto-trading-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/daybook-us/2026/07/24/crypto-s-institutional-influx-has-killed-the-memecoin-craze"
   ],
   "publishedBatchKeys": [
-    "https://decrypt.co/365606/money-launderer-sentenced-to-70-months-over-263m-crypto-social-engineering-scheme|https://www.theblock.co/post/398978/td-cowen-reiterates-buy-rating-on-smarter-web-company-says-it-remains-uks-only-scaled-bitcoin-treasury-vehicle?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/365604/bitcoin-etfs-extend-longest-win-streak-since-september-but-spot-demand-lags",
     "https://www.theblock.co/post/398986/strive-acquires-789-btc-bumping-ninth-largest-corporate-bitcoin-treasury-over-14000-btc?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/398982/bitmines-ether-holdings-top-5-078-million-after-largest-purchase-since-december?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/business/2026/04/27/bitmine-buys-usd236-million-in-ether-as-tom-lee-touts-eth-as-wartime-store-of-value",
     "https://decrypt.co/365620/bitcoin-giant-strategy-buying-pace-falls-strc-cooldown|https://www.coindesk.com/opinion/2026/04/27/signal-in-the-age-of-infinite-noise|https://www.coindesk.com/markets/2026/04/27/michael-saylor-s-strategy-buys-3-273-bitcoin-as-it-inches-closer-to-its-1-million-target",
     "https://decrypt.co/365619/tom-lees-bitmine-biggest-ethereum-buy-december-eth-milestone|https://decrypt.co/365620/bitcoin-giant-strategy-buying-pace-falls-strc-cooldown|https://www.coindesk.com/opinion/2026/04/27/signal-in-the-age-of-infinite-noise",
@@ -17745,6 +17825,7 @@
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/374030/justin-suns-htx-rotating-on-chain-wallets-amid-uk-sanctions-trm-labs|https://www.theblock.co/post/409383/zilliqa-halts-native-transactions-over-bug-in-its-ledger-app-dating-to-2019?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/afx-protocol-reportedly-loses-24m-in-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/409482/arbitrum-protocol-afx-trade-exploit?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/policy/2026/07/22/senator-lummis-ethics-other-provisions-in-crypto-clarity-act-to-be-further-discussed",
     "https://cointelegraph.com/news/strategy-consortium-15m-quantum-proof-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/opinion/2026/07/23/the-kids-act-is-way-worse-than-digital-carding-it-is-a-mass-surveillance-system|https://cointelegraph.com/news/binance-stop-the-traffik-anti-human-trafficking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/sec-to-host-roundtable-on-24-hour-trading-in-us-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/374189/black-forest-labs-flux-3-image-video-robot-hands|https://cointelegraph.com/news/gemini-winklevoss-bitcoin-donald-trump-pac-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/sec-to-host-roundtable-on-24-hour-trading-in-us-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/374189/black-forest-labs-flux-3-image-video-robot-hands|https://cointelegraph.com/news/gemini-winklevoss-bitcoin-donald-trump-pac-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits|https://cointelegraph.com/news/bitkub-criminal-complaint-thailand-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/409595/arthur-hayes-bitmex-co-founders-face-fraud-claims-over-alleged-insider-trading-desk-as-exchange-winds-down?utm_source=rss&amp;utm_medium=rss"
   ]
 }
