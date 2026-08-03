@@ -1,6 +1,85 @@
 {
   "posts": [
     {
+      "id": "1785725225593",
+      "title": "Điểm tin crypto 03/08/2026 lúc 09:47: Lỗ hổng Coldcard và tương lai thị trường",
+      "summary": "Lỗ hổng Coldcard khiến 389 Bitcoin bị đánh cắp, SEC giữ lại quyết định về tùy chọn Bitcoin của Nasdaq, và Strategy cân nhắc mua thêm Bitcoin sau 5 tuần ngừng hoạt động. Thị trường crypto đang trải qua những biến động lớn.",
+      "content": "<p>Thị trường tiền điện tử đang trải qua những biến động lớn trong những ngày gần đây. Từ lỗ hổng Coldcard đến quyết định của SEC về tùy chọn Bitcoin của Nasdaq, mỗi sự kiện đều có tác động đáng kể đến thị trường.</p><h2>1. Lỗ hổng Coldcard</h2><p>Lỗ hổng Coldcard đã khiến 389 Bitcoin bị đánh cắp, với tổng thiệt hại lên đến 88 triệu đô la. Đây là một trong những vụ tấn công lớn nhất vào hệ thống lưu trữ Bitcoin.</p><h2>2. Quyết định của SEC</h2><p>SEC đã giữ lại quyết định về tùy chọn Bitcoin của Nasdaq, khiến thị trường phải chờ đợi thêm. Điều này cho thấy sự thận trọng của cơ quan quản lý trong việc chấp thuận các sản phẩm tài chính mới.</p><h2>3. Chiến lược của Strategy</h2><p>Strategy đang cân nhắc mua thêm Bitcoin sau 5 tuần ngừng hoạt động. Điều này cho thấy sự quan tâm của các nhà đầu tư institution đến thị trường Bitcoin.</p><h2>Nhận định thị trường</h2><p>Thị trường crypto đang trải qua những biến động lớn, nhưng vẫn có những cơ hội đầu tư hấp dẫn. Nhà đầu tư cần phải theo dõi sát sao các sự kiện và phân tích kỹ lưỡng trước khi đưa ra quyết định.</p><h2>Khuyến nghị nhà đầu tư</h2><p>Nhà đầu tư nên thận trọng khi đầu tư vào thị trường crypto, đặc biệt là khi có những biến động lớn. Hãy theo dõi sát sao các sự kiện và phân tích kỹ lưỡng trước khi đưa ra quyết định.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] Suspected 4th Coldcard attack wave sweeps 389 Bitcoin: Galaxy’s Thorn — <em>Cointelegraph</em></li>\n<li>[2] Coldcard exploit sparks Bitcoin flight, ‘bullish’ crypto consolidation: Hodler’s Digest, August 2 — <em>Cointelegraph</em></li>\n<li>[3] SEC keeps Nasdaq bitcoin options on hold after granting CME review — <em>The Block</em></li>\n<li>[4] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[5] Counting down the days: State of Crypto — <em>CoinDesk</em></li>\n<li>[6] Saylor hints at Strategy bitcoin buy after five-week pause as STRC rate stays at 12%: ‘Bitcoin Drive engaged’ — <em>The Block</em></li>\n<li>[7] Coldcard Bitcoin Exploit Balloons to $88 Million as Attackers Keep Draining Wallets — <em>Decrypt</em></li>\n<li>[8] Why a DeFi platform ditched its consumer app to become the secret backend for tech giants — <em>CoinDesk</em></li>\n<li>[9] The future of crypto payments won't include on-ramps or bridges, Fun CEO says — <em>CoinDesk</em></li>\n<li>[10] Strategy leaves preferred STRC dividend at 12% as price still below par — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "coldcard",
+        "thị trường",
+        "điểm tin"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1785725225/cryptohieuqua/posts/diem-tin-crypto-03082026-luc-0947-lo-hong-coldcard-va-tuong-lai-thi-truong.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1785725225/cryptohieuqua/posts/diem-tin-crypto-03082026-luc-0947-lo-hong-coldcard-va-tuong-lai-thi-truong.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-03082026-luc-0947-lo-hong-coldcard-va-tuong-lai-thi-truong",
+        "width": 1450,
+        "height": 966,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 03/08/2026 lúc 09:47: Lỗ hổng Coldcard và tương lai thị trường"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/suspected-4th-coldcard-attack-wave-sweeps-389-bitcoin-galaxys-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / The Block / CoinDesk / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Suspected 4th Coldcard attack wave sweeps 389 Bitcoin: Galaxy’s Thorn",
+          "url": "https://cointelegraph.com/news/suspected-4th-coldcard-attack-wave-sweeps-389-bitcoin-galaxys-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Coldcard exploit sparks Bitcoin flight, ‘bullish’ crypto consolidation: Hodler’s Digest, August 2",
+          "url": "https://cointelegraph.com/magazine/coldcard-exploit-sparks-bitcoin-flight-clarity-act-no-vote-or-no-vote-hodlers-digest-august-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "SEC keeps Nasdaq bitcoin options on hold after granting CME review",
+          "url": "https://www.theblock.co/post/410373/sec-keeps-nasdaq-bitcoin-options-on-hold-after-granting-cme-review?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Counting down the days: State of Crypto",
+          "url": "https://www.coindesk.com/policy/2026/08/02/counting-down-the-days-state-of-crypto",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Saylor hints at Strategy bitcoin buy after five-week pause as STRC rate stays at 12%: ‘Bitcoin Drive engaged’",
+          "url": "https://www.theblock.co/post/410370/saylor-hints-at-strategy-bitcoin-buy-after-five-week-pause-as-strc-rate-stays-at-12-bitcoin-drive-engaged?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Coldcard Bitcoin Exploit Balloons to $88 Million as Attackers Keep Draining Wallets",
+          "url": "https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
+          "url": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "The future of crypto payments won't include on-ramps or bridges, Fun CEO says",
+          "url": "https://www.coindesk.com/tech/2026/08/02/the-future-of-crypto-payments-won-t-include-on-ramps-or-bridges-fun-ceo-says",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Strategy leaves preferred STRC dividend at 12% as price still below par",
+          "url": "https://cointelegraph.com/news/strategy-leaves-preferred-strc-dividend-at-12-price-still-below-par?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-08-03T02:47:05.593Z",
+      "slug": "diem-tin-crypto-03082026-luc-0947-lo-hong-coldcard-va-tuong-lai-thi-truong"
+    },
+    {
       "id": "1785674838136",
       "title": "Điểm tin crypto 02/08/2026 lúc 19:47: Khảo sát thị trường và phân tích sự kiện",
       "summary": "Thị trường tiền điện tử đang chứng kiến sự biến động mạnh với sự kiện hack Coldcard, BNB Chain khởi kiện cựu nhân viên và các tin tức khác. Bài viết này sẽ phân tích các sự kiện quan trọng và đưa ra nhận định về thị trường chung.",
@@ -18565,15 +18644,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/business/2026/07/05/banks-have-stopped-asking-if-stablecoins-belong-in-finance-now-they-re-considering-how",
-    "https://www.coindesk.com/opinion/2026/07/05/collateral-not-yield-will-decide-which-stablecoins-win",
-    "https://decrypt.co/372805/tom-lee-bitmine-73-million-ethereum-strategy-dumps-bitcoin",
-    "https://www.coindesk.com/business/2026/07/06/securitize-eyes-acquisitions-with-usd400-million-war-chest-after-going-public-ceo-says",
-    "https://www.theblock.co/post/407283/bitmines-tom-lee-ties-ether-strength-to-clarity-act-odds-as-treasury-nears-5-of-ethereums-total-supply?utm_source=rss&amp;utm_medium=rss",
-    "https://www.theblock.co/post/407282/terawulf-data-center-lease-anthropic-19-billion-revenue?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/news/fca-warns-of-major-shakeup-as-ai-agents-meet-tokenized-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/web3/2026/07/06/defi-protocol-summer-fi-halts-lazy-summer-vaults-after-usd6-million-exploit",
-    "https://www.theblock.co/post/407273/russias-largest-bank-sber-targets-early-december-crypto-wallet-launch-report?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/markets/2026/07/06/cantor-says-strategy-s-recovery-hinges-on-restoring-strc-to-par",
     "https://cointelegraph.com/news/crypto-hacks-fell-47-percent-in-h1-but-ecosystem-is-no-safer-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/trumps-bitcoin-reserve-stalled-by-interagency-dispute-over-control-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -19064,10 +19134,18 @@
     "https://www.coindesk.com/markets/2026/08/02/unlike-the-ftx-collapse-the-usd88-million-coldcard-exploit-has-investors-sending-bitcoin-back-to-exchanges",
     "https://cointelegraph.com/news/bnb-chain-legal-action-ex-employee-memecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/trump-media-2628-btc-crypto-com-4261-btc-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/coldcard-biggest-sub-1-btc-transfer-ftx-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/coldcard-biggest-sub-1-btc-transfer-ftx-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/suspected-4th-coldcard-attack-wave-sweeps-389-bitcoin-galaxys-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/magazine/coldcard-exploit-sparks-bitcoin-flight-clarity-act-no-vote-or-no-vote-hodlers-digest-august-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/post/410373/sec-keeps-nasdaq-bitcoin-options-on-hold-after-granting-cme-review?utm_source=rss&amp;utm_medium=rss",
+    "https://www.coindesk.com/policy/2026/08/02/counting-down-the-days-state-of-crypto",
+    "https://www.theblock.co/post/410370/saylor-hints-at-strategy-bitcoin-buy-after-five-week-pause-as-strc-rate-stays-at-12-bitcoin-drive-engaged?utm_source=rss&amp;utm_medium=rss",
+    "https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets",
+    "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants",
+    "https://www.coindesk.com/tech/2026/08/02/the-future-of-crypto-payments-won-t-include-on-ramps-or-bridges-fun-ceo-says",
+    "https://cointelegraph.com/news/strategy-leaves-preferred-strc-dividend-at-12-price-still-below-par?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
-    "https://cointelegraph.com/markets/bitcoin-futures-signal-caution-long-to-short-ratio?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/markets/bitcoin-recovery-stalls-after-fed-holds-interest-rates-citing-uncertainty-in-middle-east?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/366100/google-microsoft-ai-trade-openai-revenue-estimates",
     "https://www.coindesk.com/markets/2026/04/30/dogecoin-zooms-10-in-breakaway-from-bitcoin-as-open-interest-hits-year-high|https://www.coindesk.com/markets/2026/04/30/wlfi-races-toward-62-billion-token-unlock-with-near-unanimous-vote|https://www.theblock.co/post/399525/twenty-one-capital-merger-tether?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/399546/south-korea-seeks-20-years-delio-ceo?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/markets/bitcoin-eyes-75k-after-most-hawkish-fomc-as-oil-hits-highest-since-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/business/2026/04/30/xo-market-bets-on-user-generated-prediction-markets-to-rival-polymarket-and-kalshi",
     "https://cointelegraph.com/news/crypto-becomes-most-muted-topic-on-x-and-ai-slop-may-be-the-culprit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/markets/ethereum-bull-tom-lee-backs-3000-eth-upside-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/399546/south-korea-seeks-20-years-delio-ceo?utm_source=rss&amp;utm_medium=rss",
@@ -19266,6 +19344,7 @@
     "https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say|https://decrypt.co/374805/google-yanks-google-earth-ai-image-tool-deepfake-fears|https://www.theblock.co/post/410338/george-santos-to-pay-35000-cftc-settlement-kalshi-sotu-bet?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
     "https://www.coindesk.com/markets/2026/08/01/strategy-holds-strc-dividend-at-12|https://www.theblock.co/post/410355/iran-linked-exchange-sent-676-million-to-binance-in-alleged-sanctions-evasion-operation-reuters?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/markets/2026/08/02/unlike-the-ftx-collapse-the-usd88-million-coldcard-exploit-has-investors-sending-bitcoin-back-to-exchanges|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/bnb-chain-legal-action-ex-employee-memecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://www.coindesk.com/markets/2026/08/02/unlike-the-ftx-collapse-the-usd88-million-coldcard-exploit-has-investors-sending-bitcoin-back-to-exchanges|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/bnb-chain-legal-action-ex-employee-memecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/suspected-4th-coldcard-attack-wave-sweeps-389-bitcoin-galaxys-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/magazine/coldcard-exploit-sparks-bitcoin-flight-clarity-act-no-vote-or-no-vote-hodlers-digest-august-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/410373/sec-keeps-nasdaq-bitcoin-options-on-hold-after-granting-cme-review?utm_source=rss&amp;utm_medium=rss"
   ]
 }
