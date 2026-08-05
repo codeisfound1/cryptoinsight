@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://cryptohieu.com/</loc>
-    <lastmod>2026-08-04</lastmod>
+    <lastmod>2026-08-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://cryptohieu.com/#diem-tin-crypto-05082026-luc-0930-tom-tat-su-kien-quan-trong-ve-bitcoin-va-thi-t</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1785897011/cryptohieuqua/posts/diem-tin-crypto-05082026-luc-0930-tom-tat-su-kien-quan-trong-ve-bitcoin-va-thi-t.jpg</image:loc>
+      <image:title>Điểm tin crypto 05/08/2026 lúc 09:30: Tóm tắt sự kiện quan trọng về Bitcoin và thị trường tiền điện tử</image:title>
+      <image:caption>Điểm tin crypto 05/08/2026 lúc 09:30: Tóm tắt sự kiện quan trọng về Bitcoin và thị trường tiền điện tử</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://cryptohieu.com/#diem-tin-crypto-04082026-luc-2028-thi-truong-tien-dien-tu-bien-dong-manh</loc>

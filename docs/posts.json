@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1785897013690",
+      "title": "Điểm tin crypto 05/08/2026 lúc 09:30: Tóm tắt sự kiện quan trọng về Bitcoin và thị trường tiền điện tử",
+      "summary": "Tóm tắt các sự kiện quan trọng về Bitcoin, Ethereum và thị trường tiền điện tử, bao gồm việc đóng cửa của Boltz, sự quan tâm của AI đến thị trường crypto và ảnh hưởng của các sự kiện này đến nhà đầu tư Việt Nam",
+      "content": "<p>Thị trường tiền điện tử đang trải qua một giai đoạn đầy biến động với nhiều sự kiện quan trọng diễn ra trong thời gian gần đây. Từ việc đóng cửa của Boltz, một nhà cung cấp dịch vụ trao đổi Bitcoin không cần lưu ký, đến sự quan tâm của AI đến thị trường crypto, tất cả đều có thể ảnh hưởng đến giá trị của các loại tiền điện tử.</p><h2>1. Boltz đóng cửa do AI tìm ra lỗ hổng bảo mật quá nhanh</h2><p>Boltz, một nhà cung cấp dịch vụ trao đổi Bitcoin không cần lưu ký, đã quyết định đóng cửa do AI tìm ra lỗ hổng bảo mật quá nhanh. Điều này cho thấy sự quan trọng của bảo mật trong thị trường tiền điện tử và sự cần thiết phải đầu tư vào công nghệ bảo mật để bảo vệ tài sản của nhà đầu tư.</p><h2>2. Sự quan tâm của AI đến thị trường crypto</h2><p>AI đang trở thành một phần quan trọng của thị trường tiền điện tử, với nhiều ứng dụng và dịch vụ được phát triển để hỗ trợ việc mua bán và trao đổi tiền điện tử. Tuy nhiên, sự quan tâm của AI cũng có thể mang lại rủi ro, đặc biệt là khi nó được sử dụng để tìm ra lỗ hổng bảo mật.</p><h2>3. Tác động của các sự kiện đến nhà đầu tư Việt Nam</h2><p>Các sự kiện gần đây có thể ảnh hưởng đến quyết định đầu tư của nhà đầu tư Việt Nam. Việc đóng cửa của Boltz và sự quan tâm của AI đến thị trường crypto có thể làm cho nhà đầu tư trở nên thận trọng hơn khi đầu tư vào thị trường tiền điện tử.</p><h2>Nhận định thị trường</h2><p>Thị trường tiền điện tử đang trải qua một giai đoạn đầy biến động, với nhiều sự kiện quan trọng diễn ra trong thời gian gần đây. Nhà đầu tư cần phải thận trọng và cập nhật thông tin thường xuyên để có thể đưa ra quyết định đầu tư thông minh.</p><h2>Khuyến nghị nhà đầu tư</h2><p>Nhà đầu tư nên thận trọng khi đầu tư vào thị trường tiền điện tử và nên cập nhật thông tin thường xuyên để có thể đưa ra quyết định đầu tư thông minh. Ngoài ra, nhà đầu tư cũng nên đầu tư vào công nghệ bảo mật để bảo vệ tài sản của mình.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] This Bitcoin Bridge Shut Itself Down Because AI Was Finding Bugs Too Fast — <em>Decrypt</em></li>\n<li>[2] AI Enthusiast Bugs His Toddler's Sleepover and Feeds It to Claude—The Internet Bugs Back — <em>Decrypt</em></li>\n<li>[3] Tribal gaming regulators, senators make a renewed push to add prediction markets provision to Clarity Act — <em>The Block</em></li>\n<li>[4] OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit — <em>Decrypt</em></li>\n<li>[5] BlackRock’s spot Ethereum ETF to undergo 1-for-3 reverse share split in October — <em>The Block</em></li>\n<li>[6] Ledger Says Coldcard Exploit Shows Bitcoin Wallet Security Must Adapt to AI — <em>Decrypt</em></li>\n<li>[7] Jim Cramer Is Selling His Bitcoin Over Quantum Threat—Crypto Twitter Is Thrilled — <em>Decrypt</em></li>\n<li>[8] Police Have Arrested 37 Americans Over AI Data Center Protests This Year — <em>Decrypt</em></li>\n<li>[9] SpaceX tops Wall Street revenue forecast, posts $540 million loss on bitcoin holdings — <em>CoinDesk</em></li>\n<li>[10] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "thị trường",
+        "điểm tin",
+        "ai",
+        "an ninh mạng"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1785897011/cryptohieuqua/posts/diem-tin-crypto-05082026-luc-0930-tom-tat-su-kien-quan-trong-ve-bitcoin-va-thi-t.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1785897011/cryptohieuqua/posts/diem-tin-crypto-05082026-luc-0930-tom-tat-su-kien-quan-trong-ve-bitcoin-va-thi-t.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-05082026-luc-0930-tom-tat-su-kien-quan-trong-ve-bitcoin-va-thi-t",
+        "width": 1920,
+        "height": 1080,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 05/08/2026 lúc 09:30: Tóm tắt sự kiện quan trọng về Bitcoin và thị trường tiền điện tử"
+      },
+      "sourceUrl": "https://decrypt.co/374933/bitcoin-bridge-shuts-down-ai-finding-bugs-too-fast",
+      "sourceTitle": "Decrypt / The Block / CoinDesk / Cointelegraph",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "This Bitcoin Bridge Shut Itself Down Because AI Was Finding Bugs Too Fast",
+          "url": "https://decrypt.co/374933/bitcoin-bridge-shuts-down-ai-finding-bugs-too-fast",
+          "source": "Decrypt"
+        },
+        {
+          "title": "AI Enthusiast Bugs His Toddler's Sleepover and Feeds It to Claude—The Internet Bugs Back",
+          "url": "https://decrypt.co/374930/ai-enthusiast-bugged-toddler-sleepover-claude",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Tribal gaming regulators, senators make a renewed push to add prediction markets provision to Clarity Act",
+          "url": "https://www.theblock.co/post/410668/tribal-gaming-regulators-senators-make-renewed-push-add-prediction-markets-provision-clarity-act?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit",
+          "url": "https://decrypt.co/374928/openai-emails-text-messages-apple-trade-secrets-lawsuit",
+          "source": "Decrypt"
+        },
+        {
+          "title": "BlackRock’s spot Ethereum ETF to undergo 1-for-3 reverse share split in October",
+          "url": "https://www.theblock.co/post/410663/blackrocks-spot-ethereum-etf-to-undergo-1-for-3-reverse-share-split-in-october?utm_source=rss&amp;utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Ledger Says Coldcard Exploit Shows Bitcoin Wallet Security Must Adapt to AI",
+          "url": "https://decrypt.co/374914/ledger-coldcard-exploit-bitcoin-wallet-security-ai",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Jim Cramer Is Selling His Bitcoin Over Quantum Threat—Crypto Twitter Is Thrilled",
+          "url": "https://decrypt.co/374923/jim-cramer-selling-bitcoin-quantum-computing-threat",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Police Have Arrested 37 Americans Over AI Data Center Protests This Year",
+          "url": "https://decrypt.co/374921/ai-data-center-protest-arrests",
+          "source": "Decrypt"
+        },
+        {
+          "title": "SpaceX tops Wall Street revenue forecast, posts $540 million loss on bitcoin holdings",
+          "url": "https://www.coindesk.com/business/2026/08/04/spacex-tops-wall-street-revenue-forecast-posts-usd540-million-decline-on-bitcoin-holding-value",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-08-05T02:30:13.690Z",
+      "slug": "diem-tin-crypto-05082026-luc-0930-tom-tat-su-kien-quan-trong-ve-bitcoin-va-thi-t"
+    },
+    {
       "id": "1785850141727",
       "title": "Điểm tin crypto 04/08/2026 lúc 20:28: Thị trường tiền điện tử biến động mạnh",
       "summary": "Thị trường tiền điện tử đang trải qua những biến động mạnh với sự kiện Coldcard exploit, BitGo’s WBTC move và BlackRock tokenizes $311B của các quỹ tiền tệ châu Âu. Những sự kiện này đang tác động lớn đến thị trường và nhà đầu tư.",
@@ -18887,15 +18968,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.theblock.co/post/407511/jack-maller-strike-launches-volatility-proof-bitcoin-loans-protect-against-liquidation?utm_source=rss&amp;utm_medium=rss",
-    "https://decrypt.co/372957/ai-changing-workplace-universities-not-keeping-up-study",
-    "https://www.theblock.co/post/407555/strategys-3588-btc-sale-puts-future-bitcoin-selling-in-focus-analysts?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/markets/btc-speculators-in-focus-as-analysis-says-textbook-bitcoin-bottom-is-underway?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/372993/morning-minute-vanguard-hires-head-of-digital-assets-in-crypto-capitulation",
-    "https://www.coindesk.com/policy/2026/07/08/citadel-drops-u-s-portofino-suit-seeks-bankruptcy-order-against-firm-s-founder-in-uk",
-    "https://www.coindesk.com/markets/2026/07/08/spacex-s-first-bitcoin-wallet-movements-in-six-months-likely-don-t-signal-sales",
-    "https://decrypt.co/372994/bankers-filed-suspicious-activity-report-over-farages-5m-gift-from-tether-billionaire",
-    "https://cointelegraph.com/news/bitcoin-needs-no-savior-lyn-alden-strategy-216-million-btc-sale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/407406/bnb-chain-builds-new-layer-1-for-agentic-trading-targets-2027-mainnet?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/south-korea-toss-partners-optimism-won-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/crypto-vc-paradigm-raises-12b-to-push-into-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -19386,10 +19458,18 @@
     "https://www.theblock.co/post/410515/okx-says-coldcard-exploit-record-inflows-centralized-exchanges?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/tech/2026/08/04/coldcard-urges-users-to-move-bitcoin-as-active-wallet-exploit-continues",
     "https://cointelegraph.com/news/intesa-sanpaolo-bank-staked-ether-etf-ibit-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/374894/blackrock-tokenizes-311b-of-european-money-market-funds-with-jp-morgans-kinexys"
+    "https://decrypt.co/374894/blackrock-tokenizes-311b-of-european-money-market-funds-with-jp-morgans-kinexys",
+    "https://decrypt.co/374933/bitcoin-bridge-shuts-down-ai-finding-bugs-too-fast",
+    "https://decrypt.co/374930/ai-enthusiast-bugged-toddler-sleepover-claude",
+    "https://www.theblock.co/post/410668/tribal-gaming-regulators-senators-make-renewed-push-add-prediction-markets-provision-clarity-act?utm_source=rss&amp;utm_medium=rss",
+    "https://decrypt.co/374928/openai-emails-text-messages-apple-trade-secrets-lawsuit",
+    "https://www.theblock.co/post/410663/blackrocks-spot-ethereum-etf-to-undergo-1-for-3-reverse-share-split-in-october?utm_source=rss&amp;utm_medium=rss",
+    "https://decrypt.co/374914/ledger-coldcard-exploit-bitcoin-wallet-security-ai",
+    "https://decrypt.co/374923/jim-cramer-selling-bitcoin-quantum-computing-threat",
+    "https://decrypt.co/374921/ai-data-center-protest-arrests",
+    "https://www.coindesk.com/business/2026/08/04/spacex-tops-wall-street-revenue-forecast-posts-usd540-million-decline-on-bitcoin-holding-value"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/399575/gemini-derivatives-clearing-organization-license-cftc-stack?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/399569/north-korea-accounts-for-76-of-2026-crypto-hack-losses-with-theft-since-2017-topping-6-billion-trm-labs?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/business/2026/04/30/mara-holdings-to-buy-long-ridge-energy-in-usd1-5-billion-ai-data-center-push",
     "https://cointelegraph.com/markets/bitcoins-surge-through-77k-pressures-shorts-but-absent-spot-and-long-leverage-cap-rallies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/us-senate-bans-itself-from-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/markets/spot-bitcoin-etf-outflows-top-490m-is-btcs-rally-losing-momentum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/05/01/strategy-keeps-strc-dividend-at-11-5-as-stock-logs-first-monthly-gain-in-nine|https://cointelegraph.com/markets/bitcoins-surge-through-77k-pressures-shorts-but-absent-spot-and-long-leverage-cap-rallies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/tokenized-rwa-market-cap-spiked-in-the-last-15-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/399685/riot-33-million-data-center-revenue-debut-amd-doubles-contracted-capacity?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bakkt-completes-deal-to-acquire-distributed-technologies-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/05/01/bithumb-scores-a-legal-win-in-south-korea-as-six-month-suspension-is-lifted-by-local-judge",
@@ -19588,6 +19668,7 @@
     "https://cointelegraph.com/news/suspected-4th-coldcard-attack-wave-sweeps-389-bitcoin-galaxys-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/magazine/coldcard-exploit-sparks-bitcoin-flight-clarity-act-no-vote-or-no-vote-hodlers-digest-august-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/410373/sec-keeps-nasdaq-bitcoin-options-on-hold-after-granting-cme-review?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/markets/2026/08/03/circle-internet-slides-after-morgan-stanley-downgrade-cut-in-price-target|https://www.coindesk.com/policy/2026/08/03/bernstein-sees-another-leg-lower-for-crypto-markets-if-clarity-act-stalls|https://www.theblock.co/post/410441/tom-lee-says-ether-outperformed-nasdaq-100-july-bitmine-adds-10399-eth?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/magazine/hong-kong-lonely-heart-scammed-out-of-33m-in-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/caleb-brown-expands-to-uk-betting-on-untapped-crypto-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/boltz-pauses-service-after-wave-of-ai-assisted-hacking-attempts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/policy/2026/08/03/as-clarity-act-teeters-mystery-group-hammers-away-at-crypto-in-washington-ads|https://www.coindesk.com/business/2026/08/04/bitgo-s-wbtc-move-pushes-layerzero-to-chainlink-tally-near-usd15-billion|https://cointelegraph.com/news/texas-electric-grid-moratorim-btc-miners-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://www.coindesk.com/policy/2026/08/03/as-clarity-act-teeters-mystery-group-hammers-away-at-crypto-in-washington-ads|https://www.coindesk.com/business/2026/08/04/bitgo-s-wbtc-move-pushes-layerzero-to-chainlink-tally-near-usd15-billion|https://cointelegraph.com/news/texas-electric-grid-moratorim-btc-miners-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/374933/bitcoin-bridge-shuts-down-ai-finding-bugs-too-fast|https://decrypt.co/374930/ai-enthusiast-bugged-toddler-sleepover-claude|https://www.theblock.co/post/410668/tribal-gaming-regulators-senators-make-renewed-push-add-prediction-markets-provision-clarity-act?utm_source=rss&amp;utm_medium=rss"
   ]
 }
