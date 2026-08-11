@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1786451585004",
+      "title": "Điểm tin crypto 11/08/2026 lúc 19:33: Thị trường biến động với các sự kiện quan trọng",
+      "summary": "Thị trường crypto trải qua nhiều sự kiện quan trọng, từ việc Nga đề xuất giao dịch Bitcoin, Ether và USDT trên sàn giao dịch chính thức, đến việc MoneyGram mở rộng dịch vụ crypto-to-cash trên Solana. Ngoài ra, các vấn đề về bảo mật và quản lý cũng được chú trọng.",
+      "content": "<p>Thị trường crypto luôn biến động không ngừng, với nhiều sự kiện quan trọng xảy ra hàng ngày. Trong bài viết này, chúng ta sẽ điểm qua các sự kiện nổi bật nhất trong ngày 11/08/2026.</p><h2>1. Nga đề xuất giao dịch Bitcoin, Ether và USDT trên sàn giao dịch chính thức</h2><p>Nga đã đề xuất cho phép giao dịch Bitcoin, Ether và USDT trên các sàn giao dịch chính thức, đánh dấu một bước tiến quan trọng trong việc công nhận và quản lý thị trường crypto tại nước này.</p><h2>2. MoneyGram mở rộng dịch vụ crypto-to-cash trên Solana</h2><p>MoneyGram đã mở rộng dịch vụ crypto-to-cash của mình trên Solana, cho phép người dùng chuyển đổi tài sản crypto thành tiền mặt một cách dễ dàng và nhanh chóng.</p><h2>3. Vấn đề bảo mật và quản lý</h2><p>Các vấn đề về bảo mật và quản lý cũng được chú trọng, với việc Australia đình chỉ hoạt động của Cryptolink và yêu cầu các công ty cung cấp dịch vụ crypto phải tuân thủ các quy định nghiêm ngặt.</p><h2>4. Tác động đến nhà đầu tư Việt Nam</h2><p>Các sự kiện trên có thể có tác động nhất định đến nhà đầu tư Việt Nam, đặc biệt là những người đang đầu tư vào Bitcoin, Ether và các tài sản crypto khác. Nhà đầu tư cần phải cập nhật thông tin và phân tích kỹ lưỡng trước khi đưa ra quyết định đầu tư.</p><h2>Nhận định thị trường</h2><p>Thị trường crypto vẫn còn nhiều biến động và rủi ro, nhưng cũng có nhiều cơ hội cho những người đầu tư thông minh và am hiểu. Việc cập nhật thông tin và phân tích kỹ lưỡng là rất quan trọng để đưa ra quyết định đầu tư sáng suốt.</p><h2>Khuyến nghị nhà đầu tư</h2><p>Nhà đầu tư nên cập nhật thông tin thường xuyên, phân tích kỹ lưỡng và đưa ra quyết định đầu tư dựa trên sự hiểu biết và kinh nghiệm của mình. Ngoài ra, cũng nên đa dạng hóa danh mục đầu tư để giảm thiểu rủi ro.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] Morning Minute: Saylor's Strategy Sells Bitcoin for Second Week in a Row — <em>Decrypt</em></li>\n<li>[2] Russia proposes exchange trading of Bitcoin, Ether and Tether’s USDT — <em>Cointelegraph</em></li>\n<li>[3] North Korea Now Leans on Crime Networks to Launder Stolen Crypto: RUSI — <em>Decrypt</em></li>\n<li>[4] MoneyGram expands on Solana with global crypto-to-cash service — <em>CoinDesk</em></li>\n<li>[5] Australian watchdog suspends Cryptolink, forcing 96 ATMs offline — <em>CoinDesk</em></li>\n<li>[6] Trump Media records $360.6 million unrealized loss on digital assets in first half of the year — <em>The Block</em></li>\n<li>[7] Ravencoin could roll back four days of transactions after critical block flaw — <em>CoinDesk</em></li>\n<li>[8] Coinbase picks Abu Dhabi for its global tokenized asset push — <em>CoinDesk</em></li>\n<li>[9] When safe assets compete with risk. Lessons from the 1960s–90s for bitcoin and stocks. — <em>CoinDesk</em></li>\n<li>[10] ‘One of the single biggest barriers to growth’: UK lawmakers press banks over crypto access ahead of new FCA regime — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "thị trường",
+        "điểm tin",
+        "solana",
+        "moneygram"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1786451584/cryptohieuqua/posts/diem-tin-crypto-11082026-luc-1933-thi-truong-bien-dong-voi-cac-su-kien-quan-tron.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1786451584/cryptohieuqua/posts/diem-tin-crypto-11082026-luc-1933-thi-truong-bien-dong-voi-cac-su-kien-quan-tron.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-11082026-luc-1933-thi-truong-bien-dong-voi-cac-su-kien-quan-tron",
+        "width": 1280,
+        "height": 720,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 11/08/2026 lúc 19:33: Thị trường biến động với các sự kiện quan trọng"
+      },
+      "sourceUrl": "https://decrypt.co/375304/morning-minute-saylors-strategy-sells-bitcoin-for-second-week-in-a-row",
+      "sourceTitle": "Decrypt / Cointelegraph / CoinDesk / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Morning Minute: Saylor's Strategy Sells Bitcoin for Second Week in a Row",
+          "url": "https://decrypt.co/375304/morning-minute-saylors-strategy-sells-bitcoin-for-second-week-in-a-row",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Russia proposes exchange trading of Bitcoin, Ether and Tether’s USDT",
+          "url": "https://cointelegraph.com/news/bank-of-russia-trading-bitcoin-ether-tether-usdt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "North Korea Now Leans on Crime Networks to Launder Stolen Crypto: RUSI",
+          "url": "https://decrypt.co/375305/north-korea-now-leans-on-crime-networks-to-launder-stolen-crypto-rusi",
+          "source": "Decrypt"
+        },
+        {
+          "title": "MoneyGram expands on Solana with global crypto-to-cash service",
+          "url": "https://www.coindesk.com/business/2026/08/10/moneygram-expands-on-solana-with-global-crypto-to-cash-service",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Australian watchdog suspends Cryptolink, forcing 96 ATMs offline",
+          "url": "https://www.coindesk.com/policy/2026/08/11/australian-watchdog-suspends-cryptolink-forcing-96-atms-offline",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Trump Media records $360.6 million unrealized loss on digital assets in first half of the year",
+          "url": "https://www.theblock.co/news/business/2026-08-11-trump-media-records-360-6-million-unrealized-loss-on-digital-assets-in-first-half-of-the-year-411394",
+          "source": "The Block"
+        },
+        {
+          "title": "Ravencoin could roll back four days of transactions after critical block flaw",
+          "url": "https://www.coindesk.com/tech/2026/08/11/ravencoin-could-roll-back-four-days-of-transactions-after-critical-block-flaw",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Coinbase picks Abu Dhabi for its global tokenized asset push",
+          "url": "https://www.coindesk.com/business/2026/08/11/coinbase-picks-abu-dhabi-for-its-global-tokenized-asset-push",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "When safe assets compete with risk. Lessons from the 1960s–90s for bitcoin and stocks.",
+          "url": "https://www.coindesk.com/daybook-us/2026/08/11/when-safe-assets-compete-with-risk-lessons-from-the-1960s-90s-for-bitcoin-and-stocks",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "‘One of the single biggest barriers to growth’: UK lawmakers press banks over crypto access ahead of new FCA regime",
+          "url": "https://www.theblock.co/news/regulation/2026-08-11-uk-crypto-banking-access-411389",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-08-11T12:33:05.004Z",
+      "slug": "diem-tin-crypto-11082026-luc-1933-thi-truong-bien-dong-voi-cac-su-kien-quan-tron"
+    },
+    {
       "id": "1786412599718",
       "title": "Điểm tin crypto 11/08/2026 lúc 08:43: Thị trường crypto biến động mạnh",
       "summary": "Thị trường crypto đang trải qua nhiều biến động với sự kiện Vitalik Buterin nói về tương lai của Ethereum, Trump Media mất 361 triệu đô la vì Bitcoin và các sự kiện khác",
@@ -19925,16 +20006,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/markets/2026/07/14/u-s-june-cpi-fell-0-4-likely-cooling-move-toward-fed-rate-hikes",
-    "https://www.theblock.co/post/408215/cleanspark-signs-20-year-data-center-lease-with-unnamed-tech-giant?utm_source=rss&amp;utm_medium=rss",
-    "https://decrypt.co/373466/morning-minute-saylors-strategy-hoards-cash-doesnt-buy-btc",
-    "https://www.coindesk.com/business/2026/07/14/ecb-picks-firms-including-deutsche-bank-revolut-for-digital-euro-pilot",
-    "https://www.coindesk.com/business/2026/07/14/circle-signs-mou-with-japan-s-largest-card-network-to-explore-stablecoin-payments",
-    "https://cointelegraph.com/news/aba-banking-associations-clarity-act-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/solana-community-lead-uk-by-election-pension-self-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/ecb-36-payment-providers-digital-euro-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/daybook-us/2026/07/14/u-s-iran-escalation-weighs-on-bitcoin-stocks-as-oil-climbs",
-    "https://www.theblock.co/learn/408181/how-asset-managers-are-investing-in-crypto?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/learn/408147/bitcoin-vs-gold-as-a-reserve-asset?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/408336/ark-invest-adds-14-million-in-circle?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/bitmine-generated-46m-from-ethereum-staking-last-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -20424,10 +20495,19 @@
     "https://www.coindesk.com/coindesk-news/2026/08/10/strategy-builds-usd4-75-billion-cash-cushion-as-only-bitcoin-isn-t-enough-for-investors",
     "https://decrypt.co/375269/hidden-text-pdfs-hijacking-ai-assistant-prompt-injection",
     "https://cointelegraph.com/news/tron-usdt-supply-hits-879b-as-transfers-reach-21t-in-q2-messari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/world-liberty-financial-uk-money-laundering-donald-trump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/world-liberty-financial-uk-money-laundering-donald-trump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/375304/morning-minute-saylors-strategy-sells-bitcoin-for-second-week-in-a-row",
+    "https://cointelegraph.com/news/bank-of-russia-trading-bitcoin-ether-tether-usdt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/375305/north-korea-now-leans-on-crime-networks-to-launder-stolen-crypto-rusi",
+    "https://www.coindesk.com/business/2026/08/10/moneygram-expands-on-solana-with-global-crypto-to-cash-service",
+    "https://www.coindesk.com/policy/2026/08/11/australian-watchdog-suspends-cryptolink-forcing-96-atms-offline",
+    "https://www.theblock.co/news/business/2026-08-11-trump-media-records-360-6-million-unrealized-loss-on-digital-assets-in-first-half-of-the-year-411394",
+    "https://www.coindesk.com/tech/2026/08/11/ravencoin-could-roll-back-four-days-of-transactions-after-critical-block-flaw",
+    "https://www.coindesk.com/business/2026/08/11/coinbase-picks-abu-dhabi-for-its-global-tokenized-asset-push",
+    "https://www.coindesk.com/daybook-us/2026/08/11/when-safe-assets-compete-with-risk-lessons-from-the-1960s-90s-for-bitcoin-and-stocks",
+    "https://www.theblock.co/news/regulation/2026-08-11-uk-crypto-banking-access-411389"
   ],
   "publishedBatchKeys": [
-    "https://www.coindesk.com/coindesk-indices/2026/05/04/coindesk-20-performance-update-bittensor-tao-jumps-4-1-over-the-weekend|https://www.coindesk.com/learn/2026/05/04/a-beginner-s-guide-to-stablecoins|https://www.theblock.co/post/399867/bitcoin-scaling-layer-citrea-rolls-out-ctr-token-and-dual-treasury-model?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/399973/crypto-stocks-rally-circle-jumps?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/05/05/bitcoin-tests-usd80-000-as-asia-s-bid-fades-and-hong-kong-ai-ipos-surge|https://cointelegraph.com/news/western-union-officially-launches-usdpt-stablecoin-on-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/05/05/bitcoin-absorbed-usd200-million-profit-taking-at-usd80-000-in-a-bullish-sign-for-btc|https://decrypt.co/366768/bitcoins-81k-rally-comes-amid-66-day-negative-funding-streak-heres-why|https://www.theblock.co/post/400016/global-crypto-etp-inflow-streak-extends-to-five-weeks-masking-sharp-intraweek-reversal-coinshares?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/business/2026/05/05/michael-saylor-s-strategy-signals-potential-bitcoin-sale-to-fund-dividends-obligations|https://www.coindesk.com/policy/2026/05/05/trust-in-crypto-remains-biggest-barrier-to-adoption-say-consensus-miami-2026-panelists|https://decrypt.co/366903/kelp-layerzero-292-million-hack-plans-move-chainlink",
@@ -20626,6 +20706,7 @@
     "https://cointelegraph.com/news/bitcoin-bip-110-branch-stalls-miner-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/brazil-targets-crypto-fraud-with-up-to-24-hour-transfer-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/magazine/bip-110-dies-with-a-whimper-clarity-vote-punted-hodlers-digest-aug-9?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/ex-us-defense-secretary-calls-clarity-act-a-national-security-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/375177/bitcoin-anti-spam-fork-splutters-halt-mining-just-two-blocks",
     "https://decrypt.co/375194/morning-minute-bitcoin-etfs-see-biggest-inflows-since-may|https://decrypt.co/375196/strategy-sells-109m-in-bitcoin-as-dollar-reserve-tops-4-6b|https://decrypt.co/375192/bitcoin-etfs-draw-854m-over-five-days-as-rate-hike-bets-fade",
-    "https://decrypt.co/375285/vitalik-buterin-ethereum-betting-future-quantum-ai|https://www.coindesk.com/business/2026/08/10/trump-media-s-bitcoin-holdings-shrink-as-crypto-losses-hit-usd361-million|https://decrypt.co/375282/bitcoin-atms-pulled-australia-regulators-crackdown"
+    "https://decrypt.co/375285/vitalik-buterin-ethereum-betting-future-quantum-ai|https://www.coindesk.com/business/2026/08/10/trump-media-s-bitcoin-holdings-shrink-as-crypto-losses-hit-usd361-million|https://decrypt.co/375282/bitcoin-atms-pulled-australia-regulators-crackdown",
+    "https://decrypt.co/375304/morning-minute-saylors-strategy-sells-bitcoin-for-second-week-in-a-row|https://cointelegraph.com/news/bank-of-russia-trading-bitcoin-ether-tether-usdt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/375305/north-korea-now-leans-on-crime-networks-to-launder-stolen-crypto-rusi"
   ]
 }
