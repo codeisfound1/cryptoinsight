@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1786795822156",
+      "title": "Điểm tin crypto 15/08/2026 lúc 19:10: Sự kiện quan trọng trong tuần",
+      "summary": "Tuần này chứng kiến nhiều sự kiện quan trọng trong lĩnh vực tiền điện tử, bao gồm cả việc Wall Street quan tâm đến công nghệ blockchain và sự phát triển của các dự án mới. Ngoài ra, các vấn đề về quy định và an ninh cũng được chú ý.",
+      "content": "<p>Thị trường tiền điện tử trong tuần qua đã chứng kiến nhiều sự kiện quan trọng và thú vị. Từ việc Wall Street quan tâm đến công nghệ blockchain cho đến sự phát triển của các dự án mới, tất cả đều cho thấy sự đa dạng và phong phú của lĩnh vực này.</p><h2>1. Sự quan tâm của Wall Street đối với công nghệ blockchain</h2><p>Theo một bài báo trên CoinDesk, sự quan tâm của Wall Street đối với công nghệ blockchain đang trở nên ngày càng tăng. Tuy nhiên, một số chuyên gia cảnh báo rằng sự quan tâm này có thể dẫn đến một cuộc đua xuống đáy nếu không được kiểm soát chặt chẽ.</p><h2>2. Phát triển dự án Kalshi</h2><p>Dự án Kalshi, một dự án về thị trường dự đoán, đã phải ngừng hoạt động tại bang Washington do vấn đề về quy định. Điều này cho thấy sự phức tạp và khó khăn trong việc áp dụng công nghệ blockchain vào thực tế.</p><h2>3. Xu hướng của thế hệ Gen Z</h2><p>Theo một báo cáo của Binance, thế hệ Gen Z đang có xu hướng ưa chuộng các quỹ đầu tư ETF và giao dịch ít hơn so với các thế hệ trước. Điều này cho thấy sự khác biệt trong cách tiếp cận thị trường của các thế hệ khác nhau.</p><h2>4. Sự phát triển của công nghệ AI</h2><p>Công ty Z.AI của Trung Quốc đã phát triển một mô hình mã hóa mới gọi là GLM-5.3, được cho là mô hình mã hóa mở tốt nhất hiện nay. Sự phát triển này cho thấy sự tiến bộ không ngừng của công nghệ AI và tiềm năng của nó trong lĩnh vực tiền điện tử.</p><h2>Nhận định thị trường</h2><p>Thị trường tiền điện tử đang chứng kiến sự phát triển và đa dạng hóa không ngừng. Sự quan tâm của Wall Street, sự phát triển của các dự án mới và sự tiến bộ của công nghệ AI đều cho thấy tiềm năng và cơ hội của lĩnh vực này. Tuy nhiên, cũng cần lưu ý đến các vấn đề về quy định và an ninh để đảm bảo sự phát triển bền vững.</p><h2>Khuyến nghị nhà đầu tư</h2><p>Nhà đầu tư nên theo dõi sát sao các sự kiện và xu hướng trong thị trường tiền điện tử. Việc đa dạng hóa danh mục đầu tư và cập nhật kiến thức về công nghệ và quy định là rất quan trọng. Ngoài ra, cũng cần lưu ý đến các vấn đề về an ninh và quy định để đảm bảo sự an toàn của tài sản.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] Wall Street's private blockchain obsession is a 'race to the bottom,' Ethereum advocate Raman warns — <em>CoinDesk</em></li>\n<li>[2] Kalshi ordered to stop broad range of prediction markets in Washington — <em>Cointelegraph</em></li>\n<li>[3] Galaxy lowers CLARITY Act odds to 10% — <em>Cointelegraph</em></li>\n<li>[4] Trump expected to attend White House meeting with crypto CEOs, sources say — <em>CoinDesk</em></li>\n<li>[5] Gen Z favors ETFs and trades less than older cohorts: Binance — <em>Cointelegraph</em></li>\n<li>[6] OCC grants conditional approval for Trump-backed World Liberty National Trust bank — <em>The Block</em></li>\n<li>[7] Ireland plans industry standards for illicit crypto use — <em>Cointelegraph</em></li>\n<li>[8] Trump-backed World Liberty wins conditional bank charter from federal regulator — <em>CoinDesk</em></li>\n<li>[9] France Tax Data Leak Could Fuel Scams, Attacks Targeting Bitcoin Holders — <em>Decrypt</em></li>\n<li>[10] China's Z.AI Ships GLM-5.3, Calling It the Top Open-Weight Coding Model — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "thị trường",
+        "điểm tin",
+        "quy định",
+        "an ninh"
+      ],
+      "readTime": 10,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1786795821/cryptohieuqua/posts/diem-tin-crypto-15082026-luc-1910-su-kien-quan-trong-trong-tuan.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1786795821/cryptohieuqua/posts/diem-tin-crypto-15082026-luc-1910-su-kien-quan-trong-trong-tuan.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-15082026-luc-1910-su-kien-quan-trong-trong-tuan",
+        "width": 1920,
+        "height": 1080,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 15/08/2026 lúc 19:10: Sự kiện quan trọng trong tuần"
+      },
+      "sourceUrl": "https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns",
+      "sourceTitle": "CoinDesk / Cointelegraph / The Block / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Wall Street's private blockchain obsession is a 'race to the bottom,' Ethereum advocate Raman warns",
+          "url": "https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Kalshi ordered to stop broad range of prediction markets in Washington",
+          "url": "https://cointelegraph.com/news/kalshi-stop-prediction-market-contracts-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Galaxy lowers CLARITY Act odds to 10%",
+          "url": "https://cointelegraph.com/news/galaxy-lowers-clarity-act-odds-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Trump expected to attend White House meeting with crypto CEOs, sources say",
+          "url": "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Gen Z favors ETFs and trades less than older cohorts: Binance",
+          "url": "https://cointelegraph.com/news/gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "OCC grants conditional approval for Trump-backed World Liberty National Trust bank",
+          "url": "https://www.theblock.co/news/regulation/2026-08-14-occ-grants-conditional-approval-trump-world-liberty-national-trust-bank-411906",
+          "source": "The Block"
+        },
+        {
+          "title": "Ireland plans industry standards for illicit crypto use",
+          "url": "https://cointelegraph.com/news/ireland-industry-standards-crypto-gambling-aml?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Trump-backed World Liberty wins conditional bank charter from federal regulator",
+          "url": "https://www.coindesk.com/policy/2026/08/14/trump-backed-world-liberty-wins-conditional-bank-charter-from-federal-regulator",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "France Tax Data Leak Could Fuel Scams, Attacks Targeting Bitcoin Holders",
+          "url": "https://decrypt.co/375715/france-tax-data-leak-wrench-attacks-bitcoin",
+          "source": "Decrypt"
+        },
+        {
+          "title": "China's Z.AI Ships GLM-5.3, Calling It the Top Open-Weight Coding Model",
+          "url": "https://decrypt.co/375684/china-z-ai-glm-5-3-top-open-weight-coding-model",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-08-15T12:10:22.156Z",
+      "slug": "diem-tin-crypto-15082026-luc-1910-su-kien-quan-trong-trong-tuan"
+    },
+    {
       "id": "1786756367361",
       "title": "Điểm tin crypto 15/08/2026 lúc 08:12: Tổng hợp sự kiện quan trọng",
       "summary": "Tổng hợp 10 tin tức quan trọng về thị trường crypto, bao gồm sự kiện Tổng thống Trump dự kiến tham dự cuộc họp với các CEO crypto, Gen Z ưa chuộng ETF và giao dịch ít hơn, Ireland lên kế hoạch tiêu chuẩn hóa ngành công nghiệp crypto",
@@ -20569,9 +20650,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/policy/2026/07/18/france-orders-country-s-internet-service-providers-to-block-polymarket",
-    "https://www.theblock.co/post/408838/bitcoin-japan-which-holds-no-bitcoin-taps-evo-fund-in-planned-60-million-raise-to-finally-buy-some?utm_source=rss&amp;utm_medium=rss",
-    "https://www.coindesk.com/business/2026/07/17/crypto-executives-say-digital-native-generations-may-never-need-a-bank-account",
     "https://www.coindesk.com/tech/2026/07/18/dog-mode-explains-bitcoin-s-next-governance-fight",
     "https://www.coindesk.com/business/2026/07/18/trump-targets-brazil-s-payments-system-while-dollar-stablecoins-quietly-dominate-country-s-payments",
     "https://www.coindesk.com/web3/2026/07/18/here-is-why-a-massive-usd1-6-billion-in-crypto-liquidity-is-sitting-idle-and-wasting-away",
@@ -21068,10 +21146,12 @@
     "https://decrypt.co/375684/china-z-ai-glm-5-3-top-open-weight-coding-model",
     "https://www.theblock.co/news/markets/2026-08-14-mizuho-cuts-bitgo-price-target-to-11-but-says-clarity-act-delays-could-prove-advantageous-411878",
     "https://www.theblock.co/news/business/2026-08-14-honestly-i-dont-care-tether-ceo-dismisses-critics-first-kpmg-audit-411886",
-    "https://www.theblock.co/news/ecosystems/2026-08-14-french-tax-breach-exposes-nearly-678000-people-crypto-wrench-attacks-pile-up-411876"
+    "https://www.theblock.co/news/ecosystems/2026-08-14-french-tax-breach-exposes-nearly-678000-people-crypto-wrench-attacks-pile-up-411876",
+    "https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns",
+    "https://cointelegraph.com/news/kalshi-stop-prediction-market-contracts-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/galaxy-lowers-clarity-act-odds-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/400520/solv-protocol-layerzero-chainlink?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/400512/hyperliquid-strategies-net-loss?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/markets/bitcoin-bulls-target-115k-by-december-does-data-back-the-expectation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/05/07/u-s-added-115k-jobs-in-april-nearly-doubling-expectations|https://decrypt.co/367241/morning-minute-coinbase-misses-earnings-on-surprise-loss|https://www.coindesk.com/daybook-us/2026/05/08/u-s-hiring-slowdown-could-be-great-for-bitcoin-unless-wages-spoil-the-party",
     "https://cointelegraph.com/news/us-clarity-act-markup-date-set-tim-scott-crypto-industry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/markets/bitcoin-stalls-as-btc-etf-outflows-hit-268m-will-new-fed-chair-restore-the-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/400492/take-two-senate-banking-committee-sets-a-date-to-amend-and-vote-on-sweeping-crypto-legislation?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/court-lets-arbitrum-dao-to-transfer-71m-in-eth-tied-to-north-korea-hack-to-aave?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/spot-bitcoin-etfs-log-6th-straight-week-of-net-inflows-for-first-time-in-9-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/jack-mallers-shuts-down-the-idea-that-wall-street-is-a-threat-to-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -21270,6 +21350,7 @@
     "https://www.coindesk.com/business/2026/08/13/bullish-reports-usd280-million-q2-net-loss-as-crypto-trading-slows|https://decrypt.co/375547/morning-minute-the-sec-plans-rules-for-tokenized-stocks|https://cointelegraph.com/news/sec-franklin-templeton-funds-invest-onchain-money-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/ethereum-foundation-drops-poseidon-post-quantum-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/08/13/u-s-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-white-house-concerns|https://decrypt.co/375609/bitcoin-burning-red-team-chinese-ai-kimi",
     "https://www.theblock.co/news/markets/2026-08-14-norway-sovereign-wealth-fund-indirect-bitcoin-exposure-all-time-high-strategy-k33-411815|https://www.theblock.co/news/business/2026-08-14-kraken-parent-payward-508-million-q2-adjusted-revenue-411818|https://cointelegraph.com/news/gemini-45m-q2-revenue-financial-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say|https://cointelegraph.com/news/gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/regulation/2026-08-14-occ-grants-conditional-approval-trump-world-liberty-national-trust-bank-411906"
+    "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say|https://cointelegraph.com/news/gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/regulation/2026-08-14-occ-grants-conditional-approval-trump-world-liberty-national-trust-bank-411906",
+    "https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns|https://cointelegraph.com/news/kalshi-stop-prediction-market-contracts-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/galaxy-lowers-clarity-act-odds-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
