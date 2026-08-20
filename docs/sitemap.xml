@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://cryptohieu.com/</loc>
-    <lastmod>2026-08-19</lastmod>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://cryptohieu.com/#diem-tin-crypto-20082026-luc-0812-bitcoin-cham-70k-clarity-act-va-cac-dong-thai-</loc>
+    <lastmod>2026-08-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1787188352/cryptohieuqua/posts/diem-tin-crypto-20082026-luc-0812-bitcoin-cham-70k-clarity-act-va-cac-dong-thai-.jpg</image:loc>
+      <image:title>Điểm tin crypto 20/08/2026 lúc 08:12: Bitcoin chạm $70K, Clarity Act và các động thái chính trị</image:title>
+      <image:caption>Điểm tin crypto 20/08/2026 lúc 08:12: Bitcoin chạm $70K, Clarity Act và các động thái chính trị</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://cryptohieu.com/#diem-tin-crypto-19082026-luc-1916-ai-cuu-bybit-ripple-huy-dong-275m-bitcoin-on-d</loc>
