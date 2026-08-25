@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1787620449084",
+      "title": "Điểm tin crypto 25/08/2026 lúc 08:14: Bitcoin gần 80k, USDC tăng mạnh, Gemini mở rộng dự đoán",
+      "summary": "Bitcoin dao động quanh $80,000, USDC bước vào chu kỳ tăng trưởng mới với mục tiêu $140, và Gemini mở rộng thị trường dự đoán crypto. Các tin khác như Strive mua Bitcoin, Coinbase token hoá cổ phiếu trên Base và các rủi ro pháp lý cũng được phân tích chi tiết.",
+      "content": "<p><b>Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It</b></p><p><b>CFTC, US soldier accused of illegal Polymarket bet spar over interpretation of prediction markets</b></p><p><b>Strive Buys $81.5 Million in Bitcoin After Issuing More Shares</b></p><p><b>Gemini plans to distribute crypto prediction markets through Apex brokerages</b></p><p><b>AI Model Ox Alpha Is Free, Beats Claude Fable, and Nobody Knows Who Built It</b></p><p><b>Why the Bitcoin Rally Looks Like a Vote Against the Dollar</b></p><p><b>Bernstein sees new USDC growth cycle, sets $140 Circle price target</b></p><p><b>Here’s what happened in crypto today</b></p><p><b>Coinbase Brings Tokenized Stocks to Ethereum L2 Base</b></p><p><b>Bitcoin nears $80,000, but analysts say the next pullback will be key</b></p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It — <em>Decrypt</em></li>\n<li>[2] CFTC, US soldier accused of illegal Polymarket bet spar over interpretation of prediction markets — <em>Cointelegraph</em></li>\n<li>[3] Strive Buys $81.5 Million in Bitcoin After Issuing More Shares — <em>Decrypt</em></li>\n<li>[4] Gemini plans to distribute crypto prediction markets through Apex brokerages — <em>Cointelegraph</em></li>\n<li>[5] AI Model Ox Alpha Is Free, Beats Claude Fable, and Nobody Knows Who Built It — <em>Decrypt</em></li>\n<li>[6] Why the Bitcoin Rally Looks Like a Vote Against the Dollar — <em>Decrypt</em></li>\n<li>[7] Bernstein sees new USDC growth cycle, sets $140 Circle price target — <em>Cointelegraph</em></li>\n<li>[8] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[9] Coinbase Brings Tokenized Stocks to Ethereum L2 Base — <em>Decrypt</em></li>\n<li>[10] Bitcoin nears $80,000, but analysts say the next pullback will be key — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "stablecoin",
+        "defi",
+        "dự báo",
+        "thị trường"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1787620448/cryptohieuqua/posts/diem-tin-crypto-25082026-luc-0814-bitcoin-gan-80k-usdc-tang-manh-gemini-mo-rong-.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1787620448/cryptohieuqua/posts/diem-tin-crypto-25082026-luc-0814-bitcoin-gan-80k-usdc-tang-manh-gemini-mo-rong-.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-25082026-luc-0814-bitcoin-gan-80k-usdc-tang-manh-gemini-mo-rong-",
+        "width": 1920,
+        "height": 1080,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 25/08/2026 lúc 08:14: Bitcoin gần 80k, USDC tăng mạnh, Gemini mở rộng dự đoán"
+      },
+      "sourceUrl": "https://decrypt.co/376415/hugging-face-13-billion-sale-month-after-openai-hack",
+      "sourceTitle": "Decrypt / Cointelegraph / CoinDesk",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
+          "url": "https://decrypt.co/376415/hugging-face-13-billion-sale-month-after-openai-hack",
+          "source": "Decrypt"
+        },
+        {
+          "title": "CFTC, US soldier accused of illegal Polymarket bet spar over interpretation of prediction markets",
+          "url": "https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Strive Buys $81.5 Million in Bitcoin After Issuing More Shares",
+          "url": "https://decrypt.co/376416/strive-buys-81-million-bitcoin-more-shares",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Gemini plans to distribute crypto prediction markets through Apex brokerages",
+          "url": "https://cointelegraph.com/news/gemini-plans-to-distribute-crypto-prediction-markets-through-apex-brokerages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "AI Model Ox Alpha Is Free, Beats Claude Fable, and Nobody Knows Who Built It",
+          "url": "https://decrypt.co/376396/mysterious-ai-model-ox-alpha",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Why the Bitcoin Rally Looks Like a Vote Against the Dollar",
+          "url": "https://decrypt.co/376394/bitcoins-price-rally-trade-against-dollar",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bernstein sees new USDC growth cycle, sets $140 Circle price target",
+          "url": "https://cointelegraph.com/news/bernstein-circle-usdc-growth-140-price-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Coinbase Brings Tokenized Stocks to Ethereum L2 Base",
+          "url": "https://decrypt.co/376393/coinbase-tokenized-stocks-base-ethereum",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitcoin nears $80,000, but analysts say the next pullback will be key",
+          "url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-nears-usd80-000-but-analysts-say-the-next-pullback-will-be-key",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-08-25T01:14:09.084Z",
+      "slug": "diem-tin-crypto-25082026-luc-0814-bitcoin-gan-80k-usdc-tang-manh-gemini-mo-rong-"
+    },
+    {
       "id": "1787573937117",
       "title": "Điểm tin crypto 24/08/2026 lúc 19:18: Thị trường chuyển mình với quy định mới và bước tiến stablecoin",
       "summary": "Các quy định ở Pakistan, sự ra mắt stablecoin HKD của Standard Chartered, và xu hướng giá Bitcoin vượt EMA 50‑tuần tạo động lực cho nhà đầu tư Việt. Đồng thời, các thỏa thuận của Gemini với Apex mở rộng thị trường dự đoán, trong khi ECB bảo vệ quyền riêng tư của Euro kỹ thuật số.",
@@ -21941,16 +22022,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/cftc-issues-second-warning-to-prediction-markets-on-cookie-cutter-self-certifications?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/tech/2026/07/27/lido-begins-moving-usd16-5-billion-in-staked-ether-to-cut-validator-count-by-a-third",
-    "https://cointelegraph.com/news/hong-kong-crypto-giant-hashkey-merges-its-exchanges-into-one?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/post/409743/benchmark-reiterates-570-strategy-target-says-cash-reserve-strengthens-bitcoin-acquisition-plan?utm_source=rss&amp;utm_medium=rss",
-    "https://www.coindesk.com/policy/2026/07/27/thailand-s-sec-alleges-bitkub-concealed-cyberattack-that-led-to-usd50-million-hack",
-    "https://cointelegraph.com/markets/rate-path-still-divides-investors-five-things-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/tech/2026/07/27/nvidia-forms-37-member-ai-security-alliance-without-openai-anthropic-or-google",
-    "https://cointelegraph.com/news/binance-disappears-android-google-play-certain-eu-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/circle-to-acquire-nearly-1000-ibm-blockchain-patents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/374369/strategy-adds-525m-to-cash-reserve-skips-bitcoin-buy-for-fifth-week",
     "https://www.coindesk.com/business/2026/07/27/securitize-builds-wall-street-credentials-with-sec-adviser-license-as-tokenization-expands",
     "https://cointelegraph.com/news/hong-kong-banks-quantum-threats-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/learn/409682/what-is-a-digital-commodity?utm_source=rss&amp;utm_medium=rss",
@@ -22440,10 +22511,19 @@
     "https://www.coindesk.com/daybook-us/2026/08/24/financial-repression-the-new-buzzword-for-bitcoin-bulls",
     "https://www.theblock.co/news/web3/2026-08-24-gemini-crypto-prediction-market-apex-412557",
     "https://www.coindesk.com/business/2026/08/24/gemini-strikes-apex-deal-to-widen-prediction-markets-reach",
-    "https://decrypt.co/376315/bitcoins-next-test-is-80000-as-jackson-hole-meeting-looms"
+    "https://decrypt.co/376315/bitcoins-next-test-is-80000-as-jackson-hole-meeting-looms",
+    "https://decrypt.co/376415/hugging-face-13-billion-sale-month-after-openai-hack",
+    "https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/376416/strive-buys-81-million-bitcoin-more-shares",
+    "https://cointelegraph.com/news/gemini-plans-to-distribute-crypto-prediction-markets-through-apex-brokerages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/376396/mysterious-ai-model-ox-alpha",
+    "https://decrypt.co/376394/bitcoins-price-rally-trade-against-dollar",
+    "https://cointelegraph.com/news/bernstein-circle-usdc-growth-140-price-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/376393/coinbase-tokenized-stocks-base-ethereum",
+    "https://www.coindesk.com/markets/2026/08/24/bitcoin-nears-usd80-000-but-analysts-say-the-next-pullback-will-be-key"
   ],
   "publishedBatchKeys": [
-    "https://www.coindesk.com/markets/2026/05/15/xrp-beat-bitcoin-gains-as-clarity-act-advanced-but-a-real-bullrun-still-needs-congress|https://cointelegraph.com/news/thorchain-confirms-10m-exploit-rolls-out-recovery-portal-for-affected-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/sharplink-ceo-points-out-these-3-catalysts-for-ethereum-to-reach-new-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/us-clarity-act-will-be-a-boon-for-domestic-innovation-a16z?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/strc-preferred-investors-misprice-dislocation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/401558/house-agriculture-leaders-press-trump-to-appoint-cftc-commissioners-as-clarity-act-advances-in-senate?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/tech/2026/05/17/defi-s-new-front-verifiedx-bets-bitcoin-s-next-chapter-is-programmable-private|https://www.coindesk.com/business/2026/05/17/japan-s-sbi-securities-rakuten-securities-plan-to-offer-crypto-investment-trusts|https://cointelegraph.com/news/sbi-rakuten-nomura-line-up-to-launch-crypto-investment-trusts-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/401583/bitcoin-drops-below-77000?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/401570/spacex-ipo-pre-ipo-perps-crypto?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/401571/verus-ethereum-bridge-exploit?utm_source=rss&amp;utm_medium=rss",
@@ -22642,6 +22722,7 @@
     "https://www.coindesk.com/business/2026/08/22/bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musk-s-x-wants-to-pay-creators-in-stablecoins-crypto-week-in-5-stories|https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016|https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days",
     "https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531|https://www.theblock.co/news/ecosystems/2026-08-22-zcash-hits-eight-year-high-near-850-with-futures-volume-near-10-billion-amid-grayscale-etf-push-412528|https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
     "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/defi/2026-08-23-defi-lending-protocol-term-finance-loses-an-estimated-8-5-million-to-governance-exploit-412543|https://www.coindesk.com/policy/2026/08/23/regulation-crypto-is-here-state-of-crypto",
-    "https://decrypt.co/376318/pakistan-sets-september-5-deadline-for-crypto-firms-to-register|https://www.coindesk.com/business/2026/08/24/standard-chartered-first-bank-to-distribute-anchorpoint-s-hong-kong-dollar-stablecoin|https://cointelegraph.com/news/sbi-fasset-round-1b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://decrypt.co/376318/pakistan-sets-september-5-deadline-for-crypto-firms-to-register|https://www.coindesk.com/business/2026/08/24/standard-chartered-first-bank-to-distribute-anchorpoint-s-hong-kong-dollar-stablecoin|https://cointelegraph.com/news/sbi-fasset-round-1b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/376415/hugging-face-13-billion-sale-month-after-openai-hack|https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/376416/strive-buys-81-million-bitcoin-more-shares"
   ]
 }
