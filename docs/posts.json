@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1787865616292",
+      "title": "Điểm tin crypto 27/08/2026 lúc 04:20: Bitcoin Options, On‑chain repo và các rủi ro công nghệ mới",
+      "summary": "Ngày 27/08/2026, thị trường crypto chứng kiến đợt hết hạn Bitcoin Options trị giá 6,4 tỷ USD, giao dịch repo on‑chain nhanh chóng, cùng các tin về rủi ro bảo mật và quy định. Các sự kiện này tạo áp lực ngắn hạn cho BTC, mở ra cơ hội cho Zcash và các dự án token hoá, đồng thời nhắc nhở nhà đầu tư Việt Nam cần thận trọng với công nghệ mới và pháp lý.",
+      "content": "<p>Thị trường tiền mã hoá hôm nay đang chịu áp lực hỗn hợp từ các yếu tố kỹ thuật, pháp lý và công nghệ. Các tin tức quan trọng bao gồm đợt hết hạn Bitcoin Options quy mô 6,4 tỷ USD, giao dịch repo on‑chain nhanh chóng trên mạng Canton, và những lo ngại về bảo mật phần cứng. Đối với nhà đầu tư Việt Nam, việc hiểu rõ tác động của từng tin sẽ giúp đưa ra quyết định cân bằng giữa rủi ro và cơ hội.</p>\n<h2>1. Bitcoin Options trị giá 6,4 tỷ USD sắp hết hạn</h2>\n<p>Deribit công bố rằng vào ngày mai sẽ có khoảng 6,4 tỷ USD Bitcoin Options đáo hạn, chiếm gần 20% tổng open interest trên sàn. Mức “max pain” – mức giá khiến phần lớn nhà đầu tư Options chịu lỗ – được dự báo nằm dưới mức giao dịch hiện tại của BTC, tạo áp lực bán giảm ngắn hạn. Đối với nhà đầu tư Việt Nam, nếu giá BTC giảm dưới mức hỗ trợ mạnh (khoảng 28.000 USD), các vị thế đòn bẩy sẽ bị thanh lý, gây rủi ro lớn. Tuy nhiên, nếu BTC duy trì trên mức này, các nhà nắm giữ Options có thể thu lợi nhuận và tạo sức mua hỗ trợ giá.</p>\n<h2>2. Giao dịch repo on‑chain hoàn thành trong vòng 10 phút</h2>\n<p>Virtu và Tradeweb đã hoàn thành một giao dịch repo on‑chain sử dụng trái phiếu kỹ thuật số USDM1 do Quần đảo Marshall phát hành, thực hiện trên mạng Canton trong chưa đầy 10 phút. Đây là bước tiến quan trọng cho việc đưa tài sản truyền thống vào chuỗi khối, giảm thời gian và chi phí so với repo truyền thống. Đối với các ngân hàng và quỹ đầu tư Việt Nam, mô hình này mở ra khả năng vay mượn tài sản kỹ thuật số nhanh chóng, tăng tính thanh khoản cho danh mục crypto.</p>\n<h2>3. Grayscale: Zcash có tiềm năng thách thức Bitcoin trong lĩnh vực bảo mật</h2>\n<p>Grayscale cho rằng Zcash (ZEC) có thể tận dụng nhu cầu tăng cao về tính riêng tư, khi thị trường đang quan tâm tới các giải pháp bảo mật sau các vụ tấn công và lộ thông tin. Mặc dù ZEC chỉ chiếm dưới 1% vốn hoá thị trường Bitcoin, mức tăng 19‑gấp trong một năm cho thấy tiềm năng tăng trưởng mạnh nếu nhu cầu bảo mật tiếp tục mở rộng. Nhà đầu tư Việt Nam có thể cân nhắc bổ sung ZEC vào danh mục để đa dạng hoá rủi ro.</p>\n<h2>4. Ledger không bị hack – Lỗ hổng Ethereum app đã được vá</h2>\n<p>OneKey đã chỉ ra một lỗ hổng trong phiên bản cũ của ứng dụng Ethereum trên Ledger, cho phép ký giao dịch không khớp với nội dung hiển thị. Ledger khẳng định lỗ hổng đã được vá trước khi có bất kỳ vụ tấn công nào. Điều này nhắc nhở người dùng luôn cập nhật firmware và ứng dụng ví phần cứng, tránh rủi ro mất tài sản. Đối với nhà đầu tư Việt Nam, việc duy trì phần mềm ví mới nhất là biện pháp phòng ngừa cơ bản nhưng quan trọng.</p>\n<h2>5. OpenAI Agentic ChatGPT có thể đăng nhập tài khoản người dùng</h2>\n<p>Decrypt đưa tin rằng mô hình ChatGPT có khả năng duy trì phiên đăng nhập và thực hiện các tác vụ trên tài khoản người dùng mà không cần nhập lại mật khẩu. Mặc dù OpenAI khẳng định không lưu trữ mật khẩu, nhưng việc một AI có thể “đi làm việc” trong tài khoản người dùng tạo ra lo ngại về an ninh dữ liệu. Nhà đầu tư nên thận trọng khi cung cấp quyền truy cập API cho các bot AI, đặc biệt là khi liên quan tới ví hoặc nền tảng giao dịch.</p>\n<h2>6. Mirae Asset công bố kế hoạch xây dựng doanh nghiệp tài sản kỹ thuật số 109 tỷ USD</h2>\n<p>Mirae Asset, tập đoàn tài chính Hàn Quốc, dự định phát triển một hệ sinh thái tài sản kỹ thuật số bao gồm crypto, stablecoin và token hoá tài sản, với quy mô dự kiến 109 tỷ USD. Kế hoạch này cho thấy sự quan tâm ngày càng tăng của các tổ chức tài chính truyền thống đối với crypto, và có thể tạo ra dòng vốn mới vào thị trường. Đối với Việt Nam, việc các tập đoàn lớn đầu tư vào crypto có thể thúc đẩy hạ tầng và khung pháp lý trong nước.</p>\n<h2>7. Trump gây thiệt hại 4,7 tỷ USD cho nhà đầu tư qua các dự án crypto</h2>\n<p>Theo Public Citizen, các dự án liên quan tới Donald Trump, bao gồm cả stablecoin “World Liberty Financial” đã khiến nhà đầu tư mất tới 4,7 tỷ USD. Mặc dù stablecoin này chưa gây thiệt hại lớn, nhưng các dự án khác của Trump đã gây mất mát hàng tỷ. Sự kiện này nhấn mạnh rủi ro khi đầu tư vào các dự án chưa được kiểm chứng và thiếu minh bạch.</p>\n<h2>8. Vụ kiện của Connecticut đối với Kalshi làm dấy lên tranh chấp pháp lý thị trường dự đoán</h2>\n<p>Connecticut đưa ra một vụ kiện mới đối với Kalshi, nền tảng giao dịch dự đoán, trong bối cảnh các vụ kiện liên bang và tiểu bang đang diễn ra. Kết quả có thể ảnh hưởng đến việc cho phép các sản phẩm dự đoán dựa trên crypto ở Mỹ, và gián tiếp ảnh hưởng tới các dự án tương tự ở châu Á. Nhà đầu tư Việt Nam cần theo dõi xu hướng pháp lý này vì nó có thể định hình cách thức phát triển các sản phẩm phái sinh crypto.</p>\n<h2>9. Tổng thống ủy ban Olympic Ba Lan bị bắt trong cuộc điều tra ZondaCrypto</h2>\n<p>The Block đưa tin về việc Radosław Piesiewicz, Chủ tịch ủy ban Olympic Ba Lan, bị bắt trong cuộc điều tra liên quan tới nền tảng giao dịch ZondaCrypto. Sự kiện này làm dấy lên câu hỏi về rủi ro pháp lý và rửa tiền trong các sàn giao dịch crypto. Đối với nhà đầu tư Việt Nam, việc lựa chọn sàn uy tín, có giấy phép và tuân thủ KYC/AML là yếu tố quan trọng để tránh rủi ro pháp lý.</p>\n<h2>10. Tổng hợp tin tức crypto hôm nay</h2>\n<p>Cointelegraph cung cấp bản tin tổng hợp các xu hướng ngày hôm nay, bao gồm biến động giá Bitcoin, DeFi, Web3 và các quy định mới. Đây là nguồn thông tin nhanh chóng giúp nhà đầu tư cập nhật tình hình thị trường trong thời gian ngắn.</p>\n<h2>Nhận định thị trường</h2>\n<p>Những tin tức trên cho thấy thị trường đang ở ngưỡng cân bằng giữa áp lực bán ngắn hạn (Bitcoin Options, rủi ro bảo mật) và tiềm năng tăng trưởng dài hạn (repo on‑chain, Zcash, đầu tư của các tập đoàn tài chính). Các yếu tố pháp lý tại Mỹ và châu Âu có thể tạo ra môi trường không chắc chắn cho các sản phẩm phái sinh và sàn giao dịch. Đối với Việt Nam, việc thị trường nội địa vẫn chưa có khung pháp lý rõ ràng khiến nhà đầu tư phải dựa vào các nguồn tin quốc tế để đưa ra quyết định.</p>\n<h2>Khuyến nghị nhà đầu tư</h2>\n<p>1. <strong>Giảm rủi ro đòn bẩy</strong> trong thời gian Bitcoin Options đáo hạn; ưu tiên các vị thế dài hạn hoặc giảm kích thước vị thế.</p>\n<p>2. <strong>Đa dạng hoá danh mục</strong> bằng cách bổ sung Zcash và các stablecoin uy tín để giảm bớt biến động.</p>\n<p>3. <strong>Luôn cập nhật firmware</strong> và phần mềm ví phần cứng, tránh sử dụng phiên bản cũ của ứng dụng Ethereum.</p>\n<p>4. <strong>Kiểm tra độ tin cậy của dự án</strong> trước khi đầu tư, đặc biệt là các dự án liên quan tới chính trị hoặc chưa có giấy phép.</p>\n<p>5. <strong>Theo dõi tin tức pháp lý</strong> về các sàn giao dịch dự đoán và repo on‑chain để nắm bắt cơ hội hoặc tránh rủi ro pháp lý.</p>\n<p>6. <strong>Ưu tiên sàn giao dịch có giấy phép</strong> và thực hiện KYC/AML đầy đủ để bảo vệ tài sản.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] Red Flag? OpenAI's Agentic ChatGPT Work Signs Into Your Accounts Without You — <em>Decrypt</em></li>\n<li>[2] Virtu, Tradeweb complete onchain repo using Marshall Islands digital bond — <em>Cointelegraph</em></li>\n<li>[3] $6.4 Billion in Bitcoin Options Expire Tomorrow—Here's What It Means — <em>Decrypt</em></li>\n<li>[4] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[5] Trump cost investors $4.7B through crypto ‘schemes’: Public Citizen — <em>Cointelegraph</em></li>\n<li>[6] Mirae Asset lays out crypto, stablecoin, tokenization plans for Digital X — <em>Cointelegraph</em></li>\n<li>[7] Grayscale says Zcash can challenge Bitcoin’s network effects as privacy demand grows — <em>Cointelegraph</em></li>\n<li>[8] Connecticut's new lawsuit against Kalshi piles on to prediction market legal fight — <em>CoinDesk</em></li>\n<li>[9] Polish Olympic Committee president detained in Zondacrypto bribery probe — <em>The Block</em></li>\n<li>[10] No, Ledger Wasn’t Hacked: Vulnerable Ethereum App Was Patched Before Exploit, Company Says — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "defi",
+        "stablecoin",
+        "zcash",
+        "thị trường"
+      ],
+      "readTime": 9,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1787865615/cryptohieuqua/posts/diem-tin-crypto-27082026-luc-0420-bitcoin-options-onchain-repo-va-cac-rui-ro-con.png",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1787865615/cryptohieuqua/posts/diem-tin-crypto-27082026-luc-0420-bitcoin-options-onchain-repo-va-cac-rui-ro-con.png",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-27082026-luc-0420-bitcoin-options-onchain-repo-va-cac-rui-ro-con",
+        "width": 1280,
+        "height": 720,
+        "format": "png",
+        "alt": "Điểm tin crypto 27/08/2026 lúc 04:20: Bitcoin Options, On‑chain repo và các rủi ro công nghệ mới"
+      },
+      "sourceUrl": "https://decrypt.co/376757/openai-agentic-chatgpt-work-signs-in-without-you",
+      "sourceTitle": "Decrypt / Cointelegraph / CoinDesk / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Red Flag? OpenAI's Agentic ChatGPT Work Signs Into Your Accounts Without You",
+          "url": "https://decrypt.co/376757/openai-agentic-chatgpt-work-signs-in-without-you",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Virtu, Tradeweb complete onchain repo using Marshall Islands digital bond",
+          "url": "https://cointelegraph.com/news/virtu-tradeweb-complete-onchain-repo-using-marshall-islands-digital-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "$6.4 Billion in Bitcoin Options Expire Tomorrow—Here's What It Means",
+          "url": "https://decrypt.co/376752/billion-bitcoin-options-expire-what-it-means",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Trump cost investors $4.7B through crypto ‘schemes’: Public Citizen",
+          "url": "https://cointelegraph.com/news/donald-trump-crypto-investors-losses-public-citizen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Mirae Asset lays out crypto, stablecoin, tokenization plans for Digital X",
+          "url": "https://cointelegraph.com/news/mirae-asset-lays-out-crypto-stablecoin-and-tokenization-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Grayscale says Zcash can challenge Bitcoin’s network effects as privacy demand grows",
+          "url": "https://cointelegraph.com/markets/zcash-bitcoin-network-effects-grayscale-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Connecticut's new lawsuit against Kalshi piles on to prediction market legal fight",
+          "url": "https://www.coindesk.com/news-analysis/2026/08/27/connecticut-s-new-lawsuit-against-kalshi-piles-on-to-prediction-market-legal-fight",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Polish Olympic Committee president detained in Zondacrypto bribery probe",
+          "url": "https://www.theblock.co/news/regulation/2026-08-27-polish-olympic-committee-president-detained-in-zondacrypto-bribery-probe-412961",
+          "source": "The Block"
+        },
+        {
+          "title": "No, Ledger Wasn’t Hacked: Vulnerable Ethereum App Was Patched Before Exploit, Company Says",
+          "url": "https://decrypt.co/376750/no-ledger-wasnt-hacked-ethereum-app-exploit",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-08-27T21:20:16.292Z",
+      "slug": "diem-tin-crypto-27082026-luc-0420-bitcoin-options-onchain-repo-va-cac-rui-ro-con"
+    },
+    {
       "id": "1787816934666",
       "title": "Điểm tin crypto 27/08/2026 lúc 14:48: Bitcoin chuẩn bị “đánh trả” quantum, ETF chậm lại, Binance “đổi danh tính”",
       "summary": "Ngày 27/08/2026, thị trường crypto chứng kiến các bước tiến quan trọng về bảo mật quantum cho Bitcoin, dòng tiền ETF giảm tốc, cùng những tin tức thú vị từ Binance và các quy định tài chính. Những sự kiện này tạo nên xu hướng cân bằng giữa rủi ro công nghệ và nhu cầu đầu tư thực tế, đặc biệt ảnh hưởng tới nhà đầu tư Việt Nam.",
@@ -22346,15 +22427,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/telegram-founder-wanted-internationally-russia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/daybook-us/2026/07/29/3-reasons-wednesday-s-fed-meeting-is-pivotal-for-btc",
-    "https://cointelegraph.com/news/ethereum-foundation-seal-911-pascal-caversaccio-board?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/aaa-web3-panel-crypto-blockchain-disputes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/policy/2026/07/29/senators-said-to-strike-idea-to-toughen-trump-s-concession-on-clarity-act-s-crypto-limits",
-    "https://decrypt.co/374688/microsoft-quietly-adds-windows-app-wants-scan-face-onedrive",
-    "https://decrypt.co/374693/robinhood-earnings-best-quarter-ever-crypto",
-    "https://cointelegraph.com/news/robinhood-record-quarter-crypto-revenue-slides?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/binance-us-prediction-markets-cftc-designated-contract-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/410102/robinhoods-prediction-markets-top-crypto-and-equities-revenue-in-q2?utm_source=rss&amp;utm_medium=rss",
     "https://decrypt.co/374603/flock-cameras-backlash-privacy-concerns-capitol-hill",
     "https://www.coindesk.com/markets/2026/07/29/robinhood-slides-4-despite-earnings-beat-as-crypto-revenue-cools",
@@ -22845,10 +22917,18 @@
     "https://www.coindesk.com/markets/2026/08/27/bitcoin-below-usd79-000-xrp-leads-losses-as-traders-start-betting-on-a-fed-hike",
     "https://cointelegraph.com/news/starkware-quantum-resistant-bitcoin-transaction-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/08/27/lesser-tracked-bitcoin-market-dynamic-lends-credibility-to-august-surge-to-usd80-000",
-    "https://www.theblock.co/news/defi/2026-08-26-first-quantum-resistant-bitcoin-transaction-starkware-412863"
+    "https://www.theblock.co/news/defi/2026-08-26-first-quantum-resistant-bitcoin-transaction-starkware-412863",
+    "https://decrypt.co/376757/openai-agentic-chatgpt-work-signs-in-without-you",
+    "https://cointelegraph.com/news/virtu-tradeweb-complete-onchain-repo-using-marshall-islands-digital-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/376752/billion-bitcoin-options-expire-what-it-means",
+    "https://cointelegraph.com/news/donald-trump-crypto-investors-losses-public-citizen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/mirae-asset-lays-out-crypto-stablecoin-and-tokenization-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/markets/zcash-bitcoin-network-effects-grayscale-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/news-analysis/2026/08/27/connecticut-s-new-lawsuit-against-kalshi-piles-on-to-prediction-market-legal-fight",
+    "https://www.theblock.co/news/regulation/2026-08-27-polish-olympic-committee-president-detained-in-zondacrypto-bribery-probe-412961",
+    "https://decrypt.co/376750/no-ledger-wasnt-hacked-ethereum-app-exploit"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/401771/echo-protocol-monad-exploit?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/401766/sec-innovation-exemption-tokenized-securities-this-week?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/markets/bitcoin-retail-demand-on-binance-drops-73-as-futures-selling-tops-2b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/news-analysis/2026/05/18/amid-the-clarity-act-fanfare-is-some-worry-over-how-a-last-minute-deal-may-punch-defi|https://decrypt.co/368321/bitcoin-etfs-shed-649m-in-a-day-as-long-term-btc-holders-limit-downside-potential|https://www.theblock.co/post/401824/td-cowen-raises-strategy-price-target-to-400-citing-faster-bitcoin-accumulation-and-accretive-deleveraging?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/tech/2026/05/19/live-markets-bitcoin-hangs-near-usd77-000-as-interest-rates-continue-to-surge|https://cointelegraph.com/news/bitcoin-miner-canaan-posts-887m-net-loss-q1-btc-decline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/401837/lolli-launches-automatic-bitcoin-cashback-on-linked-debit-and-credit-card-purchases?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/trump-backed-truth-social-pulls-bids-for-crypto-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/401946/truth-social-withdraws-bitcoin-etf?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/markets/solana-futures-funding-rate-turns-negative-is-a-drop-to-78-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -23047,6 +23127,7 @@
     "https://cointelegraph.com/news/india-tokenized-bonds-digital-rupee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations|https://decrypt.co/376420/grayscale-launches-zcash-etf-following-critical-privacy-flaw-that-rocked-the-cryptocurrency",
     "https://decrypt.co/376573/elon-musk-spacex-100-billion-spaceport|https://www.coindesk.com/policy/2026/08/25/u-s-state-banking-associations-plan-to-launch-their-own-nationwide-blockchain-network|https://decrypt.co/376559/xrp-price-cools-where-next",
     "https://cointelegraph.com/news/taurus-digital-asset-platforms-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/376580/morning-minute-layerzero-announces-atlas-as-new-settlement-engine|https://www.theblock.co/news/markets/2026-08-26-altitude-sickness-can-wait-bitcoins-historic-short-squeeze-bessent-catalyst-may-signal-bull-market-reset-analysts-say-412785",
-    "https://www.coindesk.com/tech/2026/08/27/bitcoin-researchers-propose-quantum-fix-that-would-not-crowd-out-transactions|https://cointelegraph.com/markets/bitcoin-etf-inflows-slow-232-million-btc-under-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://www.coindesk.com/tech/2026/08/27/bitcoin-researchers-propose-quantum-fix-that-would-not-crowd-out-transactions|https://cointelegraph.com/markets/bitcoin-etf-inflows-slow-232-million-btc-under-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/376757/openai-agentic-chatgpt-work-signs-in-without-you|https://cointelegraph.com/news/virtu-tradeweb-complete-onchain-repo-using-marshall-islands-digital-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/376752/billion-bitcoin-options-expire-what-it-means"
   ]
 }
