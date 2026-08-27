@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://cryptohieu.com/</loc>
-    <lastmod>2026-08-26</lastmod>
+    <lastmod>2026-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://cryptohieu.com/#diem-tin-crypto-27082026-luc-1448-bitcoin-chuan-bi-danh-tra-quantum-etf-cham-lai</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1787816934/cryptohieuqua/posts/diem-tin-crypto-27082026-luc-1448-bitcoin-chuan-bi-danh-tra-quantum-etf-cham-lai.jpg</image:loc>
+      <image:title>Điểm tin crypto 27/08/2026 lúc 14:48: Bitcoin chuẩn bị “đánh trả” quantum, ETF chậm lại, Binance “đổi danh tính”</image:title>
+      <image:caption>Điểm tin crypto 27/08/2026 lúc 14:48: Bitcoin chuẩn bị “đánh trả” quantum, ETF chậm lại, Binance “đổi danh tính”</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://cryptohieu.com/#diem-tin-crypto-26082026-luc-1920-tong-hop-10-tin-quan-trong</loc>
