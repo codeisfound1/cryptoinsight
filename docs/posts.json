@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1788103852790",
+      "title": "Điểm tin crypto 30/08/2026 lúc 22:30: Bitcoin bứt phá, các vụ hack và quy định mới",
+      "summary": "Bitcoin vượt $80.000, các sàn market maker kiếm lợi nhuận không đặt cược chiều hướng, trong khi nhiều vụ hack làm giảm giá token và ngân hàng Nga chấp nhận USDT làm tài sản thế chấp, tạo xu hướng mới cho thị trường Việt Nam.",
+      "content": "<p>Ngày 30/08/2026, thị trường tiền mã hoá tiếp tục biến động mạnh mẽ với Bitcoin chạm mức trên $80.000, các nhà tạo lập thị trường (market makers) tận dụng xu hướng tăng để thu lợi nhuận phi định hướng, đồng thời xuất hiện nhiều vụ tấn công mạng ảnh hưởng tới token và dự án blockchain. Đặc biệt, ngân hàng lớn nhất Nga – Sber – công bố chấp nhận USDT và Ether làm tài sản thế chấp, mở ra một kênh tiếp cận crypto cho hệ thống tài chính truyền thống. Bài phân tích dưới đây tổng hợp 10 tin tức quan trọng, giải thích thuật ngữ và đưa ra nhận định cùng khuyến nghị cho nhà đầu tư Việt Nam.</p>\n<h2>1. Crypto market makers thu lợi nhuận từ đợt tăng Bitcoin mà không đặt cược chiều hướng</h2>\n<p>Theo CoinDesk, khi Bitcoin trở lại trên mức $80.000, các firm giao dịch chuyên nghiệp (market makers) đang thu lợi nhuận bằng cách cung cấp thanh khoản và thu phí spread, thay vì dự đoán giá sẽ lên hay xuống. Họ dùng chiến lược \"cash‑and‑carry\" – vay tài sản, bán ngay và mua lại khi giá giảm nhẹ – để kiếm lợi nhuận ổn định. Điều này cho thấy nhu cầu thanh khoản cao và khả năng duy trì xu hướng tăng ngắn hạn, đồng thời giảm áp lực bán tháo từ các nhà đầu tư cá nhân.</p>\n<h2>2. Ngân hàng Sber (Nga) chấp nhận USDT và Ether làm tài sản thế chấp</h2>\n<p>Cointelegraph đưa tin Sber sẽ cho vay bằng USDT và Ether, cùng Bitcoin, như một phần của khung pháp lý mới cho giao dịch crypto tại Nga. Việc chấp nhận stablecoin USDT giúp giảm rủi ro biến động giá, trong khi Ether mang lại tính năng smart contract. Đối với nhà đầu tư Việt Nam, đây là dấu hiệu các ngân hàng truyền thống đang dần mở cửa cho crypto, tạo cơ hội vay vốn bằng tài sản số để mở rộng vị thế đầu tư.</p>\n<h2>3. Vụ hack thẻ crypto trị giá 1,1 triệu USD làm token AVICI giảm 49%</h2>\n<p>CoinDesk báo cáo một neobank đã bị tấn công qua thẻ crypto, khiến token AVICI sụt 49% trong 24 giờ. Kẻ tấn công lợi dụng lỗ hổng trong hệ thống thanh toán Web3 để rút tiền và bán tháo token. Sự kiện này nhắc nhở nhà đầu tư cần kiểm tra độ an toàn của các giải pháp thanh toán và ưu tiên sử dụng ví lạnh (cold wallet) cho số dư lớn.</p>\n<h2>4. Layer‑1 Fogo tạm dừng mainnet sau khi kẻ tấn công chiếm 400 triệu token (10% nguồn cung)</h2>\n<p>The Block cho biết Fogo – một blockchain layer‑1 mới – đã phải dừng hoạt động sau khi một hacker thu thập 400 triệu token FOGO, tương đương 10% nguồn cung lưu thông, gây mất ổn định. Mặc dù giá trị khoảng 3 triệu USD, nhưng việc mất một phần lớn token khiến niềm tin nhà đầu tư giảm mạnh. Đây là ví dụ điển hình cho rủi ro khi dự án chưa có cơ chế bảo vệ đủ mạnh.</p>\n<h2>5. Cosmos Labs thừa nhận lỗi trong bản vá gây mất $5,7 triệu qua tám chuỗi</h2>\n<p>The Block đưa tin Cosmos Labs đã công bố rằng bản vá lỗi được cho là đã khắc phục một lỗ hổng nhưng thực tế chưa đủ, dẫn đến vụ hack đa chuỗi gây mất $5,7 triệu, trong đó MANTRA Chain mất $3,6 triệu. Sự cố này nhấn mạnh tầm quan trọng của việc kiểm thử (audit) kỹ lưỡng trước khi triển khai bản vá trên môi trường đa chuỗi.</p>\n<h2>6. Polygon công bố sửa lỗi bảo mật trong các hard fork gần đây</h2>\n<p>Cointelegraph cho biết Polygon đã phát hiện và khắc phục các lỗ hổng có thể gây từ chối dịch vụ (DoS) và tiêu tốn tài nguyên validator. Các lỗi này đã được vá trước khi công bố, giảm thiểu rủi ro cho người dùng. Đối với nhà đầu tư Việt Nam, Polygon vẫn là một lựa chọn hấp dẫn cho các dự án DeFi nhờ phí giao dịch thấp và tốc độ xử lý nhanh.</p>\n<h2>7. Real Trump Coins phủ nhận việc phát hành token GOLD</h2>\n<p>Cointelegraph đưa tin Real Trump Coins (RTC) khẳng định không có sự cho phép nào cho token GOLD, đồng thời cáo buộc các “bad actors” đã tạo ra token giả mạo. Sự việc làm dấy lên lo ngại về việc sử dụng thương hiệu nổi tiếng để lừa đảo trong không gian crypto.</p>\n<h2>8. Tổng quan về chuyển tiền qua Hawala và Swift – 1.000 năm đấu tranh giảm ma sát</h2>\n<p>CoinDesk phân tích lịch sử dài của việc chuyển tiền từ hệ thống truyền thống Hawala tới SWIFT, nhấn mạnh rằng việc giảm ma sát trong giao dịch tài chính luôn tạo ra các lỗ hổng mới cho công nghệ cao, bao gồm cả crypto. Bài viết không trực tiếp liên quan tới giá coin nhưng cung cấp bối cảnh về rủi ro pháp lý và an ninh trong chuyển tiền quốc tế.</p>\n<h2>9. Các mô hình AI bị hack và kêu gọi tăng cường phòng thủ mạng</h2>\n<p>Decrypt đưa tin hơn 100 tổ chức trong lĩnh vực AI, bảo mật, tài chính đã yêu cầu chính phủ và doanh nghiệp tăng cường biện pháp phòng thủ mạng sau khi các mô hình AI bị tấn công. Điều này cảnh báo nhà đầu tư rằng các dự án crypto dựa trên AI có thể trở thành mục tiêu mới của hacker.</p>\n<h2>10. Tổng hợp tin tức crypto trong ngày</h2>\n<p>Cointelegraph cung cấp bản tin tổng hợp các xu hướng hàng ngày, bao gồm giá Bitcoin, DeFi, Web3 và quy định. Đây là nguồn tham khảo nhanh cho nhà đầu tư muốn cập nhật diễn biến thị trường trong thời gian ngắn.</p>\n<h2>Nhận định thị trường</h2>\n<p>Những sự kiện trên cho thấy xu hướng thị trường đang chuyển sang “tăng thanh khoản, tăng rủi ro bảo mật”. Bitcoin duy trì mức cao, thu hút các market maker và các ngân hàng truyền thống như Sber bắt đầu tích hợp crypto vào danh mục tài sản. Đồng thời, các vụ hack quy mô lớn (AVICI, Fogo, Cosmos) nhắc nhở nhà đầu tư về tầm quan trọng của an ninh mạng và việc lựa chọn dự án có audit độc lập. Ở Việt Nam, nhu cầu vay vốn bằng crypto và việc sử dụng stablecoin để giảm biến động sẽ tăng, trong khi các nhà đầu tư cần thận trọng với các token mới và dự án chưa được kiểm chứng.</p>\n<h2>Khuyến nghị nhà đầu tư</h2>\n<p>1. <strong>Đa dạng hoá danh mục</strong>: Giữ một phần lớn tài sản trong Bitcoin và Ethereum để tận dụng xu hướng tăng thanh khoản.<br/>2. <strong>Ưu tiên stablecoin</strong> (USDT, USDC) khi cần vay hoặc giao dịch để giảm rủi ro biến động.<br/>3. <strong>Kiểm tra độ an toàn</strong> của ví và nền tảng giao dịch; ưu tiên sử dụng ví lạnh và các sàn uy tín.<br/>4. <strong>Tránh các token mới</strong> chưa có audit đầy đủ, đặc biệt là các dự án layer‑1 mới như Fogo.<br/>5. <strong>Theo dõi quy định</strong> tại Việt Nam và các thị trường lớn; chuẩn bị cho khả năng ngân hàng địa phương sẽ mở dịch vụ cho vay bằng crypto trong tương lai gần.<br/>6. <strong>Giáo dục về AI và bảo mật</strong>: Nắm bắt các cảnh báo về AI bị hack để không đầu tư vào các dự án chưa có biện pháp phòng thủ mạnh.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] From Hawala to Swift: Inside the 1,000-year battle to move money safely — <em>CoinDesk</em></li>\n<li>[2] After Their AI Models Hacked Real Companies, AI Labs Call for Stronger Cyber Defenses — <em>Decrypt</em></li>\n<li>[3] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[4] Crypto market makers are cashing in on bitcoin's rally - without betting on direction — <em>CoinDesk</em></li>\n<li>[5] Russia’s Sber eyes USDT loans, questions digital ruble demand — <em>Cointelegraph</em></li>\n<li>[6] Real Trump Coins denies launching GOLD token, blames ‘bad actors’ — <em>Cointelegraph</em></li>\n<li>[7] A $1.1 million crypto card hack crashed a neobank's token 49% — <em>CoinDesk</em></li>\n<li>[8] Layer 1 blockchain Fogo halts mainnet after attacker receives 400 million FOGO tokens, 10% of circulating supply — <em>The Block</em></li>\n<li>[9] Polygon discloses security flaws fixed in recent hard forks — <em>Cointelegraph</em></li>\n<li>[10] Cosmos Labs says it wrongly cleared the bug behind a $5.7 million six-chain hack — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "defi",
+        "crypto",
+        "thị trường",
+        "hack"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1788103852/cryptohieuqua/posts/diem-tin-crypto-30082026-luc-2230-bitcoin-but-pha-cac-vu-hack-va-quy-dinh-moi.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1788103852/cryptohieuqua/posts/diem-tin-crypto-30082026-luc-2230-bitcoin-but-pha-cac-vu-hack-va-quy-dinh-moi.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-30082026-luc-2230-bitcoin-but-pha-cac-vu-hack-va-quy-dinh-moi",
+        "width": 1920,
+        "height": 1080,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 30/08/2026 lúc 22:30: Bitcoin bứt phá, các vụ hack và quy định mới"
+      },
+      "sourceUrl": "https://www.coindesk.com/business/2026/08/30/from-hawala-to-swift-inside-the-1-000-year-battle-to-move-money-safely",
+      "sourceTitle": "CoinDesk / Decrypt / Cointelegraph / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "From Hawala to Swift: Inside the 1,000-year battle to move money safely",
+          "url": "https://www.coindesk.com/business/2026/08/30/from-hawala-to-swift-inside-the-1-000-year-battle-to-move-money-safely",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "After Their AI Models Hacked Real Companies, AI Labs Call for Stronger Cyber Defenses",
+          "url": "https://decrypt.co/376863/ai-models-hacked-companies-ai-labs-cyber-defenses",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Crypto market makers are cashing in on bitcoin's rally - without betting on direction",
+          "url": "https://www.coindesk.com/markets/2026/08/28/crypto-market-makers-are-cashing-in-on-bitcoin-s-rally-without-betting-on-direction",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Russia’s Sber eyes USDT loans, questions digital ruble demand",
+          "url": "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Real Trump Coins denies launching GOLD token, blames ‘bad actors’",
+          "url": "https://cointelegraph.com/news/real-trump-coins-denies-gold-token-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "A $1.1 million crypto card hack crashed a neobank's token 49%",
+          "url": "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Layer 1 blockchain Fogo halts mainnet after attacker receives 400 million FOGO tokens, 10% of circulating supply",
+          "url": "https://www.theblock.co/news/defi/2026-08-29-layer-1-blockchain-fogo-halts-mainnet-after-attacker-receives-400-million-fogo-tokens-10-of-circulating-supply-413064",
+          "source": "The Block"
+        },
+        {
+          "title": "Polygon discloses security flaws fixed in recent hard forks",
+          "url": "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Cosmos Labs says it wrongly cleared the bug behind a $5.7 million six-chain hack",
+          "url": "https://www.theblock.co/news/defi/2026-08-29-cosmos-labs-says-it-wrongly-cleared-the-bug-behind-a-5-7-million-six-chain-hack-413061",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-08-30T15:30:52.790Z",
+      "slug": "diem-tin-crypto-30082026-luc-2230-bitcoin-but-pha-cac-vu-hack-va-quy-dinh-moi"
+    },
+    {
       "id": "1788062229018",
       "title": "Điểm tin crypto 30/08/2026 lúc 10:57: Tổng hợp các sự kiện gây chấn động thị trường",
       "summary": "Ngày 30/08/2026, chuỗi tin tức crypto phản ánh áp lực an ninh mạng, sự bùng nổ token hoá tài sản thực và xu hướng giảm hứng thú của người dùng Mỹ với Bitcoin. Các sự kiện từ hack thẻ, tấn công mạng tới tăng trưởng thị trường RWA và tokenized equities tạo ra một bức tranh hỗn hợp cho nhà đầu tư Việt Nam.",
@@ -22832,11 +22913,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/bank-of-italy-study-no-stablecoin-remittance-cost-advantages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/374802/suno-ai-music-copyright-case-germany",
-    "https://decrypt.co/374799/fcc-bans-foreign-humanoid-robots-china-roombas",
-    "https://www.theblock.co/post/410316/coinbase-q2-miss-sparks-split-wall-street-analysts-debate-growth-beyond-trading?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/news/pump-fun-employees-fired-tokens-vest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half",
     "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -23331,10 +23407,14 @@
     "https://www.theblock.co/news/defi/2026-08-29-cosmos-labs-says-it-wrongly-cleared-the-bug-behind-a-5-7-million-six-chain-hack-413061",
     "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/376878/bernie-sanders-ban-flock-ai-surveillance",
-    "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/business/2026/08/30/from-hawala-to-swift-inside-the-1-000-year-battle-to-move-money-safely",
+    "https://decrypt.co/376863/ai-models-hacked-companies-ai-labs-cyber-defenses",
+    "https://www.coindesk.com/markets/2026/08/28/crypto-market-makers-are-cashing-in-on-bitcoin-s-rally-without-betting-on-direction",
+    "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/real-trump-coins-denies-gold-token-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/402198/boerse-stuttgart-adds-societe-generale-sg-forge-and-flatexdegiro-to-pan-european-tokenized-settlement-network?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/368591/why-defi-keeps-losing-millions-to-exploits|https://www.coindesk.com/business/2026/05/21/peer-to-peer-trading-startup-variational-raises-usd50-million-for-real-world-perps-in-funding-round-led-by-dragonfly",
     "https://www.theblock.co/post/402302/ark-invest-buys-5-million-bullish?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/402296/zero-network-wind-down?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/markets/bitcoin-liquidity-imbalance-eyes-a-sharp-rally-to-80k-next-heres-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/402353/binance-disputes-latest-wsj-report-on-alleged-iran-linked-transactions?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/05/22/iren-co-founder-says-ai-s-biggest-bottleneck-is-infrastructure-not-chips|https://www.coindesk.com/coindesk-indices/2026/05/22/coindesk-20-performance-update-near-surges-19-4-as-index-trades-flat",
     "https://cointelegraph.com/markets/ether-analyst-claims-eth-is-still-a-good-long-term-buy-heres-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/bitcoin-pizza-day-those-10k-btc-worth-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/kevin-warsh-sworn-fed-chair-traders-rate-hikes-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -23533,6 +23613,7 @@
     "https://www.coindesk.com/policy/2026/08/28/kalshi-takes-legal-blow-in-court-ruling-confirming-state-powers-over-prediction-markets|https://decrypt.co/376846/bitcoin-rally-stalls-sentiment-bullish|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges|https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives|https://www.coindesk.com/policy/2026/08/28/kalshi-takes-legal-blow-in-court-ruling-confirming-state-powers-over-prediction-markets",
     "https://decrypt.co/376866/bitcoin-oldest-coins-waking-up-2026|https://www.coindesk.com/business/2026/08/28/ditch-digital-gold-bpi-study-suggests-everyday-americans-prefer-control-and-micro-investing|https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test",
-    "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49|https://www.theblock.co/news/defi/2026-08-29-layer-1-blockchain-fogo-halts-mainnet-after-attacker-receives-400-million-fogo-tokens-10-of-circulating-supply-413064|https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49|https://www.theblock.co/news/defi/2026-08-29-layer-1-blockchain-fogo-halts-mainnet-after-attacker-receives-400-million-fogo-tokens-10-of-circulating-supply-413064|https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/business/2026/08/30/from-hawala-to-swift-inside-the-1-000-year-battle-to-move-money-safely|https://decrypt.co/376863/ai-models-hacked-companies-ai-labs-cyber-defenses|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
