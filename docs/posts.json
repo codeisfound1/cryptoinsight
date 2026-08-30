@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1788062229018",
+      "title": "Điểm tin crypto 30/08/2026 lúc 10:57: Tổng hợp các sự kiện gây chấn động thị trường",
+      "summary": "Ngày 30/08/2026, chuỗi tin tức crypto phản ánh áp lực an ninh mạng, sự bùng nổ token hoá tài sản thực và xu hướng giảm hứng thú của người dùng Mỹ với Bitcoin. Các sự kiện từ hack thẻ, tấn công mạng tới tăng trưởng thị trường RWA và tokenized equities tạo ra một bức tranh hỗn hợp cho nhà đầu tư Việt Nam.",
+      "content": "<p>Thị trường tiền mã hoá đang trải qua một giai đoạn biến động mạnh mẽ khi các rủi ro an ninh mạng, sự phát triển của token hoá tài sản thực và thay đổi tâm lý nhà đầu tư đồng thời xuất hiện. Dưới đây là phân tích chi tiết 10 tin tức quan trọng nhất, đánh giá tác động tới nhà đầu tư Việt Nam và đề xuất chiến lược đầu tư ngắn‑dài hạn.</p><h2>1. Hack thẻ crypto gây sụt 49% token AVICI của neobank</h2><p>CoinDesk báo cáo một vụ tấn công khiến kẻ xấu chiếm được thẻ crypto trị giá 1,1 triệu USD, làm token AVICI của một neobank giảm 49% trong 24 giờ. Đây là ví dụ điển hình của rủi ro “crypto card hack” – khi các ví lạnh được gắn vào thẻ thanh toán bị xâm nhập. Đối với nhà đầu tư Việt, việc nắm giữ token của các dự án fintech chưa được kiểm chứng cần cân nhắc kỹ lưỡng, ưu tiên sử dụng ví lạnh độc lập và đa‑factor authentication.</p><h2>2. Fogo – Layer 1 blockchain tạm dừng mainnet sau mất 400 triệu token</h2><p>The Block đưa tin Fogo, một blockchain lớp 1 mới, đã phải dừng hoạt động sau khi một kẻ tấn công thu được 400 triệu token FOGO, chiếm 10% nguồn cung lưu hành. Mặc dù giá trị khoảng 3 triệu USD, nhưng sự kiện này làm lộ lỗ hở trong cơ chế phát hành và quản lý supply. Nhà đầu tư Việt nên tránh các dự án Layer 1 chưa có lịch sử bảo mật vững chắc và ưu tiên các chuỗi đã được audit độc lập.</p><h2>3. Polygon công bố lỗ hổng bảo mật đã được khắc phục trong hard fork</h2><p>Cointelegraph cho biết Polygon đã phát hiện và vá các lỗ hổng có thể gây denial‑of‑service (DoS) và tấn công tài nguyên validator. Việc vá trước khi công bố giúp giảm thiểu rủi ro, nhưng đồng thời nhắc nhở rằng các mạng L2 vẫn có thể gặp vấn đề về bảo mật. Đối với nhà đầu tư Việt, Polygon vẫn là lựa chọn hấp dẫn cho DeFi nhờ phí giao dịch thấp, nhưng cần theo dõi các báo cáo audit định kỳ.</p><h2>4. Cosmos Labs thừa nhận lỗi trong việc xử lý bug gây mất $5,7 triệu trên sáu chuỗi</h2><p>The Block tiết lộ Cosmos Labs đã “sai lầm” khi cho rằng bug đã được khắc phục 20 giờ trước khi tấn công xảy ra, trong khi thực tế không xác định được nguyên nhân. Sự cố này ảnh hưởng đến MANTRA Chain (mất $3,6 triệu) và làm giảm niềm tin vào khả năng phản ứng nhanh của các dự án đa‑chain. Nhà đầu tư Việt cần chú ý đến tốc độ phản hồi và minh bạch của các dự án khi quyết định đầu tư.</p><h2>5. Thị trường RWA token hoá của Stellar tăng gần 4 tỷ USD</h2><p>Cointelegraph báo cáo thị trường tài sản thực (Real‑World Assets) trên Stellar đã tăng gấp bốn lần, gần đạt 4 tỷ USD nhờ sự chấp nhận của các tổ chức tài chính. Token hoá bất động sản, trái phiếu và hàng hoá đang thu hút nhà đầu tư muốn đa dạng hoá danh mục mà không phải qua trung gian truyền thống. Đối với Việt Nam, đây là cơ hội tiếp cận tài sản thực qua blockchain, đặc biệt trong bối cảnh ngân hàng đang khám phá CBDC.</p><h2>6. Bernie Sanders đề xuất luật cấm Flock và AI surveillance</h2><p>Decrypt đưa tin Thượng nghị sĩ Bernie Sanders lên tiếng chống lại công ty giám sát Flock, sở hữu hơn 120.000 camera AI. Dù không trực tiếp liên quan tới crypto, nhưng việc tăng cường quy định về AI và dữ liệu có thể ảnh hưởng đến các dự án blockchain dựa trên công nghệ giám sát và phân tích dữ liệu. Nhà đầu tư Việt nên theo dõi xu hướng pháp lý ở Mỹ vì nó thường lan tỏa sang các thị trường khác.</p><h2>7. Khối lượng giao dịch cổ phiếu token hoá tăng 415% lên 29,5 tỷ USD</h2><p>Cointelegraph cho biết trong 30 ngày qua, khối lượng chuyển nhượng cổ phiếu token hoá đã tăng mạnh, với số địa chỉ hoạt động và người nắm giữ tăng gấp đôi. Điều này phản ánh nhu cầu tăng tính thanh khoản và khả năng giao dịch 24/7 cho các tài sản truyền thống. Đối với nhà đầu tư Việt, việc mua bán cổ phiếu token hoá trên các sàn uy tín có thể giảm chi phí và thời gian so với thị trường chứng khoán truyền thống.</p><h2>8. Các đồng Bitcoin “cũ” bừng tỉnh với khối lượng giao dịch cao</h2><p>Decrypt công bố các ví Bitcoin chưa di chuyển trong hơn 10 năm đã bắt đầu chuyển động mạnh, với 6 ví chuyển 40 triệu USD trong 10 ngày. Đây là dấu hiệu cho thấy các nhà “hodler” lâu năm đang tái phân bổ tài sản, có thể tạo áp lực bán ngắn hạn nhưng đồng thời cũng chứng tỏ niềm tin lâu dài vào Bitcoin. Nhà đầu tư Việt nên chuẩn bị cho biến động giá ngắn hạn nhưng không nên bỏ qua tiềm năng tăng giá dài hạn.</p><h2>9. Nghiên cứu BPI: Người Mỹ ưu thích kiểm soát và micro‑investing hơn “digital gold”</h2><p>CoinDesk đưa ra kết quả khảo sát cho thấy đa số người Mỹ không còn bị thu hút bởi “vàng kỹ thuật số” mà muốn có công cụ đầu tư linh hoạt, nhỏ lẻ. Xu hướng này có thể lan sang các thị trường mới nổi, trong đó người Việt ngày càng quan tâm tới các ứng dụng micro‑saving và ví di động. Các dự án cung cấp tính năng đầu tư từng đồng sẽ có lợi thế cạnh tranh.</p><h2>10. Cuộc chiến giữa đồng đô la kỹ thuật số và mạng lưới SWIFT</h2><p>CoinDesk phân tích rằng các giải pháp blockchain thanh toán đang thử thách vị thế của SWIFT, nhưng mạng lưới 11.500 ngân hàng vẫn có sức mạnh hấp thụ công nghệ mới. Nếu các ngân hàng Việt Nam tích hợp giải pháp blockchain, có thể giảm chi phí chuyển tiền quốc tế và tăng tốc độ giao dịch, đồng thời tạo cơ hội cho các token stablecoin nội địa.</p><h2>Nhận định thị trường</h2><p>Những sự kiện trên cho thấy thị trường crypto đang đứng trước ba trụ cột: an ninh mạng, token hoá tài sản thực và thay đổi hành vi nhà đầu tư. Các vụ hack và lỗi bảo mật làm giảm niềm tin ngắn hạn, trong khi sự bùng nổ của RWA và tokenized equities mở ra nguồn lợi nhuận mới. Đối với Việt Nam, môi trường pháp lý vẫn còn chưa rõ ràng, nhưng xu hướng tài chính số và CBDC đang được ngân hàng Nhà nước quan tâm, tạo nền tảng cho việc áp dụng công nghệ blockchain.</p><h2>Khuyến nghị nhà đầu tư</h2><p>1. <strong>Đa dạng hoá danh mục</strong>: Không nên đặt quá nhiều vốn vào một dự án mới chưa được audit; kết hợp Bitcoin, Ethereum với các token DeFi đã được kiểm chứng và RWA token hoá.</p><p>2. <strong>Ưu tiên bảo mật</strong>: Sử dụng ví lạnh, đa‑factor và tránh lưu trữ token trên thẻ crypto hoặc nền tảng neobank chưa có lịch sử bảo mật.</p><p>3. <strong>Theo dõi quy định</strong>: Các đề xuất luật ở Mỹ về AI và giám sát có thể ảnh hưởng tới dự án dữ liệu lớn; theo dõi thông tin pháp lý trong nước để kịp thời điều chỉnh chiến lược.</p><p>4. <strong>Lợi dụng micro‑investing</strong>: Chọn các nền tảng cho phép mua bán từng đồng để tận dụng xu hướng “đầu tư nhỏ lẻ” đang phổ biến.</p><p>5. <strong>Chuẩn bị cho biến động ngắn hạn</strong>: Các đợt bán của “old coins” Bitcoin có thể gây giảm giá ngắn hạn; nhưng về dài hạn, Bitcoin vẫn là tài sản lưu trữ giá trị.</p><p>Với những phân tích trên, nhà đầu tư Việt Nam nên duy trì quan điểm thận trọng, tập trung vào các dự án có nền tảng bảo mật vững chắc và tiềm năng token hoá tài sản thực, đồng thời tận dụng các công cụ đầu tư linh hoạt để giảm rủi ro.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] A $1.1 million crypto card hack crashed a neobank's token 49% — <em>CoinDesk</em></li>\n<li>[2] Layer 1 blockchain Fogo halts mainnet after attacker receives 400 million FOGO tokens, 10% of circulating supply — <em>The Block</em></li>\n<li>[3] Polygon discloses security flaws fixed in recent hard forks — <em>Cointelegraph</em></li>\n<li>[4] Cosmos Labs says it wrongly cleared the bug behind a $5.7 million six-chain hack — <em>The Block</em></li>\n<li>[5] Stellar tokenized RWA market more than quadruples to nearly $4B — <em>Cointelegraph</em></li>\n<li>[6] Bernie Sanders Vows Legislation to 'Stop Flock and AI Mass Surveillance' — <em>Decrypt</em></li>\n<li>[7] Tokenized stock transfer volume jumps 415% in 30 days to $29.5B — <em>Cointelegraph</em></li>\n<li>[8] Bitcoin's Oldest Coins Are Waking Up in 2026 at a Pace Rarely Seen — <em>Decrypt</em></li>\n<li>[9] Ditching 'digital gold': BPI study suggests everyday Americans prefer control and micro-investing — <em>CoinDesk</em></li>\n<li>[10] Inside the high-stakes battle between digital dollars and Swift's massive money engine — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "defi",
+        "thị trường",
+        "đầu tư",
+        "rwa"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1788062228/cryptohieuqua/posts/diem-tin-crypto-30082026-luc-1057-tong-hop-cac-su-kien-gay-chan-dong-thi-truong.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1788062228/cryptohieuqua/posts/diem-tin-crypto-30082026-luc-1057-tong-hop-cac-su-kien-gay-chan-dong-thi-truong.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-30082026-luc-1057-tong-hop-cac-su-kien-gay-chan-dong-thi-truong",
+        "width": 1617,
+        "height": 1080,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 30/08/2026 lúc 10:57: Tổng hợp các sự kiện gây chấn động thị trường"
+      },
+      "sourceUrl": "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49",
+      "sourceTitle": "CoinDesk / The Block / Cointelegraph / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "A $1.1 million crypto card hack crashed a neobank's token 49%",
+          "url": "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Layer 1 blockchain Fogo halts mainnet after attacker receives 400 million FOGO tokens, 10% of circulating supply",
+          "url": "https://www.theblock.co/news/defi/2026-08-29-layer-1-blockchain-fogo-halts-mainnet-after-attacker-receives-400-million-fogo-tokens-10-of-circulating-supply-413064",
+          "source": "The Block"
+        },
+        {
+          "title": "Polygon discloses security flaws fixed in recent hard forks",
+          "url": "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Cosmos Labs says it wrongly cleared the bug behind a $5.7 million six-chain hack",
+          "url": "https://www.theblock.co/news/defi/2026-08-29-cosmos-labs-says-it-wrongly-cleared-the-bug-behind-a-5-7-million-six-chain-hack-413061",
+          "source": "The Block"
+        },
+        {
+          "title": "Stellar tokenized RWA market more than quadruples to nearly $4B",
+          "url": "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bernie Sanders Vows Legislation to 'Stop Flock and AI Mass Surveillance'",
+          "url": "https://decrypt.co/376878/bernie-sanders-ban-flock-ai-surveillance",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
+          "url": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin's Oldest Coins Are Waking Up in 2026 at a Pace Rarely Seen",
+          "url": "https://decrypt.co/376866/bitcoin-oldest-coins-waking-up-2026",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Ditching 'digital gold': BPI study suggests everyday Americans prefer control and micro-investing",
+          "url": "https://www.coindesk.com/business/2026/08/28/ditch-digital-gold-bpi-study-suggests-everyday-americans-prefer-control-and-micro-investing",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Inside the high-stakes battle between digital dollars and Swift's massive money engine",
+          "url": "https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-08-30T03:57:09.019Z",
+      "slug": "diem-tin-crypto-30082026-luc-1057-tong-hop-cac-su-kien-gay-chan-dong-thi-truong"
+    },
+    {
       "id": "1788018395852",
       "title": "Điểm tin crypto 29/08/2026 lúc 22:46: Tổng hợp 10 tin quan trọng",
       "summary": "Ngày 29/08/2026, thị trường tiền mã hoá chứng kiến nhiều diễn biến đáng chú ý: các ví Bitcoin lâu năm bắt đầu di chuyển, các dự án stablecoin và token hoá tài sản gặp thách thức, trong khi các nhà cung cấp dịch vụ tài chính truyền thống đang thử nghiệm công nghệ blockchain. Những tin tức này phản ánh xu hướng chuyển dịch từ “vàng kỹ thuật số” sang các giải pháp tài chính thực tiễn và quy định chặt chẽ hơn.",
@@ -22751,13 +22832,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/markets/2026/07/31/world-cup-bets-smash-records-as-prediction-markets-hit-usd20-billion-in-volume",
-    "https://www.coindesk.com/policy/2026/07/31/u-s-sanctions-iran-linked-bitcoin-insurance-scheme-for-strait-of-hormuz-ships",
-    "https://www.coindesk.com/daybook-us/2026/07/31/bitcoin-usd60-000-put-leads-the-pack-as-mood-swings-bearish-for-august",
-    "https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say",
-    "https://decrypt.co/374805/google-yanks-google-earth-ai-image-tool-deepfake-fears",
-    "https://www.theblock.co/post/410338/george-santos-to-pay-35000-cftc-settlement-kalshi-sotu-bet?utm_source=rss&amp;utm_medium=rss",
-    "https://www.theblock.co/post/410332/bitcoin-losses-linked-coldcard-vulnerability-70-million-galaxy-research?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/bank-of-italy-study-no-stablecoin-remittance-cost-advantages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/374802/suno-ai-music-copyright-case-germany",
     "https://decrypt.co/374799/fcc-bans-foreign-humanoid-robots-china-roombas",
@@ -23250,10 +23324,16 @@
     "https://decrypt.co/376864/bitgo-buys-nydig-institutional-trading-arm",
     "https://www.coindesk.com/opinion/2026/08/29/tokenized-assets-are-busier-than-the-data-shows",
     "https://cointelegraph.com/news/trump-linked-account-list-gold-token-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49",
+    "https://www.theblock.co/news/defi/2026-08-29-layer-1-blockchain-fogo-halts-mainnet-after-attacker-receives-400-million-fogo-tokens-10-of-circulating-supply-413064",
+    "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/defi/2026-08-29-cosmos-labs-says-it-wrongly-cleared-the-bug-behind-a-5-7-million-six-chain-hack-413061",
+    "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/376878/bernie-sanders-ban-flock-ai-surveillance",
+    "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/402120/hyperliquid-etfs-25-million-inflows?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/402114/fed-input-master-account?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/spacex-filing-reveals-larger-than-expected-bitcoin-holdings-ahead-of-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/402198/boerse-stuttgart-adds-societe-generale-sg-forge-and-flatexdegiro-to-pan-european-tokenized-settlement-network?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/368591/why-defi-keeps-losing-millions-to-exploits|https://www.coindesk.com/business/2026/05/21/peer-to-peer-trading-startup-variational-raises-usd50-million-for-real-world-perps-in-funding-round-led-by-dragonfly",
     "https://www.theblock.co/post/402302/ark-invest-buys-5-million-bullish?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/402296/zero-network-wind-down?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/markets/bitcoin-liquidity-imbalance-eyes-a-sharp-rally-to-80k-next-heres-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/402353/binance-disputes-latest-wsj-report-on-alleged-iran-linked-transactions?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/05/22/iren-co-founder-says-ai-s-biggest-bottleneck-is-infrastructure-not-chips|https://www.coindesk.com/coindesk-indices/2026/05/22/coindesk-20-performance-update-near-surges-19-4-as-index-trades-flat",
@@ -23452,6 +23532,7 @@
     "https://www.theblock.co/news/regulation/2026-08-28-uk-tax-crypto-capital-gains-412993|https://cointelegraph.com/markets/ena-rises-10-ethena-token-buyback-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/bitgo-nydig-trading-arm-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/policy/2026/08/28/kalshi-takes-legal-blow-in-court-ruling-confirming-state-powers-over-prediction-markets|https://decrypt.co/376846/bitcoin-rally-stalls-sentiment-bullish|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges|https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives|https://www.coindesk.com/policy/2026/08/28/kalshi-takes-legal-blow-in-court-ruling-confirming-state-powers-over-prediction-markets",
-    "https://decrypt.co/376866/bitcoin-oldest-coins-waking-up-2026|https://www.coindesk.com/business/2026/08/28/ditch-digital-gold-bpi-study-suggests-everyday-americans-prefer-control-and-micro-investing|https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test"
+    "https://decrypt.co/376866/bitcoin-oldest-coins-waking-up-2026|https://www.coindesk.com/business/2026/08/28/ditch-digital-gold-bpi-study-suggests-everyday-americans-prefer-control-and-micro-investing|https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test",
+    "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49|https://www.theblock.co/news/defi/2026-08-29-layer-1-blockchain-fogo-halts-mainnet-after-attacker-receives-400-million-fogo-tokens-10-of-circulating-supply-413064|https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
