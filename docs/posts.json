@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1788148819402",
+      "title": "Điểm tin crypto 31/08/2026 lúc 11:00: Sự cố Cronos, Bitcoin lên đỉnh, ETF rối loạn và các xu hướng mới",
+      "summary": "Ngày 31/08/2026, thị trường crypto chứng kiến vụ tấn công lớn vào mạng Cronos, Bitcoin tiếp tục tiến tới mục tiêu $500K và ETF Bitcoin gặp áp lực rút vốn, trong khi các quỹ Ethereum và các dự án DeFi đang củng cố bảo mật. Các tin tức này tạo nên một bức tranh hỗn hợp giữa rủi ro an ninh và tiềm năng tăng trưởng dài hạn cho nhà đầu tư Việt Nam.",
+      "content": "<p>Thị trường tiền mã hoá đang trải qua một giai đoạn biến động mạnh khi các sự kiện an ninh, quy định và xu hướng công nghệ đồng thời diễn ra. Từ vụ tấn công vào Cronos gây thiệt hại 75 triệu USD, đến những bước tiến của Bitcoin trong việc chuẩn bị chống lại máy tính lượng tử, cùng với việc các quỹ ETF Bitcoin và Ethereum ghi nhận dòng tiền trái chiều, các nhà đầu tư cần nắm bắt những tín hiệu này để điều chỉnh chiến lược. Bài phân tích dưới đây tổng hợp 10 tin tức quan trọng nhất, giải thích các thuật ngữ kỹ thuật và đưa ra nhận định chung cho thị trường Việt Nam.</p>\n<h2>1. Cronos tạm dừng mạng sau vụ tấn công Tectonic ước tính 75 triệu USD</h2>\n<p>Vào sáng ngày 30/08, mạng Cronos – nền tảng blockchain được Crypto.com hỗ trợ – đã phải tạm dừng hoạt động sau khi một hacker lợi dụng lỗ hổng trong giao thức Tectonic để thao túng giá token TONIC, sau đó vay mượn trên nền tảng tương tự Mango Markets. Tổng thiệt hại ước tính 75 triệu USD. Crypto.com khẳng định ứng dụng và sàn giao dịch của mình không bị ảnh hưởng. Sự cố này nhấn mạnh rủi ro <strong>liquidity‑draining attack</strong> (tấn công rút thanh khoản) và tầm quan trọng của việc giám sát giá trị tài sản kém thanh khoản.</p>\n<h2>2. Bitcoin chuẩn bị phòng thủ lượng tử, dự báo $500.000</h2>\n<p>Bitcoin đang triển khai các nâng cấp mã nguồn nhằm bảo vệ mạng lưới trước mối đe dọa từ máy tính lượng tử – một công nghệ có khả năng phá vỡ các thuật toán ký ký số hiện tại. Đồng thời, các nhà phân tích của Bernstein đưa ra dự báo tăng trưởng mạnh, cho rằng Bitcoin có thể đạt mức $500.000 trong chu kỳ hiện tại. Việc hủy bỏ 18,9 triệu SOL cũng là nỗ lực giảm lạm phát trên mạng Solana, cho thấy xu hướng chung là kiểm soát cung tiền để duy trì giá trị.</p>\n<h2>3. ETF Bitcoin chấm dứt chuỗi 9 ngày ròng vào, quỹ Ethereum kéo dài 10 ngày</h2>\n<p>Spot Bitcoin ETFs đã rút $201,9 triệu vào ngày 28/08, kết thúc chuỗi 9 ngày dòng tiền ròng vào. Ngược lại, các quỹ Ethereum tiếp tục thu hút vốn, ghi nhận 10 ngày tăng liên tục. Điều này phản ánh sự chuyển dịch ngắn hạn của nhà đầu tư sang các tài sản có tiềm năng sinh lợi cao hơn trong giai đoạn thị trường dao động. Đối với nhà đầu tư Việt, việc theo dõi dòng tiền ETF là chỉ số quan trọng để dự đoán xu hướng ngắn hạn.</p>\n<h2>4. Michael Saylor và Strategy Investments công bố “We’re Back”</h2>\n<p>Chiến lược của Michael Saylor – người đứng đầu Strategy Investments – đã thu được lợi nhuận khoảng 2,8 tỷ USD nhờ giá Bitcoin tăng lên gần $79.000. Bài đăng “We’re Back” trên X (Twitter) gợi ý công ty có thể sẽ tái mua Bitcoin sau thời gian tạm dừng 2 tháng để củng cố bảng cân đối. Động thái này có thể tạo ra áp lực mua tăng giá ngắn hạn, nhất là khi Saylor được xem là “cá voi” (whale) có khả năng di chuyển khối lượng lớn.</p>\n<h2>5. Polygon vá lỗi bảo mật trong hai hard fork Austin và Kyoto</h2>\n<p>Polygon đã thực hiện hai hard fork – Austin và Kyoto – trên các client Bor và Heimdall để khắc phục các lỗ hổng DoS (từ chối dịch vụ) và lỗi đồng thuận. Các bản vá được triển khai một cách im lặng trước khi công bố, cho thấy chiến lược “quiet patch” nhằm giảm rủi ro khai thác trong thời gian công bố. Điều này là tín hiệu tích cực cho nhà đầu tư DeFi, giảm bớt lo ngại về rủi ro hệ thống.</p>\n<h2>6. Kalshi trở thành đối tác duy nhất của US Open trong lĩnh vực thị trường dự đoán</h2>\n<p>Kalshi, nền tảng giao dịch dự đoán, đã ký hợp đồng độc quyền với US Open, ngăn các nền tảng cạnh tranh quảng cáo tại giải đấu và trên các kênh ESPN. Sự kiện này cho thấy thị trường dự đoán đang được các tổ chức thể thao lớn chấp nhận, mở ra cơ hội tích hợp tài chính phi truyền thống vào các sự kiện thể thao toàn cầu.</p>\n<h2>7. Trường hợp lạm dụng thông tin nội bộ trên thị trường dự đoán của cựu nhân viên White House</h2>\n<p>Gabriel Perez, cựu người vận hành teleprompter tại Nhà Trắng, đã bị CFTC phạt vì lợi dụng thông tin trước khi các bài phát biểu của Trump được công bố để đặt cược vào các hợp đồng “presidential mention market”. Lợi nhuận thu được hơn 107.500 USD. Vụ việc nhấn mạnh rủi ro pháp lý khi tham gia vào các thị trường dự đoán và tầm quan trọng của việc tuân thủ quy định.</p>\n<h2>8. Chainalysis kiện ICE vì gán gọn hợp đồng blockchain trị giá 95 triệu USD cho TRM Labs</h2>\n<p>Chainalysis cáo buộc Intercontinental Exchange (ICE) đã không công bằng trong việc trao hợp đồng 95 triệu USD cho TRM Labs, yêu cầu tòa án chặn hợp đồng và yêu cầu một cuộc đấu thầu công khai. Vụ việc phản ánh cạnh tranh ngày càng gay gắt trong lĩnh vực phân tích chuỗi khối (blockchain analytics) và có thể ảnh hưởng đến giá cổ phiếu của các công ty cung cấp dịch vụ này.</p>\n<h2>9. Các quỹ Ethereum tiếp tục thu hút dòng tiền mới</h2>\n<p>Như đã đề cập ở mục 3, các quỹ Ethereum đã duy trì chuỗi 10 ngày tăng vốn, cho thấy niềm tin vào việc nâng cấp mạng lưới (Ethereum 2.0) và các dự án Layer‑2. Đối với nhà đầu tư Việt, việc đa dạng hoá danh mục sang Ethereum và các giải pháp mở rộng có thể giảm rủi ro so với chỉ nắm giữ Bitcoin.</p>\n<h2>10. Tác động tổng thể và liên kết giữa các sự kiện</h2>\n<p>Tất cả các tin tức trên đều cho thấy một thị trường đang cân bằng giữa rủi ro an ninh (Cronos, Polygon) và tiềm năng tăng trưởng dài hạn (Bitcoin lượng tử, Saylor, ETF). Sự xuất hiện của các nền tảng dự đoán như Kalshi và các vụ vi phạm nội bộ cho thấy quy định sẽ ngày càng chặt chẽ, trong khi các quỹ đầu tư truyền thống đang điều chỉnh chiến lược dựa trên dòng tiền thực tế.</p>\n<h2>Nhận định thị trường chung</h2>\n<p>Trong tuần này, thị trường crypto toàn cầu đang chịu áp lực từ các vụ tấn công bảo mật, nhưng đồng thời nhận được sự ủng hộ mạnh mẽ từ các nhà đầu tư tổ chức và các dự báo giá cao cho Bitcoin. Sự chênh lệch giữa dòng tiền rút khỏi ETF Bitcoin và dòng tiền vào quỹ Ethereum cho thấy nhà đầu tư đang tìm kiếm các tài sản có tiềm năng sinh lợi ngắn hạn và ít rủi ro hơn. Đối với Việt Nam, các sàn giao dịch nội địa cần tăng cường bảo mật và cung cấp thông tin minh bạch để duy trì niềm tin.</p>\n<h2>Khuyến nghị nhà đầu tư</h2>\n<p>1. <strong>Đa dạng hoá danh mục</strong>: Không nên đặt toàn bộ vốn vào một loại tài sản. Kết hợp Bitcoin, Ethereum và một số dự án DeFi đã được kiểm chứng (Polygon, Solana) để giảm rủi ro.<br/>2. <strong>Theo dõi các chỉ số ETF</strong>: Dòng tiền vào/ra ETF là chỉ báo ngắn hạn quan trọng, giúp quyết định thời điểm mua/bán.<br/>3. <strong>Ưu tiên các dự án có bảo mật mạnh</strong>: Chọn những blockchain đã thực hiện hard fork vá lỗi và có cộng đồng kiểm tra mã nguồn mở.<br/>4. <strong>Chú ý tới quy định</strong>: Các vụ vi phạm nội bộ và kiện tụng trong lĩnh vực analytics cho thấy việc tuân thủ pháp luật sẽ trở thành yếu tố quyết định cho các nền tảng dự đoán và dịch vụ blockchain.<br/>5. <strong>Giữ tiền mặt dự phòng</strong>: Trong môi trường biến động, duy trì một phần danh mục dưới dạng stablecoin hoặc tiền mặt để tận dụng cơ hội mua vào khi giá giảm.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] Cronos halts network after Tectonic exploit involving estimated $75M — <em>Cointelegraph</em></li>\n<li>[2] Bitcoin’s new quantum defenses, 18.9M SOL cancelled: Hodler’s Digest — <em>Cointelegraph</em></li>\n<li>[3] Ex-White House Teleprompter Operator Fined for Prediction Market Insider Trading — <em>Decrypt</em></li>\n<li>[4] Polygon Quietly Patched Security Flaws in Two Hard Forks Before Disclosing Them — <em>Decrypt</em></li>\n<li>[5] Bitcoin ETFs Snap Nine-Day Inflow Streak as Ethereum Funds Extend Their Run — <em>Decrypt</em></li>\n<li>[6] Kalshi becomes exclusive prediction market partner of US Open: report — <em>The Block</em></li>\n<li>[7] Strategy’s Bitcoin Is $2.8 Billion in Profit—Is Saylor Teeing Up a Buy? — <em>Decrypt</em></li>\n<li>[8] Crypto.com-linked Cronos network halts after Tectonic exploit estimated at $75 million — <em>The Block</em></li>\n<li>[9] Saylor signals Strategy is ‘Back’ to Bitcoin buying — <em>Cointelegraph</em></li>\n<li>[10] Chainalysis accuses ICE of unfairly steering $95 million blockchain contract to TRM Labs — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "cronoss",
+        "defi",
+        "etf",
+        "thị trường"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1788148818/cryptohieuqua/posts/diem-tin-crypto-31082026-luc-1100-su-co-cronos-bitcoin-len-dinh-etf-roi-loan-va-.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1788148818/cryptohieuqua/posts/diem-tin-crypto-31082026-luc-1100-su-co-cronos-bitcoin-len-dinh-etf-roi-loan-va-.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-31082026-luc-1100-su-co-cronos-bitcoin-len-dinh-etf-roi-loan-va-",
+        "width": 1450,
+        "height": 966,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 31/08/2026 lúc 11:00: Sự cố Cronos, Bitcoin lên đỉnh, ETF rối loạn và các xu hướng mới"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/cronos-network-halt-tectonic-exploit-75-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / Decrypt / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Cronos halts network after Tectonic exploit involving estimated $75M",
+          "url": "https://cointelegraph.com/news/cronos-network-halt-tectonic-exploit-75-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin’s new quantum defenses, 18.9M SOL cancelled: Hodler’s Digest",
+          "url": "https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Ex-White House Teleprompter Operator Fined for Prediction Market Insider Trading",
+          "url": "https://decrypt.co/376909/white-house-teleprompter-fined-prediction-market-trading",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Polygon Quietly Patched Security Flaws in Two Hard Forks Before Disclosing Them",
+          "url": "https://decrypt.co/376911/polygon-quietly-patched-security-flaws",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitcoin ETFs Snap Nine-Day Inflow Streak as Ethereum Funds Extend Their Run",
+          "url": "https://decrypt.co/376897/bitcoin-etfs-snap-streak-ethereum-funds-extend",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Kalshi becomes exclusive prediction market partner of US Open: report",
+          "url": "https://www.theblock.co/news/deals/2026-08-30-kalshi-becomes-exclusive-prediction-market-partner-of-us-open-report-413074",
+          "source": "The Block"
+        },
+        {
+          "title": "Strategy’s Bitcoin Is $2.8 Billion in Profit—Is Saylor Teeing Up a Buy?",
+          "url": "https://decrypt.co/376884/strategy-bitcoin-2-8-billion-profit-saylor-btc-buy",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Crypto.com-linked Cronos network halts after Tectonic exploit estimated at $75 million",
+          "url": "https://www.theblock.co/news/defi/2026-08-30-crypto-com-linked-cronos-network-halts-after-tectonic-exploit-estimated-at-75-million-413069",
+          "source": "The Block"
+        },
+        {
+          "title": "Saylor signals Strategy is ‘Back’ to Bitcoin buying",
+          "url": "https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Chainalysis accuses ICE of unfairly steering $95 million blockchain contract to TRM Labs",
+          "url": "https://www.theblock.co/news/business/2026-08-30-chainalysis-accuses-ice-of-unfairly-steering-95-million-blockchain-contract-to-trm-labs-413066",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-08-31T04:00:19.402Z",
+      "slug": "diem-tin-crypto-31082026-luc-1100-su-co-cronos-bitcoin-len-dinh-etf-roi-loan-va-"
+    },
+    {
       "id": "1788103852790",
       "title": "Điểm tin crypto 30/08/2026 lúc 22:30: Bitcoin bứt phá, các vụ hack và quy định mới",
       "summary": "Bitcoin vượt $80.000, các sàn market maker kiếm lợi nhuận không đặt cược chiều hướng, trong khi nhiều vụ hack làm giảm giá token và ngân hàng Nga chấp nhận USDT làm tài sản thế chấp, tạo xu hướng mới cho thị trường Việt Nam.",
@@ -22913,16 +22994,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half",
-    "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
-    "https://cointelegraph.com/markets/bitcoin-etfs-july-green-despite-late-month-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/tech/2026/08/01/xrp-ledger-upgrade-brings-back-features-once-pulled-over-critical-bugs",
-    "https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices",
-    "https://www.coindesk.com/markets/2026/08/01/strategy-holds-strc-dividend-at-12",
-    "https://www.theblock.co/post/410355/iran-linked-exchange-sent-676-million-to-binance-in-alleged-sanctions-evasion-operation-reuters?utm_source=rss&amp;utm_medium=rss",
-    "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million",
     "https://www.theblock.co/post/410351/bnb-chain-pursuing-legal-action-against-former-employee-over-memecoin-launched-from-tutorial-wallet?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -23412,10 +23483,19 @@
     "https://decrypt.co/376863/ai-models-hacked-companies-ai-labs-cyber-defenses",
     "https://www.coindesk.com/markets/2026/08/28/crypto-market-makers-are-cashing-in-on-bitcoin-s-rally-without-betting-on-direction",
     "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/real-trump-coins-denies-gold-token-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/real-trump-coins-denies-gold-token-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/cronos-network-halt-tectonic-exploit-75-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/376909/white-house-teleprompter-fined-prediction-market-trading",
+    "https://decrypt.co/376911/polygon-quietly-patched-security-flaws",
+    "https://decrypt.co/376897/bitcoin-etfs-snap-streak-ethereum-funds-extend",
+    "https://www.theblock.co/news/deals/2026-08-30-kalshi-becomes-exclusive-prediction-market-partner-of-us-open-report-413074",
+    "https://decrypt.co/376884/strategy-bitcoin-2-8-billion-profit-saylor-btc-buy",
+    "https://www.theblock.co/news/defi/2026-08-30-crypto-com-linked-cronos-network-halts-after-tectonic-exploit-estimated-at-75-million-413069",
+    "https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/business/2026-08-30-chainalysis-accuses-ice-of-unfairly-steering-95-million-blockchain-contract-to-trm-labs-413066"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/402302/ark-invest-buys-5-million-bullish?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/402296/zero-network-wind-down?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/markets/bitcoin-liquidity-imbalance-eyes-a-sharp-rally-to-80k-next-heres-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/402353/binance-disputes-latest-wsj-report-on-alleged-iran-linked-transactions?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/05/22/iren-co-founder-says-ai-s-biggest-bottleneck-is-infrastructure-not-chips|https://www.coindesk.com/coindesk-indices/2026/05/22/coindesk-20-performance-update-near-surges-19-4-as-index-trades-flat",
     "https://cointelegraph.com/markets/ether-analyst-claims-eth-is-still-a-good-long-term-buy-heres-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/bitcoin-pizza-day-those-10k-btc-worth-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/kevin-warsh-sworn-fed-chair-traders-rate-hikes-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/ecb-pushes-back-on-euro-stablecoin-proposals-citing-financial-stability-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/05/23/bitcoin-tanks-to-usd74-300-as-spot-etfs-bleed-usd2-26-billion-in-two-weeks|https://cointelegraph.com/news/sec-approves-nasdaq-to-list-bitcoin-index-options-on-the-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -23614,6 +23694,7 @@
     "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges|https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives|https://www.coindesk.com/policy/2026/08/28/kalshi-takes-legal-blow-in-court-ruling-confirming-state-powers-over-prediction-markets",
     "https://decrypt.co/376866/bitcoin-oldest-coins-waking-up-2026|https://www.coindesk.com/business/2026/08/28/ditch-digital-gold-bpi-study-suggests-everyday-americans-prefer-control-and-micro-investing|https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test",
     "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49|https://www.theblock.co/news/defi/2026-08-29-layer-1-blockchain-fogo-halts-mainnet-after-attacker-receives-400-million-fogo-tokens-10-of-circulating-supply-413064|https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/business/2026/08/30/from-hawala-to-swift-inside-the-1-000-year-battle-to-move-money-safely|https://decrypt.co/376863/ai-models-hacked-companies-ai-labs-cyber-defenses|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://www.coindesk.com/business/2026/08/30/from-hawala-to-swift-inside-the-1-000-year-battle-to-move-money-safely|https://decrypt.co/376863/ai-models-hacked-companies-ai-labs-cyber-defenses|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/cronos-network-halt-tectonic-exploit-75-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/376909/white-house-teleprompter-fined-prediction-market-trading"
   ]
 }
