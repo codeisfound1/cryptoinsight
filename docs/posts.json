@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1789010511730",
+      "title": "Điểm tin crypto 10/09/2026 lúc 10:21: An ninh ví, chuyển đổi doanh nghiệp và xu hướng quy định",
+      "summary": "Các tin tức hôm nay tập trung vào vụ tấn công vào hệ thống email của Trezor, kế hoạch tách công ty ConsenSys và các động thái pháp lý tại Mỹ. Những sự kiện này đồng thời phản ánh áp lực an ninh, đổi mới hạ tầng và môi trường pháp lý đang định hình thị trường crypto Việt Nam.",
+      "content": "<p>Ngày 10/09/2026, thị trường tiền mã hoá đang chịu áp lực từ nhiều phía: an ninh mạng, chuyển đổi mô hình kinh doanh và môi trường pháp lý ngày càng chặt chẽ. Đối với nhà đầu tư Việt Nam, việc nắm bắt nhanh chóng các diễn biến này là yếu tố quyết định lợi nhuận và giảm rủi ro. Bài viết sẽ tổng hợp và phân tích 10 tin tức quan trọng nhất, đồng thời đưa ra nhận định chung và khuyến nghị đầu tư.</p>\n<h2>1. Trezor bị xâm nhập email – Rủi ro an ninh ví phần cứng</h2>\n<p>Hai nguồn tin <em>The Block</em> và <em>Decrypt</em> xác nhận rằng nhà sản xuất ví phần cứng Trezor đã bị hacker xâm nhập vào nhà cung cấp dịch vụ email. Kẻ tấn công sử dụng thông tin cá nhân của khách hàng để gửi email phishing dưới dạng cảnh báo bảo mật giả mạo, kèm liên kết yêu cầu người dùng cung cấp seed phrase. Sự cố này xuất phát từ lỗ hổng tại nhà cung cấp vận chuyển ShipMonk, nơi dữ liệu khách hàng bị rò rỉ.</p>\n<p><strong>Ảnh hưởng:</strong> Người dùng Việt Nam sử dụng Trezor cần kiểm tra lại mọi email nhận được, không nhấp vào liên kết không rõ nguồn. Đề xuất chuyển sang xác thực đa yếu tố (2FA) và lưu trữ seed phrase offline. Các sàn giao dịch và dịch vụ ví tại Việt Nam cũng nên cảnh báo khách hàng để tránh lan truyền.</p>\n<h2>2. ConsenSys tách thành MetaMask và công ty blockchain doanh nghiệp</h2>\n<p>The Block và Cointelegraph đưa tin về việc ConsenSys – công ty đứng sau MetaMask – sẽ tách rời mảng tiêu dùng (MetaMask) và mảng hạ tầng doanh nghiệp (ConsenSys). Mục tiêu là tập trung phát triển sản phẩm MetaMask cho người dùng cá nhân, đồng thời xây dựng giải pháp blockchain cho các tổ chức tài chính và doanh nghiệp.</p>\n<p><strong>Ảnh hưởng:</strong> Việc tách công ty có thể tăng tốc độ đổi mới MetaMask, cải thiện trải nghiệm người dùng và mở rộng tích hợp DeFi trên nền tảng. Đối với nhà đầu tư Việt Nam, đây là tín hiệu tích cực cho các dự án DeFi nội địa muốn tích hợp MetaMask, đồng thời tạo cơ hội hợp tác với ConsenSys Enterprise.</p>\n<h2>3. Cuộc chiến pháp lý CLARITY Act – Crypto và ngân hàng cùng vận động</h2>\n<p>Decrypt đưa tin rằng các tổ chức crypto và ngân hàng đang tập trung vận động các thượng nghị sĩ ở các bang của họ để ảnh hưởng đến quyết định của Thượng viện về CLARITY Act – dự luật quy định cách thức giao dịch tài sản kỹ thuật số và yêu cầu báo cáo giao dịch. Cuộc vận động dự kiến sẽ diễn ra trước cuộc bỏ phiếu quy trình vào ngày 15/9.</p>\n<p><strong>Ảnh hưởng:</strong> Nếu CLARITY Act được thông qua, các sàn giao dịch tại Việt Nam có thể phải tuân thủ quy định báo cáo chi tiết hơn, tăng chi phí tuân thủ. Tuy nhiên, việc có ngân hàng tham gia vận động cũng cho thấy xu hướng hợp tác chặt chẽ hơn giữa tài chính truyền thống và crypto, mở ra cơ hội cho các sản phẩm tài chính phi tập trung (DeFi) được chấp nhận rộng rãi hơn.</p>\n<h2>4. DoubleZero tích hợp dữ liệu thị trường bầu cử Kalshi</h2>\n<p>Hai bản tin từ Cointelegraph và The Block cho biết nền tảng dữ liệu thị trường DoubleZero đã đưa vào hệ thống các dữ liệu thị trường dự đoán bầu cử của Kalshi, chuẩn bị cho cuộc bầu cử Mỹ giữa kỳ. Dữ liệu này sẽ được cung cấp cho các nhà giao dịch tự động và tổ chức tài chính.</p>\n<p><strong>Ảnh hưởng:</strong> Việc mở rộng dữ liệu dự đoán chính trị sẽ tạo ra các công cụ hedging mới cho nhà đầu tư crypto, đặc biệt là các quỹ hedge fund. Đối với nhà đầu tư Việt Nam, đây là cơ hội đa dạng hoá danh mục bằng cách kết hợp crypto với các sản phẩm dự đoán tài chính.</p>\n<h2>5. SkyAI – Công ty quỹ tiền mã hoá Solana đối mặt với thách thức từ cổ đông</h2>\n<p>The Block đưa tin về việc SkyAI, công ty quản lý quỹ của hệ sinh thái Solana, đang gặp áp lực từ nhóm cổ đông muốn mua lại công ty. Đề xuất cấp phép phát hành 5,145,000 cổ phiếu mới cho kế hoạch thưởng cổ phiếu, tương đương 7,2% tăng vốn cổ phần.</p>\n<p><strong>Ảnh hưởng:</strong> Việc tăng vốn có thể gây lo ngại về pha loãng cổ phần, nhưng đồng thời cung cấp nguồn vốn cho phát triển sản phẩm trên Solana. Nhà đầu tư Việt Nam nắm giữ token SOL hoặc các dự án liên quan cần theo dõi quyết định này để đánh giá tác động tới giá.</p>\n<h2>6. AI giải quyết các bài toán toán học khó – Cảnh báo của Terence Tao</h2>\n<p>Decrypt báo cáo rằng AI hiện đang có khả năng giải quyết các bài toán toán học phức tạp nhanh hơn con người, theo lời của nhà toán học đoạt Fields Medal Terence Tao. Cuộc đua giữa OpenAI và Anthropic được nhắc tới như một ví dụ về tốc độ tiến bộ.</p>\n<p><strong>Ảnh hưởng:</strong> Sự tiến bộ của AI có thể tạo ra các công cụ phân tích dữ liệu blockchain mạnh mẽ, tự động hoá giao dịch và phát hiện gian lận. Đối với nhà đầu tư Việt Nam, việc áp dụng AI vào phân tích thị trường có thể nâng cao hiệu quả chiến lược đầu tư.</p>\n<h2>7. Apple ra mắt Siri AI và chip A20 Pro – Tác động gián tiếp tới crypto</h2>\n<p>Decrypt công bố Apple đã giới thiệu Siri AI mới, tích hợp công nghệ Gemini và chip A20 Pro 2nm. Mặc dù không phải tin crypto trực tiếp, nhưng việc nâng cấp AI và phần cứng di động sẽ thúc đẩy việc sử dụng ví di động và dApp trên thiết bị iOS.</p>\n<p><strong>Ảnh hưởng:</strong> Người dùng iPhone tại Việt Nam sẽ có trải nghiệm mượt mà hơn khi truy cập các ứng dụng DeFi, NFT và ví di động, từ đó tăng mức độ chấp nhận crypto trên nền tảng di động.</p>\n<h2>8. Tổng hợp tin tức ngày hôm nay – Cointelegraph</h2>\n<p>Cointelegraph cung cấp bản tin tổng hợp các xu hướng giá Bitcoin, DeFi, Web3 và quy định. Nội dung nhấn mạnh sự biến động nhẹ của Bitcoin do tin tức an ninh và các động thái pháp lý tại Mỹ.</p>\n<p><strong>Ảnh hưởng:</strong> Đối với nhà đầu tư Việt Nam, việc theo dõi bản tin tổng hợp giúp nắm bắt nhanh các yếu tố ảnh hưởng ngắn hạn tới giá Bitcoin và các altcoin chính.</p>\n<h2>9. DoubleZero thêm dữ liệu Kalshi cho kỳ bầu cử tháng 11</h2>\n<p>Phiên bản mở rộng của DoubleZero được đề cập lại trong một bài viết của The Block, nhấn mạnh việc dữ liệu thị trường Kalshi sẽ được cập nhật liên tục cho đến kỳ bầu cử tháng 11.</p>\n<p><strong>Ảnh hưởng:</strong> Tín hiệu này củng cố xu hướng tích hợp dữ liệu truyền thống vào môi trường crypto, mở ra các sản phẩm tài chính lai (hybrid) cho nhà đầu tư.</p>\n<h2>10. Tổng quan nhanh về các tin tức</h2>\n<p>Những tin tức trên cho thấy ba trục chính đang chi phối thị trường: an ninh mạng (Trezor), chuyển đổi mô hình doanh nghiệp (ConsenSys) và môi trường pháp lý (CLARITY Act). Các yếu tố công nghệ như AI và dữ liệu thị trường cũng đang dần trở thành động lực phụ trợ.</p>\n<h2>Nhận định thị trường</h2>\n<p>Trong tuần này, Bitcoin duy trì mức giá ổn định quanh 31,200 USD, phản ánh sự cân bằng giữa áp lực an ninh và tin tức tích cực từ các dự án DeFi. Ethereum vẫn duy trì xu hướng tăng nhẹ nhờ tin ConsenSys tách công ty, dự kiến sẽ hỗ trợ phát triển các giải pháp doanh nghiệp trên mạng lưới. Các altcoin liên quan tới Solana và các dự án AI có tiềm năng tăng giá ngắn hạn nếu các tin tức công nghệ được chứng thực.</p>\n<h2>Khuyến nghị nhà đầu tư</h2>\n<p>1. <strong>An ninh ví:</strong> Đối với người dùng Trezor và các ví phần cứng khác, nên thực hiện kiểm tra email, bật 2FA và lưu trữ seed phrase offline.<br/>2. <strong>Đầu tư vào DeFi và hạ tầng:</strong> Xem xét tăng tỷ trọng vào token liên quan tới MetaMask, ConsenSys và các dự án Solana có tiềm năng mở rộng.<br/>3. <strong>Quy định:</strong> Chuẩn bị cho việc tuân thủ CLARITY Act bằng cách sử dụng sàn giao dịch uy tín, có báo cáo KYC/AML đầy đủ.<br/>4. <strong>Công nghệ AI:</strong> Theo dõi các nền tảng AI phân tích dữ liệu blockchain để tối ưu hoá chiến lược giao dịch.<br/>5. <strong>Đa dạng hoá danh mục:</strong> Kết hợp crypto với các sản phẩm dự đoán tài chính như Kalshi qua DoubleZero để giảm rủi ro thị trường.</p>\n<p>Những chiến lược trên sẽ giúp nhà đầu tư Việt Nam giảm thiểu rủi ro an ninh, tận dụng cơ hội công nghệ và chuẩn bị tốt cho môi trường pháp lý đang thay đổi.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] Trezor says third-party security breach led to phishing emails from legitimate domain — <em>The Block</em></li>\n<li>[2] Bitcoin Wallet Maker Trezor Says Hackers Breached Its Email Provider — <em>Decrypt</em></li>\n<li>[3] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[4] AI Is Solving Math's Best Problems Faster Than They Can Be Replaced, Terence Tao Warns — <em>Decrypt</em></li>\n<li>[5] DoubleZero adds Kalshi election market data ahead of US midterms — <em>Cointelegraph</em></li>\n<li>[6] Crypto, Banks Take Clarity Act Lobbying Fight to Senators' Home States — <em>Decrypt</em></li>\n<li>[7] Consensys to split into MetaMask and institutional blockchain company — <em>Cointelegraph</em></li>\n<li>[8] DoubleZero adds Kalshi’s election markets ahead of November midterms — <em>The Block</em></li>\n<li>[9] Solana treasury firm SkyAI faces board challenge from would-be acquirer Forward Industries, shareholder group — <em>The Block</em></li>\n<li>[10] Apple Unveils Redesigned Siri AI and A20 Pro Chip as CEO John Ternus Makes Debut — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "defi",
+        "thị trường",
+        "đầu tư",
+        "crypto"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1789010511/cryptohieuqua/posts/diem-tin-crypto-10092026-luc-1021-an-ninh-vi-chuyen-doi-doanh-nghiep-va-xu-huong.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1789010511/cryptohieuqua/posts/diem-tin-crypto-10092026-luc-1021-an-ninh-vi-chuyen-doi-doanh-nghiep-va-xu-huong.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-10092026-luc-1021-an-ninh-vi-chuyen-doi-doanh-nghiep-va-xu-huong",
+        "width": 1200,
+        "height": 675,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 10/09/2026 lúc 10:21: An ninh ví, chuyển đổi doanh nghiệp và xu hướng quy định"
+      },
+      "sourceUrl": "https://www.theblock.co/news/defi/2026-09-09-trezor-phishing-emails-414086",
+      "sourceTitle": "The Block / Decrypt / Cointelegraph",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Trezor says third-party security breach led to phishing emails from legitimate domain",
+          "url": "https://www.theblock.co/news/defi/2026-09-09-trezor-phishing-emails-414086",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin Wallet Maker Trezor Says Hackers Breached Its Email Provider",
+          "url": "https://decrypt.co/377831/bitcoin-wallet-trezor-hackers-breach-email",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "AI Is Solving Math's Best Problems Faster Than They Can Be Replaced, Terence Tao Warns",
+          "url": "https://decrypt.co/377818/ai-math-best-problems-terence-tao",
+          "source": "Decrypt"
+        },
+        {
+          "title": "DoubleZero adds Kalshi election market data ahead of US midterms",
+          "url": "https://cointelegraph.com/news/doublezero-adds-kalshi-election-market-data-ahead-of-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Crypto, Banks Take Clarity Act Lobbying Fight to Senators' Home States",
+          "url": "https://decrypt.co/377810/crypto-banks-clarity-act-lobbying-senators",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Consensys to split into MetaMask and institutional blockchain company",
+          "url": "https://cointelegraph.com/news/consensys-to-split-into-metamask-and-institutional-blockchain-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "DoubleZero adds Kalshi’s election markets ahead of November midterms",
+          "url": "https://www.theblock.co/news/regulation/2026-09-09-doublezero-adds-kalshis-election-markets-ahead-november-midterms-414075",
+          "source": "The Block"
+        },
+        {
+          "title": "Solana treasury firm SkyAI faces board challenge from would-be acquirer Forward Industries, shareholder group",
+          "url": "https://www.theblock.co/news/business/2026-09-09-solana-treasury-firm-skyai-board-challenge-would-be-acquirer-forward-industries-shareholder-group-414061",
+          "source": "The Block"
+        },
+        {
+          "title": "Apple Unveils Redesigned Siri AI and A20 Pro Chip as CEO John Ternus Makes Debut",
+          "url": "https://decrypt.co/377807/apple-redesigned-siri-ai-a20-pro-chip",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-09-10T03:21:51.730Z",
+      "slug": "diem-tin-crypto-10092026-luc-1021-an-ninh-vi-chuyen-doi-doanh-nghiep-va-xu-huong"
+    },
+    {
       "id": "1788967326300",
       "title": "Điểm tin crypto 09/09/2026 lúc 22:21: Consensys tách MetaMask, thuế crypto châu Âu, và bùng nổ stablecoin",
       "summary": "Consensys tách MetaMask thành công ty độc lập, Đức đề xuất thuế 25% cho lợi nhuận crypto và PayPal mở rộng nền tảng phát hành stablecoin. Các sự kiện này cùng các tranh chấp thuế ở Illinois và xu hướng on‑chain/off‑chain chênh lệch tiền tệ tạo nên bức tranh thị trường đa chiều cho nhà đầu tư Việt Nam.",
@@ -24526,15 +24607,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/policy/2026/08/11/australian-watchdog-suspends-cryptolink-forcing-96-atms-offline",
-    "https://www.theblock.co/news/business/2026-08-11-trump-media-records-360-6-million-unrealized-loss-on-digital-assets-in-first-half-of-the-year-411394",
-    "https://www.coindesk.com/tech/2026/08/11/ravencoin-could-roll-back-four-days-of-transactions-after-critical-block-flaw",
-    "https://www.coindesk.com/business/2026/08/11/coinbase-picks-abu-dhabi-for-its-global-tokenized-asset-push",
-    "https://www.coindesk.com/daybook-us/2026/08/11/when-safe-assets-compete-with-risk-lessons-from-the-1960s-90s-for-bitcoin-and-stocks",
-    "https://www.theblock.co/news/regulation/2026-08-11-uk-crypto-banking-access-411389",
-    "https://cointelegraph.com/news/ravencoin-rvn-record-low-consensus-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/sec-cftc-sue-goliath-ventures-400m-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/ecosystems/2026-08-11-robinhood-chain-hits-11-6-million-daily-transactions-as-usde-fuels-tvl-growth-411310",
     "https://decrypt.co/375381/openai-exec-brad-lightcap-quits-leadership-shake-up-ipo",
     "https://www.theblock.co/news/regulation/2026-08-11-cftc-flexes-emergency-authority-kalshi-operating-amid-new-york-lawsuit-411507",
     "https://www.coindesk.com/markets/2026/08/11/bitcoin-stuck-as-etf-inflows-offset-selling-but-inflation-data-could-spark-a-move",
@@ -25025,10 +25097,18 @@
     "https://decrypt.co/377764/german-finance-ministry-drafts-25-tax-on-crypto-gains-from-2027",
     "https://www.coindesk.com/tech/2026/09/09/kalshi-election-data-goes-live-on-doublezero-ahead-of-u-s-midterms",
     "https://www.coindesk.com/business/2026/09/09/paypal-expands-stablecoin-rails-with-launch-of-custom-token-issuance-platform",
-    "https://www.coindesk.com/business/2026/09/09/hunter-biden-s-laptop-memecoin-debuts-at-usd1-6-billion-market-cap"
+    "https://www.coindesk.com/business/2026/09/09/hunter-biden-s-laptop-memecoin-debuts-at-usd1-6-billion-market-cap",
+    "https://www.theblock.co/news/defi/2026-09-09-trezor-phishing-emails-414086",
+    "https://decrypt.co/377831/bitcoin-wallet-trezor-hackers-breach-email",
+    "https://decrypt.co/377818/ai-math-best-problems-terence-tao",
+    "https://cointelegraph.com/news/doublezero-adds-kalshi-election-market-data-ahead-of-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/377810/crypto-banks-clarity-act-lobbying-senators",
+    "https://cointelegraph.com/news/consensys-to-split-into-metamask-and-institutional-blockchain-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/regulation/2026-09-09-doublezero-adds-kalshis-election-markets-ahead-november-midterms-414075",
+    "https://www.theblock.co/news/business/2026-09-09-solana-treasury-firm-skyai-board-challenge-would-be-acquirer-forward-industries-shareholder-group-414061",
+    "https://decrypt.co/377807/apple-redesigned-siri-ai-a20-pro-chip"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/403128/the-funding-how-crypto-hedge-funds-are-navigating-weak-markets?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/whitehat-helps-recover-2m-from-2016-ico-smart-contract?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/05/31/coinbase-makes-a-major-play-for-india-s-booming-usd3-billion-crypto-market-with-local-currency-launch",
     "https://www.coindesk.com/tech/2026/06/01/ethereum-s-vitalik-buterin-is-rethinking-how-defi-handles-market-crashes|https://www.theblock.co/post/403213/strategy-bitcoin-sale-timing-throws-wrench-20-million-polymarket-pool?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/369642/tom-lee-bitmine-buys-52-million-ethereum-strategy-sells-bitcoin",
     "https://www.theblock.co/post/403279/robinhood-closes-wonderfi-acquisition-canada?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/defi-protocol-radiant-to-wind-down-after-failing-to-recover-from-2024-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/markets/bitcoin-bulls-eye-fresh-positions-after-btc-price-drops-under-71k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/tech/2026/06/02/here-s-how-one-decentralized-cloud-provider-says-private-citizens-can-make-money-from-ai|https://decrypt.co/369728/bitcoin-traders-flip-bearish-btc-lowest-price-months|https://decrypt.co/369725/anthropic-expands-access-claude-mythos-ai-giant-files-ipo",
@@ -25227,6 +25307,7 @@
     "https://www.coindesk.com/markets/2026/09/08/metaplanet-ceo-breaks-silence-but-shareholders-say-the-hard-questions-remain-unanswered|https://decrypt.co/377637/lg-tv-might-be-listening-even-when-off|https://decrypt.co/377635/openai-chief-scientist-warns-ai-slow-down",
     "https://www.theblock.co/news/markets/2026-09-08-strive-adds-1375-bitcoin-sata-approaches-billion-dollar-milestone-413800|https://www.theblock.co/news/ecosystems/2026-09-08-zksync-developer-matter-labs-open-sources-prividium-permissioning-engine-bundesbank-tests-platform-413814|https://decrypt.co/377672/tom-lee-bitmine-adds-70-million-ethereum",
     "https://www.theblock.co/news/defi/2026-09-08-hunter-biden-details-laptop-airdrop-413952|https://www.theblock.co/news/business/2026-09-08-stonex-sees-upside-robinhood-413955|https://www.theblock.co/news/ecosystems/2026-09-08-pons-propels-robinhood-chain-fees-record-6-million-daily-fees-dex-volume-doubles-413852",
-    "https://decrypt.co/377766/prediction-markets-abandon-cheap-oil-as-brent-passes-100|https://decrypt.co/377768/consensys-split-metamask-new-institutional-crypto-company|https://www.theblock.co/news/regulation/2026-09-09-crypto-industry-groups-escalate-fight-illinois-asking-court-block-crypto-tax-414036"
+    "https://decrypt.co/377766/prediction-markets-abandon-cheap-oil-as-brent-passes-100|https://decrypt.co/377768/consensys-split-metamask-new-institutional-crypto-company|https://www.theblock.co/news/regulation/2026-09-09-crypto-industry-groups-escalate-fight-illinois-asking-court-block-crypto-tax-414036",
+    "https://www.theblock.co/news/defi/2026-09-09-trezor-phishing-emails-414086|https://decrypt.co/377831/bitcoin-wallet-trezor-hackers-breach-email|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
