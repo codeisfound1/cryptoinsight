@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1790177790390",
+      "title": "Điểm tin crypto 23/09/2026 lúc 22:36: Token hoá, thanh khoản và quy định mới",
+      "summary": "Ngày 23/09/2026, các tin tức nổi bật bao gồm hợp tác token hoá cổ phiếu giữa Blockchain.com và NYSE, khối lượng giao dịch stablecoin kỷ lục trên Tron, và các quy định mới của SEC và ESMA. Những diễn biến này cho thấy xu hướng hợp pháp hoá tài sản số và tăng cường hạ tầng thanh khoản, đồng thời tạo cơ hội và rủi ro cho nhà đầu tư Việt Nam.",
+      "content": "<p>Thị trường tiền mã hoá đang bước vào một giai đoạn chuyển đổi quan trọng, khi các tổ chức tài chính truyền thống và cơ quan quản lý toàn cầu đồng thời đẩy mạnh việc token hoá tài sản thực và củng cố hạ tầng thanh khoản. Các tin tức trong ngày 23/09/2026 phản ánh ba trụ cột chính: (1) hợp tác giữa các sàn giao dịch truyền thống và nền tảng blockchain, (2) khối lượng giao dịch stablecoin đạt mức kỷ lục, và (3) các khung pháp lý mới nhằm kiểm soát token hoá và trí tuệ nhân tạo. Đối với nhà đầu tư Việt Nam, những xu hướng này mở ra cơ hội tiếp cận sản phẩm tài chính đa dạng, nhưng cũng đòi hỏi sự thận trọng trong việc đánh giá rủi ro pháp lý và kỹ thuật.</p><h2>1. Blockchain.com và NYSE hợp tác khám phá token hoá cổ phiếu và ETF</h2><p>Blockchain.com và Sở Giao dịch Chứng khoán New York (NYSE) đã ký thỏa thuận nghiên cứu việc token hoá cổ phiếu và quỹ hoán đổi danh mục (ETF) Mỹ. Dự án sẽ tiến hành sau khi nhận được phê duyệt từ cơ quan quản lý. Token hoá cho phép chia nhỏ tài sản truyền thống thành các token kỹ thuật số, giúp nhà đầu tư mua bán nhanh chóng, giảm chi phí và mở rộng khả năng tiếp cận. Đối với Việt Nam, việc một sàn quốc tế lớn như NYSE hợp tác với nền tảng blockchain có thể tạo tiền đề cho các ngân hàng và công ty chứng khoán nội địa triển khai dịch vụ tương tự, tăng tính thanh khoản và đa dạng hoá danh mục đầu tư.</p><h2>2. Tron trở thành lớp thanh toán chính cho stablecoin, xử lý $150‑190 tỷ mỗi tuần</h2><p>Theo CoinDesk, Tron đã chuyển đổi từ dự án phân phối nội dung sang một lớp thanh toán (settlement layer) cho stablecoin, đặc biệt là USDT. Khối lượng giao dịch hàng tuần đạt từ 150 đến 190 tỷ USD, cho thấy mạng lưới này đang trở thành kênh chuyển tiền nhanh, chi phí thấp cho các giao dịch stablecoin. Thuật ngữ “settlement layer” ở đây chỉ lớp hạ tầng cuối cùng để xác nhận và ghi nhận giao dịch, tương tự như ngân hàng trung ương trong hệ thống tài chính truyền thống. Nhà đầu tư Việt Nam có thể tận dụng Tron để chuyển tiền quốc tế hoặc giao dịch stablecoin với phí giao dịch chỉ vài cent, giảm thiểu chi phí so với các chuỗi lớn hơn như Ethereum.</p><h2>3. Bitcoin gặp áp lực thanh khoản, các lệnh long bị thanh lý $280 triệu khi giá dưới $84.000</h2><p>Cointelegraph báo cáo, khi giá Bitcoin giảm xuống dưới mức $84.000, các vị thế mua (long) bị thanh lý trị giá $280 triệu. “Long liquidation” là việc các nhà giao dịch mua vào với đòn bẩy cao bị ép bán khi giá giảm, gây ra áp lực bán thêm. Sự kiện này cho thấy mức độ rủi ro cao khi sử dụng đòn bẩy, đặc biệt trong môi trường biến động mạnh. Đối với nhà đầu tư Việt Nam, nên cân nhắc giảm đòn bẩy hoặc sử dụng các công cụ bảo hiểm (hedging) như hợp đồng tương lai để giảm thiểu tổn thất.</p><h2>4. Raiffeisen mở rộng giao dịch crypto qua Bitpanda tại 11 thị trường châu Âu</h2><p>Bitpanda sẽ cung cấp hạ tầng giao dịch crypto cho mạng lưới ngân hàng của Raiffeisen, tiếp cận khoảng 18 triệu khách hàng. Đây là một ví dụ điển hình của việc các ngân hàng truyền thống tích hợp dịch vụ tiền mã hoá, giúp khách hàng dễ dàng mua bán Bitcoin, Ethereum và các altcoin khác. Đối với Việt Nam, xu hướng này có thể thúc đẩy các ngân hàng nội địa hợp tác với các nền tảng crypto để cung cấp dịch vụ tương tự, tạo môi trường giao dịch an toàn và được giám sát.</p><h2>5. SEC mở đường cho token hoá cổ phiếu, xác định người thắng cuộc</h2><p>SEC (Cơ quan Chứng khoán Mỹ) công bố khung pháp lý cho token hoá cổ phiếu trong vòng năm năm tới, nhưng chỉ một số sản phẩm và nền tảng đáp ứng tiêu chuẩn. Các sàn như Uniswap, Robinhood, Coinbase và Kraken sẽ phải chứng minh khả năng tuân thủ quy định về bảo mật, minh bạch và bảo vệ nhà đầu tư. Điều này tạo ra cơ hội cho các dự án token hoá tại Việt Nam nếu họ đáp ứng tiêu chuẩn quốc tế, nhưng đồng thời cũng đặt ra thách thức về việc chuẩn bị hệ thống pháp lý và công nghệ.</p><h2>6. ESMA sẽ tập trung giám sát AI và token hoá trên toàn EU từ 2027</h2><p>Ủy ban Giám sát Thị trường Chứng khoán châu Âu (ESMA) công bố kế hoạch giám sát AI và token hoá bắt đầu từ 2027, nhằm đồng bộ quy định trên toàn khu vực. “Tokenization supervision” sẽ yêu cầu các công ty báo cáo cách sử dụng token, kiểm tra tính minh bạch và an toàn. Đối với các công ty fintech Việt Nam muốn mở rộng ra thị trường EU, việc chuẩn bị sẵn sàng cho các yêu cầu này sẽ là yếu tố quyết định thành công.</p><h2>7. Tổng hợp tin tức crypto hôm nay từ Cointelegraph</h2><p>Cointelegraph cung cấp bản tin tổng hợp các xu hướng ngày hôm nay, bao gồm biến động giá Bitcoin, DeFi, Web3 và các quy định mới. Đây là nguồn thông tin nhanh chóng giúp nhà đầu tư cập nhật tình hình thị trường, đặc biệt là trong môi trường biến động mạnh.</p><h2>8. Bitcoin và Ether options trị giá $16‑18 tỷ sẽ đáo hạn, tạo áp lực volatility</h2><p>CoinDesk cho biết, các hợp đồng quyền chọn (options) Bitcoin và Ether trị giá gần $18 tỷ sẽ đáo hạn vào cuối tuần, trong đó phần lớn là “call-heavy” (nhiều quyền mua). Khi các hợp đồng này hết hạn, các nhà tạo lập thị trường (market makers) sẽ phải điều chỉnh vị thế, có thể gây ra biến động giá ngắn hạn. Nhà đầu tư Việt Nam nên chú ý tới lịch đáo hạn để tránh mua vào trong thời điểm giá có thể dao động mạnh.</p><h2>9. MoonPay mua lại North Capital với giá $60 triệu để thúc đẩy token hoá tài sản thực</h2><p>MoonPay sẽ mua lại North Capital – một công ty đã đăng ký SEC – với giá $60 triệu bằng cổ phiếu. Mục tiêu là mở rộng khả năng token hoá tài sản thực (real‑world assets) như bất động sản, vàng. Việc này cho thấy xu hướng “real‑world tokenization” đang được các công ty fintech quốc tế đầu tư mạnh, tạo cơ hội cho các dự án token hoá tài sản tại Việt Nam, ví dụ như token hoá bất động sản hoặc hàng hoá nông sản.</p><h2>10. FBI tổ chức hội nghị thường niên về tội phạm crypto</h2><p>CoinDesk đưa tin về sự kiện “Virtual Asset Technical Exchange” do FBI tổ chức, quy tụ các chuyên gia điều tra, cơ quan thực thi pháp luật và chuyên gia bảo mật để chia sẻ thông tin về tội phạm liên quan tới tài sản kỹ thuật số. Sự kiện này nhấn mạnh tầm quan trọng của việc hợp tác quốc tế trong việc phòng chống rửa tiền và lừa đảo crypto, đồng thời khuyến khích các nhà đầu tư Việt Nam nâng cao nhận thức về an ninh mạng.</p><h2>Nhận định thị trường</h2><p>Những tin tức trên cho thấy thị trường crypto đang tiến tới giai đoạn “hợp pháp hoá + thanh khoản mạnh”. Token hoá cổ phiếu và ETF sẽ mở rộng phạm vi tiếp cận, trong khi các chuỗi như Tron đang cung cấp hạ tầng thanh khoản cho stablecoin với khối lượng giao dịch khổng lồ. Tuy nhiên, áp lực thanh khoản trên Bitcoin và các hợp đồng quyền chọn đáo hạn sẽ tiếp tục tạo ra biến động ngắn hạn. Các quy định mới của SEC, ESMA và các nỗ lực phối hợp quốc tế của FBI cho thấy môi trường pháp lý sẽ ngày càng chặt chẽ, đòi hỏi nhà đầu tư phải tuân thủ và chuẩn bị kỹ lưỡng.</p><h2>Khuyến nghị nhà đầu tư</h2><p>1. <strong>Đa dạng hoá danh mục</strong>: Kết hợp Bitcoin và Ethereum với các token hoá cổ phiếu, stablecoin và DeFi để giảm rủi ro tập trung.<br/>2. <strong>Giảm đòn bẩy</strong>: Tránh sử dụng đòn bẩy cao trong các thị trường biến động như Bitcoin, đặc biệt khi có tin tức thanh khoản mạnh.<br/>3. <strong>Chọn nền tảng uy tín</strong>: Ưu tiên các sàn được ngân hàng truyền thống hỗ trợ (ví dụ Bitpanda‑Raiffeisen) để giảm rủi ro bảo mật.<br/>4. <strong>Theo dõi lịch đáo hạn options</strong>: Điều chỉnh vị thế trước khi các hợp đồng quyền chọn lớn đáo hạn để tránh biến động bất ngờ.<br/>5. <strong>Chuẩn bị cho quy định mới</strong>: Đối với các dự án token hoá tài sản thực, nên xây dựng hệ thống tuân thủ chuẩn quốc tế để dễ dàng mở rộng ra thị trường EU và Mỹ.<br/>6. <strong>Tăng cường an ninh</strong>: Áp dụng các biện pháp bảo mật như ví lạnh, xác thực đa yếu tố và theo dõi tin tức về tội phạm crypto để bảo vệ tài sản.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] Blockchain.com, NYSE plan access to tokenized US stocks and ETFs — <em>The Block</em></li>\n<li>[2] Inside the FBI’s little-known annual crypto crime gathering — <em>CoinDesk</em></li>\n<li>[3] Crypto Long & Short: Inside the chain settling $150 billion of stablecoins a week — <em>CoinDesk</em></li>\n<li>[4] Bitcoin long liquidations hit $280M as BTC price dips under $84K — <em>Cointelegraph</em></li>\n<li>[5] Raiffeisen to offer crypto trading across 11 European markets via Bitpanda — <em>Cointelegraph</em></li>\n<li>[6] ESMA to prioritize EU-wide AI and tokenization supervision in 2027 — <em>Cointelegraph</em></li>\n<li>[7] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[8] Winners and losers of the SEC’s new tokenized stocks rules — <em>Cointelegraph</em></li>\n<li>[9] Bitcoin's $16 billion quarterly options settlement arrives with a 'call-heavy' book — <em>CoinDesk</em></li>\n<li>[10] MoonPay to acquire SEC-registered North Capital in $60 million all-stock deal — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "defi",
+        "tokenization",
+        "thị trường",
+        "đầu tư"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1790177789/cryptohieuqua/posts/diem-tin-crypto-23092026-luc-2236-token-hoa-thanh-khoan-va-quy-dinh-moi.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1790177789/cryptohieuqua/posts/diem-tin-crypto-23092026-luc-2236-token-hoa-thanh-khoan-va-quy-dinh-moi.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-23092026-luc-2236-token-hoa-thanh-khoan-va-quy-dinh-moi",
+        "width": 1600,
+        "height": 900,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 23/09/2026 lúc 22:36: Token hoá, thanh khoản và quy định mới"
+      },
+      "sourceUrl": "https://www.theblock.co/news/web3/2026-09-23-blockchain-com-nyse-tokenized-us-stocks-etfs-416176",
+      "sourceTitle": "The Block / CoinDesk / Cointelegraph",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Blockchain.com, NYSE plan access to tokenized US stocks and ETFs",
+          "url": "https://www.theblock.co/news/web3/2026-09-23-blockchain-com-nyse-tokenized-us-stocks-etfs-416176",
+          "source": "The Block"
+        },
+        {
+          "title": "Inside the FBI’s little-known annual crypto crime gathering",
+          "url": "https://www.coindesk.com/business/2026/09/23/inside-the-fbi-s-little-known-annual-crypto-crime-gathering",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Crypto Long & Short: Inside the chain settling $150 billion of stablecoins a week",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/09/23/crypto-long-and-short-inside-the-chain-settling-usd150-billion-of-stablecoins-a-week",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin long liquidations hit $280M as BTC price dips under $84K",
+          "url": "https://cointelegraph.com/markets/bitcoin-long-liquidations-hit-280m-as-btc-price-dips-under-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
+          "url": "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "ESMA to prioritize EU-wide AI and tokenization supervision in 2027",
+          "url": "https://cointelegraph.com/news/esma-to-focus-eu-wide-supervision-on-ai-and-tokenization-from-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Winners and losers of the SEC’s new tokenized stocks rules",
+          "url": "https://cointelegraph.com/magazine/winners-and-losers-of-the-secs-new-tokenized-stocks-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin's $16 billion quarterly options settlement arrives with a 'call-heavy' book",
+          "url": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-usd16-billion-quarterly-options-settlement-arrives-with-a-call-heavy-book",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "MoonPay to acquire SEC-registered North Capital in $60 million all-stock deal",
+          "url": "https://www.coindesk.com/business/2026/09/23/moonpay-to-acquire-sec-registered-north-capital-in-usd60-million-all-stock-deal",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-09-23T15:36:30.390Z",
+      "slug": "diem-tin-crypto-23092026-luc-2236-token-hoa-thanh-khoan-va-quy-dinh-moi"
+    },
+    {
       "id": "1790134529821",
       "title": "Điểm tin crypto 23/09/2026 lúc 10:35: CFTC cảnh báo, token hoá và chuyển động Bitcoin cổ xưa",
       "summary": "CFTC liên tục cảnh báo rủi ro trong các hợp đồng \"mention\" và chuẩn bị cho cuộc cách mạng token hoá; quỹ VC mới của Hashed hứa hẹn 300 triệu USD; đồng Bitcoin cổ xưa chuyển động mạnh. Các xu hướng này đang định hình lại chiến lược đầu tư của nhà đầu tư Việt Nam.",
@@ -26708,16 +26789,6 @@
     }
   ],
   "publishedUrls": [
-    "https://decrypt.co/376420/grayscale-launches-zcash-etf-following-critical-privacy-flaw-that-rocked-the-cryptocurrency",
-    "https://decrypt.co/376429/morning-minute-coinbase-puts-tokenized-stocks-on-base",
-    "https://cointelegraph.com/news/shipyard-winds-down-ipfs-protocol-labs-funding?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/policy/2026/08/25/crypto-supercomputer-ponzi-schemer-convicted-faces-up-to-280-years-in-prison",
-    "https://www.coindesk.com/daybook-us/2026/08/25/bitcoin-s-surging-price-faces-1-key-level-that-could-signal-if-the-bear-market-is-really-over",
-    "https://www.coindesk.com/markets/2026/08/25/a-bitcoin-short-squeeze-for-the-ages-as-futures-open-interest-collapses",
-    "https://www.coindesk.com/markets/2026/08/25/bitcoin-extends-7-day-advance-to-roughly-25",
-    "https://decrypt.co/376427/jury-convicts-las-vegas-man-of-24m-ai-crypto-mining-ponzi-scheme",
-    "https://decrypt.co/376573/elon-musk-spacex-100-billion-spaceport",
-    "https://www.coindesk.com/policy/2026/08/25/u-s-state-banking-associations-plan-to-launch-their-own-nationwide-blockchain-network",
     "https://decrypt.co/376559/xrp-price-cools-where-next",
     "https://www.coindesk.com/policy/2026/08/25/zerohash-back-for-second-effort-at-occ-trust-bank-charter",
     "https://decrypt.co/376530/alibaba-qwen-3-8-flash-next-preview-qwen-4",
@@ -27207,10 +27278,19 @@
     "https://decrypt.co/379006/161-million-decade-old-bitcoin-moves-two-weeks",
     "https://www.theblock.co/news/regulation/2026-09-22-cftc-selig-mass-tokenization-24-7-trading-416111",
     "https://cointelegraph.com/news/arch-lending-eyes-tokenized-stocks-as-next-crypto-collateral-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/us-senator-probe-donald-trump-hunter-biden-crypto-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/us-senator-probe-donald-trump-hunter-biden-crypto-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/web3/2026-09-23-blockchain-com-nyse-tokenized-us-stocks-etfs-416176",
+    "https://www.coindesk.com/business/2026/09/23/inside-the-fbi-s-little-known-annual-crypto-crime-gathering",
+    "https://www.coindesk.com/coindesk-indices/2026/09/23/crypto-long-and-short-inside-the-chain-settling-usd150-billion-of-stablecoins-a-week",
+    "https://cointelegraph.com/markets/bitcoin-long-liquidations-hit-280m-as-btc-price-dips-under-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/esma-to-focus-eu-wide-supervision-on-ai-and-tokenization-from-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/magazine/winners-and-losers-of-the-secs-new-tokenized-stocks-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-usd16-billion-quarterly-options-settlement-arrives-with-a-call-heavy-book",
+    "https://www.coindesk.com/business/2026/09/23/moonpay-to-acquire-sec-registered-north-capital-in-usd60-million-all-stock-deal"
   ],
   "publishedBatchKeys": [
-    "https://decrypt.co/370978/pokemon-cards-surging-crypto-platforms-gambling|https://www.coindesk.com/markets/2026/06/11/wall-street-and-crypto-are-crashing-into-each-other-as-tokenized-treasury-markets-hit-usd14-6-billion|https://cointelegraph.com/news/humanity-protocol-hack-linked-north-korean-actors-quantstamp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/06/15/bitcoin-hits-a-two-week-high-above-usd65-500-as-the-us-iran-deal-sends-oil-sliding|https://www.theblock.co/post/404714/bitcoin-bottom-crypto-funds-outlook?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/markets/2026/06/14/bitcoin-shoots-higher-on-iran-deal-with-strait-of-hormuz-set-to-open",
     "https://www.theblock.co/post/404783/iren-enters-europe-acquisition-spanish-ai-data-center-developer-nostrum?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/371159/canadian-pm-urges-ai-diversification-after-us-anthropic-block-decentralized-ai-tokens-rally|https://www.theblock.co/post/404764/strategy-supporters-rebut-death-spiral-fears-as-bitcoin-price-wobbles?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/donald-trump-crypto-company-ufc-fighter-bonuses-usd1-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/404802/spot-hype-etfs-near-900-million-volume-early-demand-signals-institutional-interest?utm_source=rss&amp;utm_medium=rss",
@@ -27409,6 +27489,7 @@
     "https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/378745/sony-dont-own-games-you-bought-crypto-fix-that|https://cointelegraph.com/markets/bitcoin-price-86k-analysis-sees-crypto-new-bull-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/kakao-pay-kakaobank-fireblocks-stablecoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/business/2026-09-21-animoca-brands-suspends-merger-deal-415991|https://cointelegraph.com/news/doj-probing-binance-over-alleged-iran-sanction-violations-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/09/22/next-for-the-u-s-sec-agency-s-chief-crypto-counsel-illuminates-path-for-custody|https://decrypt.co/378921/bitcoin-etfs-take-nearly-1b-in-a-day-as-average-holder-returns-to-profit",
-    "https://cointelegraph.com/news/cftc-issues-warning-over-risky-prediction-market-mention-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/09/22/u-s-regulator-warns-about-cheating-risks-in-mention-markets-on-prediction-platforms|https://www.theblock.co/news/markets/2026-09-22-hashed-private-credit-fund-416013"
+    "https://cointelegraph.com/news/cftc-issues-warning-over-risky-prediction-market-mention-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/09/22/u-s-regulator-warns-about-cheating-risks-in-mention-markets-on-prediction-platforms|https://www.theblock.co/news/markets/2026-09-22-hashed-private-credit-fund-416013",
+    "https://www.theblock.co/news/web3/2026-09-23-blockchain-com-nyse-tokenized-us-stocks-etfs-416176|https://www.coindesk.com/business/2026/09/23/inside-the-fbi-s-little-known-annual-crypto-crime-gathering|https://www.coindesk.com/coindesk-indices/2026/09/23/crypto-long-and-short-inside-the-chain-settling-usd150-billion-of-stablecoins-a-week"
   ]
 }
