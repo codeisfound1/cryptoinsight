@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://cryptohieu.com/</loc>
-    <lastmod>2026-09-23</lastmod>
+    <lastmod>2026-09-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://cryptohieu.com/#diem-tin-crypto-24092026-luc-1026-cftc-sec-ai-va-rui-ro-thi-truong</loc>
+    <lastmod>2026-09-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1790220371/cryptohieuqua/posts/diem-tin-crypto-24092026-luc-1026-cftc-sec-ai-va-rui-ro-thi-truong.jpg</image:loc>
+      <image:title>Điểm tin crypto 24/09/2026 lúc 10:26: CFTC, SEC, AI và rủi ro thị trường</image:title>
+      <image:caption>Điểm tin crypto 24/09/2026 lúc 10:26: CFTC, SEC, AI và rủi ro thị trường</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://cryptohieu.com/#diem-tin-crypto-23092026-luc-2236-token-hoa-thanh-khoan-va-quy-dinh-moi</loc>
