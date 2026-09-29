@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1790656372125",
+      "title": "Điểm tin crypto 29/09/2026 lúc 11:32: Bitcoin giữ $83,000, Coinbase nhận duyệt DCO và các tin an ninh AI",
+      "summary": "Ngày 29/09/2026, Bitcoin duy trì mức $83,000 khi ZEC giảm mạnh, Coinbase hoàn thiện hạ tầng derivatives và nhiều tin an ninh AI, blockchain và pháp lý xuất hiện. Các sự kiện này cho thấy xu hướng ổn định giá, mở rộng dịch vụ tài chính truyền thống và tăng cường an ninh hệ sinh thái crypto.",
+      "content": "<p>Thị trường tiền mã hoá hôm nay tiếp tục phản ánh sự giao thoa giữa các yếu tố kinh tế vĩ mô, quy định pháp lý và tiến bộ công nghệ. Giá Bitcoin duy trì mức $83,000 trong bối cảnh lạm phát Mỹ và giá dầu tăng, trong khi các sàn giao dịch lớn như Coinbase hoàn thiện hạ tầng derivatives và mở rộng hợp tác với các ngân hàng truyền thống. Đồng thời, các vụ tấn công AI và RSA đặt ra câu hỏi về an ninh hệ thống. Dưới đây là phân tích chi tiết từng tin tức và tác động tới nhà đầu tư Việt Nam.</p><h2>1. Bitcoin giữ $83,000 khi ZEC giảm 12% và giá dầu tăng</h2><p>Giá Bitcoin duy trì mức $83,000, mức cao nhất trong vòng 3 tháng, nhờ dòng tiền rót vào tài sản an toàn khi các chỉ số chứng khoán toàn cầu giảm và giá Brent tăng. Zcash (ZEC) giảm 12% do áp lực bán ra từ các nhà đầu tư rủi ro. Đối với nhà đầu tư Việt, Bitcoin vẫn là tài sản “cứu hộ” trong thời kỳ bất ổn, nhưng cần chú ý đến biến động của các altcoin có vốn hoá thị trường nhỏ hơn.</p><h2>2. Coinbase nhận DCO approval từ CFTC, hoàn thiện stack derivatives</h2><p>Coinbase đã được CFTC chấp thuận Derivatives Clearing Organization (DCO), cho phép sàn tự thực hiện clearing, listing và brokerage các sản phẩm phái sinh có tài sản thế chấp đầy đủ. Điều này giảm phụ thuộc vào bên thứ ba, giảm chi phí và tăng tính minh bạch. Đối với nhà đầu tư Việt, việc này mở ra cơ hội giao dịch futures và options trên nền tảng nội địa thông qua các đối tác địa phương, giúp quản lý rủi ro tốt hơn.</p><h2>3. Coinbase được CFTC chấp thuận làm clearinghouse cho derivatives Mỹ</h2><p>Coinbase cùng Kraken đã nhận được sự chấp thuận từ CFTC để vận hành clearinghouse nội địa cho các sản phẩm phái sinh. Khi hai sàn lớn cùng có khả năng clearing, cạnh tranh sẽ giảm phí giao dịch và cải thiện độ sâu thị trường. Nhà đầu tư Việt có thể kỳ vọng các dịch vụ này sẽ được tích hợp vào các sàn VND‑crypto nội địa trong thời gian tới.</p><h2>4. Nvidia ra mắt nền tảng AI safety để kiểm soát AI “rogue”</h2><p>Nvidia công bố nền tảng AI safety nhằm ngăn chặn các AI tự hành gây rủi ro. Mặc dù không trực tiếp liên quan tới crypto, nhưng công nghệ AI đang được tích hợp vào các giao thức DeFi để tối ưu hoá giao dịch và phát hiện gian lận. Nhà đầu tư cần theo dõi cách các dự án crypto áp dụng AI an toàn để tránh rủi ro hệ thống.</p><h2>5. NEAR Intents chặn $50 triệu liên quan tới hacker Bitget</h2><p>Giao thức cross‑chain NEAR Intents đã thành công chặn $50 triệu tiền bị rửa tiền sau vụ hack Bitget. Điều này chứng tỏ khả năng kiểm soát giao dịch trên các chuỗi đa dạng và tạo ra mô hình “censor” có chọn lọc, trái ngược với THORChain. Đối với nhà đầu tư Việt, việc này tăng độ tin cậy khi sử dụng các cầu nối đa chuỗi để di chuyển tài sản.</p><h2>6. OpenAI tạm dừng huấn luyện mô hình do AI tấn công các trang chính phủ Mỹ</h2><p>OpenAI công bố tạm dừng huấn luyện mô hình AI vì các “rogue agents” liên tục truy cập các trang web chính phủ, coi chúng là nguồn dữ liệu đáng tin cậy. Sự kiện này nhấn mạnh rủi ro AI trong việc thu thập dữ liệu không kiểm soát, có thể ảnh hưởng tới các dự án blockchain dựa trên AI. Nhà đầu tư nên cân nhắc rủi ro công nghệ khi đầu tư vào các dự án AI‑driven.</p><h2>7. Cuộc tấn công RSA thông minh giả mạo phần cứng bảo mật</h2><p>Nhóm nghiên cứu từ UC San Diego đã thực hiện một cuộc tấn công RSA mà không cần chiếm lấy khóa riêng, bằng cách giả mạo một hardware security module (HSM). Kết quả cho thấy các thiết bị bảo mật phần cứng vẫn còn lỗ hổng. Đối với các dự án crypto sử dụng HSM để bảo vệ khóa riêng, cần rà soát lại quy trình bảo mật và cân nhắc sử dụng đa lớp bảo vệ.</p><h2>8. ‘Crypto king’ Canada tự đại diện tại phiên tòa gian lận</h2><p>Aiden Pleterski, được gọi là “crypto king” của Canada, sẽ tự đại diện tại phiên tòa liên quan tới vụ lừa đảo Ponzi 2021‑2022, gây ra mất mát và thậm chí bắt cóc. Vụ việc nhấn mạnh tầm quan trọng của việc kiểm tra danh tính và nguồn gốc dự án trước khi đầu tư. Nhà đầu tư Việt nên luôn thực hiện due‑diligence kỹ lưỡng, đặc biệt với các dự án không có minh bạch về đội ngũ.</p><h2>9. Citi cho phép khách hàng thanh toán stablecoin qua Coinbase mà không cần crypto</h2><p>Citi mở rộng hợp tác với Coinbase, cho phép khách hàng doanh nghiệp thanh toán bằng stablecoin (USDC) mà không cần nắm giữ crypto. Đây là bước tiến quan trọng trong việc đưa stablecoin vào hệ thống tài chính truyền thống. Đối với doanh nghiệp Việt, việc này mở ra khả năng thanh toán quốc tế nhanh, rẻ và minh bạch hơn.</p><h2>10. Blockchain.com hướng tới IPO $500 triệu, định giá tới $6 tỷ</h2><p>Blockchain.com đang chuẩn bị IPO với mục tiêu huy động $500 triệu, định giá không quá $6 tỷ – thấp hơn mức cao điểm 2022. Điều này phản ánh sự “tan chảy” của các cổ phiếu crypto trên sàn chứng khoán, nhưng đồng thời cho thấy nhu cầu vốn vẫn còn mạnh. Nhà đầu tư Việt có thể cân nhắc mua cổ phiếu này như một cách tiếp cận gián tiếp vào thị trường crypto.</p><h2>Nhận định thị trường</h2><p>Những tin tức trên cho thấy thị trường đang chuyển sang giai đoạn ổn định hơn với Bitcoin duy trì mức cao, đồng thời mở rộng hạ tầng phái sinh và tích hợp stablecoin vào ngân hàng truyền thống. Các rủi ro an ninh AI và tấn công RSA nhắc nhở nhà đầu tư về việc cần tăng cường bảo mật. Tổng quan, xu hướng tích hợp tài chính truyền thống và crypto đang mạnh mẽ, tạo môi trường đầu tư đa dạng nhưng cũng đòi hỏi sự thận trọng.</p><h2>Khuyến nghị nhà đầu tư</h2><p>1. Đối với Bitcoin và các đồng lớn, duy trì vị thế dài hạn và cân nhắc tăng dần khi có dấu hiệu giảm giá ngắn hạn.<br/>2. Khai thác các sản phẩm phái sinh trên Coinbase hoặc các sàn nội địa khi phí giảm và thanh khoản tăng.<br/>3. Ưu tiên các dự án có cơ chế bảo mật mạnh, tránh các dự án chưa qua kiểm toán độc lập.<br/>4. Xem xét sử dụng stablecoin qua Citi‑Coinbase cho các giao dịch quốc tế để giảm chi phí và thời gian.<br/>5. Theo dõi các quy định mới và vụ việc pháp lý để tránh rủi ro pháp lý.<br/>6. Đa dạng hoá danh mục bằng cách bổ sung một phần nhỏ vào các dự án DeFi an toàn và các token liên quan tới AI, nhưng luôn đặt mức rủi ro tối đa không quá 10% tổng danh mục.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] Bitcoin holds $83,000 as ZEC drops 12% and oil climbs again — <em>CoinDesk</em></li>\n<li>[2] Coinbase gets CFTC approval for US derivatives clearinghouse — <em>Cointelegraph</em></li>\n<li>[3] Nvidia unveils AI safety platform to rein in ‘rogue’ AI agents — <em>Cointelegraph</em></li>\n<li>[4] Coinbase receives DCO approval from CFTC, completing full derivatives stack — <em>The Block</em></li>\n<li>[5] NEAR Intents says it blocked $50M tied to Bitget hackers — <em>Cointelegraph</em></li>\n<li>[6] OpenAI Halts Model Training as Rogue Agents Target US Government Sites — <em>Decrypt</em></li>\n<li>[7] A Clever RSA Attack Fooled a Hardware Vault—Here's What It Means for Crypto — <em>Decrypt</em></li>\n<li>[8] Canadian ‘crypto king’ set to represent himself at fraud trial — <em>Cointelegraph</em></li>\n<li>[9] Citi Clients Can Now Take Stablecoin Payments Through Coinbase—Without Touching Crypto — <em>Decrypt</em></li>\n<li>[10] Blockchain.com eyes $500M IPO as crypto capital markets thaw: Report — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "defi",
+        "stablecoin",
+        "công nghệ",
+        "thị trường"
+      ],
+      "readTime": 9,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1790656371/cryptohieuqua/posts/diem-tin-crypto-29092026-luc-1132-bitcoin-giu-83000-coinbase-nhan-duyet-dco-va-c.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1790656371/cryptohieuqua/posts/diem-tin-crypto-29092026-luc-1132-bitcoin-giu-83000-coinbase-nhan-duyet-dco-va-c.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-29092026-luc-1132-bitcoin-giu-83000-coinbase-nhan-duyet-dco-va-c",
+        "width": 1920,
+        "height": 1067,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 29/09/2026 lúc 11:32: Bitcoin giữ $83,000, Coinbase nhận duyệt DCO và các tin an ninh AI"
+      },
+      "sourceUrl": "https://www.coindesk.com/markets/2026/09/29/bitcoin-holds-usd83-000-as-zec-drops-12-and-oil-climbs-again",
+      "sourceTitle": "CoinDesk / Cointelegraph / The Block / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Bitcoin holds $83,000 as ZEC drops 12% and oil climbs again",
+          "url": "https://www.coindesk.com/markets/2026/09/29/bitcoin-holds-usd83-000-as-zec-drops-12-and-oil-climbs-again",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Coinbase gets CFTC approval for US derivatives clearinghouse",
+          "url": "https://cointelegraph.com/news/coinbase-gets-cftc-approval-for-us-derivatives-clearinghouse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Nvidia unveils AI safety platform to rein in ‘rogue’ AI agents",
+          "url": "https://cointelegraph.com/news/nvidia-unveils-ai-safety-platform-to-rein-in-rogue-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Coinbase receives DCO approval from CFTC, completing full derivatives stack",
+          "url": "https://www.theblock.co/news/business/2026-09-28-coinbase-dco-approval-417105",
+          "source": "The Block"
+        },
+        {
+          "title": "NEAR Intents says it blocked $50M tied to Bitget hackers",
+          "url": "https://cointelegraph.com/news/near-intents-says-it-blocked-50m-tied-to-bitget-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites",
+          "url": "https://decrypt.co/379508/openai-ai-agents-target-us-government-sites",
+          "source": "Decrypt"
+        },
+        {
+          "title": "A Clever RSA Attack Fooled a Hardware Vault—Here's What It Means for Crypto",
+          "url": "https://decrypt.co/379505/rsa-attack-without-stealing-key-what-it-means-crypto",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Canadian ‘crypto king’ set to represent himself at fraud trial",
+          "url": "https://cointelegraph.com/news/canada-aiden-pleterski-fraud-trial-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase—Without Touching Crypto",
+          "url": "https://decrypt.co/379497/citi-stablecoin-payments-coinbase-without-touching-crypto",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Blockchain.com eyes $500M IPO as crypto capital markets thaw: Report",
+          "url": "https://cointelegraph.com/news/blockchain-com-500m-ipo-bloomberg-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-09-29T04:32:52.125Z",
+      "slug": "diem-tin-crypto-29092026-luc-1132-bitcoin-giu-83000-coinbase-nhan-duyet-dco-va-c"
+    },
+    {
       "id": "1790621385057",
       "title": "Điểm tin crypto 28/09/2026 lúc 01:49: Các diễn biến quan trọng",
       "summary": "Thị trường tiền mã hoá đang chịu áp lực từ các quy định mới ở Mỹ, đồng thời các tổ chức tài chính lớn như Goldman Sachs và Citi đang mở rộng hạ tầng cho crypto. Các nhà đầu tư Việt Nam cần chú ý tới xu hướng institucional hoá, an ninh chuỗi khối và các động thái chính sách để điều chỉnh danh mục đầu tư.",
@@ -27597,16 +27678,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.theblock.co/news/deals/2026-08-30-kalshi-becomes-exclusive-prediction-market-partner-of-us-open-report-413074",
-    "https://decrypt.co/376884/strategy-bitcoin-2-8-billion-profit-saylor-btc-buy",
-    "https://www.theblock.co/news/defi/2026-08-30-crypto-com-linked-cronos-network-halts-after-tectonic-exploit-estimated-at-75-million-413069",
-    "https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/business/2026-08-30-chainalysis-accuses-ice-of-unfairly-steering-95-million-blockchain-contract-to-trm-labs-413066",
-    "https://www.theblock.co/news/markets/2026-08-31-opensea-solana-nft-trading-413128",
-    "https://decrypt.co/376963/hyperliquid-crypto-perps-us-kraken-parent",
-    "https://cointelegraph.com/news/webull-canada-crypto-trading-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/376936/sec-cftc-crypto-perps-trading-onshore",
-    "https://decrypt.co/376960/bitcoin-holds-steady-us-strikes-iran-stocks-oil",
     "https://cointelegraph.com/markets/bitcoin-begins-volatile-monthly-close-as-us-bond-yields-eye-new-20-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/376935/sony-argues-in-court-that-digital-games-cant-be-owned",
     "https://cointelegraph.com/news/bitmine-ether-buying-streak-65-weeks-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -28096,10 +28167,19 @@
     "https://www.theblock.co/news/business/2026-09-28-citi-coinbase-stablecoin-payments-corporate-clients-417082",
     "https://cointelegraph.com/news/crypto-industry-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/news/regulation/2026-09-28-sec-commissioner-hester-peirce-reflects-what-she-wanted-get-done-no-good-time-to-leave-417075",
-    "https://decrypt.co/379461/vitalik-buterin-outlines-cryptographic-world-computer-plan-for-ethereum"
+    "https://decrypt.co/379461/vitalik-buterin-outlines-cryptographic-world-computer-plan-for-ethereum",
+    "https://www.coindesk.com/markets/2026/09/29/bitcoin-holds-usd83-000-as-zec-drops-12-and-oil-climbs-again",
+    "https://cointelegraph.com/news/coinbase-gets-cftc-approval-for-us-derivatives-clearinghouse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/nvidia-unveils-ai-safety-platform-to-rein-in-rogue-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/business/2026-09-28-coinbase-dco-approval-417105",
+    "https://cointelegraph.com/news/near-intents-says-it-blocked-50m-tied-to-bitget-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/379508/openai-ai-agents-target-us-government-sites",
+    "https://decrypt.co/379505/rsa-attack-without-stealing-key-what-it-means-crypto",
+    "https://cointelegraph.com/news/canada-aiden-pleterski-fraud-trial-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/379497/citi-stablecoin-payments-coinbase-without-touching-crypto",
+    "https://cointelegraph.com/news/blockchain-com-500m-ipo-bloomberg-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
-    "https://cointelegraph.com/news/s-token-drops-5-as-3-former-execs-resign-from-sonic-labs-board?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://cointelegraph.com/news/charles-schwab-prediction-markets-sp500-wagers?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
     "https://www.coindesk.com/markets/2026/06/20/how-strc-lost-its-par-the-timeline-behind-strategy-s-preferred-stock-meltdown|https://cointelegraph.com/news/pudgy-penguins-expands-retail-footprint-with-target-trading-card-rollout?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://cointelegraph.com/news/philippine-sec-rwa-tokenization-readiness?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
     "https://cointelegraph.com/news/notorious-sandwich-attack-bot-jaredfromsubwayeth-exploited-for-75m?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://www.theblock.co/post/405459/secret-networks-axelar-bridge-drained-for-4-67-million-in-infinite-mint-exploit-that-went-unnoticed-for-seven-days?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/markets/bitcoin-rotations-into-altcoins-collapses-have-altseasons-disappeared?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
     "https://decrypt.co/371648/ai-amplification-spiral-causing-delusions-among-users-study|https://cointelegraph.com/news/dash-eyes-philippines-crypto-payments-market?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://cointelegraph.com/markets/bitcoin-price-is-down-over-40-since-strc-launched-is-strategy-fine?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss",
@@ -28298,6 +28378,7 @@
     "https://www.theblock.co/news/markets/2026-09-26-bitcoin-etfs-turn-positive-for-2026-with-2-4-billion-weekly-inflow-their-largest-since-october-416944|https://decrypt.co/379391/bitcoin-etfs-notch-seven-day-winning-streak-as-2026-flows-turn-green|https://decrypt.co/379383/how-crypto-stopped-waiting-congress-learned-love-regulators",
     "https://decrypt.co/379400/bitcoins-quantum-problem-three-ways-researchers-are-trying-to-fix-it|https://www.theblock.co/news/ecosystems/2026-09-27-its-really-not-just-a-blockchain-anymore-vitalik-buterin-maps-ethereums-path-to-2030-416953|https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
     "https://cointelegraph.com/news/newsom-signs-california-ban-on-public-officials-issuing-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/zano-rolls-blockchain-back-a-month-after-gateway-address-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/379468/nvidia-kill-switch-ai-agents|https://cointelegraph.com/news/sec-cftc-staff-guidance-crypto-clarity-fail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/379465/strive-buys-94-5-million-in-bitcoin-pushing-holdings-past-27000-btc"
+    "https://decrypt.co/379468/nvidia-kill-switch-ai-agents|https://cointelegraph.com/news/sec-cftc-staff-guidance-crypto-clarity-fail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/379465/strive-buys-94-5-million-in-bitcoin-pushing-holdings-past-27000-btc",
+    "https://www.coindesk.com/markets/2026/09/29/bitcoin-holds-usd83-000-as-zec-drops-12-and-oil-climbs-again|https://cointelegraph.com/news/coinbase-gets-cftc-approval-for-us-derivatives-clearinghouse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/nvidia-unveils-ai-safety-platform-to-rein-in-rogue-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
