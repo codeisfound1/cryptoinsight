@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1790914862332",
+      "title": "Điểm tin crypto 02/10/2026 lúc 11:20: Ethereum zkAPI, SEC đề xuất quy định mới và các biến động quan trọng",
+      "summary": "Ethereum triển khai zkAPI trên mainnet, SEC đề xuất khung pháp lý cho tự bảo quản tài sản kỹ thuật số và các sự kiện đáng chú ý như vụ hack NEAR, giá ZEC giảm mạnh. Các tin này cho thấy xu hướng tăng cường bảo mật, quy định và sự quan tâm của nhà đầu tư Việt Nam tới các dự án DeFi và token lớn.",
+      "content": "<p>Thị trường tiền mã hoá ngày 02/10/2026 tiếp tục biến động mạnh khi một loạt tin tức quan trọng được công bố đồng thời. Các sự kiện vừa nêu không chỉ ảnh hưởng đến giá các đồng coin lớn mà còn định hình xu hướng phát triển công nghệ bảo mật, khung pháp lý và chiến lược đầu tư của nhà đầu tư, đặc biệt là ở Việt Nam. Bài viết sẽ tổng hợp và phân tích chi tiết 10 tin tức, nêu bật mối liên hệ giữa chúng, và đưa ra nhận định chung cùng khuyến nghị cho nhà đầu tư.</p>\n<h2>1. Ethereum ra mắt zkAPI trên mainnet, mở ra thanh toán API bảo mật</h2>\n<p>Ethereum đã đưa zkAPI lên mainnet, cho phép các nhà phát triển thanh toán API bằng tiền mã hoá mà không tiết lộ danh tính người trả. Cơ chế sử dụng bằng chứng không tiết lộ (zero‑knowledge proof) để chứng minh đã nạp tiền vào vault mà không công khai địa chỉ ví. Điều này giúp giảm rủi ro theo dõi giao dịch và tăng tính riêng tư cho các dịch vụ AI, dữ liệu và DeFi. Ở Việt Nam, các dự án fintech đang quan tâm tới giải pháp này để xây dựng nền tảng dịch vụ tài chính phi tập trung (DeFi) an toàn hơn.</p>\n<h2>2. SEC đề xuất khung pháp lý mới cho việc tự bảo quản và sử dụng công ty tín thác</h2>\n<p>SEC công bố hai đề xuất quan trọng: một là xóa bỏ rào cản lưu ký cho các cố vấn đầu tư muốn cung cấp dịch vụ crypto; hai là cho phép các quỹ và cố vấn tự bảo quản tài sản kỹ thuật số hoặc sử dụng các công ty tín thác bang như custodians. Đề xuất này sẽ giảm chi phí tuân thủ, mở rộng khả năng tiếp cận crypto cho nhà đầu tư cá nhân và tổ chức. Đối với Việt Nam, khi nhà nước đang nghiên cứu khung pháp lý cho crypto, các đề xuất của SEC có thể là tham khảo quan trọng để xây dựng môi trường đầu tư trong nước.</p>\n<h2>3. NEAR Intents xác định hacker và đưa ra thời hạn 48 giờ</h2>\n<p>Giao thức NEAR Intents đã bị hack mất 3,8 triệu USD. Ban quản lý tuyên bố đã xác định được hacker và đưa ra yêu cầu trả lại tài sản trong vòng 48 giờ. Sự kiện này nhắc nhở cộng đồng về tầm quan trọng của kiểm tra bảo mật và quản lý rủi ro trong các dự án DeFi. Nhà đầu tư Việt Nam nên thận trọng khi tham gia các dự án mới, ưu tiên các nền tảng đã có audit bảo mật độc lập.</p>\n<h2>4. China cảnh báo gián điệp nước ngoài sử dụng crypto, Singapore dẫn đầu thị trường châu Á</h2>\n<p>Trung Quốc phát điên cảnh báo rằng các hoạt động gián điệp nước ngoài đang lợi dụng blockchain để truyền tải thông tin. Đồng thời, Singapore ghi nhận tăng trưởng 55% trong nền kinh tế crypto, trong khi Hàn Quốc chuẩn bị hợp pháp hoá các market maker. Điều này cho thấy khu vực châu Á đang chia rẽ: một phía siết chặt kiểm soát, phía còn lại mở cửa và thu hút đầu tư. Nhà đầu tư Việt Nam có thể cân nhắc chuyển vốn sang các sàn và dự án được cấp phép tại Singapore để tận dụng môi trường pháp lý thuận lợi.</p>\n<h2>5. Zcash giảm 21% sau đỉnh cao, nguyên nhân là rút vốn ETF và vụ trộm của Bắc Triều Tiên</h2>\n<p>Giá ZEC sụt 21% so với mức cao nhất $1,698 do dòng tiền rút ra khỏi ETF liên quan và tin đồn về một vụ trộm tài sản qua pool ẩn danh của Zcash do Bắc Triều Tiên thực hiện. Dù giá giảm, nhưng mức giảm có thể tạo cơ hội mua vào cho những nhà đầu tư tin vào tiềm năng bảo mật của Zcash. Ở Việt Nam, Zcash vẫn là một lựa chọn cho danh mục đa dạng hoá rủi ro, đặc biệt trong bối cảnh thị trường đang tìm kiếm tài sản có tính riêng tư cao.</p>\n<h2>6. Evernorth chuẩn bị niêm yết Nasdaq với kho XRP trị giá 473 triệu USD</h2>\n<p>Evernorth, công ty bảo hiểm sức khỏe, sẽ niêm yết trên Nasdaq dưới mã XRPN sau khi hợp nhất SPAC, đồng thời sở hữu khoảng 473 triệu XRP (tương đương ~710 triệu USD). Việc một công ty truyền thống đưa XRP vào kho dự trữ cho thấy sự chấp nhận ngày càng tăng của tài sản này trong môi trường tài chính truyền thống. Nhà đầu tư Việt Nam có thể xem XRP như một tài sản “cầu nối” giữa crypto và tài chính truyền thống.</p>\n<h2>7. Trump tổ chức buổi tiệc memecoin lần thứ ba</h2>\n<p>Donald Trump dự kiến tổ chức buổi tiệc dành cho 185 nhà nắm giữ memecoin lớn nhất vào ngày 22/11 tại câu lạc bộ golf ở Washington, DC. Sự kiện này thu hút sự chú ý của truyền thông và cộng đồng meme, đồng thời tạo ra áp lực ngắn hạn lên các đồng memecoin liên quan. Dù tính chất giải trí, nhưng nó phản ánh sức hút của meme trong việc tạo thanh khoản nhanh và thu hút nhà đầu tư mới, bao gồm cả người Việt đang tìm kiếm cơ hội “lướt sóng”.</p>\n<h2>8. Ethereum Foundation mở rộng zkAPI để trả tiền cho mô hình AI mà không lộ danh tính</h2>\n<p>Như đã đề cập ở tin 1, Ethereum Foundation công bố chi tiết cách người dùng nạp tiền vào vault và ủy quyền chi tiêu bằng zero‑knowledge proof. Điều này không chỉ bảo vệ danh tính mà còn giảm thiểu rủi ro bị theo dõi giao dịch trên chuỗi. Các startup AI tại Việt Nam có thể tận dụng công nghệ này để xây dựng dịch vụ trả phí mà không lo lộ thông tin khách hàng.</p>\n<h2>9. SEC đề xuất quy tắc mới cho cố vấn và quỹ nắm giữ crypto</h2>\n<p>Đề xuất cho phép các cố vấn và quỹ sử dụng công ty tín thác bang làm custodians hoặc tự bảo quản trong một số trường hợp, nhằm giảm bớt “độ mơ hồ” trong quy định hiện tại. Khi các quy tắc này được chấp nhận, sẽ có sự gia tăng đáng kể trong việc đưa các sản phẩm crypto vào danh mục đầu tư của các quỹ hưu trí và tài sản quản lý tại Mỹ, tạo ra áp lực tăng cung cho các đồng coin lớn.</p>\n<h2>10. Các đề xuất của SEC về tự bảo quản và custodians tạo môi trường đầu tư rõ ràng hơn</h2>\n<p>Hai đề xuất của SEC (tin 3 và tin 10) cùng hướng tới mục tiêu làm sạch môi trường pháp lý, giảm rủi ro pháp lý cho nhà đầu tư và nhà quản lý tài sản. Khi các quy định này được áp dụng, chúng sẽ tạo tiền đề cho việc mở rộng dịch vụ tư vấn crypto tại các thị trường mới, trong đó có Việt Nam.</p>\n<h2>Nhận định thị trường</h2>\n<p>Những tin tức trên cho thấy ba xu hướng chính: (1) Tăng cường bảo mật và riêng tư qua công nghệ zero‑knowledge (zkAPI, Zcash); (2) Đẩy mạnh khung pháp lý và giảm rào cản lưu ký (SEC); (3) Sự chấp nhận ngày càng rộng rãi của các token truyền thống như XRP trong môi trường tài chính truyền thống. Đối với nhà đầu tư Việt Nam, môi trường đầu tư sẽ trở nên “an toàn hơn” khi có quy định rõ ràng và công nghệ bảo mật mạnh mẽ, đồng thời mở ra cơ hội đầu tư vào các dự án DeFi và AI có tính riêng tư cao.</p>\n<h2>Khuyến nghị nhà đầu tư</h2>\n<p>• Đa dạng hoá danh mục: giữ phần lớn vào Bitcoin và Ethereum, bổ sung Zcash để bảo vệ riêng tư, và một phần XRP để tận dụng tiềm năng hợp nhất tài chính truyền thống.<br>\n• Theo dõi tiến trình pháp lý của SEC: khi các quy định được chấp nhận, các quỹ và cố vấn sẽ mở rộng dịch vụ, tạo cơ hội cho các sản phẩm crypto tại Việt Nam.<br>\n• Cân nhắc đầu tư vào các dự án sử dụng zkAPI và zero‑knowledge proof (như các nền tảng AI trên Ethereum) vì chúng hứa hẹn giảm rủi ro theo dõi và tăng tính bền vững.<br>\n• Tránh các dự án chưa được audit bảo mật đầy đủ, đặc biệt là các giao thức DeFi mới như NEAR Intents.<br>\n• Theo dõi thị trường châu Á, đặc biệt là Singapore, để khai thác các sàn giao dịch và dịch vụ được cấp phép, giảm thiểu rủi ro pháp lý.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] Ethereum’s zkAPI brings privacy-preserving API payments to mainnet — <em>Cointelegraph</em></li>\n<li>[2] NEAR Intents says its identified the hacker, gives 48-hour ultimatum — <em>Cointelegraph</em></li>\n<li>[3] SEC moves to clear custody hurdle for advisers offering crypto — <em>Cointelegraph</em></li>\n<li>[4] Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity — <em>The Block</em></li>\n<li>[5] China warns foreign spies about crypto, Singapore dominates Asia: Asia Express — <em>Cointelegraph</em></li>\n<li>[6] Zcash Drops 21% From Recent High—Here’s Why the Rally May Not Be Over — <em>Decrypt</em></li>\n<li>[7] Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury — <em>Cointelegraph</em></li>\n<li>[8] SEC proposes framework allowing investment advisers, funds to self-custody crypto — <em>The Block</em></li>\n<li>[9] Trump to host 3rd ‘exclusive’ memecoin event amid corruption claims — <em>Cointelegraph</em></li>\n<li>[10] SEC Proposes Rules to Clear Up How Advisers and Funds Can Hold Crypto — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "zcash",
+        "xrp",
+        "sec",
+        "thị trường"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1790914861/cryptohieuqua/posts/diem-tin-crypto-02102026-luc-1120-ethereum-zkapi-sec-de-xuat-quy-dinh-moi-va-cac.png",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1790914861/cryptohieuqua/posts/diem-tin-crypto-02102026-luc-1120-ethereum-zkapi-sec-de-xuat-quy-dinh-moi-va-cac.png",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-02102026-luc-1120-ethereum-zkapi-sec-de-xuat-quy-dinh-moi-va-cac",
+        "width": 1264,
+        "height": 848,
+        "format": "png",
+        "alt": "Điểm tin crypto 02/10/2026 lúc 11:20: Ethereum zkAPI, SEC đề xuất quy định mới và các biến động quan trọng"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / The Block / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Ethereum’s zkAPI brings privacy-preserving API payments to mainnet",
+          "url": "https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "NEAR Intents says its identified the hacker, gives 48-hour ultimatum",
+          "url": "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "SEC moves to clear custody hurdle for advisers offering crypto",
+          "url": "https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity",
+          "url": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
+          "source": "The Block"
+        },
+        {
+          "title": "China warns foreign spies about crypto, Singapore dominates Asia: Asia Express",
+          "url": "https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Zcash Drops 21% From Recent High—Here’s Why the Rally May Not Be Over",
+          "url": "https://decrypt.co/379901/zcash-price-drops-etf-flows-rally",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury",
+          "url": "https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "SEC proposes framework allowing investment advisers, funds to self-custody crypto",
+          "url": "https://www.theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498",
+          "source": "The Block"
+        },
+        {
+          "title": "Trump to host 3rd ‘exclusive’ memecoin event amid corruption claims",
+          "url": "https://cointelegraph.com/news/donald-trump-memecoin-dinner-corruption-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "SEC Proposes Rules to Clear Up How Advisers and Funds Can Hold Crypto",
+          "url": "https://decrypt.co/379899/sec-proposes-rules-advisers-funds-hold-crypto",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-10-02T04:21:02.332Z",
+      "slug": "diem-tin-crypto-02102026-luc-1120-ethereum-zkapi-sec-de-xuat-quy-dinh-moi-va-cac"
+    },
+    {
       "id": "1790875934688",
       "title": "Điểm tin crypto 01/10/2026 lúc 00:32: Bitcoin lên đỉnh, Ethereum thay đổi đề xuất, và các quy định mới ở Mỹ",
       "summary": "Tháng 10/2026 mở đầu với Bitcoin duy trì xu hướng tăng khi lợi suất trái phiếu Mỹ giảm, Ethereum rút đề xuất đốt phần thưởng staking, và các nhà lập pháp Mỹ ký thỏa thuận giám sát chung. Các vụ tấn công vào Near Intents và quyết định thuế tài sản kỹ thuật số ở Illinois cũng tạo áp lực cho thị trường.",
@@ -28081,16 +28162,6 @@
     }
   ],
   "publishedUrls": [
-    "https://decrypt.co/377225/pentagon-ai-official-sold-millions-perplexity-stock",
-    "https://www.coindesk.com/business/2026/09/02/kraken-parent-payward-pushes-ipo-back-to-mid-2027-at-earliest",
-    "https://www.coindesk.com/coindesk-indices/2026/09/03/crypto-for-advisors-why-crypto-earnings-reports-can-be-misleading",
-    "https://www.coindesk.com/tech/2026/09/03/a-memecoin-making-app-becomes-crypto-s-top-fee-generators-as-robinhood-chain-activity-explodes",
-    "https://www.coindesk.com/business/2026/09/03/bitget-in-talks-with-wall-street-giants-including-blackrock-for-asian-distribution",
-    "https://cointelegraph.com/magazine/recovery-specialists-crack-1b-crypto-wallet-but-find-just-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/vara-securitize-mou-tokenization-dubai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/business/2026-09-03-sofi-payward-agree-to-link-banking-network-with-kraken-infrastructure-413432",
-    "https://cointelegraph.com/news/nvidia-buys-hugging-face-12-9-billion-ai-software?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/business/2026/09/03/sofi-kraken-tie-up-as-crypto-and-banking-push-into-each-other-s-turf",
     "https://decrypt.co/377264/morning-minute-strategy-ceo-says-selling-the-bottom-was-correct-move",
     "https://www.coindesk.com/business/2026/09/03/amc-ceo-blasts-robinhood-for-stock-token-putting-synthetic-shares-in-spotlight",
     "https://cointelegraph.com/magazine/tether-sued-over-frozen-pig-butcher-coins-6600-students-get-crypto-loans-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -28580,10 +28651,19 @@
     "https://decrypt.co/379822/near-intents-hacked-days-after-denying-bitget-hacker",
     "https://www.theblock.co/news/deals/2026-10-01-evernorth-xrpn-nasdaq-armada-shareholders-approve-417413",
     "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway",
-    "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues"
+    "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
+    "https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
+    "https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/379901/zcash-price-drops-etf-flows-rally",
+    "https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498",
+    "https://cointelegraph.com/news/donald-trump-memecoin-dinner-corruption-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/379899/sec-proposes-rules-advisers-funds-hold-crypto"
   ],
   "publishedBatchKeys": [
-    "https://cointelegraph.com/news/bitmine-sharplink-and-joe-lubin-back-ethereum-rd-nonprofit?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://www.theblock.co/post/405706/turboflow-funding-crypto-pantera-capital?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/policy/2026/06/22/u-s-senate-passes-housing-bill-that-carries-four-year-ban-on-a-fed-cbdc",
     "https://www.theblock.co/post/405809/ethereum-foundation-cuts-20-of-its-workforce-as-new-5-cluster-structure-takes-shape?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/tech/2026/06/23/ethereum-foundation-cuts-20-of-staff-amid-leadership-exodus|https://decrypt.co/371854/thailand-expands-crypto-mining-probe-into-300m-chinese-laundering-network",
     "https://www.theblock.co/post/405921/adrian-boafo-wins-maryland-democratic-primary?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/starkware-introduces-private-kyc-to-address-personal-data-breaches?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss|https://www.coindesk.com/policy/2026/06/23/crypto-pac-s-usd5-5-million-congress-pick-gets-maryland-win-more-crypto-allies-advance",
     "https://www.coindesk.com/markets/2026/06/24/gold-silver-and-bitcoin-tumble-as-debasement-trade-unwinds|https://www.coindesk.com/markets/2026/06/24/bitcoin-could-fall-to-usd55-000-before-finding-a-bottom-10x-research-says|https://www.theblock.co/post/405957/kraken-incubated-ink-upgrades-to-optimism-op-enterprise-fully-managed?utm_source=rss&amp;utm_medium=rss",
@@ -28782,6 +28862,7 @@
     "https://cointelegraph.com/news/cryptocom-ai-agent-stealth-mode-nearly-8-months-after-super-bowl-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/business/2026-09-29-robinhood-perps-trading-417242|https://cointelegraph.com/news/binance-pay-usdt-paypay-merchants-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/379655/introducing-the-information-exchange-powered-by-decrypt-and-myr|https://cointelegraph.com/news/bitget-operations-protection-fund-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/markets/2026-09-30-bitcoin-pce-inflation-october-rate-hike-417335",
     "https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall|https://cointelegraph.com/news/cftc-seeks-to-define-event-contracts-as-swaps-amid-prediction-market-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/379833/uptober-will-bitcoin-live-up-to-it|https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419|https://decrypt.co/379830/illinois-delays-controversial-crypto-tax"
+    "https://decrypt.co/379833/uptober-will-bitcoin-live-up-to-it|https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419|https://decrypt.co/379830/illinois-delays-controversial-crypto-tax",
+    "https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
