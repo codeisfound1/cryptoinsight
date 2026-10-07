@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1791395972816",
+      "title": "Điểm tin crypto 07/10/2026 lúc 00:59: Thị trường biến động mạnh với Bitcoin giảm, Ethereum đề xuất bảo mật mới và các dự án chuỗi chéo lớn",
+      "summary": "Bitcoin giảm dưới 83.000 USD do cú sốc dầu, Ethereum đề xuất “bunker mode” để giảm rủi ro khôi phục khóa riêng, trong khi Polygon và TRON hợp tác đưa USDT sang chuỗi EVM. Các tin khác như Sui đạt 40,6 triệu TPS, Coinbase tích hợp Deribit và dự án stablecoin Kazakhstan cũng tạo sức hút.",
+      "content": "<p>Thị trường tiền mã hoá ngày 07/10/2026 chứng kiến nhiều diễn biến đa chiều: giá Bitcoin giảm mạnh, các dự án công nghệ chuỗi chéo và bảo mật lên tiếng, và các quy định tài chính quốc tế tiếp tục ảnh hưởng. Dưới đây là phân tích chi tiết 10 tin tức quan trọng nhất, kèm theo nhận định chung và khuyến nghị dành cho nhà đầu tư Việt Nam.</p>\n<h2>1. Bitcoin giảm dưới 83.000 USD khi giá dầu bứt phá 101 USD và lợi suất trái phiếu 30 năm lên mức cao nhất từ 2002</h2>\n<p>Bitcoin (BTC) đã rớt hơn 2% xuống dưới mức 83.000 USD sau khi giá dầu Brent chạm 101 USD và lợi suất trái phiếu Khoản mục 30 năm Mỹ đạt 4,5%, mức cao nhất trong hơn hai thập kỷ. Dù biểu đồ ngày vẫn cho thấy xu hướng tăng, nhưng khung thời gian 4 giờ lại xuất hiện xu hướng giảm. Điều này phản ánh sự nhạy cảm của BTC với các yếu tố kinh tế vĩ mô như lạm phát và chi phí năng lượng.</p>\n<p><strong>Ảnh hưởng tới nhà đầu tư Việt Nam:</strong> Nhiều nhà đầu tư cá nhân và quỹ đầu tư trong nước đang giữ BTC như tài sản dự trữ giá trị. Sự giảm giá có thể tạo cơ hội mua vào cho những ai có chiến lược dài hạn, nhưng cũng đòi hỏi quản lý rủi ro chặt chẽ, đặc biệt là trong bối cảnh thị trường toàn cầu đang biến động.</p>\n<h2>2. Ethereum researcher Justin Drake đề xuất “bunker mode” để giảm rủi ro khôi phục khóa riêng</h2>\n<p>Nhà nghiên cứu Ethereum Justin Drake cảnh báo rủi ro khi các công cụ khôi phục khóa riêng (private‑key recovery) có thể bị lạm dụng. Ông đề xuất “bunker mode”: chuyển tài sản sang địa chỉ mới, ẩn khóa công khai bằng hàm băm (hash) và chỉ sử dụng địa chỉ này cho các giao dịch quan trọng. Đây là một biện pháp bảo mật nâng cao, giảm khả năng bị tấn công qua các dịch vụ khôi phục khóa.</p>\n<p><strong>Giải thích thuật ngữ:</strong> <em>Hash</em> là hàm mã hoá một‑chiều, biến dữ liệu đầu vào thành một chuỗi ký tự cố định, khó đảo ngược. Việc ẩn khóa công khai giúp giảm bớt bề mặt tấn công.</p>\n<p><strong>Ảnh hưởng tới nhà đầu tư Việt Nam:</strong> Các dự án DeFi và ví lưu trữ trên Ethereum nên cân nhắc áp dụng “bunker mode” cho quỹ lớn, giảm nguy cơ mất mát tài sản do lỗ hổng phần mềm hoặc dịch vụ khôi phục không an toàn.</p>\n<h2>3. Coinbase tích hợp Deribit, mở rộng thanh khoản phái sinh crypto cho thị trường Mỹ</h2>\n<p>Coinbase công bố tích hợp Deribit, cho phép các tổ chức tài chính Mỹ truy cập vào các hợp đồng quyền chọn và hợp đồng tương lai vô hạn (perpetual futures) của Deribit. Dự kiến các sản phẩm này sẽ được mở rộng cho nhà đầu tư bán lẻ trong năm tới.</p>\n<p>Việc này không chỉ tăng thanh khoản cho thị trường phái sinh mà còn tạo cầu cho các nhà đầu tư Việt Nam muốn tham gia các sản phẩm phái sinh qua các sàn quốc tế có giấy phép.</p>\n<h2>4. Polygon hợp tác với TRON, đưa USDT trị giá 94 tỷ USD sang chuỗi EVM</h2>\n<p>Polygon công bố kết nối với mạng TRON để chuyển USDT – stablecoin lớn nhất thế giới – qua các cầu nối không cần ví trung gian, bridge hay nhà cung cấp fiat. Điều này giúp doanh nghiệp và người dùng di chuyển USDT nhanh chóng, chi phí thấp, đồng thời mở rộng khả năng sử dụng USDT trên các dApp EVM.</p>\n<p><strong>Ý nghĩa:</strong> Sự hợp tác này thúc đẩy tính liên thông (interoperability) giữa các chuỗi, giảm phụ thuộc vào các cầu nối trung gian thường gặp rủi ro bảo mật.</p>\n<h2>5. Sui đạt 40,6 triệu giao dịch mỗi giây (TPS) trong thử nghiệm AI off‑chain</h2>\n<p>Layer‑1 Sui đã chứng minh khả năng xử lý 40,6 triệu TPS thông qua các tunnel off‑chain được lập trình cho các tác nhân AI. Đây là một bước tiến lớn cho khả năng mở rộng và ứng dụng AI trên blockchain, giảm tải cho mạng chính và tăng tốc độ giao dịch.</p>\n<p><strong>Đối với nhà đầu tư Việt Nam:</strong> Nếu Sui tiếp tục phát triển hạ tầng AI, có thể mở ra các dự án tài chính phi tập trung (DeFi) và NFT dựa trên AI, tạo cơ hội đầu tư vào các token liên quan.</p>\n<h2>6. Tether và Ngân hàng Trung ương Kazakhstan khám phá stablecoin đồng tenge và token hoá tài sản thực</h2>\n<p>Tether hợp tác với ngân hàng trung ương Kazakhstan để thử nghiệm stablecoin dựa trên đồng tenge (KZT) và xây dựng khung token hoá tài sản thực. Dự án này nhằm thúc đẩy việc sử dụng tiền kỹ thuật số trong thanh toán nội địa và mở rộng thị trường tài chính số ở Trung Á.</p>\n<p>Việc một stablecoin quốc gia được hỗ trợ bởi Tether cho thấy xu hướng các ngân hàng trung ương chấp nhận công nghệ blockchain để tăng tính thanh khoản và giảm chi phí giao dịch.</p>\n<h2>7. Chính phủ Mỹ di chuyển 103 triệu USD Bitcoin và BNB bị tịch thu</h2>\n<p>US Government đã chuyển 833,6 BTC và 40.285 BNB tới địa chỉ Coinbase Prime, nhưng chưa công bố mục đích cuối cùng. Đây là lượng tài sản lớn nhất từng được chính phủ Mỹ nắm giữ, cho thấy mức độ quan tâm ngày càng tăng của các cơ quan quản lý đối với crypto.</p>\n<p>Việc không bán ngay lập tức có thể là chiến lược giữ tài sản để sử dụng trong các vụ án hoặc để làm tài sản dự trữ.</p>\n<h2>8. House Finance panel chair phê phán hành động của SEC và CFTC chưa đáp ứng Đạo luật CLARITY</h2>\n<p>Đại biểu French Hill cho rằng các cơ quan quản lý Mỹ (SEC, CFTC) chưa thực hiện đủ các biện pháp cần thiết theo Đạo luật CLARITY, một đề xuất luật nhằm tạo ra khung pháp lý rõ ràng cho thị trường crypto. Hill kêu gọi Quốc hội thông qua luật này trước năm 2027.</p>\n<p>Quy định rõ ràng sẽ giúp giảm bất ổn pháp lý, tạo môi trường đầu tư an toàn hơn cho các nhà đầu tư quốc tế, trong đó có Việt Nam.</p>\n<h2>9. Hunter Biden và LAPTOP: đề xuất mua lại và đốt token</h2>\n<p>Báo cáo cho biết token LAPTOP có thanh khoản mỏng và lợi nhuận được tạo ra bởi market‑maker. Hunter Biden đề xuất nhà tạo lập thị trường mua lại toàn bộ token và đốt chúng để giảm cung và tăng giá.</p>\n<p>Mặc dù đây là một câu chuyện ít liên quan trực tiếp tới thị trường Việt Nam, nhưng nó phản ánh rủi ro của các token có thanh khoản thấp và phụ thuộc vào các nhà tạo lập thị trường.</p>\n<h2>10. Gate Money: xu hướng ứng dụng tài chính đa năng trong crypto</h2>\n<p>Gate.io ra mắt Gate Money – một ứng dụng tài chính tích hợp tài khoản, chuyển đổi tài sản, tiết kiệm và thẻ thanh toán. Đây là xu hướng “all‑in‑one” đang thu hút người dùng, đặc biệt ở châu Á, nơi nhu cầu sử dụng ví điện tử đa chức năng ngày càng cao.</p>\n<p>Ứng dụng này có thể tạo ra nhu cầu mới cho các token liên quan tới thanh toán và tiền gửi, mở ra cơ hội cho các dự án fintech trong khu vực.</p>\n<h2>Nhận định thị trường chung</h2>\n<p>Những tin tức trên cho thấy thị trường crypto đang chuyển sang giai đoạn đa dạng hoá: từ công nghệ mở rộng (Sui), bảo mật (Ethereum), đến hợp tác chuỗi chéo (Polygon‑TRON) và ổn định hoá tiền tệ (Tether‑Kazakhstan). Đồng thời, các yếu tố vĩ mô như giá dầu, lãi suất và quy định pháp lý vẫn là những động lực chính ảnh hưởng tới giá Bitcoin và các tài sản rủi ro.</p>\n<p>Đối với nhà đầu tư Việt Nam, xu hướng này đồng nghĩa với việc cần cân bằng danh mục đầu tư giữa các tài sản có vốn hoá lớn (BTC, ETH) và các dự án tiềm năng ở lớp 1 và lớp 2 (Sui, Polygon, Gate). Việc theo dõi các quyết định pháp lý của Mỹ và các dự án stablecoin quốc gia sẽ giúp đưa ra quyết định thời điểm mua/bán hợp lý.</p>\n<h2>Khuyến nghị nhà đầu tư</h2>\n<p>1. <strong>Giữ vị thế BTC/ETH ở mức trung bình</strong> – dù có biến động ngắn hạn, chúng vẫn là tài sản an toàn nhất trong danh mục crypto.</p>\n<p>2. <strong>Đa dạng hoá sang các dự án chuỗi chéo và stablecoin</strong> – Polygon, TRON và các stablecoin quốc gia có tiềm năng tăng thanh khoản và giảm rủi ro biến động.</p>\n<p>3. <strong>Áp dụng “bunker mode” cho quỹ lớn</strong> – chuyển tài sản sang địa chỉ mới, ẩn khóa công khai để giảm rủi ro khôi phục khóa.</p>\n<p>4. <strong>Theo dõi quy định CLARITY và các động thái của SEC/CFTC</strong> – những thay đổi pháp lý sẽ ảnh hưởng đến khả năng giao dịch và bảo mật tài sản.</p>\n<p>5. <strong>Thận trọng với token thanh khoản thấp</strong> – tránh đầu tư vào các dự án như LAPTOP nếu không có đủ thông tin về thị trường.</p>\n<p>6. <strong>Khám phá các nền tảng phái sinh</strong> – thông qua Coinbase‑Deribit để tận dụng cơ hội hedging và tăng lợi nhuận.</p>\n<p>Nhìn chung, môi trường đầu tư crypto tại Việt Nam đang mở rộng, nhưng vẫn cần quản lý rủi ro chặt chẽ và cập nhật thông tin thị trường thường xuyên.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] Sui tunnels hit 40.6M TPS in live AI agent test — <em>Cointelegraph</em></li>\n<li>[2] Ethereum researcher Justin Drake calls for ‘bunker mode’ planning over private key recovery risk — <em>The Block</em></li>\n<li>[3] US Government Moves $103 Million in Seized Bitcoin and BNB, But Hasn't Said Why — <em>Decrypt</em></li>\n<li>[4] Hunter Biden says LAPTOP market maker should ‘buy it all back and burn it’ — <em>The Block</em></li>\n<li>[5] Polygon taps TRON’s $94 billion stablecoin supply for seamless cross-border transfers — <em>CoinDesk</em></li>\n<li>[6] Tether, Kazakhstan cenbank mull tenge stablecoin and asset tokenization — <em>Cointelegraph</em></li>\n<li>[7] House Finance panel chair says regulator actions on crypto ‘fall short’ of CLARITY bill — <em>Cointelegraph</em></li>\n<li>[8] Coinbase brings global crypto derivatives liquidity to US with Deribit integration — <em>Cointelegraph</em></li>\n<li>[9] Bitcoin Dips Below $83K as Oil Shock Rattles Markets: What Happens Next? — <em>Decrypt</em></li>\n<li>[10] Gate bets all-in-one money app is crypto’s biggest consumer trend this year and next — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "stablecoin",
+        "defi",
+        "thị trường",
+        "việt nam"
+      ],
+      "readTime": 9,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1791395972/cryptohieuqua/posts/diem-tin-crypto-07102026-luc-0059-thi-truong-bien-dong-manh-voi-bitcoin-giam-eth.png",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1791395972/cryptohieuqua/posts/diem-tin-crypto-07102026-luc-0059-thi-truong-bien-dong-manh-voi-bitcoin-giam-eth.png",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-07102026-luc-0059-thi-truong-bien-dong-manh-voi-bitcoin-giam-eth",
+        "width": 1264,
+        "height": 848,
+        "format": "png",
+        "alt": "Điểm tin crypto 07/10/2026 lúc 00:59: Thị trường biến động mạnh với Bitcoin giảm, Ethereum đề xuất bảo mật mới và các dự"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / The Block / Decrypt / CoinDesk",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Sui tunnels hit 40.6M TPS in live AI agent test",
+          "url": "https://cointelegraph.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Ethereum researcher Justin Drake calls for ‘bunker mode’ planning over private key recovery risk",
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-07-ethereum-researcher-justin-drake-bunker-mode-planning-private-key-recovery-risk-417954",
+          "source": "The Block"
+        },
+        {
+          "title": "US Government Moves $103 Million in Seized Bitcoin and BNB, But Hasn't Said Why",
+          "url": "https://decrypt.co/380313/us-government-moves-103-million-seized-bitcoin-bnb",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Hunter Biden says LAPTOP market maker should ‘buy it all back and burn it’",
+          "url": "https://www.theblock.co/news/markets/2026-10-07-hunter-biden-laptop-market-maker-should-buy-back-burn-it-417947",
+          "source": "The Block"
+        },
+        {
+          "title": "Polygon taps TRON’s $94 billion stablecoin supply for seamless cross-border transfers",
+          "url": "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Tether, Kazakhstan cenbank mull tenge stablecoin and asset tokenization",
+          "url": "https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "House Finance panel chair says regulator actions on crypto ‘fall short’ of CLARITY bill",
+          "url": "https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Coinbase brings global crypto derivatives liquidity to US with Deribit integration",
+          "url": "https://cointelegraph.com/news/coinbase-deribit-us-crypto-options-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin Dips Below $83K as Oil Shock Rattles Markets: What Happens Next?",
+          "url": "https://decrypt.co/380290/bitcoin-dips-oil-shock-rattles-markets-what-happens-next",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Gate bets all-in-one money app is crypto’s biggest consumer trend this year and next",
+          "url": "https://www.coindesk.com/business/2026/10/07/gate-bets-all-in-one-money-app-is-crypto-s-biggest-consumer-trend-this-year-and-next",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-10-07T17:59:32.816Z",
+      "slug": "diem-tin-crypto-07102026-luc-0059-thi-truong-bien-dong-manh-voi-bitcoin-giam-eth"
+    },
+    {
       "id": "1791347819626",
       "title": "Điểm tin crypto 07/10/2026 lúc 11:36: Tóm tắt các biến động lớn trên Bitcoin, Ethereum và thị trường",
       "summary": "Ngày 07/10/2026, thị trường crypto chứng kiến sự sụt giảm mạnh của Bitcoin, các vụ đóng cửa chuỗi layer‑2 trên Ethereum và những bước tiến pháp lý tại châu Âu. Đồng thời, các dự án lớn như Cardano, Coinbase và Circle công bố các thay đổi có thể ảnh hưởng tới nhà đầu tư Việt Nam.",
@@ -28970,16 +29051,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.theblock.co/news/ecosystems/2026-09-08-pons-propels-robinhood-chain-fees-record-6-million-daily-fees-dex-volume-doubles-413852",
-    "https://www.theblock.co/news/regulation/2026-09-08-jack-dorsey-block-joins-rush-federal-bank-charters-from-occ-413947",
-    "https://decrypt.co/resources/openai-solved-1m-math-problem-rival-mathematician",
-    "https://cointelegraph.com/news/new-york-plattsburgh-crypto-mining-ai-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/stablecoinx-franklin-templeton-veteran-to-oversee-roughly-480m-ena-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/377723/liquid-hack-47m-blockstream-bargains-white-hat",
-    "https://www.theblock.co/news/ecosystems/2026-09-08-hyperliquid-open-interest-climbs-14-3-billion-hype-hits-all-time-high-413855",
-    "https://decrypt.co/377766/prediction-markets-abandon-cheap-oil-as-brent-passes-100",
-    "https://decrypt.co/377768/consensys-split-metamask-new-institutional-crypto-company",
-    "https://www.theblock.co/news/regulation/2026-09-09-crypto-industry-groups-escalate-fight-illinois-asking-court-block-crypto-tax-414036",
     "https://www.coindesk.com/coindesk-indices/2026/09/08/crypto-long-and-short-inside-the-300-to-1-onchain-gap-between-the-dollar-and-euro",
     "https://www.theblock.co/news/business/2026-09-09-consensys-splits-metamask-institutional-ethereum-infrastructure-businesses-414022",
     "https://www.theblock.co/news/ecosystems/2026-09-09-ink-foundation-gsr-crypto-charter-foundation-token-launch-costs-414023",
@@ -29469,10 +29540,19 @@
     "https://cointelegraph.com/news/consumer-crypto-chain-abstract-to-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/380257/google-launches-nano-banana-2-1",
     "https://decrypt.co/380240/circle-dj-khaled-team-usdc-crypto-twitter-furious",
-    "https://decrypt.co/380229/someone-scraped-5-billion-tiktok-videos-posted-data-hugging-face"
+    "https://decrypt.co/380229/someone-scraped-5-billion-tiktok-videos-posted-data-hugging-face",
+    "https://cointelegraph.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/ecosystems/2026-10-07-ethereum-researcher-justin-drake-bunker-mode-planning-private-key-recovery-risk-417954",
+    "https://decrypt.co/380313/us-government-moves-103-million-seized-bitcoin-bnb",
+    "https://www.theblock.co/news/markets/2026-10-07-hunter-biden-laptop-market-maker-should-buy-back-burn-it-417947",
+    "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails",
+    "https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/coinbase-deribit-us-crypto-options-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/380290/bitcoin-dips-oil-shock-rattles-markets-what-happens-next",
+    "https://www.coindesk.com/business/2026/10/07/gate-bets-all-in-one-money-app-is-crypto-s-biggest-consumer-trend-this-year-and-next"
   ],
   "publishedBatchKeys": [
-    "https://decrypt.co/372248/future-cyberpunk-imagined-here|https://www.coindesk.com/business/2026/06/28/crypto-s-next-frontier-isn-t-crypto-it-s-financing-ai-and-robotics-framework-s-anderson-says|https://cointelegraph.com/news/binance-400m-weekly-net-outflows-mica-deadline-nears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/pioneering-zk-rollup-loopring-announces-dex-closure-citing-no-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/406470/kiwoom-securities-bithumb?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/ether-treasury-sharplink-buys-624m-of-eth-in-3-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/372294/tom-lee-bitmine-43-million-ethereum-strategy-halts-bitcoin-buys|https://www.coindesk.com/policy/2026/06/29/crypto-analytics-firm-chainalysis-proposes-standards-for-blockchain-tracing|https://www.coindesk.com/business/2026/06/29/mica-july-1-deadline-could-leave-10-million-crypto-users-searching-for-a-new-platform-in-the-eu",
     "https://cointelegraph.com/news/sec-wins-54m-judgment-in-nanobit-crypto-fraud-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/406634/securitize-nyse-debut-thursday?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/406628/ark-invest-coinbase-circle-bullish-robinhood-monday?utm_source=rss&amp;utm_medium=rss",
@@ -29671,6 +29751,7 @@
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/10/05/crypto-s-campaign-arm-fairshake-sets-lists-of-u-s-house-favorites-it-ll-spend-on|https://cointelegraph.com/news/crypto-advocacy-groups-icba-lawsuit-occ-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/policy/2026/10/06/u-s-scraps-proposed-usd10-000-reporting-rule-for-for-crypto-sent-to-private-wallets|https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump|https://www.coindesk.com/markets/2026/10/06/bitcoin-keeps-getting-rejected-at-usd87-000-as-stocks-hover-near-records",
     "https://decrypt.co/380192/mistral-ai-drops-le-chonk-massive-ai-model-cat-meme|https://cointelegraph.com/news/securitize-lg-cns-south-korea-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/business/2026/10/06/peter-thiel-backed-founders-fund-leads-a-usd5-million-token-buy-in-crypto-collateral-protocol-anvil",
-    "https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week|https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets|https://www.coindesk.com/markets/2026/10/07/bitcoin-dips-below-usd84-000-as-oil-jumps-on-iranian-tanker-attacks"
+    "https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week|https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets|https://www.coindesk.com/markets/2026/10/07/bitcoin-dips-below-usd84-000-as-oil-jumps-on-iranian-tanker-attacks",
+    "https://cointelegraph.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/ecosystems/2026-10-07-ethereum-researcher-justin-drake-bunker-mode-planning-private-key-recovery-risk-417954|https://decrypt.co/380313/us-government-moves-103-million-seized-bitcoin-bnb"
   ]
 }
