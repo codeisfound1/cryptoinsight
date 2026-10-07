@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://cryptohieu.com/</loc>
-    <lastmod>2026-10-06</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://cryptohieu.com/#diem-tin-crypto-07102026-luc-1136-tom-tat-cac-bien-dong-lon-tren-bitcoin-ethereu</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1791347819/cryptohieuqua/posts/diem-tin-crypto-07102026-luc-1136-tom-tat-cac-bien-dong-lon-tren-bitcoin-ethereu.jpg</image:loc>
+      <image:title>Điểm tin crypto 07/10/2026 lúc 11:36: Tóm tắt các biến động lớn trên Bitcoin, Ethereum và thị trường</image:title>
+      <image:caption>Điểm tin crypto 07/10/2026 lúc 11:36: Tóm tắt các biến động lớn trên Bitcoin, Ethereum và thị trường</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://cryptohieu.com/#diem-tin-crypto-06102026-luc-0026-tong-hop-10-su-kien-quan-trong</loc>
