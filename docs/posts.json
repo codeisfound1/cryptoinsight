@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1792247326090",
+      "title": "Điểm tin crypto 17/10/2026 lúc 21:28: Polygon, Bitcoin, Stablecoin và xu hướng thanh toán số",
+      "summary": "Polygon mua lại Coinme mở rộng vào lĩnh vực thanh toán, Bitcoin đối mặt nguy cơ lượng tử mới, stablecoin chậm lại do lãi ngân hàng tăng. Các tin tức này cho thấy xu hướng tích hợp tài chính truyền thống và công nghệ blockchain đang mạnh mẽ, ảnh hưởng trực tiếp tới nhà đầu tư Việt Nam.",
+      "content": "<p>Ngày 17/10/2026, thị trường tiền mã hoá tiếp tục chứng kiến nhiều diễn biến quan trọng, từ các thương vụ M&A, các báo cáo chính sách tài chính, cho tới những mối đe dọa công nghệ mới. Dưới đây là phân tích chi tiết 10 tin tức nổi bật, giải thích các thuật ngữ kỹ thuật và đưa ra nhận định chung cho nhà đầu tư Việt Nam.</p>\n<h2>1. Polygon mua lại Coinme – Bước tiến vào lĩnh vực thanh toán</h2>\n<p>CEO Marc Boiron của Polygon cho biết việc mua lại Coinme sẽ giúp Polygon kiểm soát mối quan hệ khách hàng và thu lợi nhuận mà trước đây thuộc về các trung gian thanh toán như Visa, Stripe. Coinme là nền tảng chuyển đổi fiat‑crypto, vì vậy Polygon có thể tích hợp giải pháp thanh toán trực tiếp trên mạng L2, giảm chi phí giao dịch và tăng tốc độ xử lý. Đối với nhà đầu tư Việt Nam, đây là tín hiệu mạnh cho việc mở rộng các giải pháp thanh toán bằng USDT, USDC hoặc các stablecoin nội địa trên Polygon, giúp giảm phí so với Ethereum.</p>\n<h2>2. Bitcoin đối mặt nguy cơ lượng tử sau đột phá Willow của Google</h2>\n<p>Google công bố chip Willow có khả năng chuẩn bị trạng thái lượng tử với lỗi giảm tới 40 lần, làm giảm rào cản phần cứng cho các cuộc tấn công lượng tử. Nếu công nghệ này tiến triển, các thuật toán ký ký số hiện tại của Bitcoin (ECDSA) có thể bị phá vỡ, gây lo ngại về an toàn tài sản. Các nhà đầu tư nên chú ý đến các dự án nghiên cứu chuyển sang thuật toán post‑quantum như lattice‑based signatures, và cân nhắc đa dạng hoá danh mục sang các đồng có kế hoạch nâng cấp bảo mật.</p>\n<h2>3. Ngân hàng có thể làm chậm tăng trưởng stablecoin khi lãi gửi tăng</h2>\n<p>Theo báo cáo của BIS, một tăng 1 điểm cơ sở lãi suất tiền gửi tại Mỹ sẽ giảm tốc tăng trưởng stablecoin trong 10 tuần từ 15% xuống 12%. Khi lãi suất truyền thống hấp dẫn hơn, nhà đầu tư và người dùng sẽ chuyển tiền từ stablecoin sang tài khoản ngân hàng, làm giảm nhu cầu lưu trữ giá trị trên chuỗi. Đối với thị trường Việt Nam, nơi stablecoin được dùng để chuyển tiền xuyên biên giới, xu hướng này có thể làm giảm khối lượng giao dịch trên các sàn địa phương.</p>\n<h2>4. Circle mở rộng sang 40 thị trường đang phát triển</h2>\n<p>CEO Jeremy Allaire của Circle cho biết công ty đang lên kế hoạch đưa USDC vào 40 quốc gia ở Đông Nam Á, Mỹ Latinh, Châu Phi và Trung Đông. Đây là bước đi chiến lược để đáp ứng nhu cầu thanh toán nhanh, chi phí thấp và tránh biến động tiền tệ. Nhà đầu tư Việt Nam có thể kỳ vọng sự xuất hiện của USDC trên các sàn nội địa, đồng thời tăng cơ hội sử dụng stablecoin để mua hàng, trả lương hoặc đầu tư vào DeFi.</p>\n<h2>5. Euro kỹ thuật số sắp ra mắt – Lời khẳng định của Lagarde</h2>\n<p>Chủ tịch ECB Christine Lagarde khẳng định euro kỹ thuật số sẽ “kích thích đổi mới và cạnh tranh” trong thanh toán bán lẻ. Khi euro kỹ thuật số được triển khai, nó sẽ tạo ra một đồng tiền kỹ thuật số được bảo trợ bởi ngân hàng trung ương, có thể tương tác trực tiếp với các nền tảng blockchain. Đối với nhà đầu tư Việt Nam, việc này mở ra cơ hội hợp tác giữa các dự án DeFi và hệ thống thanh toán châu Âu, đồng thời tạo thêm lựa chọn cho người dùng muốn giữ tài sản bằng euro mà không qua ngân hàng truyền thống.</p>\n<h2>6. Solana được Fidelity nhận xét có độ bền cao nhưng cần giám sát</h2>\n<p>Fidelity cho biết Solana không gặp sự cố mạng chính trong hai năm qua, tuy nhiên vẫn có rủi ro tập trung stake, hosting và phần mềm client. Điều này đồng nghĩa với việc một số nhà khai thác lớn có thể ảnh hưởng tới tính phi tập trung và độ an toàn. Nhà đầu tư Việt Nam nên cân nhắc đa dạng hoá giữa Solana và các chuỗi khác, đồng thời theo dõi các chỉ số như % stake tập trung và số lượng validator độc lập.</p>\n<h2>7. Bitget ngừng dịch vụ một số người dùng – An toàn quỹ được bảo đảm</h2>\n<p>Bitget thông báo sẽ tạm ngừng dịch vụ cho một số tài khoản trong một đợt “one‑off exercise”. Công ty khẳng định quỹ người dùng vẫn an toàn và nền tảng sẽ tiếp tục hoạt động. Đây là lời nhắc nhở về rủi ro pháp lý và quản lý rủi ro trên các sàn giao dịch tập trung. Nhà đầu tư Việt Nam nên luôn duy trì việc rút phần lớn tài sản ra ví tự quản (hardware wallet) và chỉ để một phần nhỏ trên sàn để giao dịch.</p>\n<h2>8. TokenMaxxing – Tối ưu chi phí AI token</h2>\n<p>Bài viết trên Decrypt giới thiệu khái niệm “TokenMaxxing”, tức là tối ưu việc tiêu thụ token khi sử dụng mô hình AI. Nhiều công ty AI tính phí theo số token, vì vậy người dùng có thể giảm chi phí bằng cách tối ưu prompt, sử dụng mô hình nhỏ hơn cho các tác vụ đơn giản. Đối với cộng đồng crypto, việc này giúp giảm chi phí khi tích hợp AI vào các bot giao dịch, phân tích dữ liệu chuỗi và tạo nội dung marketing.</p>\n<h2>9. Tổng hợp tin tức crypto ngày hôm nay</h2>\n<p>Cointelegraph cung cấp bản tin tổng hợp các xu hướng hàng ngày, bao gồm biến động giá Bitcoin, tin tức DeFi, Web3 và quy định. Mặc dù không có thông tin chi tiết, bản tin này giúp nhà đầu tư nhanh chóng nắm bắt các diễn biến quan trọng và điều chỉnh chiến lược giao dịch trong ngày.</p>\n<h2>10. Claude giải mã bí ẩn số liệu NSA 25 năm</h2>\n<p>Claude, một mô hình AI, đã giải mã một danh sách số liệu của NSA từ những năm 1990, khẳng định Bitcoin không nằm trong danh sách các mục tiêu tiềm năng. Điều này giảm bớt lo ngại về việc các cơ quan tình báo có thể đã chuẩn bị tấn công vào Bitcoin từ lâu. Tuy nhiên, nó cũng nhấn mạnh tầm quan trọng của việc bảo mật và giám sát liên tục.</p>\n<h2>Nhận định thị trường chung</h2>\n<p>Những tin tức trên cho thấy ba xu hướng chính: (1) tích hợp tài chính truyền thống và blockchain (Polygon‑Coinme, Circle, euro kỹ thuật số); (2) rủi ro công nghệ mới, đặc biệt là lượng tử, đòi hỏi các dự án nâng cấp bảo mật; (3) áp lực từ ngân hàng truyền thống và quy định (BIS, Bitget). Thị trường crypto toàn cầu đang chuyển từ giai đoạn “đột phá” sang “hội nhập” với hệ thống tài chính hiện hữu, đồng thời phải đối mặt với các mối đe dọa kỹ thuật ngày càng tinh vi.</p>\n<h2>Khuyến nghị nhà đầu tư</h2>\n<p>• Đa dạng hoá danh mục: giữ một phần Bitcoin, một phần các đồng L2 như Polygon, và một phần stablecoin (USDC, USDT) để tận dụng lợi thế thanh toán nhanh.<br>• Theo dõi các dự án chuyển sang thuật toán post‑quantum (ví dụ: các blockchain đang nghiên cứu lattice‑based signatures) để giảm rủi ro lượng tử.<br>• Giữ phần lớn tài sản trên ví tự quản, chỉ để một tỷ lệ nhỏ trên sàn để giao dịch ngắn hạn.<br>• Quan tâm tới các dự án DeFi trên Solana và Polygon, nhưng luôn kiểm tra mức độ tập trung stake và số lượng validator.<br>• Sử dụng AI một cách hiệu quả (TokenMaxxing) để giảm chi phí phân tích và tự động hoá giao dịch.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe — <em>CoinDesk</em></li>\n<li>[2] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[3] TokenMaxxing: How to Get the Most Out of Your AI Models — <em>Decrypt</em></li>\n<li>[4] Solana shows resilience, but some areas need continued observation, Fidelity says — <em>Cointelegraph</em></li>\n<li>[5] Banks could slow stablecoin growth by paying savers more, BIS paper finds — <em>CoinDesk</em></li>\n<li>[6] Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report — <em>Cointelegraph</em></li>\n<li>[7] Lagarde says euro-area economy is resilient, digital euro imminent — <em>Cointelegraph</em></li>\n<li>[8] Bitget to discontinue services for some users in one-off exercise — <em>Cointelegraph</em></li>\n<li>[9] ‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery — <em>CoinDesk</em></li>\n<li>[10] Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough — <em>CoinDesk</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "polygon",
+        "stablecoin",
+        "solana",
+        "defi",
+        "thị trường"
+      ],
+      "readTime": 9,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1792247325/cryptohieuqua/posts/diem-tin-crypto-17102026-luc-2128-polygon-bitcoin-stablecoin-va-xu-huong-thanh-t.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1792247325/cryptohieuqua/posts/diem-tin-crypto-17102026-luc-2128-polygon-bitcoin-stablecoin-va-xu-huong-thanh-t.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-17102026-luc-2128-polygon-bitcoin-stablecoin-va-xu-huong-thanh-t",
+        "width": 675,
+        "height": 450,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 17/10/2026 lúc 21:28: Polygon, Bitcoin, Stablecoin và xu hướng thanh toán số"
+      },
+      "sourceUrl": "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe",
+      "sourceTitle": "CoinDesk / Cointelegraph / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
+          "url": "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "TokenMaxxing: How to Get the Most Out of Your AI Models",
+          "url": "https://decrypt.co/381213/tokenmaxxing-how-get-most-out-your-ai-models",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
+          "url": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
+          "url": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
+          "url": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Lagarde says euro-area economy is resilient, digital euro imminent",
+          "url": "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitget to discontinue services for some users in one-off exercise",
+          "url": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
+          "url": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
+          "url": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
+          "source": "CoinDesk"
+        }
+      ],
+      "publishedAt": "2026-10-17T14:28:46.090Z",
+      "slug": "diem-tin-crypto-17102026-luc-2128-polygon-bitcoin-stablecoin-va-xu-huong-thanh-t"
+    },
+    {
       "id": "1792206826214",
       "title": "Điểm tin crypto 17/10/2026 lúc 10:13: Tổng hợp 10 sự kiện quan trọng",
       "summary": "Google công bố chip Willow làm tăng nguy cơ tấn công lượng tử vào Bitcoin, Strive tăng mua Bitcoin, Circle mở rộng stablecoin sang 40 thị trường mới, cùng các tin về chỉ số MSCI, PAC chính trị, và tiềm năng tiết kiệm chi phí chuyển tiền bằng stablecoin.",
@@ -30587,14 +30668,6 @@
     }
   ],
   "publishedUrls": [
-    "https://decrypt.co/378638/cftc-crypto-rules-white-house-congress-clarity-act",
-    "https://cointelegraph.com/news/cftc-submits-crypto-market-regulation-plan-for-white-house-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks",
-    "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade",
-    "https://decrypt.co/378674/solana-heartbeat-quickens-speed-upgrade",
-    "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
-    "https://www.coindesk.com/business/2026/09/19/robinhood-chain-fees-collapse-97-even-as-transactions-stay-near-record-highs",
-    "https://www.coindesk.com/business/2026/09/15/why-wall-street-giants-build-tokenization-money-for-institutions-not-regular-consumers",
     "https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -31086,10 +31159,17 @@
     "https://decrypt.co/381168/bitcoin-treasury-giant-strategy-faces-index-removal-under-finalized-msci-rules",
     "https://decrypt.co/381165/indias-cyber-agency-ai-agents-read-confidential-business-records",
     "https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe",
+    "https://decrypt.co/381213/tokenmaxxing-how-get-most-out-your-ai-models",
+    "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
+    "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/407555/strategys-3588-btc-sale-puts-future-bitcoin-selling-in-focus-analysts?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/markets/btc-speculators-in-focus-as-analysis-says-textbook-bitcoin-bottom-is-underway?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/372993/morning-minute-vanguard-hires-head-of-digital-assets-in-crypto-capitulation",
     "https://cointelegraph.com/news/crypto-vc-paradigm-raises-12b-to-push-into-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/defi-dashboard-zapper-to-shut-down-after-seven-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/crypto-could-benefit-if-fed-steps-in-to-backstop-us-stock-market-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/407732/hong-kong-sfc-orders-crypto-platforms-online-brokers-to-phase-out-otp-logins?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/407719/paypal-seeks-increase-pyusd-stablecoin-native-issuance-on-polygon?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/407723/tarun-chitra-gauntlet-125-million-series-c-funding-sbi-holdings?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/defi-quietly-re-rating-holds-up-unusually-well-in-downturn-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/07/09/new-hampshire-snuffs-out-trailblazing-bitcoin-municipal-bond-effort|https://www.theblock.co/post/407790/bitwise-says-bitcoins-floor-rising-despite-ai-boom-regulatory-delays?utm_source=rss&amp;utm_medium=rss",
@@ -31288,6 +31368,7 @@
     "https://decrypt.co/381044/bitcoin-whipsaws-crypto-liquidations-near-1-billion|https://cointelegraph.com/markets/bitcoin-price-breaks-under-80k-after-us-ppi-gains-most-in-over-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules",
     "https://cointelegraph.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/news/business/2026-10-16-circle-usdc-revenue-split-partners-418826|https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown|https://cointelegraph.com/news/strategy-daily-dividends-strc-hovers-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough|https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839|https://decrypt.co/381184/tesla-roadster-rocket-cool-flying-car-you-cant-have"
+    "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough|https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839|https://decrypt.co/381184/tesla-roadster-rocket-cool-flying-car-you-cant-have",
+    "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/381213/tokenmaxxing-how-get-most-out-your-ai-models"
   ]
 }
