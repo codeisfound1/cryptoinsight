@@ -1,6 +1,86 @@
 {
   "posts": [
     {
+      "id": "1792380623248",
+      "title": "Điểm tin crypto 19/10/2026 lúc 10:30: Các ngân hàng mở rộng dịch vụ lưu ký, sự cố mạng và chính sách Mỹ",
+      "summary": "Ngày 19/10/2026, các tin tức crypto nổi bật bao gồm kế hoạch mở rộng dịch vụ lưu ký của Deutsche Bank sang châu Á, vụ tấn công làm đóng băng chuỗi Qubic và Cysic, cùng những biến động chính sách tại Mỹ. Các sự kiện này cho thấy xu hướng hợp tác tài chính truyền thống với crypto, đồng thời tăng áp lực an ninh mạng và quy định.",
+      "content": "<p>Thị trường tiền điện tử ngày 19/10/2026 tiếp tục chịu ảnh hưởng mạnh mẽ từ cả yếu tố tài chính truyền thống lẫn rủi ro công nghệ. Các ngân hàng lớn đang đẩy mạnh dịch vụ lưu ký crypto, trong khi các dự án blockchain phải đối mặt với các vụ tấn công làm gián đoạn hoạt động. Bên cạnh đó, các quyết định chính sách tại Mỹ và châu Âu đang tạo ra những thay đổi đáng chú ý cho nhà đầu tư, đặc biệt là ở Việt Nam, nơi nhu cầu tiếp cận crypto ngày càng tăng.</p><h2>1. Deutsche Bank mở rộng dịch vụ lưu ký crypto sang châu Á (Tin 1)</h2><p>Deutsche Bank công bố kế hoạch triển khai dịch vụ lưu ký crypto tại châu Á vào năm 2027, với mục tiêu hỗ trợ Bitcoin, Ethereum và các stablecoin USDC, EURC, EURAU. Ngân hàng sẽ quản lý ví và khóa riêng cho khách hàng, giảm thiểu rủi ro bảo mật cho nhà đầu tư cá nhân và tổ chức. Đây là một bước tiến quan trọng trong việc đưa tài sản số vào hệ thống tài chính truyền thống, đồng thời mở ra cơ hội cho các ngân hàng Việt Nam hợp tác hoặc học hỏi mô hình lưu ký an toàn.</p><h2>2. Sự cố mạng Qubic và Cysic: Hai vụ tấn công chuỗi (Tin 3 & Tin 10)</h2><p>Qubic đã phải đóng băng toàn bộ chuỗi sau khi kẻ tấn công rút tiền từ 1.400 ví có seed yếu, chiếm 87,1% số tiền bị đánh cắp vẫn còn trên chuỗi. Các validator đang chuẩn bị bỏ phiếu đề xuất khôi phục. Đồng thời, Cysic cũng tạm dừng cầu nối sau khi một hacker mint 10 triệu token CYS và chuyển khoảng 727.000 USD sang Ethereum qua các cầu nối Mayan, deBridge và SWFT. Hai vụ việc này nhấn mạnh vấn đề an ninh trong việc quản lý seed phrase và thiết kế cầu nối (bridge). Đối với nhà đầu tư Việt Nam, việc lựa chọn dự án có audit bảo mật và cơ chế phòng ngừa lỗ hổng là yếu tố sống còn.</p><h2>3. SEC và khung pháp lý token hoá cổ phiếu (Tin 4)</h2><p>SEC đang triển khai khung pháp lý cho token hoá cổ phiếu, nhưng đã gặp phản đối mạnh mẽ từ các công ty như Broadcom và Verizon đối với việc niêm yết trên sàn OKX-ICE. Nasdaq cũng tuyên bố sẽ không tham gia. Điều này cho thấy sự căng thẳng giữa các nhà phát hành truyền thống và các sàn crypto trong việc áp dụng công nghệ token hoá. Nhà đầu tư Việt Nam cần chú ý rằng các token cổ phiếu có thể sẽ chịu quy định chặt chẽ hơn, ảnh hưởng đến tính thanh khoản và khả năng giao dịch.</p><h2>4. Thay đổi nhân sự tại White House (Tin 7)</h2><p>Patrick Witt, người đứng đầu bộ phận crypto của Nhà Trắng, đã rời vị trí. Sự ra đi này có thể làm chậm tiến độ các sáng kiến chính sách hỗ trợ crypto tại Mỹ, đồng thời tạo ra khoảng trống trong việc định hướng quy định. Đối với thị trường toàn cầu, việc này có thể làm tăng tính không chắc chắn ngắn hạn, nhưng cũng mở ra cơ hội cho các nhà lập pháp mới đưa ra các quy định cân bằng hơn.</p><h2>5. Động thái pháp lý của các công ty crypto tại Missouri (Tin 6)</h2><p>Crypto.com và Novig đã kiện bang Missouri vì các hợp đồng sự kiện thể thao, trong khi Kalshi, Polymarket, Robinhood và Underdog chưa đưa ra phản hồi pháp lý. Tranh chấp này phản ánh xu hướng các cơ quan địa phương ngày càng quan tâm tới hoạt động tài chính phi truyền thống. Nhà đầu tư Việt Nam nên theo dõi các vụ kiện tương tự ở các quốc gia khác, vì chúng có thể tạo tiền lệ cho việc quản lý các nền tảng giao dịch và dự án DeFi.</p><h2>6. World ID cho Zoom và kiểm tra deepfake (Tin 2)</h2><p>World ra mắt bộ công cụ World ID cho Zoom, giúp phát hiện người tham gia giả mạo (deepfake). Mặc dù không trực tiếp liên quan tới crypto, nhưng công nghệ này được xây dựng trên nền tảng blockchain để xác thực danh tính, cho thấy tiềm năng mở rộng ứng dụng của crypto vào bảo mật thông tin và giao dịch. Các doanh nghiệp Việt Nam có thể cân nhắc tích hợp giải pháp tương tự để nâng cao độ tin cậy trong các buổi họp trực tuyến.</p><h2>7. Tin tức thị trường truyền thống: VIX và Bitcoin (Tin 8)</h2><p>VIX, chỉ số sợ hãi của Wall Street, đã tăng mạnh vào thứ Sáu, kéo theo sự giảm giá cổ phiếu. Lịch sử cho thấy những đợt hoảng loạn vào cuối tuần thường giảm dần vào thứ Hai, và Bitcoin cũng đang duy trì xu hướng ổn định. Điều này gợi ý rằng, trong môi trường tài chính truyền thống biến động, crypto vẫn có thể đóng vai trò “tài sản trú ẩn” tạm thời cho nhà đầu tư.</p><h2>8. Tin công nghệ: MapQuest hiển thị camera Flock (Tin 9)</h2><p>MapQuest bổ sung lớp bản đồ hiển thị vị trí các camera đọc biển số (license plate readers) của Flock Safety. Mặc dù không phải tin crypto, nhưng việc tích hợp dữ liệu công nghệ vào nền tảng bản đồ cho thấy xu hướng “giám sát thông minh” đang lan rộng, có thể tạo ra các cơ hội cho các dự án blockchain trong việc lưu trữ và xác thực dữ liệu địa lý một cách phi tập trung.</p><h2>9. Richard Heart và QDay (Tin 5)</h2><p>Nhà sáng lập HEX, Richard Heart, bị bắt gấp vào sáng sớm tại Istanbul, trong khi Starknet giảm gần 50% sau quyết định chuyển sang L1. Bitwise lại khẳng định “mọi dấu hiệu cho thấy mùa xuân crypto đang tới”. Sự kiện này phản ánh tính bất ổn của các dự án cá nhân và đồng thời nhấn mạnh tầm quan trọng của việc đánh giá rủi ro dựa trên đội ngũ phát triển và lộ trình công nghệ.</p><h2>Nhận định thị trường chung</h2><p>Những tin tức trên cho thấy ba xu hướng chính: (1) Sự hội nhập ngày càng sâu của ngân hàng truyền thống với crypto, đặc biệt là dịch vụ lưu ký; (2) Rủi ro an ninh mạng vẫn là thách thức lớn, với các vụ tấn công làm gián đoạn chuỗi và cầu nối; (3) Quy định và chính sách vẫn đang trong giai đoạn điều chỉnh, tạo ra không chắc chắn ngắn hạn nhưng đồng thời mở ra cơ hội cho các dự án tuân thủ. Đối với nhà đầu tư Việt Nam, môi trường này đòi hỏi sự cân nhắc kỹ lưỡng giữa tiềm năng lợi nhuận và rủi ro pháp lý, an ninh.</p><h2>Khuyến nghị nhà đầu tư</h2><p>- Ưu tiên đầu tư vào các đồng tiền và dự án đã được kiểm toán bảo mật, tránh các token chưa có audit hoặc có lịch sử lỗ hổng.<br>- Theo dõi các ngân hàng và tổ chức tài chính đang triển khai dịch vụ lưu ký crypto; nếu có cơ hội hợp tác hoặc sử dụng dịch vụ này, sẽ giảm thiểu rủi ro bảo mật ví cá nhân.<br>- Đa dạng hoá danh mục, không đặt quá nhiều vốn vào các dự án DeFi chưa được kiểm chứng.<br>- Cập nhật thường xuyên các thay đổi quy định tại Mỹ, EU và châu Á, đặc biệt là các khung pháp lý về token hoá cổ phiếu.<br>- Đối với nhà đầu tư cá nhân, sử dụng ví lạnh (hardware wallet) và bảo vệ seed phrase bằng các phương pháp mã hoá mạnh mẽ.<br>- Theo dõi chỉ số VIX và xu hướng thị trường truyền thống để định vị thời điểm vào/ra thị trường crypto một cách hợp lý.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears — <em>CoinDesk</em></li>\n<li>[2] World launches World ID suite for banks, makes Zoom deepfake check generally available — <em>The Block</em></li>\n<li>[3] Qubic freezes chain after attacker drains 1.4K wallets with weak seeds — <em>Cointelegraph</em></li>\n<li>[4] SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing — <em>CoinDesk</em></li>\n<li>[5] Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest — <em>Cointelegraph</em></li>\n<li>[6] Crypto.com, Novig sue Missouri over sports event contracts; Kalshi, Polymarket, Robinhood hold off — <em>The Block</em></li>\n<li>[7] The White House's crypto chief departs: State of Crypto — <em>CoinDesk</em></li>\n<li>[8] Wall Street freaked out Friday, but VIX and bitcoin trades say the fear may fade Monday. — <em>CoinDesk</em></li>\n<li>[9] MapQuest Now Shows Drivers Where Flock Cameras Are Watching — <em>Decrypt</em></li>\n<li>[10] Cysic suspends bridge after attacker mints tokens and moves $727,000 to Ethereum — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "decentralized finance",
+        "thị trường",
+        "đầu tư"
+      ],
+      "readTime": 9,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1792380622/cryptohieuqua/posts/diem-tin-crypto-19102026-luc-1030-cac-ngan-hang-mo-rong-dich-vu-luu-ky-su-co-man.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1792380622/cryptohieuqua/posts/diem-tin-crypto-19102026-luc-1030-cac-ngan-hang-mo-rong-dich-vu-luu-ky-su-co-man.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-19102026-luc-1030-cac-ngan-hang-mo-rong-dich-vu-luu-ky-su-co-man",
+        "width": 600,
+        "height": 450,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 19/10/2026 lúc 10:30: Các ngân hàng mở rộng dịch vụ lưu ký, sự cố mạng và chính sách Mỹ"
+      },
+      "sourceUrl": "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears",
+      "sourceTitle": "CoinDesk / The Block / Cointelegraph / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
+          "url": "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "World launches World ID suite for banks, makes Zoom deepfake check generally available",
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-18-world-launches-world-id-suite-banks-418869",
+          "source": "The Block"
+        },
+        {
+          "title": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
+          "url": "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
+          "url": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest",
+          "url": "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Crypto.com, Novig sue Missouri over sports event contracts; Kalshi, Polymarket, Robinhood hold off",
+          "url": "https://www.theblock.co/news/regulation/2026-10-18-crypto-com-novig-sue-missouri-over-sports-event-contracts-kalshi-polymarket-robinhood-hold-off-418866",
+          "source": "The Block"
+        },
+        {
+          "title": "The White House's crypto chief departs: State of Crypto",
+          "url": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Wall Street freaked out Friday, but VIX and bitcoin trades say the fear may fade Monday.",
+          "url": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "MapQuest Now Shows Drivers Where Flock Cameras Are Watching",
+          "url": "https://decrypt.co/381255/mapquest-shows-drivers-where-flock-cameras-watching",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Cysic suspends bridge after attacker mints tokens and moves $727,000 to Ethereum",
+          "url": "https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-10-19T03:30:23.248Z",
+      "slug": "diem-tin-crypto-19102026-luc-1030-cac-ngan-hang-mo-rong-dich-vu-luu-ky-su-co-man"
+    },
+    {
       "id": "1792335310138",
       "title": "Điểm tin crypto 18/10/2026 lúc 21:55: Stablecoin bùng nổ, Bitcoin hướng $100k, rủi ro an ninh tăng",
       "summary": "Stablecoin tăng thanh toán 45% khi Visa, Mastercard và Stripe tích hợp, Bitcoin có khả năng chạm $100.000 cuối năm, trong khi các vụ hack và lừa đảo làm dấy lên lo ngại về an ninh. Các nhà đầu tư Việt Nam cần cân nhắc rủi ro và cơ hội.",
@@ -30830,16 +30910,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/magazine/who-needs-clarity-anyway-arb-could-see-70x-increase-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/defi/2026-09-20-zetachain-votes-to-shut-down-layer-1-network-and-move-zeta-to-solana-415878",
-    "https://www.theblock.co/news/regulation/2026-09-20-polymarket-faced-10-million-fraud-attempt-as-its-ceo-pushed-growth-over-compliance-concerns-wsj-415875",
-    "https://decrypt.co/378697/visa-close-meme-coin-credit-card-rewards-loophole",
-    "https://www.coindesk.com/business/2026/09/20/gemini-s-stock-is-down-80-from-its-ipo-that-s-reviving-takeover-speculation",
-    "https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/378745/sony-dont-own-games-you-bought-crypto-fix-that",
-    "https://cointelegraph.com/markets/bitcoin-price-86k-analysis-sees-crypto-new-bull-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/regulation/2026-09-21-clarity-act-fallout-cryptos-fairshake-pac-commits-30-million-against-sherrod-brown-415962",
     "https://decrypt.co/378811/apple-google-crypto-talent-stablecoin",
     "https://www.coindesk.com/news-analysis/2026/09/21/crypto-s-fairshake-repeats-history-with-usd30-million-to-oppose-sherrod-brown-senate-bid",
     "https://decrypt.co/378767/bitcoin-rally-what-happens-next",
@@ -31329,10 +31399,19 @@
     "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
     "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut"
+    "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut",
+    "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears",
+    "https://www.theblock.co/news/ecosystems/2026-10-18-world-launches-world-id-suite-banks-418869",
+    "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
+    "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/regulation/2026-10-18-crypto-com-novig-sue-missouri-over-sports-event-contracts-kalshi-polymarket-robinhood-hold-off-418866",
+    "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
+    "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
+    "https://decrypt.co/381255/mapquest-shows-drivers-where-flock-cameras-watching",
+    "https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863"
   ],
   "publishedBatchKeys": [
-    "https://cointelegraph.com/news/defi-quietly-re-rating-holds-up-unusually-well-in-downturn-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/07/09/new-hampshire-snuffs-out-trailblazing-bitcoin-municipal-bond-effort|https://www.theblock.co/post/407790/bitwise-says-bitcoins-floor-rising-despite-ai-boom-regulatory-delays?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/features/how-crypto-built-political-influence-in-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/407888/binance-co-ceo-says-70-of-eu-withdrawals-went-to-self-custody-after-mica-deadline-with-just-30-going-to-licensed-platforms?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/407884/communication-challenge-nothing-more-standard-chartered-keeps-100000-bitcoin-target-calls-strategy-selloff-a-signaling-problem?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/markets/2026/07/10/bitcoin-analysts-predict-usd300-000-usd500-000-price-in-2029-the-math-says-no|https://cointelegraph.com/news/doj-to-dismiss-charges-against-alleged-722m-bitclub-crypto-fraudster-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/373339/apple-sues-openai-claims-former-employees-stole-trade-secrets",
     "https://www.coindesk.com/markets/2026/07/11/bitcoin-treasury-company-empery-digital-sold-about-half-of-btc-stack|https://www.coindesk.com/tech/2026/07/10/ai-found-an-ethereum-bug-that-could-take-validators-offline-but-humans-had-to-prove-it|https://cointelegraph.com/news/bonzo-lend-9m-oracle-exploit-hedera?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -31531,6 +31610,7 @@
     "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough|https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839|https://decrypt.co/381184/tesla-roadster-rocket-cool-flying-car-you-cant-have",
     "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/381213/tokenmaxxing-how-get-most-out-your-ai-models",
     "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut|https://www.theblock.co/news/markets/2026-10-17-coreweave-broadcom-verizon-among-nine-companies-objecting-to-tokenized-trading-of-their-shares-on-okxice-418859|https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852",
-    "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/most-americans-polled-oppose-betting-on-elections-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/most-americans-polled-oppose-betting-on-elections-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears|https://www.theblock.co/news/ecosystems/2026-10-18-world-launches-world-id-suite-banks-418869|https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
