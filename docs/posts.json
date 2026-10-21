@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1792598957091",
+      "title": "Điểm tin crypto 21/10/2026 lúc 23:09: Bitcoin chạm $84.6K, Solana nâng tốc, Grayscale mở rộng ETF",
+      "summary": "Bitcoin gần chạm $85.000 nhờ lợi nhuận SpaceX, Solana ra mắt Alpenglow giảm thời gian xác nhận 99%, và Grayscale mở rộng đăng ký in‑kind cho 10 quỹ ETF. Các tin này phản ánh xu hướng tăng giá BTC, cải tiến hạ tầng blockchain và hội nhập tài chính truyền thống với crypto.",
+      "content": "<p><b>What Is a Bitcoin-Backed Loan? Borrowing Against BTC Explained</b></p><p><b>PHP Panic: Two Critical Bugs Put 70% of the Internet at Risk, and Everyone Is Freaking Out</b></p><p><b>How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal</b></p><p><b>Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat</b></p><p><b>Grayscale expands in-kind subscriptions to 10 crypto ETFs and trusts</b></p><p><b>Bybit will look for big broker partnerships to take on Robinhood in the U.S.</b></p><p><b>Crypto Long & Short: Why real-world assets need fixed-rate loans onchain</b></p><p><b>Anza’s Alpenglow goes live on Solana, cutting finality to 150 milliseconds</b></p><p><b>Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge</b></p><p><b>Solana’s Alpenglow launches on mainnet, targets 99% faster finality</b></p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] What Is a Bitcoin-Backed Loan? Borrowing Against BTC Explained — <em>Decrypt</em></li>\n<li>[2] PHP Panic: Two Critical Bugs Put 70% of the Internet at Risk, and Everyone Is Freaking Out — <em>Decrypt</em></li>\n<li>[3] How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal — <em>CoinDesk</em></li>\n<li>[4] Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat — <em>Cointelegraph</em></li>\n<li>[5] Grayscale expands in-kind subscriptions to 10 crypto ETFs and trusts — <em>The Block</em></li>\n<li>[6] Bybit will look for big broker partnerships to take on Robinhood in the U.S. — <em>CoinDesk</em></li>\n<li>[7] Crypto Long & Short: Why real-world assets need fixed-rate loans onchain — <em>CoinDesk</em></li>\n<li>[8] Anza’s Alpenglow goes live on Solana, cutting finality to 150 milliseconds — <em>The Block</em></li>\n<li>[9] Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge — <em>Decrypt</em></li>\n<li>[10] Solana’s Alpenglow launches on mainnet, targets 99% faster finality — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "solana",
+        "defi",
+        "etf",
+        "crypto",
+        "thị trường"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1792598956/cryptohieuqua/posts/diem-tin-crypto-21102026-luc-2309-bitcoin-cham-846k-solana-nang-toc-grayscale-mo.png",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1792598956/cryptohieuqua/posts/diem-tin-crypto-21102026-luc-2309-bitcoin-cham-846k-solana-nang-toc-grayscale-mo.png",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-21102026-luc-2309-bitcoin-cham-846k-solana-nang-toc-grayscale-mo",
+        "width": 1600,
+        "height": 900,
+        "format": "png",
+        "alt": "Điểm tin crypto 21/10/2026 lúc 23:09: Bitcoin chạm $84.6K, Solana nâng tốc, Grayscale mở rộng ETF"
+      },
+      "sourceUrl": "https://decrypt.co/resources/what-is-a-bitcoin-backed-loan-borrowing-against-btc-explained",
+      "sourceTitle": "Decrypt / CoinDesk / Cointelegraph / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "What Is a Bitcoin-Backed Loan? Borrowing Against BTC Explained",
+          "url": "https://decrypt.co/resources/what-is-a-bitcoin-backed-loan-borrowing-against-btc-explained",
+          "source": "Decrypt"
+        },
+        {
+          "title": "PHP Panic: Two Critical Bugs Put 70% of the Internet at Risk, and Everyone Is Freaking Out",
+          "url": "https://decrypt.co/381519/php-panic-critical-bugs-70-percent-internet-risk-everyone-freaking-out",
+          "source": "Decrypt"
+        },
+        {
+          "title": "How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal",
+          "url": "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat",
+          "url": "https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Grayscale expands in-kind subscriptions to 10 crypto ETFs and trusts",
+          "url": "https://www.theblock.co/news/markets/2026-10-21-grayscale-expands-in-kind-subscriptions-10-crypto-etfs-421559",
+          "source": "The Block"
+        },
+        {
+          "title": "Bybit will look for big broker partnerships to take on Robinhood in the U.S.",
+          "url": "https://www.coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Anza’s Alpenglow goes live on Solana, cutting finality to 150 milliseconds",
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-21-anzas-alpenglow-goes-live-on-solana-cutting-finality-to-150-milliseconds-421508",
+          "source": "The Block"
+        },
+        {
+          "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
+          "url": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Solana’s Alpenglow launches on mainnet, targets 99% faster finality",
+          "url": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-10-21T16:09:17.091Z",
+      "slug": "diem-tin-crypto-21102026-luc-2309-bitcoin-cham-846k-solana-nang-toc-grayscale-mo"
+    },
+    {
       "id": "1792553542773",
       "title": "Điểm tin crypto 21/10/2026 lúc 10:32: Cập nhật 10 sự kiện trọng yếu, xu hướng AI, stablecoin và quy định pháp lý",
       "summary": "Ngày 21/10/2026, thị trường crypto chứng kiến nhiều diễn biến quan trọng: hợp tác stablecoin giữa MoonPay‑Dunamu, dự báo 10% lợi nhuận Bitcoin của JPMorgan, và các biện pháp pháp lý tại Mỹ. Các tin này đồng thời phản ánh xu hướng AI ngày càng xâm nhập vào tài chính và áp lực tăng cường khung pháp lý.",
@@ -31232,16 +31313,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/esma-to-focus-eu-wide-supervision-on-ai-and-tokenization-from-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/magazine/winners-and-losers-of-the-secs-new-tokenized-stocks-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-usd16-billion-quarterly-options-settlement-arrives-with-a-call-heavy-book",
-    "https://www.coindesk.com/business/2026/09/23/moonpay-to-acquire-sec-registered-north-capital-in-usd60-million-all-stock-deal",
-    "https://cointelegraph.com/news/kalshi-says-cftc-hasnt-contacted-it-over-unusual-5b-trading-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/379128/anthropic-claude-found-something-big-dna-doesnt-know-what",
-    "https://decrypt.co/379134/an-ai-agent-just-hacked-a-government-website-for-the-first-time-australia-pm-says",
-    "https://decrypt.co/379126/openai-ukraine-access-daybreak-ai-cyber-defense-tool",
     "https://cointelegraph.com/news/sec-mark-uyeda-agency-dropped-crypto-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/379120/china-probes-deepseek-moonshot-data-leaks-anthropic-claude",
     "https://decrypt.co/379122/metas-muse-ai-agent-user-private-imessages-lied-how",
@@ -31731,10 +31802,19 @@
     "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold",
     "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance",
     "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
-    "https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/resources/what-is-a-bitcoin-backed-loan-borrowing-against-btc-explained",
+    "https://decrypt.co/381519/php-panic-critical-bugs-70-percent-internet-risk-everyone-freaking-out",
+    "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal",
+    "https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/markets/2026-10-21-grayscale-expands-in-kind-subscriptions-10-crypto-etfs-421559",
+    "https://www.coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s",
+    "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
+    "https://www.theblock.co/news/ecosystems/2026-10-21-anzas-alpenglow-goes-live-on-solana-cutting-finality-to-150-milliseconds-421508",
+    "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
+    "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
-    "https://cointelegraph.com/news/pakistan-crypto-chief-dialogue-islamic-ruling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/07/12/bitcoin-is-nearing-a-power-law-support-line-fidelity-has-tracked-since-2015|https://cointelegraph.com/news/ethereum-pos-energy-intensity-cambridge-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/407977/the-funding-why-japan-sbi-holdings-is-investing-big-in-crypto?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/407973/bitcoin-whale-moves-188-million-worth-btc?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bitcoin-etfs-draw-197m-snap-8-week-outflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/policy/2026/07/13/wall-street-transfer-agents-lobby-sec-warning-that-third-party-tokens-pose-risks-to-market-integrity|https://cointelegraph.com/news/coinbase-ventures-leading-crypto-vc-h1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/408029/tom-lee-says-users-starting-see-ethereum-money-bitmine-adds-27801-eth?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/features/thai-scammer-japan-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/clarity-act-gains-second-law-enforcement-endorsement-before-senate-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/373439/openai-new-gpt-5-6-prompt-guide-chatgpt",
@@ -31933,6 +32013,7 @@
     "https://decrypt.co/381343/jpmorgan-jpm-coin-ethereum-bank-dollars|https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures",
     "https://cointelegraph.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087|https://decrypt.co/381382/strive-buys-335-million-bitcoin",
     "https://www.theblock.co/news/markets/2026-10-20-blockchain-com-launches-options-trading-bitcoin-ether-sol-421326|https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash|https://decrypt.co/381413/french-lawmakers-back-stablecoin-swap-tax-by-just-one-vote",
-    "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476|https://cointelegraph.com/markets/musk-says-spacex-tesla-merger-a-good-idea-as-ai-revenue-jumps-ninefold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476|https://cointelegraph.com/markets/musk-says-spacex-tesla-merger-a-good-idea-as-ai-revenue-jumps-ninefold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/resources/what-is-a-bitcoin-backed-loan-borrowing-against-btc-explained|https://decrypt.co/381519/php-panic-critical-bugs-70-percent-internet-risk-everyone-freaking-out|https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal"
   ]
 }
