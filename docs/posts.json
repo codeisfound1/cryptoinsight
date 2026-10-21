@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1792553542773",
+      "title": "Điểm tin crypto 21/10/2026 lúc 10:32: Cập nhật 10 sự kiện trọng yếu, xu hướng AI, stablecoin và quy định pháp lý",
+      "summary": "Ngày 21/10/2026, thị trường crypto chứng kiến nhiều diễn biến quan trọng: hợp tác stablecoin giữa MoonPay‑Dunamu, dự báo 10% lợi nhuận Bitcoin của JPMorgan, và các biện pháp pháp lý tại Mỹ. Các tin này đồng thời phản ánh xu hướng AI ngày càng xâm nhập vào tài chính và áp lực tăng cường khung pháp lý.",
+      "content": "<p>Thị trường tiền mã hoá đang chuyển mình nhanh chóng khi các công ty công nghệ lớn, ngân hàng và cơ quan quản lý cùng nhau tạo ra những thay đổi đáng chú ý. Từ việc mở rộng thanh toán stablecoin, dự báo lợi nhuận Bitcoin, tới các vụ tấn công mạng và tranh chấp pháp lý, các sự kiện này không chỉ ảnh hưởng tới giá cả mà còn định hình tương lai của hệ sinh thái crypto, đặc biệt đối với nhà đầu tư Việt Nam.</p><h2>1. MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion</h2><p>MoonPay và Dunamu (công ty mẹ của Upbit) đang thảo luận hợp tác để đưa stablecoin vào thanh toán toàn cầu và mở rộng chuỗi GIWA – một giải pháp Layer 2 của Ethereum do Dunamu phát triển. Stablecoin giúp giảm biến động giá khi giao dịch, còn GIWA hứa hẹn tốc độ xử lý nhanh hơn và phí thấp, phù hợp cho các ứng dụng thương mại điện tử. Đối với nhà đầu tư Việt, việc tích hợp stablecoin có thể tạo điều kiện cho thanh toán quốc tế nhanh chóng, giảm chi phí chuyển tiền qua ngân hàng.</p><h2>2. JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat</h2><p>JPMorgan Asset Management trong báo cáo 2027 Long‑Term Capital Market Assumptions ước tính Bitcoin sẽ mang lại lợi nhuận trung bình 10%/năm trong 10‑15 năm tới, nhưng công ty không đưa Bitcoin vào mô hình danh mục chính. Dự báo này phản ánh sự chấp nhận dần của các tổ chức tài chính truyền thống, đồng thời cảnh báo rủi ro biến động mạnh. Nhà đầu tư Việt nên cân nhắc Bitcoin như một tài sản “cổ phiếu tăng trưởng” với tỷ lệ rủi ro‑lợi nhuận cao.</p><h2>3. Qubic restarts blockchain, opens recovery claims after $1.4M hack</h2><p>Sau vụ hack mất 1,4 triệu USD, mạng lưới Qubic đã khởi động lại blockchain và mở cửa cho người dùng nộp yêu cầu khôi phục đến ngày 1 tháng 5 2027. Việc này cho thấy tầm quan trọng của cơ chế khôi phục (recovery) trong thiết kế blockchain, giúp giảm thiệt hại cho người dùng. Đối với nhà đầu tư Việt, nên ưu tiên các dự án có cơ chế bảo vệ tài sản rõ ràng.</p><h2>4. Utah AG sues Kalshi, pursues profits from prediction market company</h2><p>Ủy viên Tư pháp Utah kiện Kalshi, một sàn thị trường dự đoán, vì cho rằng hoạt động của họ là “phiền toái công cộng” và gây hại cho cư dân. Đây là một trong những vụ việc pháp lý đầu tiên nhắm vào thị trường dự đoán, một phân khúc đang phát triển nhanh trong DeFi. Nhà đầu tư Việt cần theo dõi các quy định địa phương để tránh rủi ro pháp lý khi tham gia các nền tảng dự đoán.</p><h2>5. U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance</h2><p>CFTC Mỹ sẽ tổ chức diễn đàn AI vào ngày 28 tháng 10 để thảo luận ảnh hưởng của trí tuệ nhân tạo (AI) tới giao dịch và tài chính tự động (agentic finance). AI đang được dùng để tạo ra các bot giao dịch nhanh, nhưng cũng tiềm ẩn rủi ro thao túng thị trường. Đối với nhà đầu tư Việt, việc hiểu cơ chế hoạt động của AI trong giao dịch sẽ giúp tránh các chiến lược “bắt sóng” không bền vững.</p><h2>6. Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash</h2><p>Ví liên quan tới vụ tấn công Drift (kẻ tấn công có liên hệ với Bắc Hàn) đã chuyển 61 triệu USD ETH vào Tornado Cash, một mixer giúp ẩn danh giao dịch. Sự kiện này nhấn mạnh nguy cơ rửa tiền và việc các cơ quan giám sát sẽ tăng cường kiểm soát các dịch vụ ẩn danh. Nhà đầu tư Việt nên tránh sử dụng các dịch vụ mixer để không bị kéo vào các vụ điều tra pháp lý.</p><h2>7. OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work</h2><p>OpenAI mua lại Orchestra Bio, tích hợp các AI agent vào quy trình phát triển thuốc. Mặc dù không trực tiếp liên quan tới crypto, nhưng việc AI được áp dụng trong lĩnh vực sinh học cho thấy tiềm năng của AI trong các ngành công nghiệp phức tạp, bao gồm cả tài chính phi tập trung. Các dự án DeFi có thể học hỏi mô hình này để tự động hoá quản lý rủi ro và thanh khoản.</p><h2>8. Musk says SpaceX‑Tesla merger a ‘good idea’ as AI revenue jumps ninefold</h2><p>Elon Musk cho rằng việc sáp nhập SpaceX và Tesla là “ý tưởng tốt” khi doanh thu AI tăng gấp chín lần. Nếu thực hiện, việc tích hợp công nghệ AI và năng lượng sẽ tạo ra các nền tảng mới cho IoT và tài chính thông minh, có thể mở ra các token hoá tài sản vật lý. Nhà đầu tư Việt nên quan sát cách các công ty công nghệ lớn khai thác token hoá để tìm cơ hội đầu tư mới.</p><h2>9. People Are Vibe Coding the Ads Out of Their Smart TVs: Here's How</h2><p>Bài viết trên Decrypt giới thiệu cách người dùng Android TV có thể dùng Claude Code (một prompt AI) để tắt quảng cáo và theo dõi trên TV mà không cần root. Điều này cho thấy sức mạnh của AI trong việc cá nhân hoá trải nghiệm người dùng, đồng thời mở ra tiềm năng cho các dApp (ứng dụng phi tập trung) chạy trên thiết bị IoT. Đối với nhà đầu tư Việt, đây là dấu hiệu thị trường sẽ mở rộng sang các thiết bị thông minh, tạo cơ hội cho các token liên quan tới quảng cáo phi tập trung.</p><h2>10. Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops</h2><p>Bitwise và Hyperliquid đang đề xuất SEC Mỹ sửa đổi quy định về giao dịch token và airdrop, nhằm có được sự rõ ràng hơn về phân loại tài sản kỹ thuật số. Nếu thành công, sẽ giảm bớt rủi ro pháp lý cho các sàn giao dịch và nhà phát hành token, tạo môi trường đầu tư an toàn hơn. Nhà đầu tư Việt cần theo dõi tiến trình này vì nó sẽ ảnh hưởng tới việc niêm yết các token Việt trên sàn quốc tế.</p><h2>Nhận định thị trường</h2><p>Những tin tức trên cho thấy ba xu hướng chính: (1) AI đang thâm nhập sâu vào mọi khía cạnh của crypto – từ dự báo giá, giao dịch tự động tới phát triển sản phẩm mới; (2) Các cơ quan quản lý Mỹ tăng cường giám sát, đặc biệt với stablecoin, token trading và các dịch vụ ẩn danh; (3) Sự hợp tác giữa các công ty fintech và blockchain nhằm mở rộng thanh toán và giảm chi phí giao dịch. Đối với thị trường Việt, xu hướng này đồng nghĩa với việc tăng cơ hội tiếp cận công nghệ mới nhưng cũng đòi hỏi nhà đầu tư phải nâng cao hiểu biết về rủi ro pháp lý và kỹ thuật.</p><h2>Khuyến nghị nhà đầu tư</h2><p>1. Đa dạng hoá danh mục: kết hợp Bitcoin, Ethereum với các token DeFi có cơ chế bảo vệ tài sản rõ ràng (ví dụ: các dự án có tính năng recovery).<br/>2. Theo dõi các dự án tích hợp AI (như GIWA, Hyperliquid) vì chúng có tiềm năng tăng trưởng mạnh mẽ.<br/>3. Tránh sử dụng mixer và các dịch vụ không minh bạch để giảm rủi ro pháp lý.<br/>4. Cập nhật thường xuyên các quy định của SEC và CFTC, đặc biệt khi đầu tư vào token có tính chất airdrop hoặc dự đoán thị trường.<br/>5. Xem xét các stablecoin được hỗ trợ bởi các tập đoàn lớn (MoonPay‑Dunamu) để tối ưu hoá chi phí giao dịch quốc tế.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion — <em>The Block</em></li>\n<li>[2] Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold — <em>Cointelegraph</em></li>\n<li>[3] Qubic restarts blockchain, opens recovery claims after $1.4M hack — <em>Cointelegraph</em></li>\n<li>[4] People Are Vibe Coding the Ads Out of Their Smart TVs: Here's How — <em>Decrypt</em></li>\n<li>[5] OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work — <em>Decrypt</em></li>\n<li>[6] Utah AG sues Kalshi, pursues profits from prediction market company — <em>Cointelegraph</em></li>\n<li>[7] JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat — <em>Decrypt</em></li>\n<li>[8] U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance — <em>CoinDesk</em></li>\n<li>[9] Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash — <em>Decrypt</em></li>\n<li>[10] Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "defi",
+        "thị trường",
+        "ai",
+        "quy định"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1792553542/cryptohieuqua/posts/diem-tin-crypto-21102026-luc-1032-cap-nhat-10-su-kien-trong-yeu-xu-huong-ai-stab.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1792553542/cryptohieuqua/posts/diem-tin-crypto-21102026-luc-1032-cap-nhat-10-su-kien-trong-yeu-xu-huong-ai-stab.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-21102026-luc-1032-cap-nhat-10-su-kien-trong-yeu-xu-huong-ai-stab",
+        "width": 1600,
+        "height": 900,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 21/10/2026 lúc 10:32: Cập nhật 10 sự kiện trọng yếu, xu hướng AI, stablecoin và quy định pháp lý"
+      },
+      "sourceUrl": "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476",
+      "sourceTitle": "The Block / Cointelegraph / Decrypt / CoinDesk",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion",
+          "url": "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476",
+          "source": "The Block"
+        },
+        {
+          "title": "Musk says SpaceX-Tesla merger a ‘good idea’ as AI revenue jumps ninefold",
+          "url": "https://cointelegraph.com/markets/musk-says-spacex-tesla-merger-a-good-idea-as-ai-revenue-jumps-ninefold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",
+          "url": "https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "People Are Vibe Coding the Ads Out of Their Smart TVs: Here's How",
+          "url": "https://decrypt.co/381456/vibe-coding-ads-out-smart-tvs-heres-how",
+          "source": "Decrypt"
+        },
+        {
+          "title": "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",
+          "url": "https://decrypt.co/381467/openai-buys-orchestra-bio-ai-agents-drug-development",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Utah AG sues Kalshi, pursues profits from prediction market company",
+          "url": "https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
+          "url": "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold",
+          "source": "Decrypt"
+        },
+        {
+          "title": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
+          "url": "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
+          "url": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
+          "url": "https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-10-21T03:32:22.773Z",
+      "slug": "diem-tin-crypto-21102026-luc-1032-cap-nhat-10-su-kien-trong-yeu-xu-huong-ai-stab"
+    },
+    {
       "id": "1792511515329",
       "title": "Điểm tin crypto 20/10/2026 lúc 22:51: Tổng hợp 10 sự kiện quan trọng ảnh hưởng thị trường toàn cầu",
       "summary": "Blockchain.com ra mắt tùy chọn crypto, BlackRock bảo vệ nhà đầu tư Bitcoin, Pháp áp thuế stablecoin, và nhiều động thái pháp lý, công nghệ mới. Các tin này cho thấy xu hướng mở rộng sản phẩm phái sinh, tăng kiểm soát quy định và sức mạnh của stablecoin trong giao dịch toàn cầu.",
@@ -31151,16 +31232,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.theblock.co/news/regulation/2026-09-22-cftc-advisory-mention-markets-manipulation-risk-416120",
-    "https://www.coindesk.com/policy/2026/09/22/democrats-chose-visceral-hatred-for-donald-trump-over-crypto-clarity-act-lummis-says",
-    "https://decrypt.co/379006/161-million-decade-old-bitcoin-moves-two-weeks",
-    "https://www.theblock.co/news/regulation/2026-09-22-cftc-selig-mass-tokenization-24-7-trading-416111",
-    "https://cointelegraph.com/news/arch-lending-eyes-tokenized-stocks-as-next-crypto-collateral-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/us-senator-probe-donald-trump-hunter-biden-crypto-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/web3/2026-09-23-blockchain-com-nyse-tokenized-us-stocks-etfs-416176",
-    "https://www.coindesk.com/business/2026/09/23/inside-the-fbi-s-little-known-annual-crypto-crime-gathering",
-    "https://www.coindesk.com/coindesk-indices/2026/09/23/crypto-long-and-short-inside-the-chain-settling-usd150-billion-of-stablecoins-a-week",
-    "https://cointelegraph.com/markets/bitcoin-long-liquidations-hit-280m-as-btc-price-dips-under-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/esma-to-focus-eu-wide-supervision-on-ai-and-tokenization-from-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -31650,10 +31721,19 @@
     "https://cointelegraph.com/magazine/ai-trade-sleep-yat-siu-warns-losing-agent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/finma-approves-switzerlands-first-bitcoin-etf-retail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/news/web3/2026-10-20-stablecoins-move-400-million-per-hour-421111",
-    "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading"
+    "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading",
+    "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476",
+    "https://cointelegraph.com/markets/musk-says-spacex-tesla-merger-a-good-idea-as-ai-revenue-jumps-ninefold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/381456/vibe-coding-ads-out-smart-tvs-heres-how",
+    "https://decrypt.co/381467/openai-buys-orchestra-bio-ai-agents-drug-development",
+    "https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold",
+    "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance",
+    "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
+    "https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
-    "https://cointelegraph.com/news/empery-digital-shares-rise-after-selling-bitcoin-treasury-to-fund-ai-data-center-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/407960/hedera-lending-protocol-bonzo-lend-hit-for-9-million-after-supra-verifier-accepts-manipulated-price-update?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/web3/2026/07/11/lending-protocol-bonzo-loses-77-of-value-locked-as-usd9-million-oracle-exploit-rattles-hedera",
     "https://cointelegraph.com/news/pakistan-crypto-chief-dialogue-islamic-ruling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/07/12/bitcoin-is-nearing-a-power-law-support-line-fidelity-has-tracked-since-2015|https://cointelegraph.com/news/ethereum-pos-energy-intensity-cambridge-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/post/407977/the-funding-why-japan-sbi-holdings-is-investing-big-in-crypto?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/407973/bitcoin-whale-moves-188-million-worth-btc?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bitcoin-etfs-draw-197m-snap-8-week-outflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/policy/2026/07/13/wall-street-transfer-agents-lobby-sec-warning-that-third-party-tokens-pose-risks-to-market-integrity|https://cointelegraph.com/news/coinbase-ventures-leading-crypto-vc-h1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/408029/tom-lee-says-users-starting-see-ethereum-money-bitmine-adds-27801-eth?utm_source=rss&amp;utm_medium=rss",
@@ -31852,6 +31932,7 @@
     "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears|https://www.theblock.co/news/ecosystems/2026-10-18-world-launches-world-id-suite-banks-418869|https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/381343/jpmorgan-jpm-coin-ethereum-bank-dollars|https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures",
     "https://cointelegraph.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087|https://decrypt.co/381382/strive-buys-335-million-bitcoin",
-    "https://www.theblock.co/news/markets/2026-10-20-blockchain-com-launches-options-trading-bitcoin-ether-sol-421326|https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash|https://decrypt.co/381413/french-lawmakers-back-stablecoin-swap-tax-by-just-one-vote"
+    "https://www.theblock.co/news/markets/2026-10-20-blockchain-com-launches-options-trading-bitcoin-ether-sol-421326|https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash|https://decrypt.co/381413/french-lawmakers-back-stablecoin-swap-tax-by-just-one-vote",
+    "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476|https://cointelegraph.com/markets/musk-says-spacex-tesla-merger-a-good-idea-as-ai-revenue-jumps-ninefold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
