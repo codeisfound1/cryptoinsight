@@ -1,6 +1,86 @@
 {
   "posts": [
     {
+      "id": "1792685230966",
+      "title": "Điểm tin crypto 22/10/2026 lúc 23:07: Các quy định, AI và DeFi chi phối thị trường",
+      "summary": "Ngày 22/10/2026, thị trường crypto chịu áp lực từ các biện pháp pháp lý (phạt Coinbase Ireland), tin đồn mua bán (Fireblocks‑Visa), và xu hướng AI‑cloud. Đồng thời, Bitcoin tăng hashrate, Uniswap ra tính năng mới và stablecoin được các nhà tư vấn chú ý.",
+      "content": "<p>Ngày 22/10/2026, các tin tức crypto phản ánh một bối cảnh đa chiều: các cơ quan quản lý tăng cường giám sát, các công ty công nghệ tài chính đang tìm kiếm cơ hội hợp tác với các tập đoàn truyền thống, và các xu hướng công nghệ như AI và DeFi tiếp tục thay đổi cách nhà đầu tư tiếp cận thị trường. Đối với nhà đầu tư Việt Nam, việc nắm bắt các diễn biến này giúp điều chỉnh danh mục đầu tư, giảm rủi ro pháp lý và khai thác cơ hội sinh lời từ các sản phẩm mới.</p><h2>1. Coinbase Ireland bị phạt 3,6 triệu USD vì vi phạm quy định bảo vệ quỹ</h2><p>Ngân hàng trung ương Ireland đã phạt Coinbase Ireland 3,6 triệu USD do không tách riêng quỹ khách hàng và có những sai sót trong giám sát. Sự kiện này nhấn mạnh tầm quan trọng của việc tuân thủ quy định về bảo vệ tài sản người dùng, đặc biệt khi các sàn lớn mở rộng hoạt động tại châu Âu. Đối với nhà đầu tư Việt, nên ưu tiên các sàn có giấy phép rõ ràng và hệ thống bảo hiểm quỹ, tránh rủi ro mất vốn khi có vấn đề pháp lý.</p><h2>2. Fireblocks phủ nhận tin đồn mua lại 2,5 tỷ USD bởi Visa</h2><p>Cả Cointelegraph và CoinDesk đưa tin Visa đang đàm phán mua lại Fireblocks với giá 2,5 tỷ USD, nhưng công ty đã khẳng định thông tin chưa đúng. Sự việc cho thấy thị trường vẫn đang háo hức với các hợp tác giữa crypto custody và các tập đoàn tài chính truyền thống. Nhà đầu tư cần thận trọng khi đưa ra quyết định dựa trên tin đồn, đồng thời theo dõi các thông báo chính thức từ các bên liên quan.</p><h2>3. Bitcoin hashrate tăng – tín hiệu gián tiếp từ các tổ chức tài chính</h2><p>Theo CryptoQuant, hashrate của Bitcoin đang tăng trở lại nhờ các máy đào được tài trợ bởi các tổ chức tài chính truyền thống (TradFi). Hasrate là tổng công suất tính toán của mạng lưới Bitcoin; mức tăng thường đồng nghĩa với độ an toàn và sức mạnh khai thác cao hơn, được xem là dấu hiệu bullish. Đối với nhà đầu tư Việt, đây là thời điểm cân nhắc tăng tỷ lệ nắm giữ BTC trong danh mục dài hạn.</p><h2>4. Uniswap ra tính năng Aggregator Hooks trên Ethereum, Base và Robinhood Chain</h2><p>Uniswap Labs triển khai Aggregator Hooks, cho phép Uniswap v4 kết nối và định tuyến giao dịch qua các nguồn thanh khoản bên ngoài. Tính năng này giảm slippage và mở rộng khả năng tìm giá tốt hơn cho người dùng. Nhà đầu tư DeFi Việt nên thử nghiệm trên các mạng đã hỗ trợ (Ethereum, Base) để tối ưu chi phí giao dịch.</p><h2>5. Stablecoin chuẩn bị bước vào giai đoạn \"prime time\" cho các nhà tư vấn</h2><p>CoinDesk đưa tin rằng stablecoin đang được các nhà tư vấn tài chính chấp nhận như một công cụ quản lý rủi ro và thanh khoản. Với peg ổn định (thường là USD), stablecoin giúp giảm biến động khi chuyển đổi giữa crypto và fiat. Ở Việt Nam, việc tích hợp stablecoin vào các nền tảng ví và sàn nội địa sẽ hỗ trợ giao dịch xuyên biên giới nhanh hơn và chi phí thấp hơn.</p><h2>6. Neoclouds – mô hình GPU cloud hỗ trợ AI và khai thác crypto</h2><p>Decrypt giải thích khái niệm Neocloud, các dịch vụ cho thuê GPU như CoreWeave và Nebius, vốn từng khai thác crypto trước khi chuyển sang hỗ trợ AI. Sự giao thoa này cho thấy tài nguyên tính toán đang được tái sử dụng, tạo cơ hội cho các dự án AI‑crypto hợp tác. Nhà đầu tư có thể tìm hiểu các token liên quan tới hạ tầng GPU để tận dụng xu hướng này.</p><h2>7. Các ngân hàng lớn phát hiện AI rogue agents trong tài khoản khách hàng</h2><p>Decrypt báo cáo các ngân hàng như Morgan Stanley, JPMorgan đã phát hiện các AI agents tự động đăng nhập bằng thông tin khách hàng, gây lo ngại về bảo mật. Điều này nhắc nhở cộng đồng crypto về tầm quan trọng của bảo mật đa yếu tố (2FA) và việc không chia sẻ khóa riêng. Đối với người dùng Việt, nên sử dụng ví lạnh và bật xác thực sinh trắc học.</p><h2>8. Decrypt triển khai nền tảng giao dịch tích hợp tin tức – Jupiter‑Powered Trading</h2><p>Decrypt đang xây dựng một môi trường nơi người đọc có thể ngay lập tức thực hiện giao dịch dựa trên tin tức, nhờ công nghệ Jupiter. Đây là xu hướng “news‑trading” giúp giảm thời gian phản ứng và tận dụng lợi thế thông tin sớm. Nhà đầu tư cần cân nhắc rủi ro “over‑trading” và luôn kiểm tra nguồn tin trước khi thực hiện lệnh.</p><h2>9. Fireblocks phủ nhận lại các cuộc đàm phán mua lại bởi Visa</h2><p>Một lần nữa, Fireblocks khẳng định không có thỏa thuận mua bán với Visa, đồng thời Visa không đưa ra bình luận. Sự lặp lại của tin đồn cho thấy thị trường vẫn đang tìm kiếm các câu chuyện hợp nhất giữa crypto và tài chính truyền thống. Nhà đầu tư nên tập trung vào các dữ liệu thực tế thay vì tin tức chưa được xác thực.</p><h2>10. Coinbase Ireland bị phạt lại – nhấn mạnh vấn đề tách quỹ</h2><p>The Block tái đưa tin về khoản phạt 3,6 triệu USD cho Coinbase Ireland vì vi phạm quy định tách quỹ khách hàng. Việc này củng cố thông điệp rằng các cơ quan quản lý châu Âu sẽ không khoan nhượng với các sàn không tuân thủ. Đối với nhà đầu tư Việt, việc lựa chọn sàn giao dịch có quy trình tách quỹ rõ ràng là yếu tố quan trọng để bảo vệ tài sản.</p><h2>Nhận định thị trường</h2><p>Những tin tức trên cho thấy xu hướng ba trụ cột: (1) Áp lực pháp lý ngày càng mạnh, đặc biệt ở châu Âu; (2) Sự quan tâm của các tập đoàn tài chính truyền thống tới hạ tầng crypto (custody, thanh khoản); (3) Công nghệ AI và GPU cloud đang tạo ra các mô hình kinh doanh mới, đồng thời làm dấy lên các rủi ro bảo mật. Tổng thể, thị trường đang chuyển sang giai đoạn “hợp pháp hoá + công nghệ cao”, tạo cơ hội cho các dự án có nền tảng vững chắc và giảm không gian cho các dự án thiếu minh bạch.</p><h2>Khuyến nghị nhà đầu tư</h2><p>• Ưu tiên giao dịch trên các sàn có giấy phép EU hoặc Singapore, đảm bảo tách quỹ và bảo hiểm.<br>• Tăng tỷ lệ nắm giữ Bitcoin và các token liên quan tới hạ tầng (GPU, custody) để hưởng lợi từ xu hướng AI‑crypto.<br>• Xem xét bổ sung stablecoin (USDT, USDC) vào danh mục để giảm rủi ro khi chuyển đổi giữa fiat và crypto.<br>• Theo dõi chặt chẽ các thông báo chính thức của Visa, Fireblocks và các dự án DeFi lớn để tránh bị ảnh hưởng bởi tin đồn.<br>• Đầu tư vào các giải pháp bảo mật (ví lạnh, 2FA) và tránh sử dụng cùng một mật khẩu cho nhiều nền tảng.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] What Is a Neocloud? The GPU Clouds Powering the AI Boom — <em>Decrypt</em></li>\n<li>[2] Irish central bank fines Coinbase Ireland $3.6 million over fund safeguarding failures — <em>CoinDesk</em></li>\n<li>[3] Major Banks Find Rogue AI Agents Inside Customer Accounts—And They’re 'Horrified' — <em>Decrypt</em></li>\n<li>[4] Crypto for Advisors: Stablecoins are ready for prime time — <em>CoinDesk</em></li>\n<li>[5] Fireblocks disputes report of $2.5B Visa acquisition talks — <em>Cointelegraph</em></li>\n<li>[6] Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa — <em>CoinDesk</em></li>\n<li>[7] Trade Where You Read: Decrypt Brings Jupiter-Powered Trading to The Information Exchange — <em>Decrypt</em></li>\n<li>[8] Coinbase Ireland fined $3.6 million over customer fund segregation, oversight failures — <em>The Block</em></li>\n<li>[9] Uniswap’s aggregator hooks go live on Ethereum, Base and Robinhood Chain — <em>The Block</em></li>\n<li>[10] CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "defi",
+        "stablecoin",
+        "regulation"
+      ],
+      "readTime": 9,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1792685230/cryptohieuqua/posts/diem-tin-crypto-22102026-luc-2307-cac-quy-dinh-ai-va-defi-chi-phoi-thi-truong.png",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1792685230/cryptohieuqua/posts/diem-tin-crypto-22102026-luc-2307-cac-quy-dinh-ai-va-defi-chi-phoi-thi-truong.png",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-22102026-luc-2307-cac-quy-dinh-ai-va-defi-chi-phoi-thi-truong",
+        "width": 1600,
+        "height": 900,
+        "format": "png",
+        "alt": "Điểm tin crypto 22/10/2026 lúc 23:07: Các quy định, AI và DeFi chi phối thị trường"
+      },
+      "sourceUrl": "https://decrypt.co/resources/what-is-a-neocloud-the-gpu-clouds-powering-the-ai-boom",
+      "sourceTitle": "Decrypt / CoinDesk / Cointelegraph / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "What Is a Neocloud? The GPU Clouds Powering the AI Boom",
+          "url": "https://decrypt.co/resources/what-is-a-neocloud-the-gpu-clouds-powering-the-ai-boom",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Irish central bank fines Coinbase Ireland $3.6 million over fund safeguarding failures",
+          "url": "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Major Banks Find Rogue AI Agents Inside Customer Accounts—And They’re 'Horrified'",
+          "url": "https://decrypt.co/381602/banks-rogue-ai-agents-inside-customer-accounts",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Crypto for Advisors: Stablecoins are ready for prime time",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Fireblocks disputes report of $2.5B Visa acquisition talks",
+          "url": "https://cointelegraph.com/news/fireblocks-disputes-report-of-25b-visa-acquisition-talks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa",
+          "url": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Trade Where You Read: Decrypt Brings Jupiter-Powered Trading to The Information Exchange",
+          "url": "https://decrypt.co/381593/trade-where-you-read-decrypt-brings-jupiter-powered-trading-to-the-information-exchange",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Coinbase Ireland fined $3.6 million over customer fund segregation, oversight failures",
+          "url": "https://www.theblock.co/news/regulation/2026-10-22-coinbase-ireland-fined-3-6-million-over-customer-fund-segregation-oversight-failures-421943",
+          "source": "The Block"
+        },
+        {
+          "title": "Uniswap’s aggregator hooks go live on Ethereum, Base and Robinhood Chain",
+          "url": "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
+          "source": "The Block"
+        },
+        {
+          "title": "CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions",
+          "url": "https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-10-22T16:07:10.966Z",
+      "slug": "diem-tin-crypto-22102026-luc-2307-cac-quy-dinh-ai-va-defi-chi-phoi-thi-truong"
+    },
+    {
       "id": "1792639928158",
       "title": "Điểm tin crypto 22/10/2026 lúc 10:32: Tổng hợp 10 sự kiện quan trọng nhất",
       "summary": "Ngày 22/10/2026, thị trường crypto chứng kiến nhiều diễn biến đáng chú ý: lỗi PHP gây gián đoạn dịch vụ công, hợp nhất Aerodrome‑Velodrome ra mắt Aero trên bảy chuỗi, và quy tắc stablecoin của OCC gây tranh cãi. Các tin này đồng thời phản ánh xu hướng an ninh, DeFi đa chuỗi và áp lực quy định trong năm 2026.",
@@ -31394,16 +31474,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/coindesk-indices/2026/09/24/crypto-for-advisors-the-hidden-costs-of-holding-your-own-bitcoin",
-    "https://www.coindesk.com/business/2026/09/24/european-stablecoin-issuer-qivalis-sees-transformation-of-global-trade-finance",
-    "https://www.theblock.co/news/markets/2026-09-24-ondo-launches-onchain-portfolio-tokens-based-blackrock-developed-strategies-416260",
-    "https://cointelegraph.com/news/ibm-banks-swift-ledger-tokenized-deposit-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/block-brings-bitcoin-lightning-payments-to-x402-for-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/bitget-ceo-suspects-north-korea-behind-352m-hack-citing-ip-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/policy/2026/09/24/new-york-sues-polymarket-alleging-it-is-running-an-illegal-gambling-operation",
-    "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins",
-    "https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/09/24/crypto-exchange-bitget-loses-usd352-million-in-hack-claims-user-funds-are-safe",
     "https://decrypt.co/379274/federal-reserve-unveils-stablecoin-rules-on-reserves-and-capital",
     "https://cointelegraph.com/news/bitget-calls-security-withdrawal-claims-unverified-amid-178m-breach-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -31893,10 +31963,19 @@
     "https://decrypt.co/381570/nvidia-ai-agent-containment-tools-full-stack-blueprint",
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/news/business/2026-10-21-robinhood-single-stock-perpetual-futures-mizuho-survey-421639",
-    "https://decrypt.co/381567/who-found-php-bug-governments-unplug-websites-chatgpt"
+    "https://decrypt.co/381567/who-found-php-bug-governments-unplug-websites-chatgpt",
+    "https://decrypt.co/resources/what-is-a-neocloud-the-gpu-clouds-powering-the-ai-boom",
+    "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures",
+    "https://decrypt.co/381602/banks-rogue-ai-agents-inside-customer-accounts",
+    "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time",
+    "https://cointelegraph.com/news/fireblocks-disputes-report-of-25b-visa-acquisition-talks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
+    "https://decrypt.co/381593/trade-where-you-read-decrypt-brings-jupiter-powered-trading-to-the-information-exchange",
+    "https://www.theblock.co/news/regulation/2026-10-22-coinbase-ireland-fined-3-6-million-over-customer-fund-segregation-oversight-failures-421943",
+    "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
+    "https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
-    "https://www.coindesk.com/policy/2026/07/13/wall-street-transfer-agents-lobby-sec-warning-that-third-party-tokens-pose-risks-to-market-integrity|https://cointelegraph.com/news/coinbase-ventures-leading-crypto-vc-h1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/408029/tom-lee-says-users-starting-see-ethereum-money-bitmine-adds-27801-eth?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/features/thai-scammer-japan-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/clarity-act-gains-second-law-enforcement-endorsement-before-senate-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/373439/openai-new-gpt-5-6-prompt-guide-chatgpt",
     "https://www.coindesk.com/business/2026/07/14/hut-8-price-target-hiked-to-usd165-at-benchmark-as-ai-pivot-reshapes-valuation|https://www.coindesk.com/markets/2026/07/14/u-s-june-cpi-fell-0-4-likely-cooling-move-toward-fed-rate-hikes|https://www.theblock.co/post/408215/cleanspark-signs-20-year-data-center-lease-with-unnamed-tech-giant?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/learn/408181/how-asset-managers-are-investing-in-crypto?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/learn/408147/bitcoin-vs-gold-as-a-reserve-asset?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/408336/ark-invest-adds-14-million-in-circle?utm_source=rss&amp;utm_medium=rss",
@@ -32095,6 +32174,7 @@
     "https://www.theblock.co/news/markets/2026-10-20-blockchain-com-launches-options-trading-bitcoin-ether-sol-421326|https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash|https://decrypt.co/381413/french-lawmakers-back-stablecoin-swap-tax-by-just-one-vote",
     "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476|https://cointelegraph.com/markets/musk-says-spacex-tesla-merger-a-good-idea-as-ai-revenue-jumps-ninefold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/resources/what-is-a-bitcoin-backed-loan-borrowing-against-btc-explained|https://decrypt.co/381519/php-panic-critical-bugs-70-percent-internet-risk-everyone-freaking-out|https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal",
-    "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514|https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514|https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/resources/what-is-a-neocloud-the-gpu-clouds-powering-the-ai-boom|https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures|https://decrypt.co/381602/banks-rogue-ai-agents-inside-customer-accounts"
   ]
 }
