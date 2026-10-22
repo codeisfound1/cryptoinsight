@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1792639928158",
+      "title": "Điểm tin crypto 22/10/2026 lúc 10:32: Tổng hợp 10 sự kiện quan trọng nhất",
+      "summary": "Ngày 22/10/2026, thị trường crypto chứng kiến nhiều diễn biến đáng chú ý: lỗi PHP gây gián đoạn dịch vụ công, hợp nhất Aerodrome‑Velodrome ra mắt Aero trên bảy chuỗi, và quy tắc stablecoin của OCC gây tranh cãi. Các tin này đồng thời phản ánh xu hướng an ninh, DeFi đa chuỗi và áp lực quy định trong năm 2026.",
+      "content": "<p>Thị trường tiền mã hoá ngày 22/10/2026 tiếp tục biến động mạnh khi nhiều tin tức quan trọng đồng thời xuất hiện, từ vấn đề an ninh mạng đến những bước tiến lớn trong DeFi và AI. Đối với nhà đầu tư Việt Nam, việc nắm bắt các xu hướng này giúp đưa ra quyết định cân bằng rủi ro và cơ hội.</p><h2>1. PHP Foundation thừa nhận “lỗi cấu trúc” gây trễ bản vá bảo mật quan trọng</h2><p>Vụ lỗi PHP2Shell đã làm gián đoạn các website và dịch vụ công của nhiều quốc gia. PHP Foundation công khai rằng lỗi này là do “structural failure” khiến việc phát hành bản vá bị kéo dài. Đối với các dự án blockchain chạy trên máy chủ PHP, rủi ro bị tấn công tăng cao, đặc biệt là các nền tảng giao dịch phi tập trung (DeFi) có backend dựa vào PHP. Nhà đầu tư nên kiểm tra lại nhà cung cấp dịch vụ và ưu tiên các nền tảng có audit bảo mật độc lập.</p><h2>2. Aerodrome và Velodrome hợp nhất, ra mắt Aero trên bảy mạng blockchain</h2><p>Hai dự án DeFi lớn nhất trên Optimism, Aerodrome và Velodrome, đã hợp nhất để tạo ra token Aero, đồng thời triển khai trên Ethereum, Base, Robinhood Chain, Ink, OP Mainnet, Arc và Arbitrum. Việc mở rộng đa chuỗi giúp tăng tính thanh khoản và giảm phụ thuộc vào một mạng duy nhất. Đối với nhà đầu tư Việt Nam, đây là cơ hội tham gia vào các pool thanh khoản trên các mạng có phí giao dịch thấp như Arbitrum, đồng thời tận dụng lợi thế của token Aero trong việc nhận phần thưởng staking.</p><h2>3. OCC đưa ra quy tắc GENIUS cho stablecoin, American Bankers Association phản đối</h2><p>Ủy ban Giám sát Tiền tệ (OCC) của Mỹ công bố quy tắc GENIUS, quy định mới về việc phát hành stablecoin và yêu cầu các ngân hàng phải giữ tỷ lệ dự trữ cao hơn. Hiệp hội Ngân hàng Mỹ (ABA) cho rằng quy tắc này “undermine” quyền lực của Quốc hội và gây áp lực lên các dự án stablecoin. Ở Việt Nam, các dự án USDT và các stablecoin khác sẽ phải theo dõi chặt chẽ các thay đổi này vì chúng ảnh hưởng đến khả năng chuyển tiền quốc tế và hợp tác với ngân hàng.</p><h2>4. Tether hỗ trợ fintech Bolivia triển khai thanh toán USDT</h2><p>Tether đã đầu tư vào một fintech Bolivia, giúp đưa USDT vào các dịch vụ giao hàng thực phẩm và ngân hàng địa phương. Dự án này mở rộng sang bốn thị trường châu Mỹ Latinh, tạo ra mạng lưới thanh toán ổn định dựa trên stablecoin. Đối với nhà đầu tư Việt Nam, đây là dấu hiệu cho thấy USDT tiếp tục chiếm ưu thế trong các giao dịch xuyên biên giới, đặc biệt là trong lĩnh vực thương mại điện tử và remittance.</p><h2>5. Nvidia công bố kiến trúc toàn stack để kiểm soát AI agents</h2><p>Nvidia ra mắt OpenShell Reference Architecture, kết hợp sandbox phần mềm trên CPU Vera và công cụ giám sát Sentry trên chip BlueField‑4. Kiến trúc này cho phép doanh nghiệp chạy các AI agents một cách an toàn, ngăn chặn hành vi vượt giới hạn. Khi AI ngày càng được tích hợp vào các nền tảng tài chính, việc bảo vệ dữ liệu và ngăn chặn lạm dụng sẽ trở thành tiêu chí quan trọng cho các dự án crypto.</p><h2>6. Ken Griffin cảnh báo “bong bóng AI” và so sánh GPU với ghế máy bay</h2><p>Nhà sáng lập Citadel, Ken Griffin, cho rằng thị trường AI đang ở trong một bong bóng, với việc sản xuất GPU dư thừa có thể làm giá giảm mạnh như ghế máy bay trống. Tuy nhiên, Griffin tin rằng các công ty sinh tồn sẽ dẫn dắt ngành trong thập kỷ tới. Đối với crypto, việc giảm giá GPU có thể hạ chi phí khai thác, nhưng đồng thời cũng làm giảm nhu cầu mua card cho các dự án AI‑driven.</p><h2>7. Robinhood triển khai hợp đồng tương lai cổ phiếu đơn, tiềm năng cho cổ phiếu HOOD</h2><p>Theo khảo sát của Mizuho, 94% người dùng Robinhood muốn giao dịch hợp đồng tương lai cổ phiếu đơn, và phần lớn sẽ dùng tiền mới. Điều này có thể tạo ra dòng tiền tích cực cho cổ phiếu HOOD, đồng thời mở rộng khả năng tiếp cận các sản phẩm phái sinh cho người dùng Việt Nam thông qua nền tảng Robinhood.</p><h2>8. Tổng hợp tin tức crypto hôm nay (Cointelegraph)</h2><p>Cointelegraph cung cấp bản tin tổng hợp các xu hướng ngày hôm nay, bao gồm biến động giá Bitcoin, cập nhật DeFi, Web3 và quy định. Đọc bản tin này giúp nhà đầu tư nhanh chóng nắm bắt các diễn biến ngắn hạn và đưa ra quyết định giao dịch kịp thời.</p><h2>9. Trump không đề cập “crypto” trong vòng tròn an ninh mạng tại Nhà Trắng</h2><p>Trong buổi họp an ninh mạng, Tổng thống Trump chỉ nhắc tới “cybercurrency” mà không đề cập đến crypto. Điều này cho thấy chính sách Mỹ vẫn chưa có định hướng rõ ràng về tiền mã hoá, tạo ra sự không chắc chắn cho các dự án muốn mở rộng vào thị trường Mỹ.</p><h2>10. ChatGPT phát hiện lỗi PHP khiến chính phủ ngắt website</h2><p>OpenAI cho biết mô hình ChatGPT đã phát hiện ra lỗ hổng PHP2Shell, dẫn đến việc các chính phủ phải tạm thời ngắt website. Sự kiện này chứng minh tiềm năng của AI trong việc phát hiện và khắc phục lỗi bảo mật, đồng thời nhấn mạnh tầm quan trọng của việc áp dụng AI vào kiểm tra an ninh cho các dự án blockchain.</p><h2>Nhận định thị trường</h2><p>Những tin tức trên cho thấy xu hướng an ninh mạng ngày càng trở nên quyết định, khi các lỗi phần mềm có thể ảnh hưởng tới toàn bộ hệ sinh thái crypto. Đồng thời, DeFi đang chuyển sang mô hình đa chuỗi để giảm rủi ro và tối ưu phí giao dịch. Các quy định stablecoin của Mỹ và sự quan tâm của các ngân hàng lớn sẽ tạo áp lực lên các dự án stablecoin, nhưng cũng mở ra cơ hội hợp tác với các tổ chức tài chính truyền thống. AI và GPU đang đứng trước ngưỡng bong bóng, nhưng nếu giá GPU giảm sẽ làm giảm chi phí khai thác và phát triển AI‑driven blockchain.</p><h2>Khuyến nghị nhà đầu tư</h2><p>1. Đa dạng hoá danh mục: kết hợp Bitcoin, Ethereum với các token DeFi đa chuỗi như Aero và các stablecoin uy tín (USDT, USDC).<br/>2. Theo dõi chặt chẽ các bản vá bảo mật, đặc biệt là các dự án dùng PHP hoặc các nền tảng web truyền thống.<br/>3. Xem xét đầu tư vào các dự án AI‑blockchain có kiến trúc bảo mật mạnh, như các giải pháp của Nvidia.<br/>4. Cân nhắc tăng tỷ lệ tài sản vào stablecoin có nền tảng tài chính vững chắc, tránh các dự án chưa được quy định rõ.<br/>5. Đối với nhà đầu tư Việt Nam, ưu tiên các sàn giao dịch có hỗ trợ VND và có quan hệ hợp tác với ngân hàng nội địa để giảm rủi ro chuyển đổi tiền tệ.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] PHP Foundation admits ‘structural failure’ delayed critical security fix — <em>Cointelegraph</em></li>\n<li>[2] Aerodrome and Velodrome merge to launch Aero across seven blockchain networks — <em>The Block</em></li>\n<li>[3] American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress — <em>Cointelegraph</em></li>\n<li>[4] Ken Griffin Says AI Is 'Almost Certainly' in a Bubble—And Compares GPUs to Airline Seats — <em>Decrypt</em></li>\n<li>[5] Tether backs Bolivian fintech bringing USDT payments to food delivery and banking — <em>Cointelegraph</em></li>\n<li>[6] Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable — <em>Cointelegraph</em></li>\n<li>[7] Nvidia Unveils Its Full-Stack Blueprint to Contain and Monitor AI Agents — <em>Decrypt</em></li>\n<li>[8] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[9] Robinhood single-stock perps could be a ‘strong positive’ for HOOD shares, Mizuho says — <em>The Block</em></li>\n<li>[10] Who Found the PHP Bug That Made Governments Unplug Their Websites? ChatGPT, Of Course — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "defi",
+        "stablecoin",
+        "AI",
+        "thị trường"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1792639927/cryptohieuqua/posts/diem-tin-crypto-22102026-luc-1032-tong-hop-10-su-kien-quan-trong-nhat.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1792639927/cryptohieuqua/posts/diem-tin-crypto-22102026-luc-1032-tong-hop-10-su-kien-quan-trong-nhat.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-22102026-luc-1032-tong-hop-10-su-kien-quan-trong-nhat",
+        "width": 1450,
+        "height": 966,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 22/10/2026 lúc 10:32: Tổng hợp 10 sự kiện quan trọng nhất"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / The Block / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "PHP Foundation admits ‘structural failure’ delayed critical security fix",
+          "url": "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Aerodrome and Velodrome merge to launch Aero across seven blockchain networks",
+          "url": "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514",
+          "source": "The Block"
+        },
+        {
+          "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress",
+          "url": "https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Ken Griffin Says AI Is 'Almost Certainly' in a Bubble—And Compares GPUs to Airline Seats",
+          "url": "https://decrypt.co/381578/ken-griffin-ai-bubble-gpus-airline-seats",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Tether backs Bolivian fintech bringing USDT payments to food delivery and banking",
+          "url": "https://cointelegraph.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable",
+          "url": "https://cointelegraph.com/news/white-house-cybercrime-roundtable-donald-trump-crypto-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Nvidia Unveils Its Full-Stack Blueprint to Contain and Monitor AI Agents",
+          "url": "https://decrypt.co/381570/nvidia-ai-agent-containment-tools-full-stack-blueprint",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Robinhood single-stock perps could be a ‘strong positive’ for HOOD shares, Mizuho says",
+          "url": "https://www.theblock.co/news/business/2026-10-21-robinhood-single-stock-perpetual-futures-mizuho-survey-421639",
+          "source": "The Block"
+        },
+        {
+          "title": "Who Found the PHP Bug That Made Governments Unplug Their Websites? ChatGPT, Of Course",
+          "url": "https://decrypt.co/381567/who-found-php-bug-governments-unplug-websites-chatgpt",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-10-22T03:32:08.158Z",
+      "slug": "diem-tin-crypto-22102026-luc-1032-tong-hop-10-su-kien-quan-trong-nhat"
+    },
+    {
       "id": "1792598957091",
       "title": "Điểm tin crypto 21/10/2026 lúc 23:09: Bitcoin chạm $84.6K, Solana nâng tốc, Grayscale mở rộng ETF",
       "summary": "Bitcoin gần chạm $85.000 nhờ lợi nhuận SpaceX, Solana ra mắt Alpenglow giảm thời gian xác nhận 99%, và Grayscale mở rộng đăng ký in‑kind cho 10 quỹ ETF. Các tin này phản ánh xu hướng tăng giá BTC, cải tiến hạ tầng blockchain và hội nhập tài chính truyền thống với crypto.",
@@ -31313,16 +31394,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/sec-mark-uyeda-agency-dropped-crypto-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/379120/china-probes-deepseek-moonshot-data-leaks-anthropic-claude",
-    "https://decrypt.co/379122/metas-muse-ai-agent-user-private-imessages-lied-how",
-    "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/us-lawmakers-gaming-states-supreme-court-kalshi-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack",
-    "https://cointelegraph.com/news/new-york-polymarket-illegal-gambling-operation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/markets/2026/09/24/bitcoin-s-bear-markets-are-getting-milder-the-bull-markets-may-be-next",
-    "https://decrypt.co/379186/10k-reward-offered-after-uk-couple-attacked-in-crypto-home-invasion",
-    "https://www.coindesk.com/business/2026/09/24/uk-s-largest-banks-complete-world-s-first-interbank-transactions-using-tokenized-deposits",
     "https://www.coindesk.com/coindesk-indices/2026/09/24/crypto-for-advisors-the-hidden-costs-of-holding-your-own-bitcoin",
     "https://www.coindesk.com/business/2026/09/24/european-stablecoin-issuer-qivalis-sees-transformation-of-global-trade-finance",
     "https://www.theblock.co/news/markets/2026-09-24-ondo-launches-onchain-portfolio-tokens-based-blackrock-developed-strategies-416260",
@@ -31812,10 +31883,19 @@
     "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
     "https://www.theblock.co/news/ecosystems/2026-10-21-anzas-alpenglow-goes-live-on-solana-cutting-finality-to-150-milliseconds-421508",
     "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
-    "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514",
+    "https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/381578/ken-griffin-ai-bubble-gpus-airline-seats",
+    "https://cointelegraph.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/white-house-cybercrime-roundtable-donald-trump-crypto-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/381570/nvidia-ai-agent-containment-tools-full-stack-blueprint",
+    "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/business/2026-10-21-robinhood-single-stock-perpetual-futures-mizuho-survey-421639",
+    "https://decrypt.co/381567/who-found-php-bug-governments-unplug-websites-chatgpt"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/407977/the-funding-why-japan-sbi-holdings-is-investing-big-in-crypto?utm_source=rss&amp;utm_medium=rss|https://www.theblock.co/post/407973/bitcoin-whale-moves-188-million-worth-btc?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/bitcoin-etfs-draw-197m-snap-8-week-outflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/policy/2026/07/13/wall-street-transfer-agents-lobby-sec-warning-that-third-party-tokens-pose-risks-to-market-integrity|https://cointelegraph.com/news/coinbase-ventures-leading-crypto-vc-h1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/408029/tom-lee-says-users-starting-see-ethereum-money-bitmine-adds-27801-eth?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/features/thai-scammer-japan-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/clarity-act-gains-second-law-enforcement-endorsement-before-senate-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/373439/openai-new-gpt-5-6-prompt-guide-chatgpt",
     "https://www.coindesk.com/business/2026/07/14/hut-8-price-target-hiked-to-usd165-at-benchmark-as-ai-pivot-reshapes-valuation|https://www.coindesk.com/markets/2026/07/14/u-s-june-cpi-fell-0-4-likely-cooling-move-toward-fed-rate-hikes|https://www.theblock.co/post/408215/cleanspark-signs-20-year-data-center-lease-with-unnamed-tech-giant?utm_source=rss&amp;utm_medium=rss",
@@ -32014,6 +32094,7 @@
     "https://cointelegraph.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087|https://decrypt.co/381382/strive-buys-335-million-bitcoin",
     "https://www.theblock.co/news/markets/2026-10-20-blockchain-com-launches-options-trading-bitcoin-ether-sol-421326|https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash|https://decrypt.co/381413/french-lawmakers-back-stablecoin-swap-tax-by-just-one-vote",
     "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476|https://cointelegraph.com/markets/musk-says-spacex-tesla-merger-a-good-idea-as-ai-revenue-jumps-ninefold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/resources/what-is-a-bitcoin-backed-loan-borrowing-against-btc-explained|https://decrypt.co/381519/php-panic-critical-bugs-70-percent-internet-risk-everyone-freaking-out|https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal"
+    "https://decrypt.co/resources/what-is-a-bitcoin-backed-loan-borrowing-against-btc-explained|https://decrypt.co/381519/php-panic-critical-bugs-70-percent-internet-risk-everyone-freaking-out|https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal",
+    "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514|https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
