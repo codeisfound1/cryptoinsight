@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://cryptohieu.com/</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://cryptohieu.com/#diem-tin-crypto-25102026-luc-1027-bitcoin-rot-duoi-80000-luat-libra-va-ai-moi</loc>
+    <lastmod>2026-10-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1792898862/cryptohieuqua/posts/diem-tin-crypto-25102026-luc-1027-bitcoin-rot-duoi-80000-luat-libra-va-ai-moi.jpg</image:loc>
+      <image:title>Điểm tin crypto 25/10/2026 lúc 10:27: Bitcoin rớt dưới $80.000, luật Libra và AI mới</image:title>
+      <image:caption>Điểm tin crypto 25/10/2026 lúc 10:27: Bitcoin rớt dưới $80.000, luật Libra và AI mới</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://cryptohieu.com/#diem-tin-crypto-24102026-luc-2155-cac-quy-dinh-moi-token-hoa-co-phieu-va-xu-huon</loc>
