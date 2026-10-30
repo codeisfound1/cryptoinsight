@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1793335125503",
+      "title": "Điểm tin crypto 30/10/2026 lúc 11:38: Hack Binance gây chấn động thị trường toàn cầu",
+      "summary": "Ngày 30/10/2026, vụ hack quy mô 6,3 tỷ USD tại Binance đã làm giá Bitcoin và Ether giảm mạnh, kéo theo dòng rút vốn của các nhà đầu tư tổ chức, tăng áp lực lên các sàn giao dịch phi tập trung và làm dấy lên lo ngại về an ninh mạng trong ngành.",
+      "content": "<p>Ngày 30/10/2026, cộng đồng tiền mã hoá toàn cầu đang phải đối mặt với một cú sốc chưa từng có: vụ tấn công mạng vào Binance, sàn giao dịch lớn nhất thế giới, gây thiệt hại ước tính 6,3 tỷ USD. Sự kiện này không chỉ làm giá Bitcoin (BTC) và Ethereum (ETH) sụt giảm, mà còn tạo ra một chuỗi phản ứng lan tỏa tới các nhà đầu tư tổ chức, các sàn DEX, và thậm chí các quy định tại châu Á. Bài phân tích dưới đây tổng hợp 10 tin tức liên quan, giải thích các thuật ngữ kỹ thuật, và đưa ra nhận định cùng khuyến nghị cho nhà đầu tư Việt Nam.</p>\n<h2>1. $6 tỷ Binance hack khiến Bitcoin và Ether sụt giảm; Standard Chartered dự báo áp lực giá kéo dài</h2>\n<p>CoinDesk báo cáo rằng sau vụ tấn công, giá BTC rớt dưới 77.000 USD và ETH cũng giảm mạnh. Ngân hàng Standard Chartered cảnh báo thị trường có thể tiếp tục chịu áp lực trước khi tìm được mức giá ổn định. Đây là dấu hiệu cho thấy niềm tin vào các sàn tập trung đang bị suy giảm nghiêm trọng.</p>\n<h2>2. Nhóm Lazarus của Bắc Hàn được cho là thủ phạm</h2>\n<p>Theo các nhà nghiên cứu blockchain, nhóm Lazarus – đơn vị tội phạm mạng quốc gia của Triều Tiên – có khả năng đứng sau vụ hack. Việc này làm tăng rủi ro địa chính trị, vì các quốc gia có thể bị ép buộc chịu trách nhiệm pháp lý khi tài sản bị rửa tiền qua các nền tảng phi tập trung.</p>\n<h2>3. Dữ liệu dự trữ của Binance cho thấy ví khách hàng bị rút tiền</h2>\n<p>CoinDesk công bố rằng các ví dùng để dự trữ tài sản khách hàng đã bị rút tiền, khiến quỹ dự trữ Ether của Binance thiếu khoảng 6 % so với mức cần thiết. Điều này đặt câu hỏi về khả năng Binance sẽ bù đắp toàn bộ khoản lỗ cho người dùng.</p>\n<h2>4. Các nhà đầu tư tổ chức rút tiền khỏi sàn giao dịch</h2>\n<p>Sau vụ hack, nhiều quỹ đầu tư và tổ chức tài chính đã nhanh chóng rút vốn khỏi Binance và các sàn tập trung khác. Hành động này phản ánh lo ngại về an ninh và có thể gây giảm thanh khoản, làm giá các đồng tiền lớn hơn dao động mạnh.</p>\n<h2>5. Hack có thể thúc đẩy chuyển dịch sang DEX</h2>\n<p>Standard Chartered cho rằng vụ việc sẽ tăng tốc xu hướng chuyển sang các sàn giao dịch phi tập trung (DEX) như Uniswap. Đặc biệt, họ dự đoán token UNI có thể đạt 100 USD vào năm 2030 nếu xu hướng này tiếp tục.</p>\n<h2>6. Nguyên nhân: Laptop của kỹ sư bị hack</h2>\n<p>Cointelegraph đưa tin Binance xác định rằng kẻ tấn công có thể đã dùng laptop của một kỹ sư DevOps bị xâm nhập để chiếm quyền truy cập vào hệ thống nội bộ, thay vì đánh cắp khóa riêng (private key) trực tiếp. Đây là một ví dụ điển hình của \"phishing\" nội bộ – tấn công vào người dùng nội bộ để lấy thông tin nhạy cảm.</p>\n<h2>7. Thị trường phản ứng: BNB giảm 8%, Bitcoin gần 77K</h2>\n<p>Cointelegraph ghi nhận BNB (token của Binance) sụt 8 % và BTC giảm dưới 77.000 USD. Sự sụt giảm đồng loạt này cho thấy mức độ liên kết chặt chẽ giữa token nội bộ sàn và các đồng tiền lớn.</p>\n<h2>8. Binance hứa bù đắp toàn bộ thiệt hại cho người dùng</h2>\n<p>The Block đưa tin CEO đồng sáng lập Binance, Yi He, cam kết công ty sẽ chịu trách nhiệm bù đắp toàn bộ số tiền người dùng mất. Tuy nhiên, việc thực hiện cam kết này còn phụ thuộc vào khả năng tài chính và quy trình pháp lý của sàn.</p>\n<h2>9. Hacker tìm kênh rút tiền qua DeFi</h2>\n<p>Decrypt phát hiện các ví liên quan tới vụ hack đang chuyển stablecoin đã khóa sang Ethereum trên các sàn DEX. Đây là chiến lược “exit ramp” – tìm cách rút lợi nhuận ra khỏi hệ sinh thái tập trung sang phi tập trung để tránh bị theo dõi.</p>\n<h2>10. Sự cố Ledger bị giả mạo tại Singapore và ảnh hưởng tới quy định thuế Hàn Quốc</h2>\n<p>Cointelegraph đưa tin rằng một tháng trước vụ hack, Ledger bị giả mạo đã xuất hiện tại Singapore, đồng thời các nhà lập pháp Hàn Quốc dự kiến hoãn luật thuế crypto lần thứ tư. Điều này cho thấy sự lan tỏa của rủi ro an ninh tới các khía cạnh pháp lý và thiết bị lưu trữ lạnh.</p>\n<h2>Nhận định thị trường chung</h2>\n<p>Vụ hack Binance đã làm bật lên ba xu hướng chính: (1) Sự mất niềm tin vào sàn tập trung, (2) Tăng tốc chuyển dịch sang DEX và các giải pháp phi tập trung, (3) Áp lực pháp lý và an ninh tăng cao trên toàn cầu. Đối với thị trường Việt Nam, nơi mà phần lớn nhà đầu tư vẫn giao dịch qua các sàn tập trung, rủi ro này có thể dẫn đến dòng rút vốn và giảm thanh khoản trong ngắn hạn.</p>\n<h2>Khuyến nghị nhà đầu tư</h2>\n<p>- Đa dạng hoá danh mục: Không nên để toàn bộ tài sản trên một sàn hay một đồng tiền. Hãy cân nhắc chuyển một phần sang DEX hoặc lưu trữ lạnh (hardware wallet) như Ledger hoặc Trezor.</p>\n<p>- Theo dõi tin tức an ninh: Các báo cáo về hack, phishing, và lỗ hổng bảo mật cần được cập nhật hàng ngày để kịp thời điều chỉnh chiến lược.</p>\n<p>- Cân nhắc giảm vị thế BTC/ETH trong ngắn hạn: Giá đang chịu áp lực giảm và có thể tiếp tục dao động mạnh.</p>\n<p>- Đánh giá lại rủi ro pháp lý: Các quy định thuế và luật phòng chống rửa tiền đang được các quốc gia châu Á siết chặt, nhà đầu tư Việt nên chuẩn bị hồ sơ giao dịch đầy đủ.</p>\n<p>- Sử dụng các công cụ quản lý rủi ro: Đặt stop‑loss, sử dụng hợp đồng tương lai để bảo vệ danh mục trước biến động.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] $6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain — <em>CoinDesk</em></li>\n<li>[2] Institutional crypto investors rush to pull funds from exchanges after Binance hack — <em>CoinDesk</em></li>\n<li>[3] Binance hack could accelerate shift to DEXs: Standard Chartered — <em>Cointelegraph</em></li>\n<li>[4] Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths — <em>CoinDesk</em></li>\n<li>[5] Bitcoin slides below $77,000, BNB drops amid Binance hack — <em>The Block</em></li>\n<li>[6] Binance hack drained wallets backing customer assets, reserve data shows — <em>CoinDesk</em></li>\n<li>[7] Binance points to engineer’s hacked laptop in $6.3B breach — <em>Cointelegraph</em></li>\n<li>[8] Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K — <em>Cointelegraph</em></li>\n<li>[9] Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets — <em>Decrypt</em></li>\n<li>[10] Tampered Ledger reported in Singapore a month before news broke: Asia Express — <em>Cointelegraph</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "binance",
+        "thị trường",
+        "đầu tư",
+        "DeFi"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1793335125/cryptohieuqua/posts/diem-tin-crypto-30102026-luc-1138-hack-binance-gay-chan-dong-thi-truong-toan-cau.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1793335125/cryptohieuqua/posts/diem-tin-crypto-30102026-luc-1138-hack-binance-gay-chan-dong-thi-truong-toan-cau.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-30102026-luc-1138-hack-binance-gay-chan-dong-thi-truong-toan-cau",
+        "width": 800,
+        "height": 398,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 30/10/2026 lúc 11:38: Hack Binance gây chấn động thị trường toàn cầu"
+      },
+      "sourceUrl": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
+      "sourceTitle": "CoinDesk / Cointelegraph / The Block / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
+          "url": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Institutional crypto investors rush to pull funds from exchanges after Binance hack",
+          "url": "https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Binance hack could accelerate shift to DEXs: Standard Chartered",
+          "url": "https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths",
+          "url": "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin slides below $77,000, BNB drops amid Binance hack",
+          "url": "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183",
+          "source": "The Block"
+        },
+        {
+          "title": "Binance hack drained wallets backing customer assets, reserve data shows",
+          "url": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Binance points to engineer’s hacked laptop in $6.3B breach",
+          "url": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
+          "url": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets",
+          "url": "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Tampered Ledger reported in Singapore a month before news broke: Asia Express",
+          "url": "https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "publishedAt": "2026-10-30T04:38:45.503Z",
+      "slug": "diem-tin-crypto-30102026-luc-1138-hack-binance-gay-chan-dong-thi-truong-toan-cau"
+    },
+    {
       "id": "1793295483312",
       "title": "Điểm tin crypto 29/10/2026 lúc 00:37: Bitcoin, Hyperliquid, KuCoin và xu hướng token hoá",
       "summary": "Ngày 29/10/2026, thị trường crypto chứng kiến các sự kiện lớn: hợp đồng Bitcoin options trị giá 11 tỷ USD sắp đáo hạn, Hyperliquid nhận đầu tư và hợp tác với ICE, và KuCoin rút khỏi Nga – Belarus. Các tin này đồng thời phản ánh xu hướng tăng cường quy định, mở rộng sản phẩm phái sinh và tiến tới token hoá tài sản truyền thống.",
@@ -32607,16 +32688,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498",
-    "https://cointelegraph.com/news/donald-trump-memecoin-dinner-corruption-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/379899/sec-proposes-rules-advisers-funds-hold-crypto",
-    "https://decrypt.co/379936/bitcoin-heads-higher-fed-jobs-where-does-btc-go-next",
-    "https://cointelegraph.com/news/71-percent-uk-finance-leaders-expect-tokenization-reshape-financial-services-lloyds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/crypto-biz-kalshi-blockchain-com-crypto-treasury-valuations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/markets/bitcoin-briefly-taps-87k-as-bond-yields-drop-on-low-us-nonfarm-payrolls-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/euro-stablecoin-not-enough-eu-case-usd-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/markets/2026-10-02-bitcoin-nears-highest-level-january-85000-sell-wall-clears-us-jobs-data-disappoints-417570",
-    "https://cointelegraph.com/magazine/furious-debate-about-thorchain-vs-near-shows-idealism-has-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/opinion/2026/10/01/america-at-a-crossroads-commissioner-peirce-s-parting-challenge",
     "https://decrypt.co/379932/uptober-off-with-a-bang-as-bitcoin-surges-to-86k",
     "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
@@ -33106,10 +33177,19 @@
     "https://decrypt.co/382161/4m-bitcoin-bought-above-85k-could-cap-recovery-glassnode",
     "https://cointelegraph.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca",
-    "https://decrypt.co/382149/hyperliquid-hype-jumps-nyse-owner-ice-perpetual-futures-us"
+    "https://decrypt.co/382149/hyperliquid-hype-jumps-nyse-owner-ice-perpetual-futures-us",
+    "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
+    "https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack",
+    "https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths",
+    "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183",
+    "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
+    "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum",
+    "https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/post/409007/sec-charges-florida-man-mining-scheme?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/london-stock-exchange-plans-round-the-clock-trading-in-2027-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/409000/trump-agrees-to-ethics-provision-crypto-bill?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/409040/jito-rolls-out-jtx-self-custodial-trading-platform-for-solana-tokens-and-rwas?utm_source=rss&amp;utm_medium=rss|https://cointelegraph.com/news/morpho-midnight-fixed-rate-lending-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/409062/morpho-midnight-fixed-rate-lending-protocol-base-onchain-credit-markets?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/news/balajis-network-school-turns-to-kazakhstan-amid-malaysia-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/374018/dat-satsuma-unwind-bitcoin-treasury-sell-off-btc|https://www.coindesk.com/policy/2026/07/21/crypto-lobby-group-tdc-sues-illinois-to-block-digital-asset-tax",
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/374030/justin-suns-htx-rotating-on-chain-wallets-amid-uk-sanctions-trm-labs|https://www.theblock.co/post/409383/zilliqa-halts-native-transactions-over-bug-in-its-ledger-app-dating-to-2019?utm_source=rss&amp;utm_medium=rss",
@@ -33308,6 +33388,7 @@
     "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8|https://cointelegraph.com/news/robinhoods-tenev-warns-us-tokenization-uncertainty-deters-serious-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info",
     "https://www.theblock.co/news/business/2026-10-28-robinhood-earnings-miss-crypto-weakness-wall-street-bullish-outlook-432011|https://cointelegraph.com/news/crypto-pac-spending-midterms-fec-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/382066/strategy-shareholders-approve-daily-dividends-on-preferred-stock-with-99-3-in-favor",
     "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto|https://www.coindesk.com/policy/2026/10/28/mystery-wall-street-journal-ad-sparks-new-fight-over-tokenized-stocks|https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/382171/11-billion-bitcoin-options-expire-tomorrow-what-means|https://cointelegraph.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/kucoin-services-russia-belarus-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://decrypt.co/382171/11-billion-bitcoin-options-expire-tomorrow-what-means|https://cointelegraph.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/kucoin-services-russia-belarus-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead|https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack|https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
