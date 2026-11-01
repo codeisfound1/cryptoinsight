@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1793508075798",
+      "title": "Điểm tin crypto 01/11/2026 lúc 11:41: Binance hack, FBI xác nhận Bắc Triều Tiên và các xu hướng thị trường",
+      "summary": "Ngày 01/11/2026, tin tức crypto tập trung quanh vụ hack quy mô $6‑6,4 tỷ của Binance, xác nhận của FBI về vai trò Bắc Triều Tiên, và các phản ứng của thị trường. Các sự kiện này kéo theo áp lực lên DeFi, tăng cường an ninh và tạo cơ hội giao dịch ngắn hạn.",
+      "content": "<p>Ngày 01/11/2026, thị trường tiền mã hoá đang chịu áp lực mạnh mẽ sau loạt tin tức liên quan tới vụ hack khổng lồ của Binance và các hành động pháp lý của FBI. Những diễn biến này không chỉ ảnh hưởng tới giá Bitcoin, Ethereum mà còn làm dấy lên lo ngại về an ninh trong không gian DeFi và Web3. Bài phân tích dưới đây tổng hợp 10 tin quan trọng, giải thích các thuật ngữ kỹ thuật và đưa ra nhận định chung cũng như khuyến nghị cho nhà đầu tư Việt Nam.</p><h2>1. FBI xác nhận Bắc Triều Tiên đứng sau vụ hack Binance $6 tỷ, kêu gọi cộng đồng DeFi chặn địa chỉ BTC, ETH, SOL</h2><p>FBI công bố danh sách hàng trăm địa chỉ ví liên quan tới vụ tấn công, đồng thời khẳng định các hacker đã sử dụng “nghìn” địa chỉ. Điều này cho thấy mức độ phức tạp và khả năng mở rộng của mạng lưới tấn công. FBI yêu cầu các nền tảng DeFi đóng băng các địa chỉ liên quan, nhằm ngăn chặn rửa tiền. Thuật ngữ <em>address blocking</em> (chặn địa chỉ) ở đây là việc đưa các địa chỉ bị nghi ngờ vào danh sách đen, khiến các hợp đồng thông minh không thể thực hiện giao dịch với chúng.</p><h2>2. Binance khẳng định đã bù hoàn 90% tài sản bị đánh cắp, tập trung rút tiền vào Chủ nhật</h2><p>Binance thông báo đã mua lại 90% tài sản mất mát thông qua quỹ SAFU, dự trữ futures và giao dịch OTC. Các token kém thanh khoản vẫn còn thiếu, nhưng sàn đã cam kết duy trì số dư người dùng nguyên vẹn. Đây là một ví dụ điển hình của <em>insurance fund</em> (quỹ bảo hiểm) trong ngành crypto, giúp giảm thiểu rủi ro cho người dùng khi có sự cố bảo mật.</p><h2>3. Bitcoin giữ vững tốt hơn dự đoán sau vụ hack, CEO Strive nhấn mạnh chưa đủ để xác định đáy thị trường</h2><p>Giá Bitcoin chỉ giảm nhẹ trong ngày, cho thấy sức chịu đựng của đồng tiền số lớn nhất. Matt Cole, CEO Strive, khẳng định vụ hack không thay đổi quan điểm dài hạn về Bitcoin, nhưng cảnh báo chưa đủ dữ liệu để xác định đáy. Thuật ngữ <em>market bottom</em> (đáy thị trường) được dùng để chỉ mức giá thấp nhất trong một chu kỳ giảm giá, thường là thời điểm mua vào.</p><h2>4. Các hacker chiếm đoạt 12 website DeFi, toàn bộ đăng ký qua Name.com, mất khoảng $138,000</h2><p>Những trang web DeFi bị xâm nhập đều dùng dịch vụ đăng ký tên miền của Name.com, cho thấy một lỗ hổng tiềm năng trong quản lý DNS. Các hacker đã rút tiền từ các hợp đồng thông minh, gây mất mát cho người dùng. Đây là lời nhắc nhở về tầm quan trọng của <em>domain security</em> (bảo mật tên miền) và việc sử dụng các dịch vụ DNS có tính năng bảo vệ mạnh mẽ.</p><h2>5. Giao dịch ký quỹ trên hợp đồng crypto cho IPO Anthropic – một xu hướng mới</h2><p>Nhà giao dịch Trade.xyz đã ra mắt hợp đồng ANT cho IPO của Anthropic, cho phép nhà đầu tư đặt cược đòn bẩy lên giá cổ phiếu tương lai. Hợp đồng này không có cổ phiếu thực tế phía sau, vì vậy rủi ro cao và người dùng Mỹ bị hạn chế. Thuật ngữ <em>leveraged crypto contracts</em> (hợp đồng crypto có đòn bẩy) mô tả việc dùng tài sản số để tăng lợi nhuận (hoặc thua lỗ) dựa trên biến động giá của tài sản cơ sở.</p><h2>6. Sự kiện kỷ niệm 18 năm Whitepaper Bitcoin – doanh nghiệp nhỏ vẫn gánh chịu chi phí</h2><p>Một bài viết trên CoinDesk nhấn mạnh rằng, dù đã 18 năm, các doanh nghiệp vẫn phải trả chi phí bảo trì và bảo mật cho hệ thống Bitcoin, một phần do “bailout” (cứu trợ) trong các chuỗi khối. Điều này phản ánh thực tế rằng việc tích hợp Bitcoin vào hoạt động kinh doanh vẫn đòi hỏi nguồn lực đáng kể, nhất là trong môi trường pháp lý chưa ổn định.</p><h2>7. Trường hợp mất iPhone, mất $14,000 và vấn đề tội phạm crypto ở London</h2><p>Câu chuyện của Magnus Ahmad cho thấy rủi ro cá nhân khi thiết bị di động bị đánh cắp. Kẻ xấu không chỉ truy cập ví tiền mã hoá mà còn tấn công tài khoản ngân hàng và laptop. Đây là minh chứng cho việc cần <em>hardware wallet</em> (ví cứng) và <em>two‑factor authentication</em> (xác thực hai yếu tố) để bảo vệ tài sản số.</p><h2>8. Tổng hợp tin nhanh: những gì diễn ra trong ngày trên thị trường crypto</h2><p>Cointelegraph cung cấp bản tin tổng hợp các xu hướng giá, tin tức pháp lý và cập nhật DeFi. Nội dung này giúp nhà đầu tư nhanh chóng nắm bắt các biến động ngắn hạn, đặc biệt là các mức hỗ trợ/kháng cự của Bitcoin và Ethereum.</p><h2>9. Binance công bố đã thay thế 90% tài sản bị mất sau vụ tấn công $6,3 tỷ</h2><p>Thông tin chi tiết về cách Binance sử dụng quỹ SAFU, dự trữ futures và giao dịch OTC để bù đắp cho người dùng. Việc này củng cố niềm tin vào khả năng tự bảo vệ của sàn, đồng thời nhấn mạnh tầm quan trọng của việc duy trì quỹ dự phòng trong các sàn giao dịch lớn.</p><h2>10. Decrypt: Tổng quan vụ hack Binance – ai đứng sau và những gì sẽ tới</h2><p>Bài viết tổng hợp các chi tiết về nguồn gốc Bắc Triều Tiên, quy mô $6,4 tỷ và các biện pháp khôi phục. Đồng thời, phân tích các kịch bản pháp lý và khả năng các quốc gia sẽ tăng cường hợp tác trong việc truy vết và truy tố các nhóm hacker.</p><h2>Nhận định thị trường</h2><p>Những tin tức trên cho thấy thị trường crypto đang trong giai đoạn “stress test” mạnh mẽ. Vụ hack Binance và phản ứng nhanh của sàn đã giúp ngăn chặn hoảng loạn bán tháo, nhưng đồng thời làm tăng áp lực lên các token ít thanh khoản. Bitcoin và Ethereum vẫn duy trì mức hỗ trợ quanh $31,000 và $1,900 tương ứng, trong khi các dự án DeFi nhỏ hơn có nguy cơ giảm giá sâu hơn. Các nhà đầu tư cần chú ý tới các chỉ báo kỹ thuật như RSI và MACD để xác định điểm mua bán ngắn hạn.</p><h2>Khuyến nghị nhà đầu tư</h2><p>1. Đối với nhà đầu tư dài hạn: duy trì vị thế Bitcoin và Ethereum, vì chúng vẫn là tài sản an toàn nhất trong bối cảnh bất ổn.<br/>2. Đối với nhà đầu tư ngắn hạn: cân nhắc các chiến lược giao dịch đòn bẩy trên các hợp đồng crypto (như ANT) nhưng chỉ với vốn rủi ro cao và quản lý lệnh dừng lỗ chặt chẽ.<br/>3. Tăng cường bảo mật cá nhân: sử dụng ví cứng, bật 2FA, và tránh lưu trữ khóa riêng trên thiết bị di động.<br/>4. Theo dõi các thông báo của FBI và các cơ quan quản lý về việc chặn địa chỉ, vì chúng có thể gây biến động giá nhanh chóng trên các token bị ảnh hưởng.<br/>5. Đa dạng hoá danh mục, bao gồm một phần tài sản vào các stablecoin hoặc token có thanh khoản cao để giảm rủi ro khi thị trường giảm mạnh.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses — <em>CoinDesk</em></li>\n<li>[2] Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered — <em>CoinDesk</em></li>\n<li>[3] A stolen iPhone, $14,000 in losses and London's crypto theft problem — <em>CoinDesk</em></li>\n<li>[4] Traders are already placing leveraged bets on Anthropic’s IPO using crypto contracts — <em>CoinDesk</em></li>\n<li>[5] Binance says 90% of stolen assets replenished, targets Sunday withdrawals — <em>Cointelegraph</em></li>\n<li>[6] Bitcoin held up better than expected after Binance hack, Strive CEO says — <em>Cointelegraph</em></li>\n<li>[7] Hackers hijack a dozen DeFi websites, all registered with Name.com, and steal about $138,000 — <em>The Block</em></li>\n<li>[8] Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach — <em>CoinDesk</em></li>\n<li>[9] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[10] Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "binance",
+        "defi",
+        "thị trường",
+        "crypto"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1793508075/cryptohieuqua/posts/diem-tin-crypto-01112026-luc-1141-binance-hack-fbi-xac-nhan-bac-trieu-tien-va-ca.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1793508075/cryptohieuqua/posts/diem-tin-crypto-01112026-luc-1141-binance-hack-fbi-xac-nhan-bac-trieu-tien-va-ca.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-01112026-luc-1141-binance-hack-fbi-xac-nhan-bac-trieu-tien-va-ca",
+        "width": 616,
+        "height": 450,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 01/11/2026 lúc 11:41: Binance hack, FBI xác nhận Bắc Triều Tiên và các xu hướng thị trường"
+      },
+      "sourceUrl": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+      "sourceTitle": "CoinDesk / Cointelegraph / The Block / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+          "url": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
+          "url": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
+          "url": "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Traders are already placing leveraged bets on Anthropic’s IPO using crypto contracts",
+          "url": "https://www.coindesk.com/business/2026/10/31/traders-are-already-placing-leveraged-bets-on-anthropic-s-ipo-using-crypto-contracts",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
+          "url": "https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
+          "url": "https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Hackers hijack a dozen DeFi websites, all registered with Name.com, and steal about $138,000",
+          "url": "https://www.theblock.co/news/defi/2026-10-31-hackers-hijack-a-dozen-defi-websites-all-registered-with-name-com-and-steal-about-138000-432251",
+          "source": "The Block"
+        },
+        {
+          "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
+          "url": "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
+          "url": "https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-11-01T04:41:15.798Z",
+      "slug": "diem-tin-crypto-01112026-luc-1141-binance-hack-fbi-xac-nhan-bac-trieu-tien-va-ca"
+    },
+    {
       "id": "1793463649799",
       "title": "Điểm tin crypto 31/10/2026 lúc 23:20: Hack Binance, Staking tổ chức và xu hướng token hoá tài sản",
       "summary": "Ngày 31/10/2026, Binance công bố đã khôi phục 90% tài sản sau vụ hack quy mô 6,3‑6,4 tỷ USD, trong khi các tổ chức vẫn đẩy mạnh staking bất chấp lợi suất giảm và Uber thử nghiệm token hoá tiền mặt nhàn rỗi. Các sự kiện này cùng với một loạt vụ tấn công khác làm nổi bật vấn đề bảo mật và cơ hội sinh lời ổn định cho nhà đầu tư Việt Nam.",
@@ -32930,8 +33011,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/10/05/ether-s-bitcoin-beating-q3-rally-came-with-a-catch-liquidity-thinned",
     "https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/okx-nyse-parent-file-to-launch-tokenized-us-stock-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -33429,10 +33508,11 @@
     "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
     "https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
     "https://www.coindesk.com/business/2026/10/26/institutions-embrace-crypto-staking-despite-shrinking-yields",
-    "https://www.coindesk.com/business/2026/10/31/uber-tests-how-tokenization-can-put-idle-cash-to-work-with-hsbc-franklin-templeton"
+    "https://www.coindesk.com/business/2026/10/31/uber-tests-how-tokenization-can-put-idle-cash-to-work-with-hsbc-franklin-templeton",
+    "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+    "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered"
   ],
   "publishedBatchKeys": [
-    "https://cointelegraph.com/news/afx-protocol-reportedly-loses-24m-in-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/409482/arbitrum-protocol-afx-trade-exploit?utm_source=rss&amp;utm_medium=rss|https://www.coindesk.com/policy/2026/07/22/senator-lummis-ethics-other-provisions-in-crypto-clarity-act-to-be-further-discussed",
     "https://cointelegraph.com/news/strategy-consortium-15m-quantum-proof-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/opinion/2026/07/23/the-kids-act-is-way-worse-than-digital-carding-it-is-a-mass-surveillance-system|https://cointelegraph.com/news/binance-stop-the-traffik-anti-human-trafficking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/sec-to-host-roundtable-on-24-hour-trading-in-us-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/374189/black-forest-labs-flux-3-image-video-robot-hands|https://cointelegraph.com/news/gemini-winklevoss-bitcoin-donald-trump-pac-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits|https://cointelegraph.com/news/bitkub-criminal-complaint-thailand-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/409595/arthur-hayes-bitmex-co-founders-face-fraud-claims-over-alleged-insider-trading-desk-as-exchange-winds-down?utm_source=rss&amp;utm_medium=rss",
@@ -33631,6 +33711,7 @@
     "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead|https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack|https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters|https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225",
-    "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem|https://www.coindesk.com/business/2026/10/31/traders-are-already-placing-leveraged-bets-on-anthropic-s-ipo-using-crypto-contracts|https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem|https://www.coindesk.com/business/2026/10/31/traders-are-already-placing-leveraged-bets-on-anthropic-s-ipo-using-crypto-contracts|https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses|https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered|https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem"
   ]
 }
