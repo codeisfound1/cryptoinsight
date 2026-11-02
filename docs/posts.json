@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1793594606188",
+      "title": "Điểm tin crypto 02/11/2026 lúc 11:43: Bitcoin hồi phục, Binance chịu rút tiền lớn và các rủi ro pháp lý",
+      "summary": "Bitcoin tăng trở lại gần $79,000 sau vụ hack quy mô lớn, Binance ghi nhận rút tiền ròng hơn $5.8 tỷ và các quỹ ETF Bitcoin có dòng rút tiền mạnh. Các cơ quan tài chính Hàn Quốc và FBI tăng cường giám sát, trong khi các bridge DeFi như THORChain gặp lỗi và bị hacker Bắc Triều Tiên lợi dụng.",
+      "content": "<p><b>Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack</b></p><p><b>Spot bitcoin ETFs see largest daily outflows in four months following record Binance hack</b></p><p><b>Bank of Korea probes financial firms’ exposure to crypto risks</b></p><p><b>THORChain halts swaps after block reorg bug, slowing Binance hackers</b></p><p><b>Binance net outflows surge to $5.8B as withdrawals resume after record hack</b></p><p><b>THORChain founder rejects freeze request, CZ thanks Secret Service: Hodler’s Digest</b></p><p><b>The crypto reader's guide to the 2026 midterm election: State of Crypto</b></p><p><b>North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst</b></p><p><b>AI agents bypassed crypto spending limits without human approval, researchers find in a new test</b></p><p><b>Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack</b></p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack — <em>CoinDesk</em></li>\n<li>[2] Spot bitcoin ETFs see largest daily outflows in four months following record Binance hack — <em>The Block</em></li>\n<li>[3] Bank of Korea probes financial firms’ exposure to crypto risks — <em>Cointelegraph</em></li>\n<li>[4] THORChain halts swaps after block reorg bug, slowing Binance hackers — <em>Cointelegraph</em></li>\n<li>[5] Binance net outflows surge to $5.8B as withdrawals resume after record hack — <em>Cointelegraph</em></li>\n<li>[6] THORChain founder rejects freeze request, CZ thanks Secret Service: Hodler’s Digest — <em>Cointelegraph</em></li>\n<li>[7] The crypto reader's guide to the 2026 midterm election: State of Crypto — <em>CoinDesk</em></li>\n<li>[8] North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst — <em>The Block</em></li>\n<li>[9] AI agents bypassed crypto spending limits without human approval, researchers find in a new test — <em>CoinDesk</em></li>\n<li>[10] Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "thị trường",
+        "điểm tin",
+        "DeFi",
+        "Binance"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1793594605/cryptohieuqua/posts/diem-tin-crypto-02112026-luc-1143-bitcoin-hoi-phuc-binance-chiu-rut-tien-lon-va-.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1793594605/cryptohieuqua/posts/diem-tin-crypto-02112026-luc-1143-bitcoin-hoi-phuc-binance-chiu-rut-tien-lon-va-.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-02112026-luc-1143-bitcoin-hoi-phuc-binance-chiu-rut-tien-lon-va-",
+        "width": 800,
+        "height": 443,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 02/11/2026 lúc 11:43: Bitcoin hồi phục, Binance chịu rút tiền lớn và các rủi ro pháp lý"
+      },
+      "sourceUrl": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
+      "sourceTitle": "CoinDesk / The Block / Cointelegraph",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
+          "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Spot bitcoin ETFs see largest daily outflows in four months following record Binance hack",
+          "url": "https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270",
+          "source": "The Block"
+        },
+        {
+          "title": "Bank of Korea probes financial firms’ exposure to crypto risks",
+          "url": "https://cointelegraph.com/news/bank-of-korea-probes-financial-firms-exposure-to-crypto-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
+          "url": "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
+          "url": "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "THORChain founder rejects freeze request, CZ thanks Secret Service: Hodler’s Digest",
+          "url": "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
+          "url": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst",
+          "url": "https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257",
+          "source": "The Block"
+        },
+        {
+          "title": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
+          "url": "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
+          "url": "https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-11-02T04:43:26.188Z",
+      "slug": "diem-tin-crypto-02112026-luc-1143-bitcoin-hoi-phuc-binance-chiu-rut-tien-lon-va-"
+    },
+    {
       "id": "1793553358261",
       "title": "Điểm tin crypto 01/11/2026 lúc 00:15: Bùng nổ rủi ro an ninh, AI và chính sách",
       "summary": "Ngày 01/11/2026, thị trường crypto chịu áp lực mạnh từ vụ hack quy mô kỷ lục của Binance kéo theo hàng tỷ USD rút tiền, đồng thời các nghiên cứu AI cho thấy rủi ro mới khi bot có thể vượt qua giới hạn chi tiêu. Các tin tức về chính sách, thẻ crypto và ETF cũng làm dày đặc bối cảnh đầu tư trong tuần tới.",
@@ -33092,14 +33173,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/policy/2026/10/05/crypto-s-campaign-arm-fairshake-sets-lists-of-u-s-house-favorites-it-ll-spend-on",
-    "https://cointelegraph.com/news/crypto-advocacy-groups-icba-lawsuit-occ-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/380092/zachxbt-fronted-350k-pose-client-lazarus-chinese-crypto-launderers",
-    "https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds",
-    "https://cointelegraph.com/news/sp-global-launches-risk-assessments-for-10b-crypto-lending-vault-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/cftc-proposed-crypto-framework-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/regulation/2026-10-05-fincen-drops-crypto-mixing-rule-self-hosted-wallet-proposal-417690",
-    "https://www.coindesk.com/markets/2026/10/05/more-than-60-u-s-stocks-including-nvidia-and-tesla-are-headed-onchain-here-s-how-it-works",
     "https://cointelegraph.com/markets/bitcoin-q3-rally-treasury-yields-fed-rate-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/policy/2026/10/06/u-s-scraps-proposed-usd10-000-reporting-rule-for-for-crypto-sent-to-private-wallets",
     "https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump",
@@ -33591,10 +33664,17 @@
     "https://decrypt.co/382295/how-to-run-ai-model-locally-why-you-might-want",
     "https://www.coindesk.com/policy/2026/11/01/crypto-pacs-made-big-republican-push-in-final-weeks-before-november-3-election",
     "https://cointelegraph.com/news/deepseek-developing-ai-agent-requiring-less-human-input-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.coindesk.com/news-analysis/2026/11/01/sherrod-brown-s-ohio-edge-threatens-a-rough-go-for-crypto-next-year"
+    "https://www.coindesk.com/news-analysis/2026/11/01/sherrod-brown-s-ohio-edge-threatens-a-rough-go-for-crypto-next-year",
+    "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
+    "https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270",
+    "https://cointelegraph.com/news/bank-of-korea-probes-financial-firms-exposure-to-crypto-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto",
+    "https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257"
   ],
   "publishedBatchKeys": [
-    "https://cointelegraph.com/news/sec-to-host-roundtable-on-24-hour-trading-in-us-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/374189/black-forest-labs-flux-3-image-video-robot-hands|https://cointelegraph.com/news/gemini-winklevoss-bitcoin-donald-trump-pac-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits|https://cointelegraph.com/news/bitkub-criminal-complaint-thailand-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/409595/arthur-hayes-bitmex-co-founders-face-fraud-claims-over-alleged-insider-trading-desk-as-exchange-winds-down?utm_source=rss&amp;utm_medium=rss",
     "https://www.theblock.co/post/409652/bitcoin-policy-institute-palantir-anduril-us-state-departments-freedom-tech-excellence-program?utm_source=rss&amp;utm_medium=rss|https://decrypt.co/374334/stocks-crypto-hyperliquid-ark-invest|https://cointelegraph.com/news/htx-exchange-european-union-russia-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/fidelity-push-senate-passage-of-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/dangos-perp-dex-taps-nearly-months-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -33793,6 +33873,7 @@
     "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters|https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225",
     "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem|https://www.coindesk.com/business/2026/10/31/traders-are-already-placing-leveraged-bets-on-anthropic-s-ipo-using-crypto-contracts|https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses|https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered|https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem",
-    "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test|https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259|https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack"
+    "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test|https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259|https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
+    "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack|https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270|https://cointelegraph.com/news/bank-of-korea-probes-financial-firms-exposure-to-crypto-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   ]
 }
