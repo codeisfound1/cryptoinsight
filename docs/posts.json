@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1794423241461",
+      "title": "Điểm tin crypto 11/11/2026 lúc 01:53: Token hoá, Bitcoin giảm, Stablecoin sụt giảm và các lỗi mạng",
+      "summary": "Thị trường tiền mã hoá ngày 11/11/2026 chứng kiến xu hướng mạnh mẽ của token hoá cổ phiếu, Bitcoin tiếp tục chịu áp lực giảm và stablecoin giảm mạnh nhất từ 2022, đồng thời có một lỗ hổng nghiêm trọng được vá. Các diễn biến này tạo ra cơ hội và rủi ro cho nhà đầu tư Việt Nam.",
+      "content": "<p>Ngày 11/11/2026, thị trường tiền mã hoá đang trải qua một chuỗi biến động đa chiều: từ việc các sàn giao dịch mở rộng sang token hoá cổ phiếu, tới việc Bitcoin có khả năng ghi nhận hai năm liên tiếp lỗ, và nguồn cung stablecoin giảm mạnh nhất trong gần bốn năm. Những tin tức này không chỉ phản ánh xu hướng toàn cầu mà còn mang lại những tín hiệu quan trọng cho nhà đầu tư Việt Nam.</p><h2>1. OKXICE và OKX-ICE mở ra thị trường token hoá cổ phiếu</h2><p>Hai bài viết từ Cointelegraph và Decrypt đưa tin OKXICE sẽ ra mắt nền tảng token hoá cổ phiếu vào ngày 23/11, với hơn 70 tài sản bao gồm các cổ phiếu blue‑chip và ETF. Đây là lần đầu tiên một sàn giao dịch tiền mã hoá kết hợp trực tiếp với các công ty công nghệ tài chính như Coinbase, Circle và Robinhood để cung cấp token hoá chứng khoán. Mô hình này thử thách các quy định miễn trừ của SEC và có thể làm phân mảnh thanh khoản nếu nhiều nền tảng cùng cung cấp cùng một tài sản.</p><p><strong>Ý nghĩa:</strong> Đối với nhà đầu tư Việt Nam, token hoá cổ phiếu mở ra cơ hội tiếp cận các cổ phiếu quốc tế mà không cần mở tài khoản môi giới truyền thống, giảm chi phí giao dịch và thời gian chuyển tiền. Tuy nhiên, rủi ro về thanh khoản và tuân thủ pháp lý vẫn còn cao, cần theo dõi chặt chẽ các thông báo của SEC và cơ quan quản lý VN.</p><h2>2. Bitcoin có thể ghi nhận hai năm lỗ liên tiếp</h2><p>Theo Decrypt, Bitcoin đang tiến gần tới việc phá vỡ chuỗi 18 năm tăng trưởng liên tục, với khả năng ghi nhận lỗ trong hai năm liên tiếp. Dù dữ liệu cho thấy mức giảm không đồng đều và có một số yếu tố hỗ trợ như lãi suất trái phiếu Mỹ giảm, nhưng xu hướng chung vẫn là áp lực bán.</p><p><strong>Giải thích:</strong> “Back‑to‑back annual losses” nghĩa là giá trung bình của năm này so với năm trước đều giảm. Điều này thường xuất hiện khi thị trường đang trong giai đoạn chu kỳ giảm dài hạn, thường kéo theo giảm nhu cầu mua vào và giảm dòng tiền ròng vào thị trường.</p><p>Đối với nhà đầu tư Việt Nam, Bitcoin vẫn là tài sản có tính thanh khoản cao, nhưng cần cân nhắc giảm vị thế hoặc chuyển sang các đồng altcoin có tiềm năng tăng trưởng hơn trong ngắn hạn.</p><h2>3. Cung stablecoin giảm $14,2 tỷ – mức sụt giảm lớn nhất kể từ 2022</h2><p>The Block báo cáo rằng tổng cung USDT và USDC đã giảm gần $11 tỷ trong tháng qua, trong khi các token hỗ trợ bằng vàng vẫn ổn định. Đây là dấu hiệu giảm nhu cầu sử dụng stablecoin trong các giao dịch và lưu trữ giá trị, có thể do lãi suất tiền gửi truyền thống tăng và các rủi ro liên quan đến stablecoin được công chúng quan tâm hơn.</p><p><strong>Ảnh hưởng:</strong> Nhà đầu tư Việt Nam thường dùng USDT/USDC để chuyển tiền nhanh và giảm rủi ro biến động. Khi nguồn cung giảm, giá có thể tăng nhẹ nhưng đồng thời khả năng thanh khoản giảm, gây khó khăn trong việc rút tiền nhanh.</p><h2>4. Lỗ hổng nghiêm trọng trong Bitcoin Core đã được vá</h2><p>Decrypt công bố rằng ba lỗ hổng, trong đó có một lỗ hổng có thể làm dừng việc khai thác khối mới, đã được Bitcoin Core vá. Các lỗ hổng này không liên quan tới việc ăn cắp coin mà chủ yếu là tấn công từ chối dịch vụ (DoS) và lộ thông tin riêng tư.</p><p><strong>Giải thích:</strong> Khi một miner không thể tạo khối mới, toàn bộ mạng lưới sẽ bị chậm lại, gây mất niềm tin và giảm tốc độ giao dịch. Việc vá kịp thời giúp duy trì an toàn và ổn định cho mạng lưới.</p><p>Đối với nhà đầu tư Việt Nam, việc cập nhật phần mềm ví và node lên phiên bản mới là bắt buộc để tránh rủi ro bảo mật.</p><h2>5. Hedera nhận Apex Group vào Hội đồng</h2><p>The Block đưa tin Apex Group, quản lý tài sản $3,5 nghìn tỷ, gia nhập Hedera Council để khám phá token hoá và thanh toán bằng công nghệ DAG. Hedera được biết đến với tốc độ giao dịch nhanh và phí thấp.</p><p><strong>Ý nghĩa:</strong> Sự tham gia của một tập đoàn tài chính lớn như Apex cho thấy token hoá tài sản truyền thống đang dần được chấp nhận. Nhà đầu tư Việt Nam có thể xem xét Hedera như một nền tảng tiềm năng cho các dự án DeFi nội địa.</p><h2>6. Pyth Network mở rộng dữ liệu NYSE và ETF</h2><p>The Block cho biết Pyth Network đã tích hợp dữ liệu thời gian thực từ Sở Giao dịch New York (NYSE) và các quỹ ETF vào marketplace của mình. Điều này giúp các ứng dụng DeFi có thể truy cập dữ liệu thị trường truyền thống một cách phi tập trung.</p><p>Đối với nhà đầu tư Việt Nam, đây là cơ sở để xây dựng các sản phẩm tài chính phức hợp (ví dụ: hợp đồng tương lai dựa trên chỉ số S&P) trên blockchain, giảm phụ thuộc vào các nhà cung cấp dữ liệu trung gian.</p><h2>7. Solana Privacy Rings – Bảo mật giao dịch trên Solana</h2><p>Decrypt giải thích công nghệ “Privacy Rings” của Helius, cho phép mã hoá số dư và số tiền chuyển mà không cần rời khỏi mạng Solana. So với các giải pháp như zk‑Rollup, Privacy Rings sử dụng cấu trúc vòng để ẩn danh nhưng vẫn duy trì khả năng xác nhận nhanh.</p><p>Nhà đầu tư Việt Nam quan tâm đến Solana vì phí giao dịch thấp và tốc độ cao; tính năng bảo mật này có thể thu hút thêm người dùng và tăng giá trị token SOL.</p><h2>8. Bitcoin dao động quanh $74.000 khi cổ phiếu công nghệ tăng và lợi suất trái phiếu Mỹ bật lại</h2><p>Cointelegraph mô tả Bitcoin duy trì mức giá hẹp khi nhà đầu tư mua lại cổ phiếu công nghệ và lợi suất trái phiếu Mỹ tăng do dữ liệu CPI cao. Mối quan hệ ngược chiều giữa Bitcoin và cổ phiếu công nghệ đang dần giảm bớt, cho thấy Bitcoin đang dần tách rời khỏi vai trò tài sản “an toàn”.</p><p>Đối với nhà đầu tư Việt Nam, đây là thời điểm cân nhắc đa dạng hoá danh mục giữa crypto và cổ phiếu quốc tế.</p><h2>9. StoneX dự báo tăng 111% cho cổ phiếu Securitize nhờ doanh thu token hoá hồi phục</h2><p>The Block báo cáo StoneX duy trì khuyến nghị mua Securitize, dựa trên nhu cầu token hoá cổ phiếu, quỹ và tín dụng có cấu trúc. Điều này phản ánh xu hướng tăng trưởng của các nền tảng token hoá tài sản truyền thống.</p><p>Nhà đầu tư Việt Nam có thể xem xét mua cổ phiếu Securitize hoặc các token liên quan để hưởng lợi từ xu hướng token hoá.</p><h2>10. Apex Group và Hedera – Tiếp tục mở rộng token hoá tài sản truyền thống</h2><p>Thông tin này lặp lại một phần nội dung trên, nhưng nhấn mạnh rằng việc các tổ chức tài chính lớn tham gia vào blockchain sẽ tạo ra môi trường pháp lý và công nghệ ổn định hơn cho token hoá.</p><h2>Nhận định thị trường chung</h2><p>Những tin tức trên cho thấy ba xu hướng chính: (1) Token hoá tài sản truyền thống đang bùng nổ, với OKXICE, Hedera, và Securitize dẫn đầu; (2) Bitcoin đang gặp áp lực giảm và có thể ghi nhận hai năm lỗ liên tiếp, đồng thời thị trường đang dần tách rời khỏi mối liên hệ với cổ phiếu công nghệ; (3) Stablecoin giảm cung, phản ánh sự chuyển dịch sang các tài sản có lợi suất cao hơn hoặc các giải pháp lưu trữ giá trị mới. Các lỗ hổng bảo mật được vá nhanh chóng, cho thấy cộng đồng vẫn duy trì mức độ an toàn cao.</p><p>Đối với Việt Nam, khi ngân hàng trung ương chưa công nhận stablecoin, việc giảm cung có thể làm giảm khả năng chuyển tiền nhanh qua USDT/USDC, nhưng đồng thời tạo cơ hội cho các dự án stablecoin nội địa hoặc các giải pháp thanh toán dựa trên blockchain nội địa.</p><h2>Khuyến nghị nhà đầu tư</h2><p>1. <strong>Đa dạng hoá danh mục:</strong> Giữ một phần tài sản trong Bitcoin (khoảng 20‑30% danh mục) nhưng giảm tỷ trọng nếu xu hướng giảm kéo dài; tăng tỷ trọng vào các altcoin có tiềm năng token hoá như SOL, ETH và các token liên quan Hedera.</p><p>2. <strong>Tiếp cận token hoá cổ phiếu:</strong> Nếu muốn tiếp cận thị trường chứng khoán quốc tế, cân nhắc sử dụng OKXICE hoặc các nền tảng tương tự, nhưng luôn kiểm tra mức độ thanh khoản và tuân thủ pháp lý.</p><p>3. <strong>Quản lý rủi ro stablecoin:</strong> Khi nguồn cung giảm, nên giữ một phần stablecoin trong ví lạnh và theo dõi mức độ thanh khoản trên các sàn địa phương.</p><p>4. <strong>Cập nhật phần mềm:</strong> Đảm bảo ví và node luôn chạy phiên bản mới nhất để tránh các lỗ hổng bảo mật như đã được vá trên Bitcoin Core.</p><p>5. <strong>Theo dõi dữ liệu thị trường truyền thống:</strong> Các dữ liệu NYSE và ETF từ Pyth Network sẽ giúp xây dựng các chiến lược DeFi dựa trên chỉ số truyền thống, mở ra cơ hội lợi nhuận mới.</p><p>Nhìn chung, thị trường đang chuyển sang giai đoạn “token hoá + bảo mật”, và nhà đầu tư Việt Nam nên tận dụng cơ hội này đồng thời duy trì kỷ luật quản lý rủi ro.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] OKXICE moves ahead with tokenized stocks as blue chips push back — <em>Cointelegraph</em></li>\n<li>[2] Bitcoin Faces First Back-to-Back Annual Losses in History, But There's a Catch — <em>Decrypt</em></li>\n<li>[3] Stablecoin supply drops $14.2 billion in largest contraction since 2022 bear market — <em>The Block</em></li>\n<li>[4] What Are Solana Privacy Rings? Inside Helius’ Privacy Protocol for Solana — <em>Decrypt</em></li>\n<li>[5] Apex Group joins Hedera Council to explore tokenization and settlement — <em>The Block</em></li>\n<li>[6] A High-Severity Bug Could Have Stalled Bitcoin Mining—Bitcoin Core Has a Fix — <em>Decrypt</em></li>\n<li>[7] Pyth Network adds NYSE stock and ETF data to its marketplace — <em>The Block</em></li>\n<li>[8] Bitcoin hovers near $74K as stocks rise despite US bond yield rebound — <em>Cointelegraph</em></li>\n<li>[9] StoneX sees 111% upside for Securitize shares as tokenization revenue rebounds — <em>The Block</em></li>\n<li>[10] OKX-ICE Tokenized Stock Venue Sets Launch, Turning to Crypto Companies After Big Tech Opts Out — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "stablecoin",
+        "tokenization",
+        "defi",
+        "thị trường",
+        "solana"
+      ],
+      "readTime": 9,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1794423240/cryptohieuqua/posts/diem-tin-crypto-11112026-luc-0153-token-hoa-bitcoin-giam-stablecoin-sut-giam-va-.png",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1794423240/cryptohieuqua/posts/diem-tin-crypto-11112026-luc-0153-token-hoa-bitcoin-giam-stablecoin-sut-giam-va-.png",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-11112026-luc-0153-token-hoa-bitcoin-giam-stablecoin-sut-giam-va-",
+        "width": 1376,
+        "height": 768,
+        "format": "png",
+        "alt": "Điểm tin crypto 11/11/2026 lúc 01:53: Token hoá, Bitcoin giảm, Stablecoin sụt giảm và các lỗi mạng"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / Decrypt / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "OKXICE moves ahead with tokenized stocks as blue chips push back",
+          "url": "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin Faces First Back-to-Back Annual Losses in History, But There's a Catch",
+          "url": "https://decrypt.co/383049/bitcoin-first-back-to-back-annual-losses-history",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Stablecoin supply drops $14.2 billion in largest contraction since 2022 bear market",
+          "url": "https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907",
+          "source": "The Block"
+        },
+        {
+          "title": "What Are Solana Privacy Rings? Inside Helius’ Privacy Protocol for Solana",
+          "url": "https://decrypt.co/resources/what-are-solana-privacy-rings-inside-helius-privacy-protocol-for-solana",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Apex Group joins Hedera Council to explore tokenization and settlement",
+          "url": "https://www.theblock.co/news/deals/2026-11-11-apex-group-joins-hedera-council-tokenization-437917",
+          "source": "The Block"
+        },
+        {
+          "title": "A High-Severity Bug Could Have Stalled Bitcoin Mining—Bitcoin Core Has a Fix",
+          "url": "https://decrypt.co/383044/bitcoin-core-patches-bug-could-have-stalled-btc-mining",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Pyth Network adds NYSE stock and ETF data to its marketplace",
+          "url": "https://www.theblock.co/news/web3/2026-11-11-pyth-network-nyse-data-437928",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
+          "url": "https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "StoneX sees 111% upside for Securitize shares as tokenization revenue rebounds",
+          "url": "https://www.theblock.co/news/markets/2026-11-11-stonex-sees-111-upside-for-securitize-shares-as-tokenization-revenue-rebounds-437910",
+          "source": "The Block"
+        },
+        {
+          "title": "OKX-ICE Tokenized Stock Venue Sets Launch, Turning to Crypto Companies After Big Tech Opts Out",
+          "url": "https://decrypt.co/383040/okx-ice-tokenized-stock-venue-sets-launch-crypto-companies-big-tech-opts-out",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-11-11T18:54:01.461Z",
+      "slug": "diem-tin-crypto-11112026-luc-0153-token-hoa-bitcoin-giam-stablecoin-sut-giam-va-"
+    },
+    {
       "id": "1794372972115",
       "title": "Điểm tin crypto 11/11/2026 lúc 11:56: Tổng hợp 10 sự kiện trọng yếu và tác động tới nhà đầu tư Việt Nam",
       "summary": "Các ngân hàng toàn cầu huy động 270 triệu USD cho stablecoin, lợi nhuận khổng lồ của Trump Media đến từ Bitcoin, và doanh thu tăng mạnh của Tron tạo động lực tích cực cho thị trường; đồng thời các vụ tấn công mạng và cảnh báo pháp lý làm nhà đầu tư cần thận trọng.",
@@ -34626,16 +34707,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.theblock.co/news/business/2026-10-14-strive-buys-235-million-in-bitcoin-warrant-yield-369-million-418556",
-    "https://www.coindesk.com/markets/2026/10/14/blackrock-s-crypto-etf-assets-surge-63-but-remain-far-below-2025-peak",
-    "https://cointelegraph.com/markets/bitcoin-price-dips-yields-surge-as-high-oil-prices-spike-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/polygon-gains-us-payments-licenses-after-closing-coinme-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/380998/scientists-want-ai-cut-off-from-internet",
-    "https://decrypt.co/380991/developer-cloned-photoshop-ai-just-did-same-microsoft-office",
-    "https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611",
-    "https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year",
     "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin",
     "https://decrypt.co/380974/solana-alpenglow-upgrade-date",
     "https://decrypt.co/381044/bitcoin-whipsaws-crypto-liquidations-near-1-billion",
@@ -35125,10 +35196,19 @@
     "https://cointelegraph.com/news/banks-270m-project-faro-stablecoin-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/382982/bitcoin-miner-hive-eyes-45-million-ai-data-center",
     "https://www.theblock.co/news/markets/2026-11-10-forward-industries-grows-sol-treasury-8-7-million-token-hits-three-month-low-437330",
-    "https://decrypt.co/382967/trump-media-posts-410-million-profit-bitcoin-gains"
+    "https://decrypt.co/382967/trump-media-posts-410-million-profit-bitcoin-gains",
+    "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/383049/bitcoin-first-back-to-back-annual-losses-history",
+    "https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907",
+    "https://decrypt.co/resources/what-are-solana-privacy-rings-inside-helius-privacy-protocol-for-solana",
+    "https://www.theblock.co/news/deals/2026-11-11-apex-group-joins-hedera-council-tokenization-437917",
+    "https://decrypt.co/383044/bitcoin-core-patches-bug-could-have-stalled-btc-mining",
+    "https://www.theblock.co/news/web3/2026-11-11-pyth-network-nyse-data-437928",
+    "https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/markets/2026-11-11-stonex-sees-111-upside-for-securitize-shares-as-tokenization-revenue-rebounds-437910",
+    "https://decrypt.co/383040/okx-ice-tokenized-stock-venue-sets-launch-crypto-companies-big-tech-opts-out"
   ],
   "publishedBatchKeys": [
-    "https://www.coindesk.com/markets/2026/08/02/unlike-the-ftx-collapse-the-usd88-million-coldcard-exploit-has-investors-sending-bitcoin-back-to-exchanges|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/bnb-chain-legal-action-ex-employee-memecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/suspected-4th-coldcard-attack-wave-sweeps-389-bitcoin-galaxys-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/magazine/coldcard-exploit-sparks-bitcoin-flight-clarity-act-no-vote-or-no-vote-hodlers-digest-august-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/post/410373/sec-keeps-nasdaq-bitcoin-options-on-hold-after-granting-cme-review?utm_source=rss&amp;utm_medium=rss",
     "https://www.coindesk.com/markets/2026/08/03/circle-internet-slides-after-morgan-stanley-downgrade-cut-in-price-target|https://www.coindesk.com/policy/2026/08/03/bernstein-sees-another-leg-lower-for-crypto-markets-if-clarity-act-stalls|https://www.theblock.co/post/410441/tom-lee-says-ether-outperformed-nasdaq-100-july-bitmine-adds-10399-eth?utm_source=rss&amp;utm_medium=rss",
     "https://cointelegraph.com/magazine/hong-kong-lonely-heart-scammed-out-of-33m-in-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/caleb-brown-expands-to-uk-betting-on-untapped-crypto-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/boltz-pauses-service-after-wave-of-ai-assisted-hacking-attempts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -35327,6 +35407,7 @@
     "https://decrypt.co/382890/ai-data-centers-used-jet-engines-power-turbines|https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more|https://cointelegraph.com/news/crypto-exchanges-need-dollar-caps-on-hot-wallets-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/382953/goldman-citi-global-banks-270-million-challenge-crypto-stablecoin-giants|https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/markets/2026-11-10-grayscale-pledges-1-million-alongside-zcash-ad-blitz-as-token-and-etf-fall-12-437277",
-    "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/business/2026-11-10-tron-inc-q3-net-income-437786|https://cointelegraph.com/news/crypto-ally-tom-emmer-elected-house-gop-minority-whip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/business/2026-11-10-tron-inc-q3-net-income-437786|https://cointelegraph.com/news/crypto-ally-tom-emmer-elected-house-gop-minority-whip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/383049/bitcoin-first-back-to-back-annual-losses-history|https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907"
   ]
 }
