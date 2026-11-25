@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1795639417833",
+      "title": "Điểm tin crypto 25/11/2026 lúc 03:43: Các sự kiện trọng yếu ảnh hưởng tới Bitcoin, Ethereum và thị trường tài chính số",
+      "summary": "Ngày 25/11/2026, thị trường crypto chứng kiến loạt vụ tấn công mạng vào hệ thống khai thác Bitcoin, các động thái pháp lý lớn tại Mỹ và châu Âu, cùng những bước tiến công nghệ của Nvidia và SpaceX. Các tin này đồng thời làm nổi bật xu hướng an ninh mạng, nhu cầu ETF spot và áp lực quy định đối với nhà đầu tư Việt Nam.",
+      "content": "<p>Thị trường tiền mã hoá ngày hôm nay tiếp tục chịu áp lực từ nhiều góc độ: an ninh mạng, quy định pháp lý và các bước chuyển đổi công nghệ. Những tin tức vừa qua không chỉ ảnh hưởng tới các đồng tiền lớn như Bitcoin và Ethereum mà còn mở ra cơ hội và rủi ro cho nhà đầu tư Việt Nam. Bài phân tích sẽ đi sâu vào 10 tin tức quan trọng, nêu bật xu hướng chung và đưa ra khuyến nghị đầu tư.</p>\n<h2>1. Tấn công \"Hashrate Hijacking\" vào các máy khai thác Bitcoin</h2>\n<p>Hai báo cáo từ Decrypt và The Block cho biết công ty khai thác Braiins đã phát hiện một cuộc tấn công sử dụng giao thức Stratum V1 chưa mã hoá và kỹ thuật hijacking đường truyền internet để giả danh các pool khai thác. Kẻ tấn công có thể chi phối hơn 1.000 trang web trong vòng một giây, chuyển hướng công suất tính toán (hashrate) sang địa chỉ ví của mình và ăn cắp phần thưởng khai thác. <strong>Hashrate</strong> là tổng công suất tính toán của mạng lưới Bitcoin; khi bị chiếm đoạt, người khai thác mất phần thưởng và mạng lưới có thể bị giảm độ an toàn tạm thời.</p>\n<h2>2. Fidelity nộp hồ sơ ETF spot Chainlink</h2>\n<p>Fidelity đã nộp hồ sơ lên SEC để ra mắt quỹ giao dịch (ETF) dạng spot cho token Chainlink (LINK) và dự kiến niêm yết trên Nasdaq. ETF spot cho phép nhà đầu tư mua và bán token thực tế thay vì hợp đồng tương lai, giảm chi phí và rủi ro về chênh lệch giá. Nếu được chấp thuận, đây sẽ là quỹ ETF crypto đầu tiên tại Mỹ, mở ra cánh cửa cho dòng vốn truyền thống đổ vào thị trường DeFi.</p>\n<h2>3. Nvidia đồng ý trả 290 triệu USD để giải quyết vụ kiện liên quan khai thác crypto</h2>\n<p>Hai nguồn tin (Decrypt và The Block) xác nhận Nvidia đã ký thỏa thuận trả 290 triệu USD để giải quyết vụ kiện cổ đông cáo buộc công ty không công khai mức doanh thu từ việc bán GPU cho các thợ khai thác crypto trong giai đoạn 2017‑2018. Vụ việc cho thấy rủi ro pháp lý khi các công ty công nghệ không minh bạch về doanh thu liên quan tới crypto, đồng thời làm tăng áp lực kiểm soát tài chính của các nhà sản xuất phần cứng.</p>\n<h2>4. Ethereum Foundation ủng hộ thuật toán Keccak‑256 để chống lại mối đe dọa quantum và AI</h2>\n<p>Ethereum Foundation công bố sẽ chuyển sang sử dụng hàm băm Keccak‑256 cho các hợp đồng thông minh, nhằm tăng độ an toàn trước các cuộc tấn công bằng máy tính lượng tử và AI. Keccak‑256 là thuật toán băm đã được chuẩn hoá trong SHA‑3, có độ phức tạp cao hơn so với SHA‑256 hiện đang dùng trên Ethereum. Việc nâng cấp này là một phần của “Ethereum 2.0 Security Upgrade” – một trong những bản cập nhật lớn nhất kể từ Merge.</p>\n<h2>5. Bộ Tư pháp Mỹ tiến hành chiến dịch phá vỡ các vụ lừa đảo crypto quy mô tỉ USD</h2>\n<p>The Block đưa tin, Bộ Tư pháp Mỹ (DOJ) công bố chiến dịch “largest‑ever crackdown” nhằm thu hồi hàng tỉ USD từ các hoạt động lừa đảo trong không gian crypto, theo chỉ đạo của Tổng thống Trump. Chiến dịch này không chỉ làm giảm niềm tin vào các dự án không minh bạch mà còn tạo áp lực lên các sàn giao dịch và nhà cung cấp dịch vụ tài chính để tăng cường kiểm tra KYC/AML.</p>\n<h2>6. Thượng viện Pháp từ chối đề xuất thuế mới và danh sách ví tiền điện tử</h2>\n<p>CoinDesk báo cáo, Thượng viện Pháp đã bác bỏ dự luật mới yêu cầu các nhà cung cấp dịch vụ crypto công khai danh sách ví và áp dụng thuế cao hơn. Lý do là quy định EU về chia sẻ dữ liệu và việc crypto không được công nhận là tiền tệ hợp pháp. Quyết định này giữ cho môi trường pháp lý châu Âu còn chưa ổn định, ảnh hưởng tới các nhà đầu tư Việt Nam đang tìm kiếm cơ hội tại châu Âu.</p>\n<h2>7. SpaceX nhận được phê duyệt FCC để triển khai trung tâm dữ liệu AI trên không gian</h2>\n<p>Decrypto công bố SpaceX đã được FCC cho phép khởi động dải vệ tinh Starmind, cung cấp các trung tâm dữ liệu AI được năng lượng mặt trời. Dự án này hứa hẹn giảm tải cho các trung tâm dữ liệu trên mặt đất, đồng thời mở ra khả năng tính toán AI ở độ trễ thấp cho các ứng dụng blockchain như oracle và random number generation.</p>\n<h2>8. Artex – công cụ hack AI liên quan tới vụ rò rỉ của cơ quan tình báo Mỹ</h2>\n<p>Decrypto tiết lộ công cụ Artex, một nền tảng AI cho phép hacker tự động hoá các cuộc tấn công bằng cách khai thác lỗ hổng bảo mật đã biết. Công cụ này được cho là đã được sử dụng trong vụ rò rỉ dữ liệu của một cơ quan tình báo Mỹ, cho thấy AI đang trở thành “vũ khí” mới trong không gian an ninh mạng crypto.</p>\n<h2>9. Nvidia tiếp tục đối mặt với áp lực cổ đông sau vụ kiện</h2>\n<p>Mặc dù đã ký thỏa thuận 290 triệu USD, Nvidia vẫn phải đối mặt với câu hỏi về tính minh bạch trong báo cáo doanh thu từ crypto mining. Các nhà đầu tư cần theo dõi các báo cáo tài chính tiếp theo để đánh giá mức độ phụ thuộc của Nvidia vào thị trường khai thác crypto, đặc biệt khi giá GPU có thể biến động mạnh.</p>\n<h2>10. Các biện pháp phòng ngừa và khuyến nghị cho nhà đầu tư Việt Nam</h2>\n<p>Với những rủi ro an ninh mạng và biến động pháp lý, nhà đầu tư Việt Nam nên:</p>\n<ul>\n<li>Ưu tiên sử dụng pool khai thác có hỗ trợ giao thức Stratum V2 (được mã hoá) để tránh \"hashrate hijacking\".</li>\n<li>Theo dõi tiến trình phê duyệt ETF spot của Fidelity; nếu được chấp nhận, có thể cân nhắc mở vị thế LINK qua các quỹ ETF truyền thống.</li>\n<li>Đánh giá rủi ro liên quan tới các công ty phần cứng như Nvidia; tránh đầu tư quá mức vào cổ phiếu có tranh chấp pháp lý.</li>\n<li>Thận trọng với các dự án AI và hacking tool như Artex; không nên gửi tài sản vào các nền tảng chưa được kiểm chứng.</li>\n<li>Đa dạng hoá danh mục, bao gồm stablecoin, Bitcoin và các token DeFi có nền tảng bảo mật mạnh (ví dụ: Ethereum sau nâng cấp Keccak‑256).</li>\n</ul>\n<h2>Nhận định thị trường chung</h2>\n<p>Ba xu hướng chính hiện nay là: (1) Tăng cường an ninh mạng cho hạ tầng khai thác và giao dịch; (2) Sự xuất hiện của các sản phẩm tài chính truyền thống (ETF spot) mở ra nguồn vốn mới; (3) Áp lực pháp lý ngày càng mạnh mẽ, đặc biệt ở Mỹ và châu Âu. Khi các yếu tố này hội tụ, thị trường crypto sẽ trải qua giai đoạn “điều chỉnh – tái cấu trúc” trong ngắn hạn, nhưng tiềm năng tăng trưởng dài hạn vẫn còn lớn, nhất là với các giải pháp công nghệ như AI trên không gian và các nâng cấp bảo mật.</p>\n<h2>Khuyến nghị nhà đầu tư</h2>\n<p>Đối với nhà đầu tư Việt Nam, đề xuất phân bổ danh mục như sau: 40% Bitcoin (đầu tư dài hạn, an toàn), 25% Ethereum (đặc biệt sau nâng cấp Keccak‑256), 15% các token DeFi có tiềm năng (Chainlink, Uniswap), 10% cổ phiếu công nghệ liên quan (Nvidia, nếu giá hợp lý), 10% tiền mặt hoặc stablecoin để linh hoạt phản ứng với biến động. Đồng thời, luôn cập nhật tin tức an ninh mạng và quy định pháp lý để giảm thiểu rủi ro.</p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards — <em>Decrypt</em></li>\n<li>[2] What Is Artex? The AI Hacking Tool Linked to the US Spy Agency Breach — <em>Decrypt</em></li>\n<li>[3] Bitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections — <em>The Block</em></li>\n<li>[4] Fidelity files for spot Chainlink ETF with planned Nasdaq listing — <em>The Block</em></li>\n<li>[5] Nvidia to Pay $290 Million to Settle Long-Running Crypto Mining Revenue Lawsuit — <em>Decrypt</em></li>\n<li>[6] Ethereum Foundation backs Keccak-256 to counter quantum, AI threats — <em>Cointelegraph</em></li>\n<li>[7] French Senate blocks new crypto tax and wallet list critics called a kidnapping risk — <em>CoinDesk</em></li>\n<li>[8] Elon Musk’s SpaceX Gets FCC Approval to Launch AI Data Centers in Space — <em>Decrypt</em></li>\n<li>[9] Justice Department takes aim at billions in crypto fraud proceeds in historic ‘largest ever crackdown’ — <em>The Block</em></li>\n<li>[10] Nvidia agrees to $290 million settlement over crypto mining disclosures amid Jensen Huang turmoil — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "chainlink",
+        "nvidia",
+        "thị trường",
+        "đầu tư"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1795639417/cryptohieuqua/posts/diem-tin-crypto-25112026-luc-0343-cac-su-kien-trong-yeu-anh-huong-toi-bitcoin-et.png",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1795639417/cryptohieuqua/posts/diem-tin-crypto-25112026-luc-0343-cac-su-kien-trong-yeu-anh-huong-toi-bitcoin-et.png",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-25112026-luc-0343-cac-su-kien-trong-yeu-anh-huong-toi-bitcoin-et",
+        "width": 3556,
+        "height": 2000,
+        "format": "png",
+        "alt": "Điểm tin crypto 25/11/2026 lúc 03:43: Các sự kiện trọng yếu ảnh hưởng tới Bitcoin, Ethereum và thị trường tài chính số"
+      },
+      "sourceUrl": "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks",
+      "sourceTitle": "Decrypt / The Block / Cointelegraph / CoinDesk",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards",
+          "url": "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks",
+          "source": "Decrypt"
+        },
+        {
+          "title": "What Is Artex? The AI Hacking Tool Linked to the US Spy Agency Breach",
+          "url": "https://decrypt.co/383997/what-is-artex-ai-hacking-tool-us-spy-agency-breach",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections",
+          "url": "https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723",
+          "source": "The Block"
+        },
+        {
+          "title": "Fidelity files for spot Chainlink ETF with planned Nasdaq listing",
+          "url": "https://www.theblock.co/news/business/2026-11-25-fidelity-chainlink-etf-nasdaq-listing-446735",
+          "source": "The Block"
+        },
+        {
+          "title": "Nvidia to Pay $290 Million to Settle Long-Running Crypto Mining Revenue Lawsuit",
+          "url": "https://decrypt.co/383994/nvidia-290-million-settle-crypto-mining-disclosure-lawsuit",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
+          "url": "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "French Senate blocks new crypto tax and wallet list critics called a kidnapping risk",
+          "url": "https://www.coindesk.com/business/2026/11/25/french-senate-blocks-new-crypto-tax-and-wallet-list-critics-called-a-kidnapping-risk",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Elon Musk’s SpaceX Gets FCC Approval to Launch AI Data Centers in Space",
+          "url": "https://decrypt.co/383991/elon-musk-spacex-fcc-approval-ai-data-centers-space",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Justice Department takes aim at billions in crypto fraud proceeds in historic ‘largest ever crackdown’",
+          "url": "https://www.theblock.co/news/regulation/2026-11-25-justice-department-takes-aim-billions-crypto-fraud-proceeds-largest-ever-crackdown-446711",
+          "source": "The Block"
+        },
+        {
+          "title": "Nvidia agrees to $290 million settlement over crypto mining disclosures amid Jensen Huang turmoil",
+          "url": "https://www.theblock.co/news/regulation/2026-11-25-nvidia-290-million-settlement-crypto-mining-class-action-446709",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-11-25T20:43:37.833Z",
+      "slug": "diem-tin-crypto-25112026-luc-0343-cac-su-kien-trong-yeu-anh-huong-toi-bitcoin-et"
+    },
+    {
       "id": "1795590869899",
       "title": "Điểm tin crypto 25/11/2026 lúc 14:14: Tổng hợp xu hướng stablecoin, Solana, XRP, Bitcoin, Ethereum và quy định",
       "summary": "Các tin chính hôm nay bao gồm dự thảo luật stablecoin Hàn Quốc, cải tiến Solana, sự tập trung giao dịch XRP vào 10 ví lớn, và các động thái của Bitcoin, Ethereum cùng các quy định mới tại Mỹ và châu Âu, ảnh hưởng trực tiếp đến nhà đầu tư Việt Nam.",
@@ -36889,16 +36970,6 @@
     }
   ],
   "publishedUrls": [
-    "https://cointelegraph.com/news/crypto-pac-spending-midterms-fec-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/382066/strategy-shareholders-approve-daily-dividends-on-preferred-stock-with-99-3-in-favor",
-    "https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55",
-    "https://cointelegraph.com/markets/market-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/phantom-launches-kalshi-powered-prediction-markets-for-us-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/382061/aptos-advisor-leaves-post-moves-meme-fueled-campaign-to-meta-stock",
-    "https://decrypt.co/382059/wall-street-fast-money-fled-bitcoin-etfs-sovereign-funds",
-    "https://www.theblock.co/news/markets/2026-10-28-bitwise-raises-bitcoin-price-target-to-1-6-million-by-2036-projects-34-annualized-returns-432010",
-    "https://www.coindesk.com/coindesk-indices/2026/10/28/crypto-long-and-short-what-happens-when-an-ai-agent-pays-for-the-wrong-thing",
-    "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto",
     "https://www.coindesk.com/policy/2026/10/28/mystery-wall-street-journal-ad-sparks-new-fight-over-tokenized-stocks",
     "https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -37388,10 +37459,19 @@
     "https://www.coindesk.com/markets/2026/11/25/crypto-traders-can-now-hedge-nvidia-and-oil-bets-on-derive",
     "https://www.coindesk.com/markets/2026/11/23/a-year-after-buying-bitcoin-czech-central-bank-won-t-say-what-it-s-worth",
     "https://cointelegraph.com/news/trump-willing-to-pardon-jensen-huang-but-says-it-wont-be-necessary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/regulation/2026-11-24-utah-moves-to-drop-criminal-charges-kalshi-446090"
+    "https://www.theblock.co/news/regulation/2026-11-24-utah-moves-to-drop-criminal-charges-kalshi-446090",
+    "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks",
+    "https://decrypt.co/383997/what-is-artex-ai-hacking-tool-us-spy-agency-breach",
+    "https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723",
+    "https://www.theblock.co/news/business/2026-11-25-fidelity-chainlink-etf-nasdaq-listing-446735",
+    "https://decrypt.co/383994/nvidia-290-million-settle-crypto-mining-disclosure-lawsuit",
+    "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/business/2026/11/25/french-senate-blocks-new-crypto-tax-and-wallet-list-critics-called-a-kidnapping-risk",
+    "https://decrypt.co/383991/elon-musk-spacex-fcc-approval-ai-data-centers-space",
+    "https://www.theblock.co/news/regulation/2026-11-25-justice-department-takes-aim-billions-crypto-fraud-proceeds-largest-ever-crackdown-446711",
+    "https://www.theblock.co/news/regulation/2026-11-25-nvidia-290-million-settlement-crypto-mining-class-action-446709"
   ],
   "publishedBatchKeys": [
-    "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets|https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/business/2026-08-15-jpmorgan-cut-polymarkets-banking-ties-in-october-but-still-wants-a-role-in-a-potential-ipo-ft-411929",
     "https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/business/2026-08-16-prediction-market-novig-sues-wisconsin-ag-in-latest-spat-over-sports-contracts-411938|https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto",
     "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos|https://www.theblock.co/news/ecosystems/2026-08-17-robinhood-chain-tvl-surges-45-august-tokenized-rwas-lose-ground-411998|https://decrypt.co/375828/minnesota-xai-grok-marketplace-digital-sexual-violence",
     "https://www.theblock.co/news/business/2026-08-18-citi-bitcoin-custody-412090|https://www.theblock.co/news/business/2026-08-18-cypherpunk-technologies-launches-zcash-mining-fleet-412071|https://decrypt.co/375843/chainalysis-sues-us-government-ice-contract-trm-labs",
@@ -37590,6 +37670,7 @@
     "https://www.theblock.co/news/markets/2026-11-23-grayscale-bitcoin-altcoins-oversold-ai-risks-crypto-outlook-445418|https://www.theblock.co/news/business/2026-11-23-grayscale-launches-2x-zcash-etf-three-months-spot-fund-debut-445407|https://decrypt.co/383848/openai-will-pay-8k-preach-ai-gospel-small-businesses",
     "https://cointelegraph.com/markets/bitcoin-etfs-bleed-ibit-shares-gain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/markets/2026-11-24-bitcoin-60000-jensen-huang-fizzles-445472|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits|https://www.theblock.co/news/regulation/2026-11-24-sec-staff-gives-molecule-no-action-relief-scientific-research-tokens-446067|https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost|https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter"
+    "https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost|https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter",
+    "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks|https://decrypt.co/383997/what-is-artex-ai-hacking-tool-us-spy-agency-breach|https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723"
   ]
 }
