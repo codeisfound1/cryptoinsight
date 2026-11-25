@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1795590869899",
+      "title": "Điểm tin crypto 25/11/2026 lúc 14:14: Tổng hợp xu hướng stablecoin, Solana, XRP, Bitcoin, Ethereum và quy định",
+      "summary": "Các tin chính hôm nay bao gồm dự thảo luật stablecoin Hàn Quốc, cải tiến Solana, sự tập trung giao dịch XRP vào 10 ví lớn, và các động thái của Bitcoin, Ethereum cùng các quy định mới tại Mỹ và châu Âu, ảnh hưởng trực tiếp đến nhà đầu tư Việt Nam.",
+      "content": "<p><b>South Korea’s crypto bill could move stablecoin race beyond token issuance</b></p><p><b>Solana developers move to stop validators finishing work on blocks that already lost</b></p><p><b>Just 10 accounts drove all of the XRP Ledger's trading growth last quarter</b></p><p><b>Here’s what happened in crypto today</b></p><p><b>Solana DEX Velocity halts trading over bug just months after relaunch</b></p><p><b>Bitcoin, ether get CFTC staff nod for expense requirements, Ethereum Foundation doubles security team, and more</b></p><p><b>Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive</b></p><p><b>A year after buying bitcoin, Czech central bank won't say what it's worth</b></p><p><b>Trump willing to pardon Jensen Huang, says it won’t be necessary</b></p><p><b>Utah moves to drop criminal charges against Kalshi after platform halts operations</b></p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] South Korea’s crypto bill could move stablecoin race beyond token issuance — <em>Cointelegraph</em></li>\n<li>[2] Solana developers move to stop validators finishing work on blocks that already lost — <em>CoinDesk</em></li>\n<li>[3] Just 10 accounts drove all of the XRP Ledger's trading growth last quarter — <em>CoinDesk</em></li>\n<li>[4] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[5] Solana DEX Velocity halts trading over bug just months after relaunch — <em>Cointelegraph</em></li>\n<li>[6] Bitcoin, ether get CFTC staff nod for expense requirements, Ethereum Foundation doubles security team, and more — <em>The Block</em></li>\n<li>[7] Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive — <em>CoinDesk</em></li>\n<li>[8] A year after buying bitcoin, Czech central bank won't say what it's worth — <em>CoinDesk</em></li>\n<li>[9] Trump willing to pardon Jensen Huang, says it won’t be necessary — <em>Cointelegraph</em></li>\n<li>[10] Utah moves to drop criminal charges against Kalshi after platform halts operations — <em>The Block</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ethereum",
+        "stablecoin",
+        "solana",
+        "xrp",
+        "thị trường"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1795590869/cryptohieuqua/posts/diem-tin-crypto-25112026-luc-1414-tong-hop-xu-huong-stablecoin-solana-xrp-bitcoi.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1795590869/cryptohieuqua/posts/diem-tin-crypto-25112026-luc-1414-tong-hop-xu-huong-stablecoin-solana-xrp-bitcoi.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-25112026-luc-1414-tong-hop-xu-huong-stablecoin-solana-xrp-bitcoi",
+        "width": 1450,
+        "height": 966,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 25/11/2026 lúc 14:14: Tổng hợp xu hướng stablecoin, Solana, XRP, Bitcoin, Ethereum và quy định"
+      },
+      "sourceUrl": "https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "sourceTitle": "Cointelegraph / CoinDesk / The Block",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "South Korea’s crypto bill could move stablecoin race beyond token issuance",
+          "url": "https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Solana developers move to stop validators finishing work on blocks that already lost",
+          "url": "https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Just 10 accounts drove all of the XRP Ledger's trading growth last quarter",
+          "url": "https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Solana DEX Velocity halts trading over bug just months after relaunch",
+          "url": "https://cointelegraph.com/news/solana-dex-velocity-halts-transactions-over-bug-coming-2-months-after-relaunch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin, ether get CFTC staff nod for expense requirements, Ethereum Foundation doubles security team, and more",
+          "url": "https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074",
+          "source": "The Block"
+        },
+        {
+          "title": "Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive",
+          "url": "https://www.coindesk.com/markets/2026/11/25/crypto-traders-can-now-hedge-nvidia-and-oil-bets-on-derive",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "A year after buying bitcoin, Czech central bank won't say what it's worth",
+          "url": "https://www.coindesk.com/markets/2026/11/23/a-year-after-buying-bitcoin-czech-central-bank-won-t-say-what-it-s-worth",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Trump willing to pardon Jensen Huang, says it won’t be necessary",
+          "url": "https://cointelegraph.com/news/trump-willing-to-pardon-jensen-huang-but-says-it-wont-be-necessary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Utah moves to drop criminal charges against Kalshi after platform halts operations",
+          "url": "https://www.theblock.co/news/regulation/2026-11-24-utah-moves-to-drop-criminal-charges-kalshi-446090",
+          "source": "The Block"
+        }
+      ],
+      "publishedAt": "2026-11-25T07:14:29.899Z",
+      "slug": "diem-tin-crypto-25112026-luc-1414-tong-hop-xu-huong-stablecoin-solana-xrp-bitcoi"
+    },
+    {
       "id": "1795556112155",
       "title": "Điểm tin crypto 24/11/2026 lúc 04:35: Bùng nổ an ninh ví lạnh, Bitcoin giảm mạnh và các quy định mới",
       "summary": "Coldcard phát hiện lỗ hổng phần mềm, Bitcoin giảm dưới 60.000 USD, Ethereum cảnh báo AI, CFTC đưa hướng dẫn dự trữ và Hàn Quốc chuẩn bị mở lại ICO. Các tin này tạo áp lực giảm giá ngắn hạn nhưng mở ra cơ hội dài hạn cho nhà đầu tư Việt Nam.",
@@ -36808,15 +36889,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info",
-    "https://www.theblock.co/news/business/2026-10-27-datavault-ai-stock-plummets-bitcoin-deal-431962",
-    "https://cointelegraph.com/news/bithumb-discloses-data-leak-after-internal-system-breach-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/discord-is-making-public-chats-searchable-on-google-how-to-opt-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://cointelegraph.com/news/intel-ibm-oracle-ionq-object-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/381992/china-stock-market-lost-2-4-trillion-investors-doubt-ai-boom",
-    "https://www.theblock.co/news/business/2026-10-27-robinhood-chain-brings-in-26-million-crypto-revenue-rises-20-q2-431935",
-    "https://www.theblock.co/news/business/2026-10-28-robinhood-earnings-miss-crypto-weakness-wall-street-bullish-outlook-432011",
     "https://cointelegraph.com/news/crypto-pac-spending-midterms-fec-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/382066/strategy-shareholders-approve-daily-dividends-on-preferred-stock-with-99-3-in-favor",
     "https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55",
@@ -37307,10 +37379,18 @@
     "https://cointelegraph.com/news/coldcard-how-security-reviews-missed-bitcoin-wallet-flaw-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/383906/cftc-new-crypto-reserves-guidance-actually-allows-what-it-doesnt",
     "https://decrypt.co/383905/south-korea-moves-lift-ico-ban-after-nearly-decade",
-    "https://www.theblock.co/news/business/2026-11-24-kraken-krak-early-2027-launch-us-credit-cards-bitcoin-cashback-usdc-collateral-445498"
+    "https://www.theblock.co/news/business/2026-11-24-kraken-krak-early-2027-launch-us-credit-cards-bitcoin-cashback-usdc-collateral-445498",
+    "https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost",
+    "https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter",
+    "https://cointelegraph.com/news/solana-dex-velocity-halts-transactions-over-bug-coming-2-months-after-relaunch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074",
+    "https://www.coindesk.com/markets/2026/11/25/crypto-traders-can-now-hedge-nvidia-and-oil-bets-on-derive",
+    "https://www.coindesk.com/markets/2026/11/23/a-year-after-buying-bitcoin-czech-central-bank-won-t-say-what-it-s-worth",
+    "https://cointelegraph.com/news/trump-willing-to-pardon-jensen-huang-but-says-it-wont-be-necessary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://www.theblock.co/news/regulation/2026-11-24-utah-moves-to-drop-criminal-charges-kalshi-446090"
   ],
   "publishedBatchKeys": [
-    "https://www.theblock.co/news/business/2026-08-15-jpmorgan-cut-polymarkets-banking-ties-in-october-but-still-wants-a-role-in-a-potential-ipo-ft-411929|https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/markets/2026-08-15-harvard-leaves-bitcoin-etf-stake-untouched-in-q2-after-cutting-it-43-in-the-prior-quarter-411926",
     "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets|https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/business/2026-08-15-jpmorgan-cut-polymarkets-banking-ties-in-october-but-still-wants-a-role-in-a-potential-ipo-ft-411929",
     "https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/business/2026-08-16-prediction-market-novig-sues-wisconsin-ag-in-latest-spat-over-sports-contracts-411938|https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto",
     "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos|https://www.theblock.co/news/ecosystems/2026-08-17-robinhood-chain-tvl-surges-45-august-tokenized-rwas-lose-ground-411998|https://decrypt.co/375828/minnesota-xai-grok-marketplace-digital-sexual-violence",
@@ -37509,6 +37589,7 @@
     "https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857|https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand|https://www.coindesk.com/markets/2026/11/23/market-rout-kills-50-basis-points-december-fed-rate-hike-bets",
     "https://www.theblock.co/news/markets/2026-11-23-grayscale-bitcoin-altcoins-oversold-ai-risks-crypto-outlook-445418|https://www.theblock.co/news/business/2026-11-23-grayscale-launches-2x-zcash-etf-three-months-spot-fund-debut-445407|https://decrypt.co/383848/openai-will-pay-8k-preach-ai-gospel-small-businesses",
     "https://cointelegraph.com/markets/bitcoin-etfs-bleed-ibit-shares-gain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.theblock.co/news/markets/2026-11-24-bitcoin-60000-jensen-huang-fizzles-445472|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits|https://www.theblock.co/news/regulation/2026-11-24-sec-staff-gives-molecule-no-action-relief-scientific-research-tokens-446067|https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+    "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits|https://www.theblock.co/news/regulation/2026-11-24-sec-staff-gives-molecule-no-action-relief-scientific-research-tokens-446067|https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost|https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter"
   ]
 }
