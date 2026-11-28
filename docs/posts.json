@@ -1,6 +1,87 @@
 {
   "posts": [
     {
+      "id": "1795847594533",
+      "title": "Điểm tin crypto 28/11/2026 lúc 13:33: Bitcoin cần USDT, AI và rủi ro mới",
+      "summary": "Bitcoin cần tăng cung USDT để phục hồi, AI tiềm ẩn rủi ro bảo mật, các “whale” tiếp tục mua vào dù lợi nhuận giảm; cùng các tin về ETF, options và an ninh mạng tạo bức tranh thị trường phức tạp.",
+      "content": "<p><b>Bitcoin recovery needs USDT supply growth: CryptoQuant, K33 weighs AI threat to Bitcoin, and more</b></p><p><b>Here’s what happened in crypto today</b></p><p><b>OpenAI Turns the Tables on Apple With Its Own Trade-Secret Theft Claims</b></p><p><b>Franklin Templeton makes room for HYPE in crypto index ETF</b></p><p><b>Could AI Break Bitcoin? Not Yet, Research Firm K33 Says</b></p><p><b>4 Scary Bitcoin Charts That Suggest This Bear Market Is Different</b></p><p><b>Bitcoin whales pile into BTC despite shrinking profit cushion</b></p><p><b>$7 Billion in Bitcoin Options Just Expired: Here’s What It Means</b></p><p><b>CryptoQuant says bitcoin price recovery needs USDT supply growth</b></p><p><b>Hackers Hit US Air Force Cloud System Running Air-Defense and Munitions Data</b></p>\n<h2>Nguồn tin tham khảo</h2>\n<ol>\n<li>[1] Bitcoin recovery needs USDT supply growth: CryptoQuant, K33 weighs AI threat to Bitcoin, and more — <em>The Block</em></li>\n<li>[2] Here’s what happened in crypto today — <em>Cointelegraph</em></li>\n<li>[3] OpenAI Turns the Tables on Apple With Its Own Trade-Secret Theft Claims — <em>Decrypt</em></li>\n<li>[4] Franklin Templeton makes room for HYPE in crypto index ETF — <em>Cointelegraph</em></li>\n<li>[5] Could AI Break Bitcoin? Not Yet, Research Firm K33 Says — <em>Decrypt</em></li>\n<li>[6] 4 Scary Bitcoin Charts That Suggest This Bear Market Is Different — <em>Decrypt</em></li>\n<li>[7] Bitcoin whales pile into BTC despite shrinking profit cushion — <em>Cointelegraph</em></li>\n<li>[8] $7 Billion in Bitcoin Options Just Expired: Here’s What It Means — <em>Decrypt</em></li>\n<li>[9] CryptoQuant says bitcoin price recovery needs USDT supply growth — <em>The Block</em></li>\n<li>[10] Hackers Hit US Air Force Cloud System Running Air-Defense and Munitions Data — <em>Decrypt</em></li>\n</ol>",
+      "tags": [
+        "bitcoin",
+        "ai",
+        "usdt",
+        "defi",
+        "crypto",
+        "vietnam"
+      ],
+      "readTime": 8,
+      "image": {
+        "url": "https://res.cloudinary.com/dxrxoc7r5/image/upload/f_auto,q_auto,w_1200,h_630,c_fill,g_auto/v1795847593/cryptohieuqua/posts/diem-tin-crypto-28112026-luc-1333-bitcoin-can-usdt-ai-va-rui-ro-moi.jpg",
+        "rawUrl": "https://res.cloudinary.com/dxrxoc7r5/image/upload/v1795847593/cryptohieuqua/posts/diem-tin-crypto-28112026-luc-1333-bitcoin-can-usdt-ai-va-rui-ro-moi.jpg",
+        "publicId": "cryptohieuqua/posts/diem-tin-crypto-28112026-luc-1333-bitcoin-can-usdt-ai-va-rui-ro-moi",
+        "width": 1600,
+        "height": 900,
+        "format": "jpg",
+        "alt": "Điểm tin crypto 28/11/2026 lúc 13:33: Bitcoin cần USDT, AI và rủi ro mới"
+      },
+      "sourceUrl": "https://www.theblock.co/newsletters/the-daily/2026-11-27-bitcoin-recovery-usdt-supply-ai-threat-bitcoin-more-crypto-news-447571",
+      "sourceTitle": "The Block / Cointelegraph / Decrypt",
+      "articleCount": 10,
+      "articlesIncluded": [
+        {
+          "title": "Bitcoin recovery needs USDT supply growth: CryptoQuant, K33 weighs AI threat to Bitcoin, and more",
+          "url": "https://www.theblock.co/newsletters/the-daily/2026-11-27-bitcoin-recovery-usdt-supply-ai-threat-bitcoin-more-crypto-news-447571",
+          "source": "The Block"
+        },
+        {
+          "title": "Here’s what happened in crypto today",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "OpenAI Turns the Tables on Apple With Its Own Trade-Secret Theft Claims",
+          "url": "https://decrypt.co/384222/openai-countersuit-apple-trade-secret-theft-claims",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Franklin Templeton makes room for HYPE in crypto index ETF",
+          "url": "https://cointelegraph.com/news/franklin-templeton-hype-crypto-index-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Could AI Break Bitcoin? Not Yet, Research Firm K33 Says",
+          "url": "https://decrypt.co/384218/could-ai-break-bitcoin-not-yet-research-firm-k33-says",
+          "source": "Decrypt"
+        },
+        {
+          "title": "4 Scary Bitcoin Charts That Suggest This Bear Market Is Different",
+          "url": "https://decrypt.co/384177/bitcoin-4-scary-charts-crypto-winter-bear-market",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitcoin whales pile into BTC despite shrinking profit cushion",
+          "url": "https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "$7 Billion in Bitcoin Options Just Expired: Here’s What It Means",
+          "url": "https://decrypt.co/384154/7-billion-bitcoin-options-just-expired-what-it-means",
+          "source": "Decrypt"
+        },
+        {
+          "title": "CryptoQuant says bitcoin price recovery needs USDT supply growth",
+          "url": "https://www.theblock.co/news/markets/2026-11-27-cryptoquant-bitcoin-price-recovery-usdt-supply-growth-447560",
+          "source": "The Block"
+        },
+        {
+          "title": "Hackers Hit US Air Force Cloud System Running Air-Defense and Munitions Data",
+          "url": "https://decrypt.co/384174/us-air-force-hack-cloud-system-air-defense-munitions-data",
+          "source": "Decrypt"
+        }
+      ],
+      "publishedAt": "2026-11-28T06:33:14.533Z",
+      "slug": "diem-tin-crypto-28112026-luc-1333-bitcoin-can-usdt-ai-va-rui-ro-moi"
+    },
+    {
       "id": "1795810904125",
       "title": "Điểm tin crypto 27/11/2026 lúc 03:21: Bitcoin và USDT chi phối thị trường",
       "summary": "Bitcoin gặp áp lực giảm mạnh khi các biểu đồ dài hạn cho thấy xu hướng gấu sâu hơn, trong khi các nhà cá mập vẫn mua vào và thị trường USDT đang dần hồi phục nhờ Tether mua cổ phiếu Bitdeer. Các yếu tố pháp lý và công nghệ như quy định danh tính blockchain của Trung Quốc và vụ tấn công vào hệ thống đám mây của Không quân Mỹ cũng tạo thêm biến động cho toàn cảnh crypto.",
@@ -37293,10 +37374,6 @@
     }
   ],
   "publishedUrls": [
-    "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters",
-    "https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225",
-    "https://decrypt.co/382285/binance-hack-why-offshore-exchanges-need-us-oversight-cftc-chair",
     "https://www.theblock.co/news/regulation/2026-10-30-trump-looking-into-binance-hack-calls-grow-for-crypto-rules-432236",
     "https://decrypt.co/382287/intel-stock-suffers-worst-crash-in-50-years-as-weak-forecast-overshadows-ai-chip-demand",
     "https://decrypt.co/382282/crypto-hacks-buy-bitcoin-proxies-stock-market-wall-street",
@@ -37792,10 +37869,13 @@
     "https://decrypt.co/384153/nvidias-blackwell-chips-turn-up-in-china-as-trump-floats-government-stake",
     "https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://decrypt.co/384138/ai-powered-gta-6-pc-ports-now-have-multiplayer-as-modders-unlock-30-and-60-fps",
-    "https://www.theblock.co/news/business/2026-11-27-tether-buys-10-million-of-bitdeer-shares-as-stock-hovers-near-all-time-low-447554"
+    "https://www.theblock.co/news/business/2026-11-27-tether-buys-10-million-of-bitdeer-shares-as-stock-hovers-near-all-time-low-447554",
+    "https://www.theblock.co/newsletters/the-daily/2026-11-27-bitcoin-recovery-usdt-supply-ai-threat-bitcoin-more-crypto-news-447571",
+    "https://decrypt.co/384222/openai-countersuit-apple-trade-secret-theft-claims",
+    "https://cointelegraph.com/news/franklin-templeton-hype-crypto-index-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "https://decrypt.co/384218/could-ai-break-bitcoin-not-yet-research-firm-k33-says"
   ],
   "publishedBatchKeys": [
-    "https://www.coindesk.com/tech/2026/08/19/a-year-after-losing-usd1-46-billion-bybit-says-ai-helped-it-save-usd700-million|https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/swedens-h100-26m-h1-loss-falling-bitcoin-value?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://www.theblock.co/news/regulation/2026-08-19-congress-can-still-land-this-plane-crypto-bill-ethics-talks-stall-democratic-sen-gallego-412272|https://www.coindesk.com/markets/2026/08/19/bitcoin-briefly-hits-usd70-000-for-the-first-time-since-june-here-is-why|https://decrypt.co/376030/bitcoin-rally-flips-markets-bearish-coin-flip",
     "https://www.coindesk.com/web3/2026/08/20/optimism-funded-team-s-deciding-vote-shifts-usd49-million-in-op-tokens-away-from-users|https://www.coindesk.com/markets/2026/08/20/ripple-linked-xrp-jumps-15-as-data-shows-banker-hours-onchain-pattern|https://www.theblock.co/news/business/2026-08-20-openledger-ram-kumar-agentic-payments-crypto-ai-killer-app-412313",
     "https://www.theblock.co/news/regulation/2026-08-20-cme-ceo-terrence-duffy-trades-barbs-with-cftcs-selig-and-kalshis-coo-over-prediction-market-oversight-412397|https://decrypt.co/376158/tensions-flare-cme-kalshi-clash-prediction-markets-dc|https://cointelegraph.com/markets/bitcoin-breaks-200-day-moving-average?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -37994,6 +38074,7 @@
     "https://www.theblock.co/news/markets/2026-11-26-swiss-bitcoin-etf-bbit-begins-trading-europes-only-446724|https://www.coindesk.com/markets/2026/11/26/hackers-hijacked-1-000-plus-bitcoin-mines-in-one-second-by-faking-internet-routes|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/384066/before-the-sell-off-ai-stocks-showed-dot-com-level-bubble-signals-study|https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://cointelegraph.com/news/japans-crypto-security-group-taps-seal-to-speed-up-hack-response?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://www.coindesk.com/markets/2026/11/27/ripple-s-lending-plan-moves-closer-to-tapping-xrp-ledger-s-usd950-million-in-stablecoins",
-    "https://decrypt.co/384177/bitcoin-4-scary-charts-crypto-winter-bear-market|https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/384154/7-billion-bitcoin-options-just-expired-what-it-means"
+    "https://decrypt.co/384177/bitcoin-4-scary-charts-crypto-winter-bear-market|https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/384154/7-billion-bitcoin-options-just-expired-what-it-means",
+    "https://www.theblock.co/newsletters/the-daily/2026-11-27-bitcoin-recovery-usdt-supply-ai-threat-bitcoin-more-crypto-news-447571|https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound|https://decrypt.co/384222/openai-countersuit-apple-trade-secret-theft-claims"
   ]
 }
